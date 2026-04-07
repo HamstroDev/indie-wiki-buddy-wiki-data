@@ -1,0 +1,16 @@
+[en]
+origins_label = "Skibidi Toilet Fandom Wiki"
+destination = "Skibidi Toilet Wiki"
+destination_base_url = "skibidi-toilet.wiki"
+destination_platform = "mediawiki"
+destination_icon = "skibiditoiletwiki.png"
+destination_main_page = "Skibidi_Toilet_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Skibidi Toilet Fandom Wiki"
+origin_base_url = "skibidi-toilet.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Skibidi_Toilet_Wiki"

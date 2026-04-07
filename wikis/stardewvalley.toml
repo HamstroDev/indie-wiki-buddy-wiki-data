@@ -1,0 +1,69 @@
+[de]
+origins_label = "Stardew Valley Fandom Wiki"
+destination = "Stardew Valley Wiki"
+destination_base_url = "de.stardewvalleywiki.com"
+destination_platform = "mediawiki"
+destination_icon = "stardewvalley.png"
+destination_main_page = "Stardew_Valley_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+
+[[de.origins]]
+origin = "Stardew Valley Fandom Wiki"
+origin_base_url = "stardewvalley.fandom.com/de"
+origin_content_path = "/wiki/"
+origin_main_page = "Stardew_Valley_Wiki"
+
+[es]
+origins_label = "Stardew Valley Fandom Wiki"
+destination = "Stardew Valley Wiki"
+destination_base_url = "es.stardewvalleywiki.com"
+destination_platform = "mediawiki"
+destination_icon = "stardewvalley.png"
+destination_main_page = "Stardew_Valley_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+
+[[es.origins]]
+origin = "Stardew Valley Fandom Wiki"
+origin_base_url = "stardewvalley.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Wikia_Stardew_Valley"
+
+[en]
+origins_label = "Stardew Valley Fandom Wiki"
+destination = "Stardew Valley Wiki"
+destination_base_url = "stardewvalleywiki.com"
+destination_platform = "mediawiki"
+destination_icon = "stardew.png"
+destination_main_page = "Stardew_Valley_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Stardew Valley Fandom Wiki"
+origin_base_url = "stardewvalley.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Stardew_Valley_Wiki"
+
+[fr]
+origins_label = "Stardew Valley Fandom Wiki"
+destination = "Stardew Valley Wiki"
+destination_base_url = "fr.stardewvalleywiki.com"
+destination_platform = "mediawiki"
+destination_icon = "stardewvalleywiki.png"
+destination_main_page = "Stardew_Valley_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+tags = [
+    "official",
+]
+
+[[fr.origins]]
+origin = "Stardew Valley Fandom Wiki"
+origin_base_url = "stardew-valley-fr.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Home"

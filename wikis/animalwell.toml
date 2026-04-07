@@ -1,0 +1,19 @@
+[en]
+origins_label = "Animal Well Fandom Wiki"
+destination = "Animal Well Wiki"
+destination_base_url = "animalwell.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "animalwell.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Animal Well Fandom Wiki"
+origin_base_url = "animal-well.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Animal_Well_Wiki"

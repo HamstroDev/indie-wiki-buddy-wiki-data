@@ -1,0 +1,16 @@
+[en]
+origins_label = "Binding of Isaac: Revelations Fandom Wiki"
+destination = "Binding of Isaac Revelations Wiki"
+destination_base_url = "tboirevelations.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "bindingofisaacrevelationswiki.png"
+destination_main_page = "The_Binding_of_Isaac:_Revelations_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Binding of Isaac: Revelations Fandom Wiki"
+origin_base_url = "tboirevelations.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Binding_of_Isaac:_Revelations_Wiki"

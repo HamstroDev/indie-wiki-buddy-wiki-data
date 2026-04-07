@@ -1,0 +1,15 @@
+[en]
+origins_label = "Tears of Themis Fandom Wiki"
+destination = "Tears of Themis Wiki"
+destination_base_url = "tot.wiki"
+destination_platform = "mediawiki"
+destination_icon = "tearsofthemis.png"
+destination_main_page = "Tears_of_Themis_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Tears of Themis Fandom Wiki"
+origin_base_url = "tearsofthemis.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Tears_of_Themis_Wiki"

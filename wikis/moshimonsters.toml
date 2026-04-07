@@ -1,0 +1,16 @@
+[en]
+origins_label = "Moshi Monsters Fandom Wiki"
+destination = "Moshi Monsters Wiki"
+destination_base_url = "moshimonsters.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "moshimonsterswiki.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/index.php"
+destination_main_page = "Moshi_Monsters_Wiki"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Moshi Monsters Fandom Wiki"
+origin_base_url = "moshimonsters.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Moshi_Monsters_Wiki"

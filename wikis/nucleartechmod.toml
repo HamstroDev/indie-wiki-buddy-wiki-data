@@ -1,0 +1,15 @@
+[en]
+origins_label = "HBM's Nuclear Tech Fandom Wiki"
+destination = "HBM's Nuclear Tech Wiki"
+destination_base_url = "nucleartech.wiki"
+destination_platform = "mediawiki"
+destination_icon = "nucleartechwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "HBM's Nuclear Tech Fandom Wiki"
+origin_base_url = "ntm.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "HBM's_Nuclear_Tech_Wiki"

@@ -1,0 +1,61 @@
+[ru]
+origins_label = "Portal Fandom Wiki"
+destination = "Portal Wiki"
+destination_base_url = "theportalwiki.com"
+destination_content_suffix = "/ru"
+destination_platform = "mediawiki"
+destination_icon = "portalwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[ru.origins]]
+origin = "Portal Fandom Wiki"
+origin_base_url = "portal.fandom.com/ru"
+origin_content_path = "/wiki/"
+origin_main_page = "Portal_вики"
+
+[en]
+origins_label = "Portal Fandom Wikis"
+destination = "Portal Wiki"
+destination_base_url = "theportalwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "portalwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Portal Fandom Wiki"
+origin_base_url = "portals.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Portal_Wiki"
+
+[[en.origins]]
+origin = "Portal-Valve Fandom Wiki"
+origin_base_url = "portal-valve.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Portal_Wiki"
+
+[[en.origins]]
+origin = "Portal Info Fandom Wiki"
+origin_base_url = "portalinfo.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Aperture_Science"
+
+[fi]
+origins_label = "Portal Fandom Wiki"
+destination = "Portal Wiki"
+destination_base_url = "theportalwiki.com"
+destination_content_suffix = "/fi"
+destination_platform = "mediawiki"
+destination_icon = "portalwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[fi.origins]]
+origin = "Portal Fandom Wiki"
+origin_base_url = "portal.fandom.com/fi"
+origin_content_path = "/wiki/"
+origin_main_page = "Portal_Wiki"

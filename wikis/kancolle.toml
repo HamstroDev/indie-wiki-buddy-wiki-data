@@ -1,0 +1,15 @@
+[en]
+origins_label = "Kancolle Fandom Wiki"
+destination = "Kancolle Wiki"
+destination_base_url = "en.kancollewiki.net"
+destination_platform = "mediawiki"
+destination_icon = "kancollewiki.png"
+destination_main_page = "Kancolle_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Kancolle Fandom Wiki"
+origin_base_url = "kancolle.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "KanColle_Wiki"

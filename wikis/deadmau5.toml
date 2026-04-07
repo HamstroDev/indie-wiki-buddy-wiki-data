@@ -1,0 +1,16 @@
+[en]
+origins_label = "Deadmau5 Fandom Wiki"
+destination = "Mau5pedia"
+destination_base_url = "deadmau5.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "deadmau5wiki.png"
+destination_main_page = "Deadmau5_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Deadmau5 Fandom Wiki"
+origin_base_url = "deadmau5.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Deadmau5_Wiki"

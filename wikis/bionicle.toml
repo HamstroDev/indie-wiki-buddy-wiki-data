@@ -1,0 +1,15 @@
+[en]
+origins_label = "Bionicle Fandom Wiki"
+destination = "BIONICLEsector01"
+destination_base_url = "biosector01.com"
+destination_platform = "mediawiki"
+destination_icon = "biosector01.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Bionicle Fandom Wiki"
+origin_base_url = "bionicle.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Bionicle_Wiki"

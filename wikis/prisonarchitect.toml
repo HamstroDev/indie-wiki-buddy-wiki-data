@@ -1,0 +1,19 @@
+[en]
+origins_label = "Prison Architect Fandom Wiki"
+destination = "Prison Architect Wiki"
+destination_base_url = "prisonarchitect.paradoxwikis.com"
+destination_platform = "mediawiki"
+destination_icon = "prisonarchitectwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+destination_host = "Paradox"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Prison Architect Fandom Wiki"
+origin_base_url = "prison-architect.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Prison_Architect_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Xenoblade Fandom Wiki"
+destination = "Xeno Series Wiki"
+destination_base_url = "xenoserieswiki.org"
+destination_platform = "mediawiki"
+destination_icon = "xenoserieswiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Xenoblade Fandom Wiki"
+origin_base_url = "xenoblade.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Xenoblade_Wiki"

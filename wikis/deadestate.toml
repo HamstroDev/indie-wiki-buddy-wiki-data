@@ -1,0 +1,16 @@
+[en]
+origins_label = "Dead Estate Fandom Wiki"
+destination = "Dead Estate Wiki"
+destination_base_url = "deadestate.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "deadestatewiki.png"
+destination_main_page = "Dead_Estate_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Dead Estate Fandom Wiki"
+origin_base_url = "deadestate.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Dead_Estate_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "City of Heroes Fandom Wiki"
+destination = "Paragon Wiki Archive"
+destination_base_url = "archive.paragonwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "paragonwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "City of Heroes Fandom Wiki"
+origin_base_url = "cityofheroes.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "City_of_Heroes_Wiki"

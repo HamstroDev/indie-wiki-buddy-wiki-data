@@ -1,0 +1,50 @@
+[en]
+origins_label = "Friday Night Funkin' Fandom Wiki"
+destination = "Friday Night Funkin Wiki"
+destination_base_url = "fridaynightfunkin.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "fridaynightfunkinwiki.png"
+destination_main_page = "Friday_Night_Funkin'_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Friday Night Funkin' Fandom Wiki"
+origin_base_url = "fridaynightfunkin.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Friday_Night_Funkin'_Wiki"
+
+[ja]
+origins_label = "Friday Night Funkin' Fandom Wiki"
+destination = "Friday Night Funkin Wiki"
+destination_base_url = "fridaynightfunkin.wiki.gg/ja"
+destination_platform = "mediawiki"
+destination_icon = "fridaynightfunkinwiki.png"
+destination_main_page = "Friday_Night_Funkin'_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[ja.origins]]
+origin = "Friday Night Funkin' Fandom Wiki"
+origin_base_url = "fridaynightfunkin.fandom.com/ja"
+origin_content_path = "/wiki/"
+origin_main_page = "Friday_Night_Funkin'_Wiki"
+
+[zh]
+origins_label = "Friday Night Funkin' Fandom Wiki"
+destination = "Friday Night Funkin Wiki"
+destination_base_url = "fridaynightfunkin.wiki.gg/zh"
+destination_platform = "mediawiki"
+destination_icon = "fridaynightfunkinwiki.png"
+destination_main_page = "Friday_Night_Funkin'_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[zh.origins]]
+origin = "Friday Night Funkin' Fandom Wiki"
+origin_base_url = "fridaynightfunkin.fandom.com/zh"
+origin_content_path = "/wiki/"
+origin_main_page = "Friday_Night_Funkin'_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Critical Role Fandom Wiki"
+destination = "Critical Role Wiki"
+destination_base_url = "criticalrole.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "criticalrole.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Critical Role Fandom Wiki"
+origin_base_url = "criticalrole.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Critical_Role_Wiki"

@@ -1,0 +1,19 @@
+[en]
+origins_label = "Apico Fandom Wiki"
+destination = "APICO Wiki"
+destination_base_url = "wiki.apico.buzz"
+destination_platform = "mediawiki"
+destination_icon = "apicowiki.png"
+destination_main_page = "Welcome_to_the_APICO_Wiki!"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Apico Fandom Wiki"
+origin_base_url = "apico.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Apico_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Japari Library Fandom Wiki"
+destination = "Japari Library"
+destination_base_url = "japari-library.com"
+destination_platform = "mediawiki"
+destination_icon = "japarilibrary.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Japari Library Fandom Wiki"
+origin_base_url = "kemono-friends.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Japari_Library_Wiki"

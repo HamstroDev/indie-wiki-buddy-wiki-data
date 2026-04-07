@@ -1,0 +1,18 @@
+[en]
+origins_label = "Starbound Fandom Wiki"
+destination = "Starbounder"
+destination_base_url = "starbounder.org"
+destination_platform = "mediawiki"
+destination_icon = "starbounder.png"
+destination_main_page = "Starbound_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Starbound Fandom Wiki"
+origin_base_url = "starbound.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Starbound_Wiki"

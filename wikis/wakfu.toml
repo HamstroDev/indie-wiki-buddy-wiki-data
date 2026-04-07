@@ -1,0 +1,22 @@
+[en]
+origins_label = "Wakfu Fandom & Neoseeker Wikis"
+destination = "Wakfu Wiki"
+destination_base_url = "wakfu.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "wakfuwiki.png"
+destination_main_page = "Wakfu_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Wakfu Fandom Wiki"
+origin_base_url = "wakfu.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Wakfu_Wiki"
+
+[[en.origins]]
+origin = "Wakfu Neoseeker Wiki"
+origin_base_url = "wakfu.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

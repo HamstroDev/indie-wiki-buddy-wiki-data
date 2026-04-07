@@ -1,0 +1,16 @@
+[en]
+origins_label = "GraalMilitary Fandom Wiki"
+destination = "Graal Military Wiki"
+destination_base_url = "wiki.graalmilitary.com"
+destination_platform = "mediawiki"
+destination_icon = "graalmilitarywiki.png"
+destination_main_page = "GraalMilitary_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "GraalMilitary Fandom Wiki"
+origin_base_url = "graalmilitary.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "GraalMilitary_Wiki"

@@ -1,0 +1,19 @@
+[en]
+origins_label = "Cities Skylines 2 Fandom Wiki"
+destination = "Cities: Skylines 2 Wiki"
+destination_base_url = "cs2.paradoxwikis.com"
+destination_platform = "mediawiki"
+destination_icon = "citiesskylines2.png"
+destination_main_page = "Cities_Skylines_II_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+destination_host = "Paradox"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Cities Skylines II Fandom Wiki"
+origin_base_url = "cities-skylines-ii.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Cities:_Skylines_II_Wiki"

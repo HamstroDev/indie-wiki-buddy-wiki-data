@@ -1,0 +1,16 @@
+[en]
+origins_label = "Sonny Fandom Wiki"
+destination = "Sonny Wiki"
+destination_base_url = "sonny.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "sonnywiki.png"
+destination_main_page = "Sonny_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Sonny Fandom Wiki"
+origin_base_url = "sonny.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Sonny_Wiki"

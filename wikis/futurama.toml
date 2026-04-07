@@ -1,0 +1,21 @@
+[en]
+origins_label = "Futurama Fandom & Neoseeker Wikis"
+destination = "The Infosphere"
+destination_base_url = "theinfosphere.org"
+destination_platform = "mediawiki"
+destination_icon = "infosphere.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Futurama Fandom Wiki"
+origin_base_url = "futurama.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Futurama_Wiki"
+
+[[en.origins]]
+origin = "Futurama Wiki - Neoseeker"
+origin_base_url = "futurama.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Nine Sols Fandom Wiki"
+destination = "Nine Sols Wiki"
+destination_base_url = "ninesols.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "ninesolswiki.png"
+destination_main_page = "Nine_Sols_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Nine Sols Fandom Wiki"
+origin_base_url = "ninesols.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "NineSols_Wiki"

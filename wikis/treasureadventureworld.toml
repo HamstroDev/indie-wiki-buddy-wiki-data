@@ -1,0 +1,15 @@
+[en]
+origins_label = "Treasure Adventure Game Fandom Wiki"
+destination = "Treasure Adventure World Wiki"
+destination_base_url = "treasureadventurewiki.com"
+destination_platform = "mediawiki"
+destination_icon = "treasureadventureworldwiki.png"
+destination_main_page = "Treasure_Adventure_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Treasure Adventure Game Fandom Wiki"
+origin_base_url = "treasureadventuregame.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Treasure_Adventure_Game_Wiki"

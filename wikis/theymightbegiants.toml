@@ -1,0 +1,15 @@
+[en]
+origins_label = "TheyMightBeGiants Fandom Wiki"
+destination = "This Might Be A Wiki"
+destination_base_url = "tmbw.net"
+destination_platform = "mediawiki"
+destination_icon = "thismightbeawiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/wiki/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "TheyMightBeGiants Fandom Wiki"
+origin_base_url = "theymightbegiants.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "TheyMightBeGiants_Wiki"

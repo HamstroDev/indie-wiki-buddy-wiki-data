@@ -1,0 +1,16 @@
+[en]
+origins_label = "After Inc. Fandom Wiki"
+destination = "After Inc. Wiki"
+destination_base_url = "afterinc.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "afterincwiki.png"
+destination_main_page = "After_Inc._Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "After Inc. Fandom Wiki"
+origin_base_url = "after-inc.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "After_Inc._Wiki"

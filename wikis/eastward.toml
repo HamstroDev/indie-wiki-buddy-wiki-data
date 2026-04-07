@@ -1,0 +1,15 @@
+[en]
+origins_label = "Eastward Fandom Wiki"
+destination = "Eastward Wiki"
+destination_base_url = "eastwardwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "eastwardwiki.png"
+destination_main_page = "Eastward_Wiki"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Eastward Fandom Wiki"
+origin_base_url = "eastward.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Eastward_Wiki"

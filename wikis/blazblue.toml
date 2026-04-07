@@ -1,0 +1,15 @@
+[en]
+origins_label = "BlazBlue Fandom Wiki"
+destination = "BlazBlue Wiki"
+destination_base_url = "blazblue.wiki"
+destination_platform = "mediawiki"
+destination_icon = "blazblue.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "BlazBlue Fandom Wiki"
+origin_base_url = "blazblue.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "BlazBlue_Wiki"

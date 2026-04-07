@@ -1,0 +1,16 @@
+[en]
+origins_label = "Hello Neighbor Fandom Wiki"
+destination = "Hello Neighbor Wiki"
+destination_base_url = "helloneighbor.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "helloneighborwiki.png"
+destination_main_page = "Hello_Neighbor_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Hello Neighbor Fandom Wiki"
+origin_base_url = "hello-neighbor.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Hello_Neighbor_Wiki"

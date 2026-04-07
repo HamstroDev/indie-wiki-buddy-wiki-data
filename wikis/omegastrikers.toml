@@ -1,0 +1,19 @@
+[en]
+origins_label = "Omega Strikers Fandom Wiki"
+destination = "Omega Strikers Wiki"
+destination_base_url = "omegastrikers.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "omegastrikerswiki.png"
+destination_main_page = "Omega_Strikers_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Omega Strikers Fandom Wiki"
+origin_base_url = "omegastrikers.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Omega_Strikers_Wiki"

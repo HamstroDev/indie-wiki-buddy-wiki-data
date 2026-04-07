@@ -1,0 +1,15 @@
+[en]
+origins_label = "Habbo Fandom Wiki"
+destination = "Habbox Wiki"
+destination_base_url = "habboxwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "habboxwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/wiki/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Habbo Fandom Wiki"
+origin_base_url = "habbo.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Habbo_Wiki"

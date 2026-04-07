@@ -1,0 +1,18 @@
+[en]
+origins_label = "eRepublik Fandom Wiki"
+destination = "eRepublik Wiki"
+destination_base_url = "wiki.erepublik.com"
+destination_platform = "mediawiki"
+destination_icon = "erepublikwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "eRepublik Fandom Wiki"
+origin_base_url = "erepublik.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

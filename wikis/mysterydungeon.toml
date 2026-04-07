@@ -1,0 +1,21 @@
+[en]
+origins_label = "Mystery Dungeon Fandom Wikis"
+destination = "Mystery Dungeon Wiki"
+destination_base_url = "mysterydungeonwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "mysterydungeon.png"
+destination_main_page = "Mystery_Dungeon_Franchise_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Mystery Dungeon Fandom Wiki"
+origin_base_url = "mysterydungeon.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Mystery_Dungeon_Wiki"
+
+[[en.origins]]
+origin = "Pokémon Mystery Dungeon Fandom Wiki"
+origin_base_url = "pmd-rt-archive.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Pokémon_Wiki"

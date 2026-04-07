@@ -1,0 +1,16 @@
+[en]
+origins_label = "Pleasant Goat Fandom Wiki"
+destination = "Pleasant Goat Wiki"
+destination_base_url = "xyy.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "xyywiki.png"
+destination_main_page = "Pleasant_Goat_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Pleasant Goat Fandom Wiki"
+origin_base_url = "xyy.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Pleasant_Goat_Wiki"

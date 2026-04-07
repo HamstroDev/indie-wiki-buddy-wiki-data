@@ -1,0 +1,16 @@
+[en]
+origins_label = "Wynncraft Fandom Wiki"
+destination = "Wynncraft Wiki"
+destination_base_url = "wynncraft.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "wynncraftwiki.png"
+destination_main_page = "Wynncraft_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Wynncraft Fandom Wiki"
+origin_base_url = "wynncraft.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Wynncraft_Wiki"

@@ -1,0 +1,21 @@
+[en]
+origins_label = "Skylanders Fandom & Neoseeker Wikis"
+destination = "Skylanders Wiki"
+destination_base_url = "skylanderswiki.com"
+destination_platform = "mediawiki"
+destination_icon = "skylanders.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Skylanders Fandom Wiki"
+origin_base_url = "skylanders.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[[en.origins]]
+origin = "Skylanders Neoseeker Wiki"
+origin_base_url = "skylanders.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

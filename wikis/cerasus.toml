@@ -1,0 +1,16 @@
+[en]
+origins_label = "Cerasus Fandom Wiki"
+destination = "Cerasus Wiki"
+destination_base_url = "yume.wiki"
+destination_content_prefix = "Cerasus:"
+destination_platform = "mediawiki"
+destination_icon = "cerasuswiki.png"
+destination_main_page = "Cerasus_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Cerasus Fandom Wiki"
+origin_base_url = "cerasus.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Cerasus_Wiki"

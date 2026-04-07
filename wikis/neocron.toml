@@ -1,0 +1,15 @@
+[en]
+origins_label = "Neocron Guide Fandom Wiki"
+destination = "Neocron Wiki"
+destination_base_url = "wiki.techhaven.org"
+destination_platform = "mediawiki"
+destination_icon = "neocronwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Neocron Guide Fandom Wiki"
+origin_base_url = "neocron-guide.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Neocron_Guide_Wiki"

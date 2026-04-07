@@ -1,0 +1,19 @@
+[en]
+origins_label = "Sunless Skies Fandom Wiki"
+destination = "Sunless Skies Wiki"
+destination_base_url = "sunlessskies.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "sunlessskieswiki.png"
+destination_main_page = "Official_Sunless_Skies_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Sunless Skies Fandom Wiki"
+origin_base_url = "sunlessskies.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Sunless_Skies_Wiki"

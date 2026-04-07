@@ -1,0 +1,37 @@
+[en]
+origins_label = "Halo Fandom & Neoseeker Wikis"
+destination = "Halopedia"
+destination_base_url = "www.halopedia.org"
+destination_platform = "mediawiki"
+destination_icon = "halopedia.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Halo Alpha Fandom Wiki"
+origin_base_url = "halo.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Halo_Alpha"
+
+[[en.origins]]
+origin = "Halo Wiki - Neoseeker"
+origin_base_url = "halo.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[fr]
+origins_label = "Halopedia Fandom Wiki"
+destination = "WikiHalo"
+destination_base_url = "wiki.halo.fr"
+destination_platform = "mediawiki"
+destination_icon = "wikihalo.png"
+destination_main_page = "Accueil"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[fr.origins]]
+origin = "Halopedia Fandom Wiki"
+origin_base_url = "halo.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Halo_Nation"

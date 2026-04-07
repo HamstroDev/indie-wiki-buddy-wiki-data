@@ -1,0 +1,21 @@
+[en]
+origins_label = "Ashes of Creation Fandom Wikis"
+destination = "Ashes of Creation Wiki"
+destination_base_url = "ashesofcreation.wiki"
+destination_platform = "mediawiki"
+destination_icon = "ashesofcreationwiki.png"
+destination_main_page = "Ashes_of_Creation_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Ashes of Creation Fandom Wiki"
+origin_base_url = "ashesofcreation.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Ashes_of_Creation_Wiki"
+
+[[en.origins]]
+origin = "Ashes of Creation Fandom Wiki (Archived)"
+origin_base_url = "ashesofcreation-archive.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Ashes_of_Creation_Wiki"

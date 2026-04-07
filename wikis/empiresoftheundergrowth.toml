@@ -1,0 +1,19 @@
+[en]
+origins_label = "Empires of the Undergrowth Fandom Wiki"
+destination = "Empires of the Undergrowth Wiki"
+destination_base_url = "hoodedhorse.com/wiki/Empires_of_the_Undergrowth"
+destination_platform = "mediawiki"
+destination_icon = "empiresoftheundergrowthwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+destination_host = "Hooded Horse"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Empires of the Undergrowth Fandom Wiki"
+origin_base_url = "empires-of-the-undergrowth.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Empires_of_the_Undergrowth_Wiki"

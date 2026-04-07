@@ -1,0 +1,16 @@
+[en]
+origins_label = "Build-A-Bear Workshop Fandom Wiki"
+destination = "Build-A-Bear Wiki"
+destination_base_url = "buildabearwiki.info"
+destination_platform = "mediawiki"
+destination_icon = "thebuildabearwiki.png"
+destination_main_page = "Home"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Build-A-Bear Workshop Fandom Wiki"
+origin_base_url = "buildabear.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Build-a-Bear_Workshop_Wiki"

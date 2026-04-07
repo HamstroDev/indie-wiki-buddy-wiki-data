@@ -1,0 +1,15 @@
+[en]
+origins_label = "Blood 1997 Fandom Wiki"
+destination = "Blood Wiki"
+destination_base_url = "blood-wiki.org"
+destination_platform = "mediawiki"
+destination_icon = "bloodwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php?title="
+
+[[en.origins]]
+origin = "Blood 1997 Fandom Wiki"
+origin_base_url = "blood-1997.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Bloodpedia"

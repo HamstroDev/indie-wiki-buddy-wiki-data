@@ -1,0 +1,15 @@
+[en]
+origins_label = "Plural Fandom Wiki"
+destination = "Pluralpedia"
+destination_base_url = "pluralpedia.org"
+destination_platform = "mediawiki"
+destination_icon = "plural.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/w/"
+
+[[en.origins]]
+origin = "Plural Fandom Wiki"
+origin_base_url = "plural.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Plural_Wiki"

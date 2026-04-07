@@ -1,0 +1,24 @@
+[en]
+origins_label = "Path of Exile 2 Wikis"
+destination = "Path of Exile 2 Wiki"
+destination_base_url = "www.poe2wiki.net"
+destination_platform = "mediawiki"
+destination_icon = "pathofexile2.png"
+destination_main_page = "Path_of_Exile_2_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Path of Exile 2 Fextralife Wiki"
+origin_base_url = "pathofexile2.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Path of Exile 2 Wiki"
+
+[[en.origins]]
+origin = "Path of Exile 2 Fandom Wiki"
+origin_base_url = "path-of-exile-2.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Path_of_Exile_2_Wiki"

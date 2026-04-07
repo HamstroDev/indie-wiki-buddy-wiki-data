@@ -1,0 +1,21 @@
+[en]
+origins_label = "Brandon Sanderson Fandom Wikis"
+destination = "Coppermind"
+destination_base_url = "coppermind.net"
+destination_platform = "mediawiki"
+destination_icon = "coppermind.png"
+destination_main_page = "Coppermind:Welcome"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Stormlight Archive Fandom Wiki"
+origin_base_url = "stormlightarchive.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Stormlight_Archive_Wiki"
+
+[[en.origins]]
+origin = "Mistborn Fandom Wiki"
+origin_base_url = "mistborn.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Mistborn_Wiki"

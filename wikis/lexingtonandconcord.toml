@@ -1,0 +1,16 @@
+[en]
+origins_label = "Lexington & Concord Fandom Wiki"
+destination = "Lexington & Concord Wiki"
+destination_base_url = "lexingtonandconcord.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "lexingtonconcordofficialwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Lexington & Concord Fandom Wiki"
+origin_base_url = "lexington-and-concord.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Lexington_&_Concord_Wiki"

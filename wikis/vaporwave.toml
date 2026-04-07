@@ -1,0 +1,15 @@
+[en]
+origins_label = "Vaporwave Fandom Wiki"
+destination = "vaporwave.wiki"
+destination_base_url = "vaporwave.wiki"
+destination_platform = "mediawiki"
+destination_icon = "vaporwavewiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Vaporwave Fandom Wiki"
+origin_base_url = "vaporwave.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Vaporwave_Wiki"

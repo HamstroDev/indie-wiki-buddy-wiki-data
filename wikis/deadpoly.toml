@@ -1,0 +1,24 @@
+[en]
+origins_label = "Deadpoly Fandom Wikis"
+destination = "DeadPoly Wiki"
+destination_base_url = "deadpoly.wiki"
+destination_platform = "mediawiki"
+destination_icon = "deadpolywiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Deadpoly Fandom Wiki"
+origin_base_url = "deadpoly.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Deadpoly_(Rebuild)_Wiki"
+
+[[en.origins]]
+origin = "Deadpoly Game Fandom Wiki"
+origin_base_url = "deadpolygame.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Deadpoly_Wiki"

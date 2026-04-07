@@ -1,0 +1,15 @@
+[en]
+origins_label = "Popira Fandom Wiki"
+destination = "Popira Wiki"
+destination_base_url = "popira20.com/wiki"
+destination_platform = "mediawiki"
+destination_icon = "popirawiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php?title="
+
+[[en.origins]]
+origin = "Popira Fandom Wiki"
+origin_base_url = "popira.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Popira_Wiki"

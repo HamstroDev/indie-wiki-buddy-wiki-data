@@ -1,0 +1,15 @@
+[en]
+origins_label = "Xenharmonic Fandom Wiki"
+destination = "Xenharmonic Wiki"
+destination_base_url = "en.xen.wiki"
+destination_platform = "mediawiki"
+destination_icon = "xenharmonicwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/w/"
+
+[[en.origins]]
+origin = "Xenharmonic Fandom Wiki"
+origin_base_url = "xenharmonic.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

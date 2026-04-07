@@ -1,0 +1,15 @@
+[en]
+origins_label = "Battlestar Galactica Fandom Wiki"
+destination = "Battlestar Wiki"
+destination_base_url = "en.battlestarwiki.org"
+destination_platform = "mediawiki"
+destination_icon = "battlestarwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Battlestar Galactica Fandom Wiki"
+origin_base_url = "galactica.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Battlestar_Galactica_Wiki"

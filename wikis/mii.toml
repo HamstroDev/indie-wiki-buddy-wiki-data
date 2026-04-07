@@ -1,0 +1,15 @@
+[en]
+origins_label = "Mii Fandom Wiki"
+destination = "MiiWiki"
+destination_base_url = "miiwiki.org"
+destination_platform = "mediawiki"
+destination_icon = "miiwiki.png"
+destination_main_page = "Mii_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Mii Fandom Wiki"
+origin_base_url = "miiwiki.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Mii_Wiki"

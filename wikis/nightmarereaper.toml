@@ -1,0 +1,16 @@
+[en]
+origins_label = "Nightmare Reaper Fandom Wiki"
+destination = "Nightmare Reaper Wiki"
+destination_base_url = "nightmarereaper.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "nightmarereaperwiki.png"
+destination_main_page = "Nightmare_Reaper_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Nightmare Reaper Fandom Wiki"
+origin_base_url = "nightmare-reaper.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Nightmare_Reaper_Wiki"

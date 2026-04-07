@@ -1,0 +1,37 @@
+[es]
+origins_label = "Smashpedia Fandom Wiki"
+destination = "SmashPedia"
+destination_base_url = "es.ssbwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "smashpedia.png"
+destination_main_page = "SmashPedia"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[es.origins]]
+origin = "Smashpedia Fandom Wiki"
+origin_base_url = "supersmashbros.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Smashpedia"
+
+[en]
+origins_label = "Super Smash Bros. Fandom & Neoseeeker Wikis"
+destination = "SmashWiki"
+destination_base_url = "www.ssbwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "smashwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Super Smash Bros. Fandom Wiki"
+origin_base_url = "supersmashbros.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Smashpedia"
+
+[[en.origins]]
+origin = "Smash Bros Wiki - Neoseeker"
+origin_base_url = "smashbros.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

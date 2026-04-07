@@ -1,0 +1,67 @@
+[en]
+origins_label = "Ace Combat Fandom Wiki"
+destination = "Ace Combat Wiki"
+destination_base_url = "acecombat.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "acecombatwiki.png"
+destination_main_page = "Ace_Combat_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Ace Combat Fandom Wiki"
+origin_base_url = "acecombat.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Acepedia"
+
+[pt]
+origins_label = "Ace Combat Fandom Wiki"
+destination = "Ace Combat Wiki"
+destination_base_url = "acecombat.wiki.gg/pt-br"
+destination_platform = "mediawiki"
+destination_icon = "acecombatwiki.png"
+destination_main_page = "Página_principal"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[pt.origins]]
+origin = "Ace Combat Fandom Wiki"
+origin_base_url = "acecombat.fandom.com/pt-br"
+origin_content_path = "/wiki/"
+origin_main_page = "Página_principal"
+
+[ja]
+origins_label = "ACES Fandom Wiki"
+destination = "ACES WIKI"
+destination_base_url = "acecombat.wiki.gg/ja"
+destination_platform = "mediawiki"
+destination_icon = "aceswiki.png"
+destination_main_page = "ACES_WIKI"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[ja.origins]]
+origin = "ACES Fandom Wiki"
+origin_base_url = "acecombat.fandom.com/ja"
+origin_content_path = "/wiki/"
+origin_main_page = "ACES_WIKI"
+
+[zh]
+origins_label = "空戰奇兵 Fandom Wiki"
+destination = "空戰奇兵 (Ace Combat) Wiki"
+destination_base_url = "acecombat.wiki.gg/zh"
+destination_platform = "mediawiki"
+destination_icon = "acecombatwiki.png"
+destination_main_page = "Ace_Combat_中文_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[zh.origins]]
+origin = "空戰奇兵 Fandom Wiki"
+origin_base_url = "acecombat.fandom.com/zh"
+origin_content_path = "/wiki/"
+origin_main_page = "首頁"

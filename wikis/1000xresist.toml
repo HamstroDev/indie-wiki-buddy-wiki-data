@@ -1,0 +1,19 @@
+[en]
+origins_label = "1000xRESIST Fandom Wiki"
+destination = "1000xRESIST Wiki"
+destination_base_url = "1000xresist.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "1000xresistwiki.png"
+destination_main_page = "1000xRESIST_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "1000xRESIST Fandom Wiki"
+origin_base_url = "1000xresist.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "1000xRESIST_Wiki"

@@ -1,0 +1,19 @@
+[en]
+origins_label = "Palia Fandom Wiki"
+destination = "Palia Wiki"
+destination_base_url = "palia.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "paliawiki.png"
+destination_main_page = "Palia_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Palia Fandom Wiki"
+origin_base_url = "palia.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Palia_Wiki"

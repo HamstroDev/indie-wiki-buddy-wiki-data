@@ -1,0 +1,19 @@
+[en]
+origins_label = "Empire of Sin Fandom Wiki"
+destination = "Empire of Sin Wiki"
+destination_base_url = "eos.paradoxwikis.com"
+destination_platform = "mediawiki"
+destination_icon = "empireofsin.png"
+destination_main_page = "Empire_of_Sin_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+destination_host = "Paradox"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "EmpireOfSin Fandom Wiki"
+origin_base_url = "empireofsin.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "EmpireOfSin_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "20 Minutes Till Dawn Fandom Wiki"
+destination = "20 Minutes Till Dawn Wiki"
+destination_base_url = "20minutestilldawn.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "20mtd.png"
+destination_main_page = "20_Minutes_Till_Dawn_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "20 Minutes Till Dawn Fandom Wiki"
+origin_base_url = "20-minutes-till-dawn.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Minutes_Till_Dawn_Wiki"

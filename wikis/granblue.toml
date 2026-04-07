@@ -1,0 +1,15 @@
+[en]
+origins_label = "Granblue Fantasy Fandom Wiki"
+destination = "Granblue Wiki"
+destination_base_url = "gbf.wiki"
+destination_platform = "mediawiki"
+destination_icon = "granblue.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Granblue Fantasy Fandom Wiki"
+origin_base_url = "granblue.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Granblue_Fantasy_Wiki"

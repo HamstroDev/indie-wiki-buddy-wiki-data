@@ -1,0 +1,16 @@
+[en]
+origins_label = "Pixel Gun Fandom Wiki"
+destination = "Pixel Gun 3D Wiki"
+destination_base_url = "pg3d.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "pixelgun3dwiki.png"
+destination_main_page = "Pixel_Gun_3D_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Pixel Gun Fandom Wiki"
+origin_base_url = "pixelgun.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Pixel_Gun_Wiki"

@@ -1,0 +1,18 @@
+[fr]
+origins_label = "Forge of Empires Fandom Wiki"
+destination = "Forge of Empires Wiki"
+destination_base_url = "fr.wiki.forgeofempires.com"
+destination_platform = "mediawiki"
+destination_icon = "forgeofempires.png"
+destination_main_page = "Accueil"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php?title="
+tags = [
+    "official",
+]
+
+[[fr.origins]]
+origin = "Forge of Empires Fandom Wiki"
+origin_base_url = "forgeofempires.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Forge_of_Empires_Wiki"

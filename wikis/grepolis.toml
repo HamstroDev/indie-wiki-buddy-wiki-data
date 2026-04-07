@@ -1,0 +1,18 @@
+[fr]
+origins_label = "Grepolis Fandom Wiki"
+destination = "Grepolis Wiki"
+destination_base_url = "wiki.fr.grepolis.com"
+destination_platform = "mediawiki"
+destination_icon = "grepolis.png"
+destination_main_page = "Accueil"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[fr.origins]]
+origin = "Grepolis Fandom Wiki"
+origin_base_url = "grepolis.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Wiki_Grepolis"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "NetHack Fandom Wiki"
+destination = "NetHackWiki"
+destination_base_url = "nethackwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "nethack.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "NetHack Fandom Wiki"
+origin_base_url = "nethack.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

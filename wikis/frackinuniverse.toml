@@ -1,0 +1,19 @@
+[en]
+origins_label = "FrackinUniverse Fandom Wiki"
+destination = "Frackin' Universe Wiki"
+destination_base_url = "frackinuniverse.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "frackinuniversewiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "FrackinUniverse Fandom Wiki"
+origin_base_url = "frackinuniverse.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "FrackinUniverse_Wiki"

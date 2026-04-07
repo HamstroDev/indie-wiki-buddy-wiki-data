@@ -1,0 +1,79 @@
+[ru]
+origins_label = "Calamity Mod Fandom Wiki"
+destination = "Calamity Mod Wiki"
+destination_base_url = "calamitymod.wiki.gg/ru"
+destination_platform = "mediawiki"
+destination_icon = "calamitymodwiki.png"
+destination_main_page = "Calamity_Mod_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[ru.origins]]
+origin = "Calamity Mod Fandom Wiki"
+origin_base_url = "terraria-calamity-mod.fandom.com/ru"
+origin_content_path = "/wiki/"
+origin_main_page = "Terraria_Calamity_Mod_вики"
+
+[es]
+origins_label = "Calamity Mod Fandom Wiki"
+destination = "Wiki Calamity Mod Oficial"
+destination_base_url = "calamitymod.wiki.gg/es"
+destination_platform = "mediawiki"
+destination_icon = "wikicalamitymodoficial.png"
+destination_main_page = "Wiki_Calamity_Mod_en_Español"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[es.origins]]
+origin = "Calamity Mod Fandom Wiki"
+origin_base_url = "calamitymod.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Wiki_Calamity_Mod"
+
+[en]
+origins_label = "Calamity Mod Fandom Wiki"
+destination = "Calamity Mod Wiki"
+destination_base_url = "calamitymod.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "calamitymodwiki.png"
+destination_main_page = "Calamity_Mod_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Calamity Mod Fandom Wiki"
+origin_base_url = "calamitymod.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Calamity_Mod_Wiki"
+
+[zh]
+origins_label = "Calamity Mod Fandom Wiki"
+destination = "Calamity Mod Wiki"
+destination_base_url = "calamitymod.wiki.gg/zh"
+destination_platform = "mediawiki"
+destination_icon = "calamitymodwiki.png"
+destination_main_page = "Calamity_Mod_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[zh.origins]]
+origin = "Calamity Mod Fandom Wiki"
+origin_base_url = "terraria-calamity-mod.fandom.com/zh"
+origin_content_path = "/wiki/"
+origin_main_page = "Terraria_Calamity_Mod_中文_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Roller Coaster Fandom Wiki"
+destination = "Coasterpedia"
+destination_base_url = "coasterpedia.net"
+destination_platform = "mediawiki"
+destination_icon = "coasterpedia.png"
+destination_main_page = "Coasterpedia_The_Roller_Coaster_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Roller Coaster Fandom Wiki"
+origin_base_url = "rollercoaster.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Roller_Coaster_Wiki"

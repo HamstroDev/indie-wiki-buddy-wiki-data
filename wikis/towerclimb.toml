@@ -1,0 +1,16 @@
+[en]
+origins_label = "Tower Climb Fandom Wiki"
+destination = "TowerClimb Wiki"
+destination_base_url = "towerclimb.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "towerclimbwiki.png"
+destination_main_page = "TowerClimb_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Tower Climb Fandom Wiki"
+origin_base_url = "towerclimb.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Tower_Climb_Wiki"

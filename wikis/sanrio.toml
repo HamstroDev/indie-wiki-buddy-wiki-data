@@ -1,0 +1,15 @@
+[en]
+origins_label = "Sanrio Fandom Wiki"
+destination = "Sanrio Wiki"
+destination_base_url = "sanriowiki.com"
+destination_platform = "mediawiki"
+destination_icon = "sanriowiki.png"
+destination_main_page = "Sanrio_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Sanrio Fandom Wiki"
+origin_base_url = "sanrio.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Sanrio_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "DotAGE Fandom Wiki"
+destination = "DotAGE Wiki"
+destination_base_url = "dotage.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "dotagewiki.png"
+destination_main_page = "DotAGE_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "DotAGE Fandom Wiki"
+origin_base_url = "dotage-game.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "DotAGE_Wiki"

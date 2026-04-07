@@ -1,0 +1,21 @@
+[en]
+origins_label = "Fire Emblem Fandom & Neoseeker Wikis"
+destination = "Fire Emblem Wiki"
+destination_base_url = "fireemblemwiki.org"
+destination_platform = "mediawiki"
+destination_icon = "fireemblem.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Fire Emblem Fandom Wiki"
+origin_base_url = "fireemblem.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Fire_Emblem_Wiki"
+
+[[en.origins]]
+origin = "Fire Emblem Wiki - Neoseeker"
+origin_base_url = "fireemblem.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Legend of Galactic Heroes Fandom Wiki"
+destination = "Gineipaedia"
+destination_base_url = "gineipaedia.com"
+destination_platform = "mediawiki"
+destination_icon = "gineipaedia.png"
+destination_main_page = "Portal:Main"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Legend of Galactic Heroes Fandom Wiki"
+origin_base_url = "legendofthegalacticheroes.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Legend_of_Galactic_Heroes_Wiki"

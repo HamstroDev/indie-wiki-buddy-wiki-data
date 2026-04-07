@@ -1,0 +1,85 @@
+[en]
+origins_label = "Elder Scrolls Fandom, Fextra, & Neoseeker Wikis"
+destination = "Unofficial Elder Scrolls Pages"
+destination_base_url = "en.uesp.net"
+destination_platform = "mediawiki"
+destination_icon = "uesp.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Elder Scrolls Fandom Wiki"
+origin_base_url = "elderscrolls.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Elder_Scrolls_Wiki"
+
+[[en.origins]]
+origin = "The Elder Scrolls Fandom Wiki"
+origin_base_url = "the-elder-scrolls.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Elder_Scrolls_Wiki"
+
+[[en.origins]]
+origin = "Skyrim Fandom Wiki"
+origin_base_url = "skyrim.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Skyrim_Wiki"
+destination_content_prefix = "Skyrim:"
+
+[[en.origins]]
+origin = "Elder Scrolls Legends Fextralife Wiki"
+origin_base_url = "elderscrollslegends.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Elder Scrolls Legends Wiki"
+destination_content_prefix = "Legends:"
+
+[[en.origins]]
+origin = "Elder Scrolls Online Fextralife Wiki"
+origin_base_url = "elderscrollsonline.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Elder Scrolls Online Wiki"
+destination_content_prefix = "Online:"
+
+[[en.origins]]
+origin = "Skyrim Fextralife Wiki"
+origin_base_url = "skyrim.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Skyrim Wiki"
+destination_content_prefix = "Skyrim:"
+
+[[en.origins]]
+origin = "The Elder Scrolls Wiki - Neoseeker"
+origin_base_url = "elderscrolls.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[[en.origins]]
+origin = "Skyrim - Elder Scrolls V Wiki - Neoseeker"
+origin_base_url = "skyrim.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+destination_content_prefix = "Skyrim:"
+
+[[en.origins]]
+origin = "Oblivion Remastered Fextralife Wiki"
+origin_base_url = "oblivionremastered.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Oblivion+Wiki"
+destination_content_prefix = "Oblivion:"
+
+[pt]
+origins_label = "Elder Scrolls Fandom Wiki"
+destination = "Unofficial Elder Scrolls Pages"
+destination_base_url = "pt.uesp.net"
+destination_platform = "mediawiki"
+destination_icon = "uesp.png"
+destination_main_page = "Página_Principal"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[pt.origins]]
+origin = "Elder Scrolls Fandom Wiki"
+origin_base_url = "elderscrolls.fandom.com/pt"
+origin_content_path = "/wiki/"
+origin_main_page = "Página_principal"

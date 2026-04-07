@@ -1,0 +1,16 @@
+[en]
+origins_label = "Cherry Forest Fandom Wiki"
+destination = "Cherry Forest Wiki"
+destination_base_url = "cherryforest.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "cherryforestwiki.png"
+destination_main_page = "Cherry_Forest_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Cherry Forest Fandom Wiki"
+origin_base_url = "cherry-forest.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Cherry_Forest_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Toontown Corporate Clash Fandom Wiki"
+destination = "Toontown Corporate Clash Wiki"
+destination_base_url = "corporateclash.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "toontowncorporateclashwiki.png"
+destination_main_page = "Toontown_Corporate_Clash_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Toontown Corporate Clash Fandom Wiki"
+origin_base_url = "toontown-corporate-clash.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Toontown_Corporate_Clash_Wiki"

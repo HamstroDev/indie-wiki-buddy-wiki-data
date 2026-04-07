@@ -1,0 +1,16 @@
+[en]
+origins_label = "Cookie Clicker Fandom Wiki"
+destination = "Cookie Clicker Wiki"
+destination_base_url = "cookieclicker.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "cookieclickerwiki.png"
+destination_main_page = "Cookie_Clicker_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Cookie Clicker Fandom Wiki"
+origin_base_url = "cookieclicker.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Cookie_Clicker_Wiki"

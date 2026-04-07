@@ -1,0 +1,16 @@
+[en]
+origins_label = "Astrea: Six-Sided Oracles Fandom Wiki"
+destination = "Astrea Wiki"
+destination_base_url = "astrea.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "astreawiki.png"
+destination_main_page = "Astrea_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Astrea: Six-Sided Oracles Fandom Wiki"
+origin_base_url = "astrea-sso.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Astrea:_Six-Sided_Oracles_Wiki"

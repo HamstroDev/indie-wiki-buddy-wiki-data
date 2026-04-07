@@ -1,0 +1,16 @@
+[en]
+origins_label = "The Celestial Caverns Fandom Wiki"
+destination = "The Celestial Caverns Wiki"
+destination_base_url = "thecelestialcaverns.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "thecelestialcavernswiki.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/w/index.php"
+destination_main_page = "The_Celestial_Caverns_Wiki"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "The Celestial Caverns Fandom Wiki"
+origin_base_url = "the-celestial-caverns.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Celestial_Caverns_Wiki"

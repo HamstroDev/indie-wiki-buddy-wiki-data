@@ -1,0 +1,16 @@
+[en]
+origins_label = "Essentials Docs Fandom Wiki"
+destination = "Essentials Engine Wiki"
+destination_base_url = "essentialsengine.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "essentialsenginewiki.png"
+destination_main_page = "Essentials_Engine_wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Essentials Docs Fandom Wiki"
+origin_base_url = "essentialsdocs.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Essentials_Docs_Wiki"

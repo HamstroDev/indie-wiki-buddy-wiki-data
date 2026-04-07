@@ -1,0 +1,16 @@
+[en]
+origins_label = "Knighthood Fandom Wiki"
+destination = "Knighthood Wiki"
+destination_base_url = "knighthood.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "knighthoodwiki.png"
+destination_main_page = "Knighthood_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Knighthood Fandom Wiki"
+origin_base_url = "knighthood.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Knighthood_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Pikmin Fanon Fandom Wiki"
+destination = "Pikmin Fanon"
+destination_base_url = "pikminfanon.com"
+destination_platform = "mediawiki"
+destination_icon = "pikminfanon.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Pikmin Fanon Fandom Wiki"
+origin_base_url = "pikminfanon.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Pikmin_Fanon_Wikia"

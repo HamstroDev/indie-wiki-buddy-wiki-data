@@ -1,0 +1,15 @@
+[en]
+origins_label = "Fatal Frame Fandom Wiki"
+destination = "Zero Wiki"
+destination_base_url = "wiki.thelostvillage.net"
+destination_platform = "mediawiki"
+destination_icon = "zerowiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+
+[[en.origins]]
+origin = "Fatal Frame Fandom Wiki"
+origin_base_url = "fatalframe.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Fatal_Frame_Wiki"

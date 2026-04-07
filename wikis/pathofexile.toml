@@ -1,0 +1,15 @@
+[en]
+origins_label = "Path of Exile Fandom Wiki"
+destination = "Path of Exile Wiki"
+destination_base_url = "www.poewiki.net"
+destination_platform = "mediawiki"
+destination_icon = "pathofexile.png"
+destination_main_page = "Path_of_Exile_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Path of Exile Fandom Wiki"
+origin_base_url = "pathofexile.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Path_of_Exile_Wiki"

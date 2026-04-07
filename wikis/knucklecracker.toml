@@ -1,0 +1,15 @@
+[en]
+origins_label = "Knuckle Cracker Fandom Wiki"
+destination = "Knuckle Cracker Wiki"
+destination_base_url = "knucklecracker.com"
+destination_platform = "dokuwiki"
+destination_icon = "knucklecrackerwiki.png"
+destination_main_page = "start"
+destination_search_path = "/wiki/doku.php"
+destination_content_path = "/wiki/doku.php?id="
+
+[[en.origins]]
+origin = "Knuckle Cracker Fandom Wiki"
+origin_base_url = "knucklecracker.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Knuckle_Cracker_Wiki"

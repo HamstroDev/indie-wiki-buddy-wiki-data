@@ -1,0 +1,15 @@
+[en]
+origins_label = "Capoeira Fandom Wiki"
+destination = "CapoeiraWiki"
+destination_base_url = "capoeirawiki.org"
+destination_platform = "mediawiki"
+destination_icon = "capoeirawiki.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/w/index.php"
+destination_main_page = "Main_Page"
+
+[[en.origins]]
+origin = "Capoeira Fandom Wiki"
+origin_base_url = "capoeirista.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Capoeira_Wiki"

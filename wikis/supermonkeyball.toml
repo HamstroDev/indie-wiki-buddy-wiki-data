@@ -1,0 +1,16 @@
+[en]
+origins_label = "Super Monkey Ball Fandom Wiki"
+destination = "Bananapedia"
+destination_base_url = "bananapedia.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "bananapedia.png"
+destination_main_page = "Bananapedia"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Super Monkey Ball Fandom Wiki"
+origin_base_url = "supermonkeyball.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Super_Monkey_Ball_Wiki"

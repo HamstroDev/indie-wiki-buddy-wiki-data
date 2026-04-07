@@ -1,0 +1,34 @@
+[en]
+origins_label = "Warcraft Fandom & Neoseeker Wikis"
+destination = "Warcraft Wiki"
+destination_base_url = "warcraft.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "warcraftwiki.png"
+destination_main_page = "Warcraft_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Wowpedia Fandom Wiki"
+origin_base_url = "wowpedia.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Wowpedia"
+
+[[en.origins]]
+origin = "WoWWiki Fandom Wiki (Archived)"
+origin_base_url = "wowwiki-archive.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Portal:Main"
+
+[[en.origins]]
+origin = "Warcraft Wiki - Neoseeker"
+origin_base_url = "warcraft.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[[en.origins]]
+origin = "World of Warcraft Wiki - Neoseeker"
+origin_base_url = "wow.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "CITY Fandom Wiki"
+destination = "CITY Wiki"
+destination_base_url = "city.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "city.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/index.php"
+destination_main_page = "CITY_Wiki"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "CITY Fandom Wiki"
+origin_base_url = "citymanga.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "CITY_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "The Bella Sara Fandom Wiki"
+destination = "Bella Sara Wiki"
+destination_base_url = "bellasara.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "bellasarawiki.png"
+destination_main_page = "The_Bella_Sara_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "The Bella Sara Fandom Wiki"
+origin_base_url = "thebellasara.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Bella_Sara_Wiki"

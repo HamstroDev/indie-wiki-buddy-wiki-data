@@ -1,0 +1,15 @@
+[en]
+origins_label = "GFL Universe's Fandom Wiki"
+destination = "IOP Wiki"
+destination_base_url = "iopwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "iopwiki.png"
+destination_main_page = "IOP_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "GFL Universe's Fandom Wiki"
+origin_base_url = "girls-frontline.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "GFL_Universe_Wiki"

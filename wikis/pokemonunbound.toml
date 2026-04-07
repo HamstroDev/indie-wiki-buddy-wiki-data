@@ -1,0 +1,16 @@
+[en]
+origins_label = "Pokemon Unbound Fandom Wiki"
+destination = "Pokémon Unbound Wiki"
+destination_base_url = "pokemonunbound.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "pokemonunboundwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Pokemon Unbound Fandom Wiki"
+origin_base_url = "pokemonunbound.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Pokemon_Unbound_Wiki"

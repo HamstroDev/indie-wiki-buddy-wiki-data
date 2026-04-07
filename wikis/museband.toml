@@ -1,0 +1,15 @@
+[en]
+origins_label = "Muse Fandom Wiki"
+destination = "MuseWiki"
+destination_base_url = "musewiki.org"
+destination_platform = "mediawiki"
+destination_icon = "musewiki.png"
+destination_content_path = "/"
+destination_search_path = "/index.php"
+destination_main_page = "MuseWiki"
+
+[[en.origins]]
+origin = "Muse Fandom Wiki"
+origin_base_url = "muse.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "FreeSpace Fandom Wiki"
+destination = "FreeSpace Wiki"
+destination_base_url = "wiki.hard-light.net"
+destination_platform = "mediawiki"
+destination_icon = "freespacewiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+
+[[en.origins]]
+origin = "FreeSpace Fandom Wiki"
+origin_base_url = "freespace.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "FreeSpace_Reference"

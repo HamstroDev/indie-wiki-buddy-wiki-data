@@ -1,0 +1,19 @@
+[en]
+origins_label = "Dead Cells Fandom Wiki"
+destination = "Dead Cells Wiki"
+destination_base_url = "deadcells.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "deadcellswiki.png"
+destination_main_page = "Dead_Cells_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Dead Cells Fandom Wiki"
+origin_base_url = "deadcells.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Dead_Cells_Wiki"

@@ -1,0 +1,33 @@
+[en]
+origins_label = "Binding Of Isaac: Rebirth Fandom Wiki"
+destination = "Binding Of Isaac: Rebirth Wiki"
+destination_base_url = "bindingofisaacrebirth.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "isaacrebirthwiki.png"
+destination_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Binding Of Isaac: Rebirth Fandom Wiki"
+origin_base_url = "bindingofisaacrebirth.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
+
+[fr]
+origins_label = "The Binding Of Isaac: Rebirth Fandom Wiki"
+destination = "The Binding Of Isaac: Rebirth Wiki"
+destination_base_url = "bindingofisaacrebirth.wiki.gg/fr"
+destination_platform = "mediawiki"
+destination_icon = "isaacrebirthwiki.png"
+destination_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[fr.origins]]
+origin = "The Binding Of Isaac: Rebirth Fandom Wiki"
+origin_base_url = "bindingofisaacrebirth.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Binding_of_Isaac:_Rebirth_Wiki"

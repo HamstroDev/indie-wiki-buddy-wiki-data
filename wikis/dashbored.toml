@@ -1,0 +1,16 @@
+[en]
+origins_label = "DashBored Fandom Wiki"
+destination = "DashBored Wiki"
+destination_base_url = "dashbored.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "dashboredwiki.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/index.php"
+destination_main_page = "DashBored_Wiki"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "DashBored Fandom Wiki"
+origin_base_url = "dashbored.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "DashBored_Wikia"

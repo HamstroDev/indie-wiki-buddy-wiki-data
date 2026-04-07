@@ -1,0 +1,18 @@
+[en]
+origins_label = "Dovedale Railway Fandom Wiki"
+destination = "Dovedale Railway Wiki"
+destination_base_url = "dovedale.wiki"
+destination_platform = "mediawiki"
+destination_icon = "dovedalerailwaywiki.png"
+destination_main_page = "Dovedale_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Dovedale Railway Fandom Wiki"
+origin_base_url = "dovedale.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Dovedale_Railway_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Hanna-Barbera Fandom Wiki"
+destination = "Hanna-Barbera Wiki"
+destination_base_url = "hanna-barberawiki.com"
+destination_platform = "mediawiki"
+destination_icon = "hannabarberawiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Hanna-Barbera Fandom Wiki"
+origin_base_url = "hanna-barbera.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Hanna-Barbera_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Little King's Story Fandom Wiki"
+destination = "Little King's Story Wiki"
+destination_base_url = "littlekingsstory.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "littlekingsstorywiki.png"
+destination_main_page = "Little_King's_Story_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Little King's Story Fandom Wiki"
+origin_base_url = "littlekingsstory.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Little_King's_Story_Wiki"

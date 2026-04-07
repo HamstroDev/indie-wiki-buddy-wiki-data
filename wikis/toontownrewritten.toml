@@ -1,0 +1,18 @@
+[en]
+origins_label = "Toontown Rewritten Fandom Wiki"
+destination = "Toontown Rewritten Wiki"
+destination_base_url = "toontownrewritten.wiki"
+destination_platform = "mediawiki"
+destination_icon = "toontownrewrittenwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Toontown Rewritten Fandom Wiki"
+origin_base_url = "toontownrewritten.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

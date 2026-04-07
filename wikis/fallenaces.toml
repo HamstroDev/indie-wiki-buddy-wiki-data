@@ -1,0 +1,16 @@
+[en]
+origins_label = "Fallen Aces Fandom Wiki"
+destination = "Fallen Aces Wiki"
+destination_base_url = "fallenaces.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "fallenaceswiki.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/index.php"
+destination_main_page = "Fallen_Aces_Wiki"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Fallen Aces Fandom Wiki"
+origin_base_url = "fallen-aces.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Fallen_Aces_Wiki"

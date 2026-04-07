@@ -1,0 +1,15 @@
+[en]
+origins_label = "Epithet Erased Fandom Wiki"
+destination = "Epithet Erased Wiki"
+destination_base_url = "epitheterasedwiki.com"
+destination_platform = "mediawiki"
+destination_icon = "epitheterasedwiki.png"
+destination_main_page = "Epithet_Erased_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Epithet Erased Fandom Wiki"
+origin_base_url = "epithet-erased.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Epithet_Erased_Wiki"

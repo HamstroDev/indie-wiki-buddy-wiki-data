@@ -1,0 +1,15 @@
+[en]
+origins_label = "Yume Nikki Fangames Fandom Wiki"
+destination = "Yume Nikki Fangames Wiki"
+destination_base_url = "ynfg.yume.wiki"
+destination_platform = "mediawiki"
+destination_icon = "yumenikkifanwiki.png"
+destination_main_page = "Yume_Nikki_Fangames_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Yume Nikki Fangames Fandom Wiki"
+origin_base_url = "yumenikkifg.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yume_Nikki_Fangames_Wiki"

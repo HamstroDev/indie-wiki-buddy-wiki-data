@@ -1,0 +1,19 @@
+[en]
+origins_label = "Manor Lords Fandom Wiki"
+destination = "Manor Lords Wiki"
+destination_base_url = "hoodedhorse.com/wiki/Manor_Lords"
+destination_platform = "mediawiki"
+destination_icon = "manorlordswiki.png"
+destination_main_page = "Manor_Lords_Official_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+destination_host = "Hooded Horse"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Manor Lords Fandom Wiki"
+origin_base_url = "manor-lords.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Manor_Lords_Wiki"

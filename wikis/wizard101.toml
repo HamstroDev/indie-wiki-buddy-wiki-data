@@ -1,0 +1,15 @@
+[en]
+origins_label = "Wizard 101 Fandom Wiki"
+destination = "Wizard101 Wiki"
+destination_base_url = "wiki.wizard101central.com/wiki"
+destination_platform = "mediawiki"
+destination_icon = "wizard101wiki.png"
+destination_main_page = "Wizard101_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Wizard 101 Fandom Wiki"
+origin_base_url = "wizard101.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Wizard101_Wiki"

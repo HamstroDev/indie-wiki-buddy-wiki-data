@@ -1,0 +1,16 @@
+[en]
+origins_label = "SteamWorld Fandom Wiki"
+destination = "SteamWorld Wiki"
+destination_base_url = "steamworld.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "steamworldwiki.png"
+destination_main_page = "SteamWorld_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "SteamWorld Fandom Wiki"
+origin_base_url = "steamworld.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "SteamWorld_Wiki"

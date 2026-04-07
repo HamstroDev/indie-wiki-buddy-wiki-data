@@ -1,0 +1,16 @@
+[en]
+origins_label = "BitCraft Fandom Wiki"
+destination = "BitCraft Wiki"
+destination_base_url = "bitcraft.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "bitcraftwiki.png"
+destination_main_page = "BitCraft_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "BitCraft Fandom Wiki"
+origin_base_url = "bitcraft.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "BitCraft_Wiki"

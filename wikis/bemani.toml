@@ -1,0 +1,33 @@
+[en]
+origins_label = "Konami Music Fandom Wikis"
+destination = "RemyWiki"
+destination_base_url = "remywiki.com"
+destination_platform = "mediawiki"
+destination_icon = "remywiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Beatmania Fandom Wiki"
+origin_base_url = "beatmania.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Beatmania_Wiki"
+
+[[en.origins]]
+origin = "Dance Dance Revolution Fandom Wiki"
+origin_base_url = "dancedancerevolution.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Dance_Dance_Revolution_(DDR)_Wiki"
+
+[[en.origins]]
+origin = "jubeat Fandom Wiki"
+origin_base_url = "jubeat.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Jubeat_Wiki"
+
+[[en.origins]]
+origin = "Konami Music Video Game Fandom Wiki"
+origin_base_url = "bemani.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

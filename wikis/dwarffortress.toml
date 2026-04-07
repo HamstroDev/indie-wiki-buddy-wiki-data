@@ -1,0 +1,15 @@
+[en]
+origins_label = "Dwarf Fortress Fandom Wiki"
+destination = "Dwarf Fortress Wiki"
+destination_base_url = "dwarffortresswiki.org"
+destination_platform = "mediawiki"
+destination_icon = "dwarffortresswiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+
+[[en.origins]]
+origin = "Dwarf Fortress Fandom Wiki"
+origin_base_url = "dwarffortress.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Dwarf_Fortress_Wiki"

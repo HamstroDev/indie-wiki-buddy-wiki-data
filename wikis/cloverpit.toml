@@ -1,0 +1,22 @@
+[en]
+origins_label = "CloverPit Fandom Wikis"
+destination = "CloverPit Wiki"
+destination_base_url = "cloverpit.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "cloverpit.png"
+destination_main_page = "CloverPit_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "CloverPit Fandom Wiki"
+origin_base_url = "cloverpit.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "CloverPit_Wiki"
+
+[[en.origins]]
+origin = "CloverPit Fandom Wiki"
+origin_base_url = "cloverpit-panik.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Clover_Pit_Wiki"

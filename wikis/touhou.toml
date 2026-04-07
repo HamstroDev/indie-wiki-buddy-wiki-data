@@ -1,0 +1,111 @@
+[de]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "de.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "Touhou_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[de.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com/de"
+origin_content_path = "/wiki/"
+origin_main_page = "Touhou_Wiki"
+
+[ru]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "ru.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "Заглавная_страница"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[ru.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com/ru"
+origin_content_path = "/wiki/"
+origin_main_page = "Заглавная_страница"
+
+[es]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "es.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "Touhou_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[es.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Página_principal"
+
+[en]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "en.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "Touhou_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Touhou_Wiki"
+
+[pl]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "pl.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "Touhou_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[pl.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com/pl"
+origin_content_path = "/wiki/"
+origin_main_page = "Touhou_Wiki"
+
+[zh]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "zh.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "東方維基"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[zh.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com/zh"
+origin_content_path = "/wiki/"
+origin_main_page = "东方Project_Wiki"
+
+[fr]
+origins_label = "Touhou Fandom Wiki"
+destination = "Touhou Wiki"
+destination_base_url = "fr.touhouwiki.net"
+destination_platform = "mediawiki"
+destination_icon = "touhouwiki.png"
+destination_main_page = "Touhou_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[fr.origins]]
+origin = "Touhou Fandom Wiki"
+origin_base_url = "touhou.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Touhou_Wiki"

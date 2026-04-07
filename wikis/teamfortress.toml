@@ -1,0 +1,78 @@
+[es]
+origins_label = "Team Fortress Fandom Wiki"
+destination = "Team Fortress Wiki"
+destination_base_url = "wiki.teamfortress.com"
+destination_content_suffix = "/es"
+destination_platform = "mediawiki"
+destination_icon = "teamfortress.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[es.origins]]
+origin = "Team Fortress Fandom Wiki"
+origin_base_url = "team-fortress.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Wiki_Team_Fortress"
+
+[en]
+origins_label = "Team Fortress Fandom Wiki"
+destination = "Team Fortress Wiki"
+destination_base_url = "wiki.teamfortress.com"
+destination_platform = "mediawiki"
+destination_icon = "teamfortress.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Team Fortress Fandom Wiki"
+origin_base_url = "teamfortress.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Team_Fortress_Wiki"
+
+[pt]
+origins_label = "Team Fortress Fandom Wiki"
+destination = "Team Fortress Wiki"
+destination_base_url = "wiki.teamfortress.com"
+destination_content_suffix = "/pt-br"
+destination_platform = "mediawiki"
+destination_icon = "teamfortress.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[pt.origins]]
+origin = "Team Fortress Fandom Wiki"
+origin_base_url = "team-fortress.fandom.com/pt-br"
+origin_content_path = "/wiki/"
+origin_main_page = "Página_principal"
+
+[pl]
+origins_label = "Team Fortress Fandom Wiki"
+destination = "Team Fortress Wiki"
+destination_base_url = "wiki.teamfortress.com"
+destination_content_suffix = "/pl"
+destination_platform = "mediawiki"
+destination_icon = "teamfortress.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+tags = [
+    "official",
+]
+
+[[pl.origins]]
+origin = "Team Fortress Fandom Wiki"
+origin_base_url = "teamfortress.fandom.com/pl"
+origin_content_path = "/wiki/"
+origin_main_page = "Team_Fortress_Wiki"

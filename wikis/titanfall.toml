@@ -1,0 +1,16 @@
+[en]
+origins_label = "Titanfall Fandom Wiki"
+destination = "Titanfall Wiki"
+destination_base_url = "titanfall.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "titanfallwiki.png"
+destination_main_page = "Titanfall_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Titanfall Fandom Wiki"
+origin_base_url = "titanfall.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Titanfall_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Girls' Last Tour Fandom Wiki"
+destination = "Girls' Last Tour Wiki"
+destination_base_url = "girlslasttour.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "girlslasttourwiki.png"
+destination_main_page = "Girls'_Last_Tour_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Girls' Last Tour Fandom Wiki"
+origin_base_url = "girls-last-tour.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Girls_Last_Tour_Wiki"

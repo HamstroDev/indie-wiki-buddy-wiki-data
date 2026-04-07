@@ -1,0 +1,39 @@
+[en]
+origins_label = "Satisfactory Fandom Wiki"
+destination = "Satisfactory Wiki"
+destination_base_url = "satisfactory.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "satisfactorywiki.png"
+destination_main_page = "Satisfactory_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Satisfactory Fandom Wiki"
+origin_base_url = "satisfactory.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Satisfactory_Wiki"
+
+[fr]
+origins_label = "Satisfactory Fandom Wiki"
+destination = "Satisfactory Wiki"
+destination_base_url = "satisfactory.wiki.gg/fr"
+destination_platform = "mediawiki"
+destination_icon = "satisfactorywiki.png"
+destination_main_page = "Satisfactory_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[fr.origins]]
+origin = "Satisfactory Fandom Wiki"
+origin_base_url = "satisfactory.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Satisfactory_Wiki"

@@ -1,0 +1,70 @@
+[de]
+origins_label = "Lethal Company Fandom Wiki"
+destination = "Lethal Company Wiki"
+destination_base_url = "lethal.miraheze.org"
+destination_content_suffix = "/de"
+destination_platform = "mediawiki"
+destination_icon = "lethalcompany.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[de.origins]]
+origin = "Lethal Company Fandom Wiki"
+origin_base_url = "lethal-company.fandom.com/de"
+origin_content_path = "/wiki/"
+origin_main_page = "Lethal_Company_Wiki"
+
+[ru]
+origins_label = "Lethal Company Fandom Wiki"
+destination = "Lethal Company Wiki"
+destination_base_url = "lethal.miraheze.org"
+destination_content_suffix = "/ru"
+destination_platform = "mediawiki"
+destination_icon = "lethalcompany.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[ru.origins]]
+origin = "Lethal Company Fandom Wiki"
+origin_base_url = "lethal-company.fandom.com/ru"
+origin_content_path = "/wiki/"
+origin_main_page = "Lethal_Company_Wiki"
+
+[en]
+origins_label = "Lethal Company Fandom Wiki"
+destination = "Lethal Company Wiki"
+destination_base_url = "lethal.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "lethalcompany.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Lethal Company Fandom Wiki"
+origin_base_url = "lethal-company.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Lethal_Company_Wiki"
+
+[fr]
+origins_label = "Lethal Company Fandom Wiki"
+destination = "Lethal Company Wiki"
+destination_base_url = "lethal.miraheze.org"
+destination_content_suffix = "/fr"
+destination_platform = "mediawiki"
+destination_icon = "lethalcompany.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[fr.origins]]
+origin = "Lethal Company Fandom Wiki"
+origin_base_url = "lethal-company.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Wiki_Lethal_Company"

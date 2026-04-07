@@ -1,0 +1,15 @@
+[en]
+origins_label = "The Cycle: Frontier Fandom Wiki"
+destination = "The Cycle: Frontier Wiki"
+destination_base_url = "thecyclefrontier.wiki"
+destination_platform = "mediawiki"
+destination_icon = "tcfwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "The Cycle: Frontier Fandom Wiki"
+origin_base_url = "thecyclefrontier.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Cycle_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Yohaji Fandom Wiki"
+destination = "Yohaji Wiki"
+destination_base_url = "yohaji.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "yohajiwiki.png"
+destination_content_path = "/wiki/"
+destination_search_path = "/w/index.php"
+destination_main_page = "A_Terrified_Teacher_at_Ghoul_School!_Wiki"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Yohaji Fandom Wiki"
+origin_base_url = "yohaji.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Youkai_Gakkou_no_Sensei_Hajimemashita!_Wiki"

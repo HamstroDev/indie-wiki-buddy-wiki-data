@@ -1,0 +1,15 @@
+[en]
+origins_label = "Star Trek Online Fandom Wiki"
+destination = "Star Trek Online Wiki"
+destination_base_url = "stowiki.net"
+destination_platform = "mediawiki"
+destination_icon = "sto.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Star Trek Online Fandom Wiki"
+origin_base_url = "sto.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

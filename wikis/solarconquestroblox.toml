@@ -1,0 +1,19 @@
+[en]
+origins_label = "Solar Conquest Fandom Wiki"
+destination = "Solar Conquest Wiki"
+destination_base_url = "wiki.solarconquest.net"
+destination_platform = "mediawiki"
+destination_icon = "solarconquest.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Solar Conquest Fandom Wiki"
+origin_base_url = "roblox-sc.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Solar_Conquest_Wiki"

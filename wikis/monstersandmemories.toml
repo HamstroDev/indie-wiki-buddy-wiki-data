@@ -1,0 +1,16 @@
+[en]
+origins_label = "Monsters & Memories Fandom Wiki"
+destination = "Monsters & Memories Wiki"
+destination_base_url = "monstersandmemories.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "monstersandmemorieswiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Monsters & Memories Fandom Wiki"
+origin_base_url = "monsters-and-memories.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

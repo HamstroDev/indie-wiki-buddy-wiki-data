@@ -1,0 +1,16 @@
+[en]
+origins_label = "Utaite Fandom Wiki"
+destination = "Utaite Wiki"
+destination_base_url = "utaite.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "utaite.png"
+destination_main_page = "Utaite_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Utaite Fandom Wiki"
+origin_base_url = "utaite.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Utaite_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Sailor Moon Fandom Wiki"
+destination = "WikiMoon"
+destination_base_url = "wikimoon.org"
+destination_platform = "mediawiki"
+destination_icon = "wikimoon.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+
+[[en.origins]]
+origin = "Sailor Moon Fandom Wiki"
+origin_base_url = "sailormoon.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Sailor_Moon_Wiki"

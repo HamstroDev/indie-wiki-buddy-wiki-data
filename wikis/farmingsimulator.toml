@@ -1,0 +1,16 @@
+[en]
+origins_label = "Farming Simulator Fandom Wiki"
+destination = "Farming Simulator Wiki"
+destination_base_url = "farmingsimulator.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "farmingsimulatorwiki.png"
+destination_main_page = "Farming_Simulator_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Farming Simulator Fandom Wiki"
+origin_base_url = "farmingsimulator.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Farming_Simulator_Wiki"

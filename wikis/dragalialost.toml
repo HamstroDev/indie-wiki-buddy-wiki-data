@@ -1,0 +1,15 @@
+[en]
+origins_label = "Dragalia Lost Fandom Wiki"
+destination = "Dragalia Lost Wiki"
+destination_base_url = "dragalialost.wiki"
+destination_platform = "mediawiki"
+destination_icon = "dragalialost.png"
+destination_main_page = "Dragalia_Lost_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/w/"
+
+[[en.origins]]
+origin = "Dragalia Lost Fandom Wiki"
+origin_base_url = "dragalialost.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Dragalia_Lost_Wiki"

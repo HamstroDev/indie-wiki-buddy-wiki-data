@@ -1,0 +1,16 @@
+[en]
+origins_label = "Crypt of the NecroDancer Fandom Wiki"
+destination = "Crypt of the NecroDancer Wiki"
+destination_base_url = "necrodancer.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "cryptofthenecrodancerwiki.png"
+destination_main_page = "NecroDancer_Wiki:About"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Crypt of the NecroDancer Fandom Wiki"
+origin_base_url = "crypt-of-the-necrodancer.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Crypt_of_the_NecroDancer_Wiki"

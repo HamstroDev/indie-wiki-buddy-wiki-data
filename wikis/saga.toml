@@ -1,0 +1,15 @@
+[en]
+origins_label = "SaGa Fandom Wiki"
+destination = "SaGa Wiki"
+destination_base_url = "sagawiki.org"
+destination_platform = "mediawiki"
+destination_icon = "sagawiki.png"
+destination_main_page = "SaGa_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "SaGa Fandom Wiki"
+origin_base_url = "saga.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "SaGa_Wiki"

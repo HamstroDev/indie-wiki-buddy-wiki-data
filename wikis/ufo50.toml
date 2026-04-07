@@ -1,0 +1,16 @@
+[en]
+origins_label = "UFO 50 Fandom Wiki"
+destination = "UFO 50 Wiki"
+destination_base_url = "ufo50.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "ufo50.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "UFO 50 Fandom Wiki"
+origin_base_url = "ufo50.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "UFO_50_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Voidscape Fandom Wiki"
+destination = "Voidscape Wiki"
+destination_base_url = "voidscape.tamaized.com"
+destination_platform = "mediawiki"
+destination_icon = "voidscape.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+
+[[en.origins]]
+origin = "Voidscape Fandom Wiki"
+origin_base_url = "voidscape.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Voidscape_Wiki"

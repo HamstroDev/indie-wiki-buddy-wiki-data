@@ -1,0 +1,15 @@
+[en]
+origins_label = "The World Ends with You Fandom Wiki"
+destination = "The World Ends with You Wiki"
+destination_base_url = "twewy.wiki"
+destination_platform = "mediawiki"
+destination_icon = "thewikiendswithyou.png"
+destination_main_page = "The_World_Ends_with_You_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "The World Ends with You Fandom Wiki"
+origin_base_url = "twewy.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_World_Ends_with_You_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "Caseoh Fandom Wiki"
+destination = "CaseOh Wiki"
+destination_base_url = "caseoh.wiki"
+destination_platform = "mediawiki"
+destination_icon = "caseohwiki.png"
+destination_content_path = "/w/"
+destination_search_path = "/index.php"
+destination_main_page = "CaseOh_Wiki"
+
+[[en.origins]]
+origin = "Caseoh Fandom Wiki"
+origin_base_url = "caseoh.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Caseoh_Wiki"

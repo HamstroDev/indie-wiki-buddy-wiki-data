@@ -1,0 +1,19 @@
+[en]
+origins_label = "Enter the Gungeon Fandom Wiki"
+destination = "Enter the Gungeon Wiki"
+destination_base_url = "enterthegungeon.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "enterthegungeonwiki.png"
+destination_main_page = "Enter_the_Gungeon_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Enter the Gungeon Fandom Wiki"
+origin_base_url = "enterthegungeon.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Enter_the_Gungeon_Wiki"

@@ -1,0 +1,71 @@
+[de]
+origins_label = "Animal Crossing Fandom Wiki"
+destination = "Animal Crossing Wiki"
+destination_base_url = "animalcrossingwiki.de"
+destination_platform = "dokuwiki"
+destination_icon = "animalcrossingwiki.png"
+destination_main_page = "start"
+destination_search_path = "/doku.php"
+destination_content_path = "/"
+
+[[de.origins]]
+origin = "Animal Crossing Fandom Wiki"
+origin_base_url = "animalcrossing.fandom.com/de"
+origin_content_path = "/wiki/"
+origin_main_page = "Animal_Crossing_Wiki"
+
+[es]
+origins_label = "Animal Crossing Fandom Wiki"
+destination = "Animal Crossing Enciclopedia"
+destination_base_url = "animalcrossing.wikidex.net"
+destination_platform = "mediawiki"
+destination_icon = "animalcrossing.png"
+destination_main_page = "Portada"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[es.origins]]
+origin = "Animal Crossing Fandom Wiki"
+origin_base_url = "animalcrossing.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Portada"
+
+[en]
+origins_label = "Animal Crossing Fandom & Neoseeker Wikis"
+destination = "Nookipedia"
+destination_base_url = "nookipedia.com"
+destination_platform = "mediawiki"
+destination_icon = "nookipedia.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Animal Crossing Fandom Wiki"
+origin_base_url = "animalcrossing.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Animal_Crossing_Wiki"
+
+[[en.origins]]
+origin = "Animal Crossing: New Leaf Fandom Wiki"
+origin_base_url = "acnl.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Animal_Crossing:_New_Leaf_Wiki"
+
+[[en.origins]]
+origin = "Animal Crossing: New Leaf Fandom Wiki"
+origin_base_url = "acnewleaf.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Animal_Crossing_New_Leaf_Wiki"
+
+[[en.origins]]
+origin = "Animal Crossing Wikipeaia Fandom Wiki"
+origin_base_url = "acwikipeaia.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Animal_Crossing_Wikipeada_Wiki"
+
+[[en.origins]]
+origin = "Animal Crossing Wiki - Neoseeker"
+origin_base_url = "animalcrossing.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

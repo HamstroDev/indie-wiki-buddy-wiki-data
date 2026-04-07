@@ -1,0 +1,16 @@
+[en]
+origins_label = "Yume 2kki Fandom Wiki"
+destination = "Yume 2kki Wiki"
+destination_base_url = "yume.wiki"
+destination_content_prefix = "Yume_2kki:"
+destination_platform = "mediawiki"
+destination_icon = "yume2kkiwiki.png"
+destination_main_page = "Yume_2kki_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Yume 2kki Fandom Wiki"
+origin_base_url = "yume2kki.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yume_2kki_Wiki"

@@ -1,0 +1,15 @@
+[it]
+origins_label = "Memory Alpha Fandom Wiki"
+destination = "WikiTrek"
+destination_base_url = "wikitrek.org"
+destination_platform = "mediawiki"
+destination_icon = "wikitrek.png"
+destination_main_page = "Pagina_principale"
+destination_search_path = "/wt/index.php"
+destination_content_path = "/wiki/"
+
+[[it.origins]]
+origin = "Memory Alpha Fandom Wiki"
+origin_base_url = "memory-alpha.fandom.com/it"
+origin_content_path = "/wiki/"
+origin_main_page = "Pagina_principale"

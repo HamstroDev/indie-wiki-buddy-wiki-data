@@ -1,0 +1,16 @@
+[en]
+origins_label = "Ship of Fools Fandom Wiki"
+destination = "Ship of Fools Wiki"
+destination_base_url = "shipoffools.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "shipoffoolswiki.png"
+destination_main_page = "Ship_of_Fools_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Ship of Fools Fandom Wiki"
+origin_base_url = "ship-of-fools.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Ship_of_Fools_Wiki"

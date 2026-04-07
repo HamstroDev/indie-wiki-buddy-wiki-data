@@ -1,0 +1,15 @@
+[en]
+origins_label = "Ultima Online Fandom Wiki"
+destination = "UOGuide"
+destination_base_url = "www.uoguide.com"
+destination_platform = "mediawiki"
+destination_icon = "uoguide.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Ultima Online Fandom Wiki"
+origin_base_url = "ultimaonline.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Ultima_Online_Wiki"

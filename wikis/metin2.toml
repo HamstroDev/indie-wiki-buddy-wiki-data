@@ -1,0 +1,18 @@
+[fr]
+origins_label = "Metin2 Fandom Wiki"
+destination = "Metin2 Wiki"
+destination_base_url = "fr-wiki.metin2.gameforge.com"
+destination_platform = "mediawiki"
+destination_icon = "metin2wiki.png"
+destination_main_page = "Accueil"
+destination_search_path = "/index.php"
+destination_content_path = "/index.php/"
+tags = [
+    "official",
+]
+
+[[fr.origins]]
+origin = "Metin2 Fandom Wiki"
+origin_base_url = "metin2.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Accueil"

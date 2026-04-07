@@ -1,0 +1,16 @@
+[en]
+origins_label = "Stone Story RPG Fandom Wiki"
+destination = "Stone Story RPG Wiki"
+destination_base_url = "stonestoryrpg.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "stonestoryrpgwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+
+[[en.origins]]
+origin = "Stone Story RPG Fandom Wiki"
+origin_base_url = "stone-story-rpg.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Stone_Story_RPG_Wiki"

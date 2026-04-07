@@ -1,0 +1,19 @@
+[en]
+origins_label = "Timberborn Fandom Wiki"
+destination = "Timberborn Wiki"
+destination_base_url = "timberborn.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "timberbornwiki.png"
+destination_main_page = "Timberborn_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Timberborn Fandom Wiki"
+origin_base_url = "timberborn.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Timberborn_Wiki"

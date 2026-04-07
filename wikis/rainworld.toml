@@ -1,0 +1,46 @@
+[ru]
+origins_label = "Rain World Fandom Wiki"
+destination = "Rain World Wiki"
+destination_base_url = "rainworld.miraheze.org"
+destination_content_suffix = "/ru"
+destination_platform = "mediawiki"
+destination_icon = "rainworld.png"
+destination_main_page = "Rain_World_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+tags = [
+    "official",
+]
+
+[[ru.origins]]
+origin = "Rain World Fandom Wiki"
+origin_base_url = "rainworld.fandom.com/ru"
+origin_content_path = "/wiki/"
+origin_main_page = "Rain_World_Wiki_Rus"
+
+[en]
+origins_label = "Rain World Fandom Wikis"
+destination = "Rain World Wiki"
+destination_base_url = "rainworld.miraheze.org"
+destination_platform = "mediawiki"
+destination_icon = "rainworld.png"
+destination_main_page = "Rain_World_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+destination_host = "Miraheze"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Rain World Fandom Wiki"
+origin_base_url = "rain-world-game.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Rain_World_Wiki"
+
+[[en.origins]]
+origin = "Rain World 007 Fandom Wiki"
+origin_base_url = "rain-world07.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Rain_world_Wiki"

@@ -1,0 +1,15 @@
+[en]
+origins_label = "UnReal World Fandom Wiki"
+destination = "UnReal World Wiki"
+destination_base_url = "www.unrealworld.fi"
+destination_platform = "mediawiki"
+destination_icon = "unrealworldwiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/wiki/index.php"
+destination_content_path = "/wiki/index.php?title="
+
+[[en.origins]]
+origin = "UnReal World Fandom Wiki"
+origin_base_url = "unrealworld.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Unreal_World_Wiki"

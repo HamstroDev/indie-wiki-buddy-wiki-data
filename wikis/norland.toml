@@ -1,0 +1,19 @@
+[en]
+origins_label = "Norland Fandom Wiki"
+destination = "Norland Wiki"
+destination_base_url = "hoodedhorse.com/wiki/Norland"
+destination_platform = "mediawiki"
+destination_icon = "norlandwiki.png"
+destination_main_page = "Norland_Official_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+destination_host = "Hooded Horse"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Norland Fandom Wiki"
+origin_base_url = "norland.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Norland_Wiki"

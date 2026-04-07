@@ -1,0 +1,16 @@
+[en]
+origins_label = "Truck Simulator Fandom Wiki"
+destination = "Truck Simulator Wiki"
+destination_base_url = "trucksimulator.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "trucksimulatorwiki.png"
+destination_main_page = "Truck_Simulator_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Truck Simulator Fandom Wiki"
+origin_base_url = "truck-simulator.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Truck_Simulator_Wiki"

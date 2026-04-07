@@ -1,0 +1,37 @@
+[en]
+origins_label = "Warhammer Fandom & Neoseeker Wikis"
+destination = "Lexicanum"
+destination_base_url = "wh40k.lexicanum.com"
+destination_platform = "mediawiki"
+destination_icon = "lexicanum.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Warhammer 40,000 Fandom Wiki"
+origin_base_url = "warhammer40k.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Warhammer_40k_Wiki"
+
+[[en.origins]]
+origin = "Warhammer Wiki - Neoseeker"
+origin_base_url = "warhammer.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[fr]
+origins_label = "Warhammer 40,000 Fandom Wiki"
+destination = "Lexicanum"
+destination_base_url = "wh40k-fr.lexicanum.com"
+destination_platform = "mediawiki"
+destination_icon = "warhammer40klexicanum.png"
+destination_main_page = "Accueil"
+destination_search_path = "/mediawiki/index.php"
+destination_content_path = "/wiki/"
+
+[[fr.origins]]
+origin = "Warhammer 40,000 Fandom Wiki"
+origin_base_url = "warhammer40k.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Accueil"

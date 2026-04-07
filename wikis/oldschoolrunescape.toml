@@ -1,0 +1,18 @@
+[en]
+origins_label = "Old School Runescape Fandom Wiki"
+destination = "OSRS Wiki"
+destination_base_url = "oldschool.runescape.wiki"
+destination_platform = "mediawiki"
+destination_icon = "oldschoolrunescape.png"
+destination_main_page = "Old_School_RuneScape_Wiki"
+destination_search_path = "/"
+destination_content_path = "/w/"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Old School Runescape Fandom Wiki"
+origin_base_url = "oldschoolrunescape.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Old_School_RuneScape_Wiki"

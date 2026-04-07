@@ -1,0 +1,15 @@
+[en]
+origins_label = "Chibi-Robo! Fandom Wiki"
+destination = "Chibi-Robo! Wiki"
+destination_base_url = "chibi-robo.wiki"
+destination_platform = "mediawiki"
+destination_icon = "chibirobowiki.png"
+destination_main_page = "Chibi-Robo_Wiki"
+destination_search_path = "/w/"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Chibi-Robo! Fandom Wiki"
+origin_base_url = "chibi-robo.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Chibi-Robo_Wiki"

@@ -1,0 +1,37 @@
+[en]
+origins_label = "Kirby Fandom & Neoseeker Wikis"
+destination = "WiKirby"
+destination_base_url = "wikirby.com"
+destination_platform = "mediawiki"
+destination_icon = "wikirby.png"
+destination_main_page = "Kirby_Wiki"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Kirby Fandom Wiki"
+origin_base_url = "kirby.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Kirby_Wiki"
+
+[[en.origins]]
+origin = "Kirby Wiki - Neoseeker"
+origin_base_url = "kirby.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[fr]
+origins_label = "Kirby Fandom Wiki"
+destination = "Wiki Kirby"
+destination_base_url = "wiki-kirby.fr"
+destination_platform = "mediawiki"
+destination_icon = "kirby.png"
+destination_main_page = "Accueil"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[fr.origins]]
+origin = "Kirby Fandom Wiki"
+origin_base_url = "kirby.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Kirby_Wiki"

@@ -1,0 +1,55 @@
+[en]
+origins_label = "Fallout Fandom, Fextra, & Neoseeker Wikis"
+destination = "Independent Fallout Wiki"
+destination_base_url = "fallout.wiki"
+destination_platform = "mediawiki"
+destination_icon = "fallout.png"
+destination_main_page = "Fallout_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Fallout Fandom Wiki (Nukapedia)"
+origin_base_url = "fallout.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Fallout_Wiki"
+
+[[en.origins]]
+origin = "Fallout Fandom Wiki (Archived)"
+origin_base_url = "fallout-archive.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "The_Vault_Fallout_Wiki"
+
+[[en.origins]]
+origin = "Fallout Wiki - Neoseeker"
+origin_base_url = "fallout.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[[en.origins]]
+origin = "Fallout 4 Fextralife Wiki"
+origin_base_url = "fallout4.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Fallout 4 Wiki"
+
+[[en.origins]]
+origin = "Fallout 76 Fextralife Wiki"
+origin_base_url = "fallout76.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Fallout 76 Wiki"
+
+[fr]
+origins_label = "L'Abri Fallout Fandom Wiki"
+destination = "Les Archives de Vault-Tec"
+destination_base_url = "fallout-wiki.com"
+destination_platform = "mediawiki"
+destination_icon = "lesarchivesdevaulttec.png"
+destination_main_page = "Accueil"
+destination_search_path = "/index.php"
+destination_content_path = "/"
+
+[[fr.origins]]
+origin = "L'Abri Fallout Fandom Wiki"
+origin_base_url = "fallout.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Accueil"

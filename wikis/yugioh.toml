@@ -1,0 +1,57 @@
+[en]
+origins_label = "Yu-Gi-Oh! Fandom & Neoseeker Wikis"
+destination = "Yugipedia"
+destination_base_url = "yugipedia.com"
+destination_platform = "mediawiki"
+destination_icon = "yugipedia.png"
+destination_main_page = "Yugipedia"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh! Fandom Wiki"
+origin_base_url = "yugioh.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yu-Gi-Oh!_Wiki"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh! Duel Monsters Fandom Wiki"
+origin_base_url = "yugioh-duel-monsters.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yu-Gi-Oh!_Duel_Monsters_Wiki"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh! 5D's Fandom Wiki"
+origin_base_url = "yugioh-5ds.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yugioh_5ds_Wiki"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh! ZEXAL Fandom Wiki"
+origin_base_url = "yugioh-zexal.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yu-Gi-Oh!_ZEXAL_Wiki"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh! ARC-V Fandom Wiki"
+origin_base_url = "yugioh-arcv.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yu-Gi-Oh!_ARC-V_Wiki"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh! VRAINS Fandom Wiki"
+origin_base_url = "yugioh-vrains.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Yu-Gi-Oh!_VRAINS_Wiki"
+
+[[en.origins]]
+origin = "Yugioh SEVENS Fandom Wiki"
+origin_base_url = "yugioh-sevens.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "SEVENS_WIKI"
+
+[[en.origins]]
+origin = "Yu-Gi-Oh Wiki - Neoseeker"
+origin_base_url = "yugioh.neoseeker.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"

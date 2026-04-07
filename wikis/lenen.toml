@@ -1,0 +1,16 @@
+[en]
+origins_label = "Len'en Fandom Wiki"
+destination = "Len'en Wiki"
+destination_base_url = "lenen.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "lenenwiki.png"
+destination_main_page = "Len'en_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Len'en Fandom Wiki"
+origin_base_url = "lenen.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Len'en_Wiki"

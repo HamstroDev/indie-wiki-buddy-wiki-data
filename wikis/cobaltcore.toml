@@ -1,0 +1,16 @@
+[en]
+origins_label = "Cobalt Core Fandom Wiki"
+destination = "Cobalt Core Wiki"
+destination_base_url = "cobaltcore.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "cobaltcorewiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Cobalt Core Fandom Wiki"
+origin_base_url = "cobalt-core.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Cobalt_Core_Wiki"

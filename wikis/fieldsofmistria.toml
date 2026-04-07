@@ -1,0 +1,16 @@
+[en]
+origins_label = "Fields of Mistria Fandom Wiki"
+destination = "Fields of Mistria Wiki"
+destination_base_url = "fieldsofmistria.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "fieldsofmistriawiki.png"
+destination_main_page = "Fields_of_Mistria_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Fields of Mistria Fandom Wiki"
+origin_base_url = "fields-of-mistria.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Fields_of_Mistria_Wiki"

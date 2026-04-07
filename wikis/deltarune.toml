@@ -1,0 +1,53 @@
+[es]
+origins_label = "Deltarune Fandom Wiki"
+destination = "Deltarune Wiki"
+destination_base_url = "es.deltarune.wiki"
+destination_platform = "mediawiki"
+destination_icon = "deltarunewiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/w/"
+
+[[es.origins]]
+origin = "Deltarune Fandom Wiki"
+origin_base_url = "deltarune.fandom.com/es"
+origin_content_path = "/wiki/"
+origin_main_page = "Wikia_Deltarune"
+
+[en]
+origins_label = "Deltarune Fandom Wikis"
+destination = "Deltarune Wiki"
+destination_base_url = "deltarune.wiki"
+destination_platform = "mediawiki"
+destination_icon = "deltarunewiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/w/"
+
+[[en.origins]]
+origin = "Deltarune Fandom Wiki"
+origin_base_url = "deltarune.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Main_Page"
+
+[[en.origins]]
+origin = "Deltarune Fandom Wiki (Archived)"
+origin_base_url = "deltarune-archive.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Deltarune_Wiki"
+
+[zh]
+origins_label = "Deltarune Fandom Wiki"
+destination = "Deltarune Wiki"
+destination_base_url = "zh.deltarune.wiki"
+destination_platform = "mediawiki"
+destination_icon = "deltarunewiki.png"
+destination_main_page = "Deltarune_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/w/"
+
+[[zh.origins]]
+origin = "Deltarune Fandom Wiki"
+origin_base_url = "deltarune.fandom.com/zh"
+origin_content_path = "/wiki/"
+origin_main_page = "Deltarune_Wiki"

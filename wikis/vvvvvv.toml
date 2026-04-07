@@ -1,0 +1,21 @@
+[en]
+origins_label = "VVVVVV Fandom Wikis"
+destination = "Viki"
+destination_base_url = "vsix.dev"
+destination_platform = "mediawiki"
+destination_icon = "viki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/wiki/"
+
+[[en.origins]]
+origin = "VVVVVV Fandom Wiki"
+origin_base_url = "vvvvvv.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "VVVVVV_Wiki"
+
+[[en.origins]]
+origin = "Space Station VVVVVV Fandom Wiki"
+origin_base_url = "spacestation.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "VVVVVV_Wiki"

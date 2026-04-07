@@ -1,0 +1,39 @@
+[en]
+origins_label = "Temtem Fandom Wiki"
+destination = "Temtem Wiki"
+destination_base_url = "temtem.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "officialtemtemwiki.png"
+destination_main_page = "Temtem_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Temtem Fandom Wiki"
+origin_base_url = "temtem.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Temtem_Wiki"
+
+[fr]
+origins_label = "Temtem Fandom Wiki"
+destination = "Temtem Wiki"
+destination_base_url = "temtem.wiki.gg/fr"
+destination_platform = "mediawiki"
+destination_icon = "temtem.png"
+destination_main_page = "Temtem_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[fr.origins]]
+origin = "Temtem Fandom Wiki"
+origin_base_url = "temtem.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Temtem_Wiki"

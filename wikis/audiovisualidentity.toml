@@ -1,0 +1,15 @@
+[en]
+origins_label = "Closing Logo Group Fandom Wiki"
+destination = "Audiovisual Identity Database"
+destination_base_url = "www.avid.wiki"
+destination_platform = "mediawiki"
+destination_icon = "audiovisualidentitydatabase.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/w/index.php"
+destination_content_path = "/"
+
+[[en.origins]]
+origin = "Closing Logo Group Fandom Wiki"
+origin_base_url = "closinglogogroup.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Closing_Logo_Group"

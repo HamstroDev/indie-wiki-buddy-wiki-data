@@ -1,0 +1,16 @@
+[en]
+origins_label = "Leaf Blower Revolution Fandom Wiki"
+destination = "Leaf Blower Revolution Wiki"
+destination_base_url = "leafblowerrevolution.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "leafblowerrevolutionwiki.png"
+destination_main_page = "Leaf_Blower_Revolution_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Leaf Blower Revolution Fandom Wiki"
+origin_base_url = "leaf-blower-revolution.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Leaf_Blower_Revolution_Wiki"

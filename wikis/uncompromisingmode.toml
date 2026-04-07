@@ -1,0 +1,19 @@
+[en]
+origins_label = "Uncompromising Mode Fandom Wiki"
+destination = "Uncompromising Mode Wiki"
+destination_base_url = "uncompromisingmode.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "uncompromisingmodewiki.png"
+destination_main_page = "Uncompromising_Mode_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Uncompromising Mode Fandom Wiki"
+origin_base_url = "uncompromising-mode.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Unrelenting_Mode_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "Remnant 2 Fextralife Wiki"
+destination = "Remnant 2 Wiki"
+destination_base_url = "remnant2.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "theremnant2wiki.png"
+destination_main_page = "Main_Page"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Remnant 2 Fextralife Wiki"
+origin_base_url = "remnant2.wiki.fextralife.com"
+origin_content_path = "/"
+origin_main_page = "Remnant 2 Wiki"

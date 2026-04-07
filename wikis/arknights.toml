@@ -1,0 +1,16 @@
+[en]
+origins_label = "Arknights Fandom Wiki"
+destination = "Arknights Terra Wiki"
+destination_base_url = "arknights.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "arknightswiki.png"
+destination_main_page = "Arknights_Terra_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "Arknights Fandom Wiki"
+origin_base_url = "arknights.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Arknights_Wiki"

@@ -1,0 +1,16 @@
+[en]
+origins_label = "(the) Gnorp Apologue Fandom Wiki"
+destination = "(the) Gnorp Apologue Wiki"
+destination_base_url = "gnorp.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "gnorp.png"
+destination_main_page = "(the)_Gnorp_Apologue_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[en.origins]]
+origin = "(the) Gnorp Apologue Fandom Wiki"
+origin_base_url = "gnorp-apologue.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "(the)_Gnorp_Apologue_Wiki"

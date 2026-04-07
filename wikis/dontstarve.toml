@@ -1,0 +1,36 @@
+[en]
+origins_label = "Don't Starve Fandom Wiki"
+destination = "Don't Starve Wiki"
+destination_base_url = "dontstarve.wiki.gg"
+destination_platform = "mediawiki"
+destination_icon = "dontstarvewiki.png"
+destination_main_page = "Don't_Starve_Wiki"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+tags = [
+    "official",
+]
+
+[[en.origins]]
+origin = "Don't Starve Fandom Wiki"
+origin_base_url = "dontstarve.fandom.com"
+origin_content_path = "/wiki/"
+origin_main_page = "Don't_Starve_Wiki"
+
+[fr]
+origins_label = "Don't Starve Fandom Wiki"
+destination = "Don't Starve Wiki"
+destination_base_url = "dontstarve.wiki.gg/fr"
+destination_platform = "mediawiki"
+destination_icon = "dontstarvewiki.png"
+destination_main_page = "Wiki_Don't_starve"
+destination_search_path = "/index.php"
+destination_content_path = "/wiki/"
+destination_host = "wiki.gg"
+
+[[fr.origins]]
+origin = "Don't Starve Fandom Wiki"
+origin_base_url = "dont-starve.fandom.com/fr"
+origin_content_path = "/wiki/"
+origin_main_page = "Wiki_Don't_starve"
