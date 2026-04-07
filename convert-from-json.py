@@ -1,5 +1,7 @@
 #! /bin/python3
 
+# Helper script to convert the old JSON files to TOML.
+
 import json
 import re
 import os
