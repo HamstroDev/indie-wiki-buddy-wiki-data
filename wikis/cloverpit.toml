@@ -23,3 +23,6 @@ icon = "cloverpit.png"
 mainpage = "CloverPit_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

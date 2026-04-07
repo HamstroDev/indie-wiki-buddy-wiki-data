@@ -17,3 +17,6 @@ icon = "superautopetswiki.png"
 mainpage = "Super_Auto_Pets_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

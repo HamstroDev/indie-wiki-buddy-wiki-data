@@ -17,3 +17,6 @@ icon = "marvelsuperheroesmodwiki.png"
 mainpage = "Marvel_Superheroes_Mod_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

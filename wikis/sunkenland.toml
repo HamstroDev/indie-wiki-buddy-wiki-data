@@ -17,3 +17,6 @@ icon = "sunkenlandwiki.png"
 mainpage = "Sunkenland_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

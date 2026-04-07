@@ -17,3 +17,6 @@ icon = "eastscarpwiki.png"
 mainpage = "East_Scarp_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

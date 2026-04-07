@@ -16,6 +16,9 @@ icon = "starcitizen.png"
 mainpage = "Star_Citizen_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Star Citizen"
@@ -35,3 +38,6 @@ icon = "starcitizen.png"
 mainpage = "Star_Citizen_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "holocurewiki.png"
 mainpage = "HoloCure_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

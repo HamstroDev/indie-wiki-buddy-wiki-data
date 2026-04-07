@@ -17,3 +17,6 @@ icon = "mindhackwiki.png"
 mainpage = "MINDHACK_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

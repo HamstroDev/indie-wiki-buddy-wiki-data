@@ -17,3 +17,6 @@ icon = "junawiki.png"
 mainpage = "Etusivu"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

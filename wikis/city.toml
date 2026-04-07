@@ -17,3 +17,6 @@ icon = "city.png"
 mainpage = "CITY_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

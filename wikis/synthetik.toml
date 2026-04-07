@@ -17,3 +17,6 @@ icon = "synthetikuniversewiki.png"
 mainpage = "SYNTHETIK_Universe_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

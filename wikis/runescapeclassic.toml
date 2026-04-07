@@ -18,4 +18,5 @@ search-path = "/"
 content-path = "/w/"
 tags = [
     "official",
+    "recommended",
 ]

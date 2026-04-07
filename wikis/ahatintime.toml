@@ -17,3 +17,6 @@ icon = "ahatintimewiki.png"
 mainpage = "A_Hat_in_Time_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

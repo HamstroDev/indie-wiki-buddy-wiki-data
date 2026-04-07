@@ -17,3 +17,6 @@ icon = "worldtrigger.png"
 mainpage = "Welcome_to_the_World_Trigger_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

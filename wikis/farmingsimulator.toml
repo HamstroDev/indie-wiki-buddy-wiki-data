@@ -17,3 +17,6 @@ icon = "farmingsimulatorwiki.png"
 mainpage = "Farming_Simulator_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

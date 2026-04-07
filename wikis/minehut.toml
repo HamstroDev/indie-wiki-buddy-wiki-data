@@ -23,3 +23,6 @@ icon = "minehutwiki.png"
 mainpage = "Minehut_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

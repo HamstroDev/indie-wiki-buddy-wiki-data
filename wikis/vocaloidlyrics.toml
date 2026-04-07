@@ -17,3 +17,6 @@ icon = "vocaloidlyrics.png"
 mainpage = "Vocaloid_Lyrics_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

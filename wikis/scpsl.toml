@@ -18,6 +18,7 @@ search-path = "/index.php"
 content-path = "/index.php?title="
 tags = [
     "official",
+    "recommended",
 ]
 
 [en]
@@ -40,4 +41,5 @@ search-path = "/index.php"
 content-path = "/index.php?title="
 tags = [
     "official",
+    "recommended",
 ]

@@ -17,3 +17,6 @@ icon = "titanfallwiki.png"
 mainpage = "Titanfall_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

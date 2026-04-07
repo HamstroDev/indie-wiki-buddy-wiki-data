@@ -17,3 +17,6 @@ icon = "bugfables.png"
 mainpage = "Bug_Fables_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

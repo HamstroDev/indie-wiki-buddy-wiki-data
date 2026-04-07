@@ -17,3 +17,6 @@ icon = "wikigundamfr.png"
 mainpage = "Wiki_Gundam_FR"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

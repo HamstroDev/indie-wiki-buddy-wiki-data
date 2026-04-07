@@ -16,3 +16,6 @@ icon = "treasureadventureworldwiki.png"
 mainpage = "Treasure_Adventure_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

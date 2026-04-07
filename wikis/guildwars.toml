@@ -18,6 +18,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [fr]
@@ -38,3 +39,6 @@ icon = "guildwarswiki.png"
 mainpage = "Accueil"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

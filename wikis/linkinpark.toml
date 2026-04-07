@@ -16,3 +16,6 @@ icon = "linkinpedia.png"
 mainpage = "Main_Page"
 search-path = "/www/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

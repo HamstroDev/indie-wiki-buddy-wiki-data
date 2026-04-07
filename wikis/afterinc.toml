@@ -17,3 +17,6 @@ icon = "afterincwiki.png"
 mainpage = "After_Inc._Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

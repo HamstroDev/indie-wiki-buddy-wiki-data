@@ -22,6 +22,9 @@ icon = "wikibound.png"
 mainpage = "WikiBound"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [it]
 name = "EarthBound"
@@ -41,3 +44,6 @@ icon = "wikibound.png"
 mainpage = "Pagina_principale"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

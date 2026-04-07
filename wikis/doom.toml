@@ -22,3 +22,6 @@ icon = "doomwiki.png"
 mainpage = "Entryway"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

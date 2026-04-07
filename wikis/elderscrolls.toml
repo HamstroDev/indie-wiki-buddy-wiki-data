@@ -70,6 +70,9 @@ icon = "uesp.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [pt]
 name = "Elder Scrolls"
@@ -89,3 +92,6 @@ icon = "uesp.png"
 mainpage = "Página_Principal"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

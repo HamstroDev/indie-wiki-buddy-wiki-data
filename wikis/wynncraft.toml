@@ -17,3 +17,6 @@ icon = "wynncraftwiki.png"
 mainpage = "Wynncraft_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

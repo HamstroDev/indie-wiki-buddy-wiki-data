@@ -17,3 +17,6 @@ icon = "twicepedia.png"
 mainpage = "TWICEpedia"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

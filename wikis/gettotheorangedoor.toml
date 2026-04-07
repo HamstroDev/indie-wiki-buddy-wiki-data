@@ -17,3 +17,6 @@ icon = "gttodwiki.png"
 mainpage = "Get_To_The_Orange_Door_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

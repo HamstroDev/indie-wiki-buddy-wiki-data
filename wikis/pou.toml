@@ -18,6 +18,9 @@ mainpage = "Poupedia"
 search-path = "/w/index.php"
 content-path = "/"
 content-suffix = "/ru"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Pou"
@@ -38,6 +41,9 @@ icon = "poupedia.png"
 mainpage = "Poupedia"
 search-path = "/w/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [hr]
 name = "Pou"
@@ -59,3 +65,6 @@ mainpage = "Poupedia"
 search-path = "/w/index.php"
 content-path = "/"
 content-suffix = "/hr"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "epicbattlefantasywiki.png"
 mainpage = "Epic_Battle_Fantasy_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

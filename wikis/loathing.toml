@@ -17,3 +17,6 @@ icon = "wikiofloathing.png"
 mainpage = "Wiki_of_Loathing"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

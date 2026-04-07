@@ -34,6 +34,9 @@ icon = "rayman.png"
 mainpage = "Main_Page"
 search-path = "/wiki/script-en/index.php"
 content-path = "/wiki/en/"
+tags = [
+    "recommended",
+]
 
 [pl]
 name = "Rayman"
@@ -53,3 +56,6 @@ icon = "rayman.png"
 mainpage = "Strona_główna"
 search-path = "/wiki/script-pl/index.php"
 content-path = "/wiki/pl/"
+tags = [
+    "recommended",
+]

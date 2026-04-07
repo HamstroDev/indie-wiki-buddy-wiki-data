@@ -17,3 +17,6 @@ icon = "mappercraftwiki.png"
 mainpage = "Mappercraft_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

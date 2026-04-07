@@ -18,6 +18,9 @@ mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
 content-suffix = "/de"
+tags = [
+    "recommended",
+]
 
 [ru]
 name = "Lethal Company"
@@ -39,6 +42,9 @@ mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
 content-suffix = "/ru"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Lethal Company"
@@ -59,6 +65,9 @@ icon = "lethalcompany.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Lethal Company"
@@ -80,3 +89,6 @@ mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
 content-suffix = "/fr"
+tags = [
+    "recommended",
+]

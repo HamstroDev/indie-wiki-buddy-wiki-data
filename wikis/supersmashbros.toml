@@ -16,6 +16,9 @@ icon = "smashpedia.png"
 mainpage = "SmashPedia"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Super Smash Bros."
@@ -41,3 +44,6 @@ icon = "smashwiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

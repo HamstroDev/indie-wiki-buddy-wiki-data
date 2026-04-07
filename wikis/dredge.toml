@@ -17,3 +17,6 @@ icon = "dredgewiki.png"
 mainpage = "DREDGE_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

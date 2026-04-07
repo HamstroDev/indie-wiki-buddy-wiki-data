@@ -16,6 +16,9 @@ icon = "sithpedi.png"
 mainpage = "Anasayfa"
 search-path = "/wiki/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fi]
 name = "Jedipedia"
@@ -36,3 +39,6 @@ icon = "jedipedia.png"
 mainpage = "Etusivu"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "dofuswiki.png"
 mainpage = "Accueil"
 search-path = "/w"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

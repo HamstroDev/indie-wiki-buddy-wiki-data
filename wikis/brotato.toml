@@ -16,3 +16,6 @@ icon = "brotatowiki.png"
 mainpage = "Brotato_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

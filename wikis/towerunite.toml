@@ -17,3 +17,6 @@ icon = "towerunitewiki.png"
 mainpage = "Tower_Unite_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

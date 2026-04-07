@@ -16,3 +16,6 @@ icon = "mtgwiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/page/"
+tags = [
+    "recommended",
+]

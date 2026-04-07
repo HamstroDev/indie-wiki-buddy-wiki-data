@@ -16,3 +16,6 @@ icon = "dragonquest.png"
 mainpage = "Wiki_Dragon_Quest"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

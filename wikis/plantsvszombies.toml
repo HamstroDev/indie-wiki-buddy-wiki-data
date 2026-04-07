@@ -17,6 +17,9 @@ icon = "plantsvszombieswiki.png"
 mainpage = "Plants_vs._Zombies_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Plants vs. Zombies"
@@ -37,3 +40,6 @@ icon = "plantsvszombieswiki.png"
 mainpage = "植物大战僵尸百科"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

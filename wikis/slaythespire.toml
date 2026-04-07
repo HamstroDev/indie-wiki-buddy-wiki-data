@@ -17,3 +17,6 @@ icon = "slaythespirewiki.png"
 mainpage = "Slay_the_Spire_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

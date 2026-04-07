@@ -17,3 +17,6 @@ icon = "palworldwiki.png"
 mainpage = "Palworld_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

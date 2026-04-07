@@ -16,6 +16,9 @@ icon = "zeldapendium.png"
 mainpage = "Zeldapendium:Hauptseite"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Zelda"
@@ -53,6 +56,9 @@ icon = "zeldapedia.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "ZeldaWiki"
@@ -72,3 +78,6 @@ icon = "zeldawiki.png"
 mainpage = "Zelda_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

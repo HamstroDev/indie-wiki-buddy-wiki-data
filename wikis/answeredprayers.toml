@@ -17,3 +17,6 @@ mainpage = "Answered_Prayers_Wiki"
 search-path = "/index.php"
 content-path = "/"
 content-prefix = "Answered_Prayers:"
+tags = [
+    "recommended",
+]

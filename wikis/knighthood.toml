@@ -17,3 +17,6 @@ icon = "knighthoodwiki.png"
 mainpage = "Knighthood_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

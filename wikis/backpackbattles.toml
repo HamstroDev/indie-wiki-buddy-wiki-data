@@ -17,3 +17,6 @@ icon = "backpackbattleswiki.png"
 mainpage = "Backpack_Battles_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

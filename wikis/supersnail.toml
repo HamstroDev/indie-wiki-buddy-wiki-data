@@ -17,3 +17,6 @@ icon = "supersnailwiki.png"
 mainpage = "Super_Snail_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

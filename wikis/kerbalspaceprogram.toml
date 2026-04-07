@@ -18,6 +18,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [fr]
@@ -41,4 +42,5 @@ content-path = "/wiki/"
 content-suffix = "/fr"
 tags = [
     "official",
+    "recommended",
 ]

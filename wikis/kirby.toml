@@ -22,6 +22,9 @@ icon = "wikirby.png"
 mainpage = "Kirby_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Kirby"
@@ -41,3 +44,6 @@ icon = "kirby.png"
 mainpage = "Accueil"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

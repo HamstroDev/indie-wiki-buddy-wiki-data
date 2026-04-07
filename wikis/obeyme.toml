@@ -16,3 +16,6 @@ icon = "obeymewiki.png"
 mainpage = "Main"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

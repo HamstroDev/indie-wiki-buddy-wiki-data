@@ -17,3 +17,6 @@ icon = "dragonvillageserieswiki.png"
 mainpage = "Dragon_Village_Series_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

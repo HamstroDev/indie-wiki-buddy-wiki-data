@@ -17,3 +17,6 @@ icon = "groundedwiki.png"
 mainpage = "Grounded_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

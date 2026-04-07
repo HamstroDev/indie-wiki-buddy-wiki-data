@@ -17,3 +17,6 @@ icon = "tempestrisingwiki.png"
 mainpage = "Tempest_Rising_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

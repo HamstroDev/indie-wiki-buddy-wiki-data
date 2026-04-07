@@ -17,3 +17,6 @@ icon = "undertaleyellowwiki.png"
 mainpage = "Undertale_Yellow_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

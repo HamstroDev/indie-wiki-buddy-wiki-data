@@ -17,3 +17,6 @@ icon = "iwannalockpick.png"
 mainpage = "I_Wanna_Lockpick_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

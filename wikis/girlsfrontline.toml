@@ -16,3 +16,6 @@ icon = "iopwiki.png"
 mainpage = "IOP_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

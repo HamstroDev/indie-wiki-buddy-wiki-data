@@ -16,3 +16,6 @@ icon = "detektivconan.png"
 mainpage = "Hauptseite"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

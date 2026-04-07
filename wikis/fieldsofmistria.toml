@@ -17,3 +17,6 @@ icon = "fieldsofmistriawiki.png"
 mainpage = "Fields_of_Mistria_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

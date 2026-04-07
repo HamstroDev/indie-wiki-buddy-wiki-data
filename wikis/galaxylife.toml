@@ -17,3 +17,6 @@ icon = "galaxylifewiki.png"
 mainpage = "Galaxy_Life_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

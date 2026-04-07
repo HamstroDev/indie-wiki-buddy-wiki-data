@@ -17,3 +17,6 @@ icon = "realspace4pivotanimationwiki.png"
 mainpage = "Real_Space_4_Pivot_Animation_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

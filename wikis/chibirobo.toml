@@ -16,3 +16,6 @@ icon = "chibirobowiki.png"
 mainpage = "Chibi-Robo_Wiki"
 search-path = "/w/"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

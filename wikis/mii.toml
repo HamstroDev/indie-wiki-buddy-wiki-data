@@ -16,3 +16,6 @@ icon = "miiwiki.png"
 mainpage = "Mii_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

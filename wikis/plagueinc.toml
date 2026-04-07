@@ -17,3 +17,6 @@ icon = "plagueincwiki.png"
 mainpage = "Plague_Inc._Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

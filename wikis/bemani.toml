@@ -34,3 +34,6 @@ icon = "remywiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

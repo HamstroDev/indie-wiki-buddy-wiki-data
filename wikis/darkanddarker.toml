@@ -16,3 +16,6 @@ icon = "darkanddarkerwiki.png"
 mainpage = "Dark_and_Darker_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

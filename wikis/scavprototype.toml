@@ -17,3 +17,6 @@ icon = "scavprototypewiki.png"
 mainpage = "Scav_Prototype_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

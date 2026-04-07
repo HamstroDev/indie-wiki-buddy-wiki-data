@@ -17,3 +17,6 @@ icon = "towerfallwiki.png"
 mainpage = "TowerFall_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

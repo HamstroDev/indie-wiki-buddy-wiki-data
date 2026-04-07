@@ -17,6 +17,9 @@ icon = "southparkwiki.png"
 mainpage = "South_Park_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Wiki South Park"
@@ -37,6 +40,9 @@ icon = "wikisouthpark.png"
 mainpage = "South_Park_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "South Park Public Library on Fandom"
@@ -57,3 +63,6 @@ icon = "southparkarchives.png"
 mainpage = "South_Park_Archives"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

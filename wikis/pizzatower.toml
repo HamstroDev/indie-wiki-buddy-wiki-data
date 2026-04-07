@@ -17,3 +17,6 @@ icon = "pizzatowerwiki.png"
 mainpage = "Pizza_Tower_Wiki:Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

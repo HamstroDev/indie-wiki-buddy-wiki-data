@@ -16,3 +16,6 @@ icon = "wizard101wiki.png"
 mainpage = "Wizard101_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

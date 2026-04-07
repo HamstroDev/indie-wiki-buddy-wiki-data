@@ -16,3 +16,6 @@ icon = "dragalialost.png"
 mainpage = "Dragalia_Lost_Wiki"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

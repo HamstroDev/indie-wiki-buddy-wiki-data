@@ -16,6 +16,9 @@ icon = "touhouwiki.png"
 mainpage = "Touhou_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [ru]
 name = "Touhou"
@@ -35,6 +38,9 @@ icon = "touhouwiki.png"
 mainpage = "Заглавная_страница"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Touhou"
@@ -54,6 +60,9 @@ icon = "touhouwiki.png"
 mainpage = "Touhou_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Touhou"
@@ -73,6 +82,9 @@ icon = "touhouwiki.png"
 mainpage = "Touhou_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [pl]
 name = "Touhou"
@@ -92,6 +104,9 @@ icon = "touhouwiki.png"
 mainpage = "Touhou_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Touhou"
@@ -111,6 +126,9 @@ icon = "touhouwiki.png"
 mainpage = "東方維基"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Touhou"
@@ -130,3 +148,6 @@ icon = "touhouwiki.png"
 mainpage = "Touhou_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

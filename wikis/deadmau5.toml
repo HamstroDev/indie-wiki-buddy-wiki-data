@@ -17,3 +17,6 @@ icon = "deadmau5wiki.png"
 mainpage = "Deadmau5_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

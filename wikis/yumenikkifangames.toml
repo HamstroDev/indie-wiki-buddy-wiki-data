@@ -16,3 +16,6 @@ icon = "yumenikkifanwiki.png"
 mainpage = "Yume_Nikki_Fangames_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

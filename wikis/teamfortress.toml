@@ -19,6 +19,7 @@ content-path = "/wiki/"
 content-suffix = "/es"
 tags = [
     "official",
+    "recommended",
 ]
 
 [en]
@@ -41,6 +42,7 @@ search-path = "/w/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [pt]
@@ -64,6 +66,7 @@ content-path = "/wiki/"
 content-suffix = "/pt-br"
 tags = [
     "official",
+    "recommended",
 ]
 
 [pl]
@@ -87,4 +90,5 @@ content-path = "/wiki/"
 content-suffix = "/pl"
 tags = [
     "official",
+    "recommended",
 ]

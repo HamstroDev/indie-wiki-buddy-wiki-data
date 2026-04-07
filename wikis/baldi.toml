@@ -17,3 +17,6 @@ icon = "baldiwiki.png"
 mainpage = "Baldi%27s_Basics_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

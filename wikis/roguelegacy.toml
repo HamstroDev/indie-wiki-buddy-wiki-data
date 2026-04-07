@@ -17,3 +17,6 @@ icon = "roguelegacywiki.png"
 mainpage = "Rogue_Legacy_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "ffxiv.png"
 mainpage = "FF14_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,6 +17,9 @@ icon = "acecombatwiki.png"
 mainpage = "Ace_Combat_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [pt]
 name = "Ace Combat"
@@ -37,6 +40,9 @@ icon = "acecombatwiki.png"
 mainpage = "Página_principal"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [ja]
 name = "ACES"
@@ -57,6 +63,9 @@ icon = "aceswiki.png"
 mainpage = "ACES_WIKI"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "空戰奇兵"
@@ -77,3 +86,6 @@ icon = "acecombatwiki.png"
 mainpage = "Ace_Combat_中文_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

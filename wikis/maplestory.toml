@@ -22,3 +22,6 @@ icon = "maplestory.png"
 mainpage = "MapleStory_Wiki"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

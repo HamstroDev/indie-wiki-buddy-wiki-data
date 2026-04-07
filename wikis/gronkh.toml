@@ -16,3 +16,6 @@ icon = "gronkhwiki.png"
 mainpage = "Hauptseite"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

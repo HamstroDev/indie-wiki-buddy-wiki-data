@@ -17,3 +17,6 @@ icon = "milkserieswiki.png"
 mainpage = "Milk_Series_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

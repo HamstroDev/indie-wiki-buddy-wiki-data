@@ -17,3 +17,6 @@ icon = "dashboredwiki.png"
 mainpage = "DashBored_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

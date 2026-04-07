@@ -52,3 +52,6 @@ icon = "friendsatthetable.png"
 mainpage = "Main_Page"
 search-path = "/wiki/index.php"
 content-path = "/view/"
+tags = [
+    "recommended",
+]

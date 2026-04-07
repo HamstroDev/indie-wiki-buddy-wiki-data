@@ -40,6 +40,9 @@ icon = "fallout.png"
 mainpage = "Fallout_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "L'Abri Fallout"
@@ -59,3 +62,6 @@ icon = "lesarchivesdevaulttec.png"
 mainpage = "Accueil"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

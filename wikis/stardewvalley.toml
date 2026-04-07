@@ -16,6 +16,9 @@ icon = "stardewvalley.png"
 mainpage = "Stardew_Valley_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Stardew Valley"
@@ -35,6 +38,9 @@ icon = "stardewvalley.png"
 mainpage = "Stardew_Valley_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Stardew Valley"
@@ -56,6 +62,7 @@ search-path = "/mediawiki/index.php"
 content-path = "/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [fr]
@@ -78,4 +85,5 @@ search-path = "/mediawiki/index.php"
 content-path = "/"
 tags = [
     "official",
+    "recommended",
 ]

@@ -17,3 +17,6 @@ icon = "nightmarereaperwiki.png"
 mainpage = "Nightmare_Reaper_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

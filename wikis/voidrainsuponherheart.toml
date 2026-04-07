@@ -17,3 +17,6 @@ icon = "thevoidrainsuponherheartwiki.png"
 mainpage = "The_Void_Rains_Upon_Her_Heart_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

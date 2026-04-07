@@ -17,3 +17,6 @@ icon = "exapicowiki.png"
 mainpage = "The_EXA_PICO_Universe_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "gexpedia.png"
 mainpage = "Gexpedia"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

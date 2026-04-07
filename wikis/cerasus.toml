@@ -17,3 +17,6 @@ mainpage = "Cerasus_Wiki"
 search-path = "/index.php"
 content-path = "/"
 content-prefix = "Cerasus:"
+tags = [
+    "recommended",
+]

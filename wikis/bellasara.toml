@@ -17,3 +17,6 @@ icon = "bellasarawiki.png"
 mainpage = "The_Bella_Sara_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

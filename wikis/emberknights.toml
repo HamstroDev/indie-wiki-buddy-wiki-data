@@ -17,3 +17,6 @@ icon = "emberknightswiki.png"
 mainpage = "Ember_Knights_-_Game_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

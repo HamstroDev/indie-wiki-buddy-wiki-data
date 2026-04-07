@@ -17,3 +17,6 @@ icon = "riskofrain2wiki.png"
 mainpage = "Risk_of_Rain_2_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "webfishingwiki.png"
 mainpage = "WEBFISHING_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

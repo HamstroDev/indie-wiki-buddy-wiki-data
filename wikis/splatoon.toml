@@ -16,6 +16,9 @@ icon = "inkipedia.png"
 mainpage = "Página_principal"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Splatoon"
@@ -35,6 +38,9 @@ icon = "inkipedia.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Splatoon"
@@ -54,3 +60,6 @@ icon = "inkipedia.png"
 mainpage = "Accueil"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

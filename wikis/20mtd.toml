@@ -17,3 +17,6 @@ icon = "20mtd.png"
 mainpage = "20_Minutes_Till_Dawn_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

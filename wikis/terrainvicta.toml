@@ -25,4 +25,5 @@ search-path = "/index.php"
 content-path = "/"
 tags = [
     "official",
+    "recommended",
 ]

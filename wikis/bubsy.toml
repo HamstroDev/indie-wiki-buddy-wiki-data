@@ -17,3 +17,6 @@ icon = "bubsypedia.png"
 mainpage = "Bubsypedia"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

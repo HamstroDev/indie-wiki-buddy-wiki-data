@@ -17,3 +17,6 @@ mainpage = "Braingirl_Wiki"
 search-path = "/index.php"
 content-path = "/"
 content-prefix = "Braingirl:"
+tags = [
+    "recommended",
+]

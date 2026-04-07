@@ -16,3 +16,6 @@ icon = "coasterpedia.png"
 mainpage = "Coasterpedia_The_Roller_Coaster_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

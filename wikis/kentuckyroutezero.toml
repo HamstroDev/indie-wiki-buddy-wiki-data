@@ -16,3 +16,6 @@ icon = "highway0.png"
 mainpage = "Main_Page"
 search-path = "/~donald/zero/index.php"
 content-path = "/~donald/zero/"
+tags = [
+    "recommended",
+]

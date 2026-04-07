@@ -16,3 +16,6 @@ icon = "mushureport.png"
 mainpage = "Mushu_Report"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

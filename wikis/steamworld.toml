@@ -17,3 +17,6 @@ icon = "steamworldwiki.png"
 mainpage = "SteamWorld_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

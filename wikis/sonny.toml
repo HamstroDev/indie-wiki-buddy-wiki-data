@@ -17,3 +17,6 @@ icon = "sonnywiki.png"
 mainpage = "Sonny_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

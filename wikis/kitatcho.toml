@@ -17,3 +17,6 @@ icon = "kitatchowiki.png"
 mainpage = "The_Kitatcho_Laboratories_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

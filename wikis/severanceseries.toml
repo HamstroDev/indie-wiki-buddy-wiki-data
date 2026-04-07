@@ -16,3 +16,6 @@ icon = "severancewiki.png"
 mainpage = "Start"
 search-path = "/doku.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

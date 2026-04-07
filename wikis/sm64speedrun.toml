@@ -16,3 +16,6 @@ icon = "ukikipedia.png"
 mainpage = "Main_Page"
 search-path = "/mediawiki/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

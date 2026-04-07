@@ -17,3 +17,6 @@ icon = "leafblowerrevolutionwiki.png"
 mainpage = "Leaf_Blower_Revolution_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

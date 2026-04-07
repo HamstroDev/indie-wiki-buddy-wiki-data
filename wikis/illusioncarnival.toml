@@ -17,3 +17,6 @@ icon = "illusioncarnivalwiki.png"
 mainpage = "Illusion_Carnival_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

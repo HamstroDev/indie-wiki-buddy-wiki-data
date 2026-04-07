@@ -17,3 +17,6 @@ icon = "bladeandsorcery.png"
 mainpage = "Blade_%26_Sorcery_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

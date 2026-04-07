@@ -17,3 +17,6 @@ icon = "toontown.png"
 mainpage = "Toontown_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

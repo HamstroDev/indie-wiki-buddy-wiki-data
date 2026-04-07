@@ -58,6 +58,9 @@ icon = "supermariowiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [it]
 name = "Mario"
@@ -77,6 +80,9 @@ icon = "supermariowiki.png"
 mainpage = "Pagina_principale"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Mario"
@@ -96,3 +102,6 @@ icon = "mario.png"
 mainpage = "Wiki_Mario"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

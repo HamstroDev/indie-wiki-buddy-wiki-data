@@ -17,3 +17,6 @@ icon = "wesleysroguelikedungeonsmodwiki.png"
 mainpage = "Wesley's_Roguelike_Dungeons_mod_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

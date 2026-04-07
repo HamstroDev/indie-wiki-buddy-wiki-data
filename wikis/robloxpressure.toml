@@ -25,4 +25,5 @@ search-path = "/w/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]

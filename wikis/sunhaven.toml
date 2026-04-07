@@ -17,3 +17,6 @@ icon = "sunhavenwiki.png"
 mainpage = "Sun_Haven_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

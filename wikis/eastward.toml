@@ -16,3 +16,6 @@ icon = "eastwardwiki.png"
 mainpage = "Eastward_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

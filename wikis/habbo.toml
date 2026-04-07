@@ -16,3 +16,6 @@ icon = "habboxwiki.png"
 mainpage = "Main_Page"
 search-path = "/wiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "necessewiki.png"
 mainpage = "Main_Page"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

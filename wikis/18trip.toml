@@ -17,3 +17,6 @@ icon = "18tripwiki.png"
 mainpage = "18TRIP_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

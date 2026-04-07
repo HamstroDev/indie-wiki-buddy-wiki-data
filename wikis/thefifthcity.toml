@@ -16,3 +16,6 @@ icon = "thefifthcitywiki.png"
 mainpage = "The_Fifth_City:_the_Neath's_Lore_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

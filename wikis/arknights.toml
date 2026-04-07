@@ -17,3 +17,6 @@ icon = "arknightswiki.png"
 mainpage = "Arknights_Terra_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

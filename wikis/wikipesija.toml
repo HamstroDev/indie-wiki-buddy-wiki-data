@@ -16,3 +16,6 @@ icon = "wikipesija.png"
 mainpage = "lipu_open"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

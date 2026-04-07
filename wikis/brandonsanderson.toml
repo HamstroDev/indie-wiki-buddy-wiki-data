@@ -22,3 +22,6 @@ icon = "coppermind.png"
 mainpage = "Coppermind:Welcome"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

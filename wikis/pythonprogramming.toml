@@ -18,4 +18,5 @@ search-path = "/moin/"
 content-path = "/moin/"
 tags = [
     "official",
+    "recommended",
 ]

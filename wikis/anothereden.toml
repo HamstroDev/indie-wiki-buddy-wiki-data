@@ -16,3 +16,6 @@ icon = "anothereden.png"
 mainpage = "Another_Eden_Wiki"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

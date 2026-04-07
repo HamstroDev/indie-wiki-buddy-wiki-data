@@ -17,3 +17,6 @@ icon = "deathbattlewiki.png"
 mainpage = "DEATH_BATTLE!_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

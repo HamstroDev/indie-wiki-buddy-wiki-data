@@ -16,3 +16,6 @@ icon = "boxboywiki.png"
 mainpage = "BOXBOY_WIKI!"
 search-path = "/mw/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

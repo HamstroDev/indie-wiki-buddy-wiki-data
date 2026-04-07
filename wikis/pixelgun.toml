@@ -17,3 +17,6 @@ icon = "pixelgun3dwiki.png"
 mainpage = "Pixel_Gun_3D_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

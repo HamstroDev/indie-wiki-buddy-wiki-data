@@ -17,3 +17,6 @@ icon = "houkaigakuen2wiki.png"
 mainpage = "Houkai_Gakuen_2_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

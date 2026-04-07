@@ -16,3 +16,6 @@ icon = "balatro.png"
 mainpage = ""
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "ninesolswiki.png"
 mainpage = "Nine_Sols_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

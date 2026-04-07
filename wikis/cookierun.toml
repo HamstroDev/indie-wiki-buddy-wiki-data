@@ -34,3 +34,6 @@ icon = "cookierunwiki.png"
 mainpage = "Cookie_Run_Wiki"
 search-path = "/mw/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

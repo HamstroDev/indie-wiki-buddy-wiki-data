@@ -17,3 +17,6 @@ icon = "skibiditoiletwiki.png"
 mainpage = "Skibidi_Toilet_Wiki"
 search-path = "/w/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

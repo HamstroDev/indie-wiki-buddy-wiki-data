@@ -22,3 +22,6 @@ icon = "avakotwiki.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

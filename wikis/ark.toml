@@ -19,6 +19,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [ru]
@@ -42,6 +43,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [th]
@@ -65,6 +67,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [es]
@@ -88,6 +91,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [en]
@@ -117,6 +121,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [pt]
@@ -140,6 +145,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [ja]
@@ -163,6 +169,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [it]
@@ -186,6 +193,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [pl]
@@ -209,6 +217,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [fr]
@@ -232,4 +241,5 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]

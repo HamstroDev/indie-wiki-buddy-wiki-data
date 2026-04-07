@@ -16,6 +16,9 @@ icon = "awikioficeandfire.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/index.php/"
+tags = [
+    "recommended",
+]
 
 [pt]
 name = "Game of Thrones"
@@ -35,6 +38,9 @@ icon = "gameofthrones.png"
 mainpage = "Página_principal"
 search-path = "/index.php"
 content-path = "/index.php/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Game of Thrones"
@@ -54,3 +60,6 @@ icon = "gameofthrones.png"
 mainpage = "Accueil"
 search-path = "/index.php"
 content-path = "/index.php?title="
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "xenharmonicwiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

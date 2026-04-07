@@ -16,3 +16,6 @@ icon = "cookiewiki.png"
 mainpage = "首页"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

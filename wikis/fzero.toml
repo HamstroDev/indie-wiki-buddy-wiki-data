@@ -22,3 +22,6 @@ icon = "fzero.png"
 mainpage = "F-Zero_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

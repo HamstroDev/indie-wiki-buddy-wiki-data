@@ -17,3 +17,6 @@ icon = "utanoprincesama.png"
 mainpage = "Uta_no_Prince-sama_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

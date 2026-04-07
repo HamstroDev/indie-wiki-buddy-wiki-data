@@ -16,3 +16,6 @@ icon = "tinyrogueswiki.png"
 mainpage = "Main_Page"
 search-path = "/wiki/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

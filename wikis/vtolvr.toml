@@ -17,3 +17,6 @@ icon = "vtolvr.png"
 mainpage = "VTOL_VR_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

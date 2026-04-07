@@ -17,3 +17,6 @@ icon = "pokemoninfinity.png"
 mainpage = "Pokemon_Infinity_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

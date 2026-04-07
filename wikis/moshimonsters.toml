@@ -17,3 +17,6 @@ icon = "moshimonsterswiki.png"
 mainpage = "Moshi_Monsters_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

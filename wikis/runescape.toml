@@ -24,6 +24,7 @@ search-path = "/"
 content-path = "/w/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [pt]
@@ -44,3 +45,6 @@ icon = "runescape.png"
 mainpage = "RuneScape_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

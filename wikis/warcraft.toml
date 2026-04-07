@@ -35,3 +35,6 @@ icon = "warcraftwiki.png"
 mainpage = "Warcraft_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

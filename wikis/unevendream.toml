@@ -17,3 +17,6 @@ mainpage = "Uneven_Dream_Wiki"
 search-path = "/index.php"
 content-path = "/"
 content-prefix = "Uneven_Dream:"
+tags = [
+    "recommended",
+]

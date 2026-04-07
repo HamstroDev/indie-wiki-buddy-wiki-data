@@ -16,3 +16,6 @@ icon = "wapopedia.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/en/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "lobotomycorporationwiki.png"
 mainpage = "Lobotomy_Corporation_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

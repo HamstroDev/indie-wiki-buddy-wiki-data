@@ -17,3 +17,6 @@ icon = "monsterpromwiki.png"
 mainpage = "Monster_Prom_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

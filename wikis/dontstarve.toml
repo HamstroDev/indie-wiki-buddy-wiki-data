@@ -19,6 +19,7 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]
 
 [fr]
@@ -40,3 +41,6 @@ icon = "dontstarvewiki.png"
 mainpage = "Wiki_Don't_starve"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

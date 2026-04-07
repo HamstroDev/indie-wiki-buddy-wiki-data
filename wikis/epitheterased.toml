@@ -16,3 +16,6 @@ icon = "epitheterasedwiki.png"
 mainpage = "Epithet_Erased_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

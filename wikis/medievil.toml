@@ -16,3 +16,6 @@ icon = "gallowpedia.png"
 mainpage = "Gallowpedia"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

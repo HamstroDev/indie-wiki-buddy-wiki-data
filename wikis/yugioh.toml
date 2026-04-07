@@ -58,3 +58,6 @@ icon = "yugipedia.png"
 mainpage = "Yugipedia"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

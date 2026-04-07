@@ -16,3 +16,6 @@ icon = "deadlock.png"
 mainpage = "Deadlock_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

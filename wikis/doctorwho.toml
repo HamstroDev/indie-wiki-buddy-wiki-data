@@ -70,6 +70,9 @@ icon = "tardiswiki.png"
 mainpage = "Doctor_Who_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Doctor Who"
@@ -89,3 +92,6 @@ icon = "tardiswiki.png"
 mainpage = "Tardis百科"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

@@ -17,6 +17,9 @@ icon = "clashofclans.png"
 mainpage = "Wiki_Clash_of_Clans_en_Español"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Clash of Clans"
@@ -36,3 +39,6 @@ icon = "clashofclans.png"
 mainpage = "Accueil"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

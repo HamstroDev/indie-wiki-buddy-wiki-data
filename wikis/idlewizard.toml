@@ -17,3 +17,6 @@ icon = "idlewizardwiki.png"
 mainpage = "Idle_Wizard_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "mcciwiki.png"
 mainpage = "Home"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

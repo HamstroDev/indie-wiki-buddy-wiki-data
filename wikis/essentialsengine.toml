@@ -17,3 +17,6 @@ icon = "essentialsenginewiki.png"
 mainpage = "Essentials_Engine_wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

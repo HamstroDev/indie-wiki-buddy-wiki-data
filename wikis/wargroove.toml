@@ -16,3 +16,6 @@ icon = "wargroovewiki.png"
 mainpage = "Wargroove_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

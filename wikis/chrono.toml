@@ -22,3 +22,6 @@ icon = "chrono.png"
 mainpage = "Chrono_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,6 +17,9 @@ icon = "fridaynightfunkinwiki.png"
 mainpage = "Friday_Night_Funkin'_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [ja]
 name = "Friday Night Funkin'"
@@ -37,6 +40,9 @@ icon = "fridaynightfunkinwiki.png"
 mainpage = "Friday_Night_Funkin'_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Friday Night Funkin'"
@@ -57,3 +63,6 @@ icon = "fridaynightfunkinwiki.png"
 mainpage = "Friday_Night_Funkin'_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

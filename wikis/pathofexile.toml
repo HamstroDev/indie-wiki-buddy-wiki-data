@@ -16,3 +16,6 @@ icon = "pathofexile.png"
 mainpage = "Path_of_Exile_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "astreawiki.png"
 mainpage = "Astrea_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

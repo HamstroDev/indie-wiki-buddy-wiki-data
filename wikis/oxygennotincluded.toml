@@ -17,3 +17,6 @@ icon = "oxygennotincluded.png"
 mainpage = "Oxygen_Not_Included_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

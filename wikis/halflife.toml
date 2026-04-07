@@ -17,6 +17,9 @@ mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
 content-suffix = "/ru"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Half-Life & Portal"
@@ -37,6 +40,9 @@ mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
 content-suffix = "/es"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Half-Life"
@@ -62,6 +68,9 @@ icon = "combine.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [pl]
 name = "Half-Life"
@@ -82,6 +91,9 @@ mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
 content-suffix = "/pl"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Half-Life"
@@ -102,3 +114,6 @@ mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
 content-suffix = "/zh-hans"
+tags = [
+    "recommended",
+]

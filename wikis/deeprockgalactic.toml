@@ -17,6 +17,9 @@ icon = "deeprockgalacticwiki.png"
 mainpage = "Deep_Rock_Galactic_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Deep Rock Galactic"
@@ -39,4 +42,5 @@ search-path = "/index.php"
 content-path = "/wiki/"
 tags = [
     "official",
+    "recommended",
 ]

@@ -17,3 +17,6 @@ icon = "adventurezonewiki.png"
 mainpage = "The_Adventure_Zone_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

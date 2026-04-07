@@ -17,3 +17,6 @@ icon = "guiltygearwiki.png"
 mainpage = "Guilty_Gear_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

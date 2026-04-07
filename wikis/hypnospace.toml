@@ -17,3 +17,6 @@ icon = "hypnospacewiki.png"
 mainpage = "Hypnospace_Outlaw_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "gineipaedia.png"
 mainpage = "Portal:Main"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

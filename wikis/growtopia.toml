@@ -16,3 +16,6 @@ icon = "growtopiawiki.png"
 mainpage = "Growtopia Wiki"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

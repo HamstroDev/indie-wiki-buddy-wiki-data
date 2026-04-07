@@ -16,3 +16,6 @@ icon = "knucklecrackerwiki.png"
 mainpage = "start"
 search-path = "/wiki/doku.php"
 content-path = "/wiki/doku.php?id="
+tags = [
+    "recommended",
+]

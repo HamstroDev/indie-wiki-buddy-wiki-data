@@ -17,3 +17,6 @@ icon = "gtfowiki.png"
 mainpage = "GTFO_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

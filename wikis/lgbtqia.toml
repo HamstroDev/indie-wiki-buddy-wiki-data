@@ -16,3 +16,6 @@ icon = "lgbtqiawiki.png"
 mainpage = "Main_Page"
 search-path = "/w139/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

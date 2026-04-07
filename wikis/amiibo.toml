@@ -16,3 +16,6 @@ icon = "amiibopedia.png"
 mainpage = "Amiibopedia"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

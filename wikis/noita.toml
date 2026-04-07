@@ -17,6 +17,9 @@ icon = "noitawiki.png"
 mainpage = "Noita_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [ja]
 name = "Noita"
@@ -37,6 +40,9 @@ icon = "noitawiki.png"
 mainpage = "Noita_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Noita中文"
@@ -57,3 +63,6 @@ icon = "noitawiki.png"
 mainpage = "Noita_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

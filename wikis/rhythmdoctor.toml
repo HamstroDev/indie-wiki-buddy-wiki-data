@@ -16,3 +16,6 @@ icon = "rhythmdoctorwiki.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/page/"
+tags = [
+    "recommended",
+]

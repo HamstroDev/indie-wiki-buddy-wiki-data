@@ -17,3 +17,6 @@ icon = "cosmoteerwiki.png"
 mainpage = "Cosmoteer_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

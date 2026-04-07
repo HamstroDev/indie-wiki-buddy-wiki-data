@@ -17,3 +17,6 @@ icon = "helloneighborwiki.png"
 mainpage = "Hello_Neighbor_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

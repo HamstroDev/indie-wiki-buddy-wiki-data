@@ -17,3 +17,6 @@ icon = "starstablewiki.png"
 mainpage = "Star_Stable_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

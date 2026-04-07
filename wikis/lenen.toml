@@ -17,3 +17,6 @@ icon = "lenenwiki.png"
 mainpage = "Len'en_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "yohajiwiki.png"
 mainpage = "A_Terrified_Teacher_at_Ghoul_School!_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "pathofachrawiki.png"
 mainpage = "Path_of_Achra_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

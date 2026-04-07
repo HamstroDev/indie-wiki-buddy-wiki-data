@@ -17,3 +17,6 @@ icon = "islandadventureswiki.png"
 mainpage = "Island_Adventures_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

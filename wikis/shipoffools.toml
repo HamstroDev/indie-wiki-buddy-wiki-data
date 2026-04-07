@@ -17,3 +17,6 @@ icon = "shipoffoolswiki.png"
 mainpage = "Ship_of_Fools_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

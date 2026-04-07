@@ -17,3 +17,6 @@ icon = "superlesbiananimalrpgwiki.png"
 mainpage = "Super_Lesbian_Animal_RPG_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

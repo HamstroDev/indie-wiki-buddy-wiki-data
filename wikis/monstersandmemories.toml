@@ -17,3 +17,6 @@ icon = "monstersandmemorieswiki.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

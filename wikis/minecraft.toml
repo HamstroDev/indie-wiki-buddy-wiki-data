@@ -16,6 +16,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [ru]
 name = "Minecraft"
@@ -35,6 +38,9 @@ icon = "minecraftwiki.png"
 mainpage = "Заглавная_страница"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [th]
 name = "Minecraft"
@@ -54,6 +60,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Minecraft"
@@ -73,6 +82,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Minecraft"
@@ -148,6 +160,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [pt]
 name = "Minecraft"
@@ -167,6 +182,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [ja]
 name = "Minecraft"
@@ -186,6 +204,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [it]
 name = "Minecraft"
@@ -205,6 +226,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [lzh]
 name = "礦藝大典"
@@ -221,6 +245,9 @@ icon = "minecraftwiki.png"
 mainpage = "礦藝大典"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [pl]
 name = "Minecraft"
@@ -240,6 +267,9 @@ icon = "minecraft.png"
 mainpage = "Strona_główna"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [ko]
 name = "Minecraft"
@@ -259,6 +289,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Minecraft"
@@ -284,6 +317,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Minecraft"
@@ -309,6 +345,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [nl]
 name = "Minecraft"
@@ -328,6 +367,9 @@ icon = "minecraftwiki.png"
 mainpage = "Minecraft_Wiki"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [uk]
 name = "Minecraft"
@@ -347,3 +389,6 @@ icon = "minecraftwiki.png"
 mainpage = "Головна_сторінка"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

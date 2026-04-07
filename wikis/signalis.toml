@@ -17,3 +17,6 @@ icon = "signalis.png"
 mainpage = "SIGNALIS_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "dyinglightwiki.png"
 mainpage = "Dying_Light_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "xyywiki.png"
 mainpage = "Pleasant_Goat_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

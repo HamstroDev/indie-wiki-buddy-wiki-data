@@ -17,3 +17,6 @@ icon = "ballxpit.png"
 mainpage = "BALL_x_PIT_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

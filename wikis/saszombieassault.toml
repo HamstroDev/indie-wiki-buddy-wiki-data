@@ -17,3 +17,6 @@ icon = "saszombieassaultwiki.png"
 mainpage = "SAS:_Zombie_Assault_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

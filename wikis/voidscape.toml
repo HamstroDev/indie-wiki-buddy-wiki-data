@@ -16,3 +16,6 @@ icon = "voidscape.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/index.php/"
+tags = [
+    "recommended",
+]

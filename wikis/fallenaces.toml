@@ -17,3 +17,6 @@ icon = "fallenaceswiki.png"
 mainpage = "Fallen_Aces_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

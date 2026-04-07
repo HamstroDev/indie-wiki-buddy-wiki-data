@@ -17,3 +17,6 @@ icon = "pathtonowherewiki.png"
 mainpage = "Path_To_Nowhere_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

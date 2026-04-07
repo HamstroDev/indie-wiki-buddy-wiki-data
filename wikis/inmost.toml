@@ -16,3 +16,6 @@ icon = "inmostwiki.png"
 mainpage = "INMOST_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

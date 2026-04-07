@@ -17,3 +17,6 @@ icon = "thematchlesskungfuwiki.png"
 mainpage = "The_Matchless_Kungfu_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

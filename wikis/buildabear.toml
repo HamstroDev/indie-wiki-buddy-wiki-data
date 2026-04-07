@@ -17,3 +17,6 @@ icon = "thebuildabearwiki.png"
 mainpage = "Home"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

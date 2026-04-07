@@ -17,3 +17,6 @@ icon = "lancerwiki.png"
 mainpage = "LANCER_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

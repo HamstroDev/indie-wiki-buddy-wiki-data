@@ -17,3 +17,6 @@ icon = "slycooperwiki.png"
 mainpage = "Sly_Cooper_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

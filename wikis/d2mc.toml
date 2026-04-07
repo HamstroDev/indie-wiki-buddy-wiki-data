@@ -17,3 +17,6 @@ icon = "d2mc.png"
 mainpage = "Destiny_2_Minecraft_Edition_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

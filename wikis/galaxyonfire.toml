@@ -17,3 +17,6 @@ icon = "galaxyonfirewiki.png"
 mainpage = "Galaxy_on_Fire_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

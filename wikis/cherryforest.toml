@@ -17,3 +17,6 @@ icon = "cherryforestwiki.png"
 mainpage = "Cherry_Forest_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

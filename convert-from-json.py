@@ -46,8 +46,11 @@ def convert_wiki(wiki: dict, lang):
 
     destination_host = dict(filter(lambda it: it[0].startswith('destination'), wiki.items()))
     destination = convert_host(destination_host, 'destination')
+
+    destination['tags'] = []
     if get('tags') is not None:
         destination['tags'] = get('tags')
+    destination['tags'].append('recommended')
 
     r = {
         'name': re.sub(r'\s+Fandom.+Wiki.*$', '', get('origins_label') or ''),

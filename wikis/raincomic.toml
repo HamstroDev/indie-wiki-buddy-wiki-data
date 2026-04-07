@@ -29,3 +29,6 @@ icon = "rainversewiki.png"
 mainpage = "Rainverse_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

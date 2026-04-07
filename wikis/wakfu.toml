@@ -23,3 +23,6 @@ icon = "wakfuwiki.png"
 mainpage = "Wakfu_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

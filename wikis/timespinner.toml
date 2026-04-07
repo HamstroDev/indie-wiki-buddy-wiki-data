@@ -16,3 +16,6 @@ icon = "timespinnerwiki.png"
 mainpage = "Timespinner_Wiki"
 search-path = "/mediawiki/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

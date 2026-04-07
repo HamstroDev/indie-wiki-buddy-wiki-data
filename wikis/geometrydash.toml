@@ -23,3 +23,6 @@ icon = "geometrydashwiki.png"
 mainpage = "Geometry_Dash_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

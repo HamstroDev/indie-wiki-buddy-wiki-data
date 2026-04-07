@@ -17,3 +17,6 @@ icon = "thecelestialcavernswiki.png"
 mainpage = "The_Celestial_Caverns_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

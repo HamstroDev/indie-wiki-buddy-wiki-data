@@ -17,3 +17,6 @@ icon = "instarsandtimewiki.png"
 mainpage = "In_Stars_and_Time_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

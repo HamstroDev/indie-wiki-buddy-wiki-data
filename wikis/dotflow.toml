@@ -17,3 +17,6 @@ mainpage = "Dotflow_Wiki"
 search-path = "/index.php"
 content-path = "/"
 content-prefix = "Dotflow:"
+tags = [
+    "recommended",
+]

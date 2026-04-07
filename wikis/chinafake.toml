@@ -17,3 +17,6 @@ icon = "chinafakewiki.png"
 mainpage = "Chinafake_Wiki:Home"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -22,6 +22,9 @@ icon = "undertalewiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [pt]
 name = "Undertale"
@@ -41,6 +44,9 @@ icon = "undertalewiki.png"
 mainpage = "Página_principal"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Undertale"
@@ -60,3 +66,6 @@ icon = "undertalewiki.png"
 mainpage = "Undertale_Wiki"
 search-path = "/index.php"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

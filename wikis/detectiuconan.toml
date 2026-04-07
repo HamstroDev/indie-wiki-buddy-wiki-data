@@ -16,3 +16,6 @@ icon = "caconanwiki.png"
 mainpage = "Detectiu_Conan_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

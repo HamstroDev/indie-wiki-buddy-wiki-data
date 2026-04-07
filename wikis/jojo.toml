@@ -16,3 +16,6 @@ icon = "jojo.png"
 mainpage = "JoJo_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "bandoriwiki.png"
 mainpage = "BanG_Dream!_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

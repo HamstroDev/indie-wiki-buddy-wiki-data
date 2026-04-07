@@ -16,3 +16,6 @@ icon = "horizonxiwiki.png"
 mainpage = "HorizonXI_Wiki"
 search-path = "/w/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

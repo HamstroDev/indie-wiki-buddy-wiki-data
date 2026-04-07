@@ -16,6 +16,9 @@ icon = "pokewiki.png"
 mainpage = "Hauptseite"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Pokémon"
@@ -35,6 +38,9 @@ icon = "wikidex.png"
 mainpage = "WikiDex"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Pokémon"
@@ -66,6 +72,9 @@ icon = "bulbapedia.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [ja]
 name = "Pokémon"
@@ -85,6 +94,9 @@ icon = "pokemonwiki.png"
 mainpage = "メインページ"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [it]
 name = "Analisi Pokémon"
@@ -104,6 +116,9 @@ icon = "pokemoncentral.png"
 mainpage = "Home"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [zh]
 name = "Pokémon"
@@ -129,6 +144,9 @@ icon = "52pokewiki.png"
 mainpage = "主页"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Pokémon"
@@ -148,3 +166,6 @@ icon = "pokepedia.png"
 mainpage = "Portail:Accueil"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

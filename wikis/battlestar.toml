@@ -16,3 +16,6 @@ icon = "battlestarwiki.png"
 mainpage = "Accueil"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

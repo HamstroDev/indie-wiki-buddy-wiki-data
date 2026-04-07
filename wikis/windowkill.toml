@@ -17,3 +17,6 @@ icon = "windowkillwiki.png"
 mainpage = "Windowkill_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

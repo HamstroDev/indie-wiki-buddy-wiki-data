@@ -17,3 +17,6 @@ icon = "domekeeperwiki.png"
 mainpage = "Dome_Keeper_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

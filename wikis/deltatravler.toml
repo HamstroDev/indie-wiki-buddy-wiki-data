@@ -17,3 +17,6 @@ icon = "deltatravelerwiki.png"
 mainpage = "DELTATRAVELER"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

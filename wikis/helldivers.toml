@@ -17,3 +17,6 @@ icon = "helldiverswiki.png"
 mainpage = "Helldivers_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -16,3 +16,6 @@ icon = "medapedia.png"
 mainpage = "Medapedia"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

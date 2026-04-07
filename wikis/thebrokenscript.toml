@@ -17,3 +17,6 @@ icon = "thebrokenscriptwiki.png"
 mainpage = "The_Broken_Script_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

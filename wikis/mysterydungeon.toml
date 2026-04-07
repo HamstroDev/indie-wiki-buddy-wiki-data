@@ -22,3 +22,6 @@ icon = "mysterydungeon.png"
 mainpage = "Mystery_Dungeon_Franchise_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

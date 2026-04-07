@@ -17,3 +17,6 @@ icon = "wikiarcane.png"
 mainpage = "Accueil"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

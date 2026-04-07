@@ -17,3 +17,6 @@ icon = "sonsoftheforestwiki.png"
 mainpage = "Sons_of_the_Forest_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

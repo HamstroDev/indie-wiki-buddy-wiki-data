@@ -17,6 +17,9 @@ icon = "isaacrebirthwiki.png"
 mainpage = "Binding_of_Isaac:_Rebirth_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "The Binding Of Isaac: Rebirth"
@@ -37,3 +40,6 @@ icon = "isaacrebirthwiki.png"
 mainpage = "Binding_of_Isaac:_Rebirth_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

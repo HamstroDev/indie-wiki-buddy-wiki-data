@@ -16,3 +16,6 @@ icon = "creatureswiki.png"
 mainpage = "Creatures_Wiki_Homepage"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

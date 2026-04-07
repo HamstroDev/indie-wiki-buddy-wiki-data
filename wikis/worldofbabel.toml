@@ -17,3 +17,6 @@ icon = "worldofbabelwiki.png"
 mainpage = "World_of_Babel_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

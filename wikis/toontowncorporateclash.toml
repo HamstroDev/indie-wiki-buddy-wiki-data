@@ -17,3 +17,6 @@ icon = "toontowncorporateclashwiki.png"
 mainpage = "Toontown_Corporate_Clash_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

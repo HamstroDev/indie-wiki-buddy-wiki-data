@@ -17,3 +17,6 @@ icon = "seaofthieveswiki.png"
 mainpage = "Sea_of_Thieves_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

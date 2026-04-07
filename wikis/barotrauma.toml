@@ -16,3 +16,6 @@ icon = "barotrauma.png"
 mainpage = "Main_Page"
 search-path = "/baro-wiki/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

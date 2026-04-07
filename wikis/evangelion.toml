@@ -22,6 +22,9 @@ icon = "evawiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [fr]
 name = "Evangelion"
@@ -42,3 +45,6 @@ icon = "shinwikievagelion.png"
 mainpage = "Wiki_Evangelion"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "littlekingsstorywiki.png"
 mainpage = "Little_King's_Story_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

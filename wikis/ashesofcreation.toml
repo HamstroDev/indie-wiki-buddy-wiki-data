@@ -22,3 +22,6 @@ icon = "ashesofcreationwiki.png"
 mainpage = "Ashes_of_Creation_Wiki"
 search-path = "/index.php"
 content-path = "/"
+tags = [
+    "recommended",
+]

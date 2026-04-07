@@ -17,3 +17,6 @@ icon = "gnorp.png"
 mainpage = "(the)_Gnorp_Apologue_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

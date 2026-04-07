@@ -17,3 +17,6 @@ icon = "thepalebeyondwiki.png"
 mainpage = "The_Pale_Beyond_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

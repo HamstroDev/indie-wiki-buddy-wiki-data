@@ -17,3 +17,6 @@ icon = "voicesofthevoidwiki.png"
 mainpage = "Voices_of_the_Void_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

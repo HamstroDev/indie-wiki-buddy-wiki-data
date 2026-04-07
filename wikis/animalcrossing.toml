@@ -16,6 +16,9 @@ icon = "animalcrossingwiki.png"
 mainpage = "start"
 search-path = "/doku.php"
 content-path = "/"
+tags = [
+    "recommended",
+]
 
 [es]
 name = "Animal Crossing"
@@ -35,6 +38,9 @@ icon = "animalcrossing.png"
 mainpage = "Portada"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
 
 [en]
 name = "Animal Crossing"
@@ -78,3 +84,6 @@ icon = "nookipedia.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -17,3 +17,6 @@ icon = "girlslasttourwiki.png"
 mainpage = "Girls'_Last_Tour_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

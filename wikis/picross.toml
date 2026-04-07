@@ -17,3 +17,6 @@ icon = "picrosswiki.png"
 mainpage = "Picross_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

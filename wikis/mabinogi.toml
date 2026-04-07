@@ -16,3 +16,6 @@ icon = "mabinogiworldwiki.png"
 mainpage = "Wiki_Home"
 search-path = "/index.php"
 content-path = "/view/"
+tags = [
+    "recommended",
+]

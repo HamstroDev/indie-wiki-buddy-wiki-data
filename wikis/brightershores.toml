@@ -22,3 +22,6 @@ icon = "brightershoreswiki.png"
 mainpage = "Main_Page"
 search-path = "/"
 content-path = "/w/"
+tags = [
+    "recommended",
+]

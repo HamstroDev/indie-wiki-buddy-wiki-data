@@ -17,3 +17,6 @@ mainpage = "Yume_Nikki_Wiki"
 search-path = "/index.php"
 content-path = "/"
 content-prefix = "Yume_Nikki:"
+tags = [
+    "recommended",
+]

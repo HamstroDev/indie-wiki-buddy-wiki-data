@@ -16,3 +16,6 @@ icon = "wikitrek.png"
 mainpage = "Pagina_principale"
 search-path = "/wt/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

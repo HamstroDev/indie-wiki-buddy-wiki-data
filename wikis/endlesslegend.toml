@@ -17,3 +17,6 @@ icon = "endlesslegendwiki.png"
 mainpage = "Endless_Legend_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]

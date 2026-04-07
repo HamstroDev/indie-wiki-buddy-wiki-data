@@ -17,3 +17,6 @@ icon = "altverzwiki.png"
 mainpage = "Plants_vs._Zombies_2:_Alternate_UniverZ_Wiki"
 search-path = "/index.php"
 content-path = "/wiki/"
+tags = [
+    "recommended",
+]
