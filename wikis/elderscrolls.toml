@@ -19,24 +19,28 @@ name = "Skyrim Fandom Wiki"
 url = "skyrim.fandom.com"
 mainpage = "Skyrim_Wiki"
 content-path = "/wiki/"
+destination-content-prefix = "Skyrim:"
 
 [[en.origin]]
 name = "Elder Scrolls Legends Fextralife Wiki"
 url = "elderscrollslegends.wiki.fextralife.com"
 mainpage = "Elder Scrolls Legends Wiki"
 content-path = "/"
+destination-content-prefix = "Legends:"
 
 [[en.origin]]
 name = "Elder Scrolls Online Fextralife Wiki"
 url = "elderscrollsonline.wiki.fextralife.com"
 mainpage = "Elder Scrolls Online Wiki"
 content-path = "/"
+destination-content-prefix = "Online:"
 
 [[en.origin]]
 name = "Skyrim Fextralife Wiki"
 url = "skyrim.wiki.fextralife.com"
 mainpage = "Skyrim Wiki"
 content-path = "/"
+destination-content-prefix = "Skyrim:"
 
 [[en.origin]]
 name = "The Elder Scrolls Wiki - Neoseeker"
@@ -49,12 +53,14 @@ name = "Skyrim - Elder Scrolls V Wiki - Neoseeker"
 url = "skyrim.neoseeker.com"
 mainpage = "Main_Page"
 content-path = "/wiki/"
+destination-content-prefix = "Skyrim:"
 
 [[en.origin]]
 name = "Oblivion Remastered Fextralife Wiki"
 url = "oblivionremastered.wiki.fextralife.com"
 mainpage = "Oblivion+Wiki"
 content-path = "/"
+destination-content-prefix = "Oblivion:"
 
 [[en.destination]]
 name = "Unofficial Elder Scrolls Pages"

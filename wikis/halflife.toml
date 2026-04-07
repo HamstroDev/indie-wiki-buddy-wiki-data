@@ -16,6 +16,7 @@ icon = "combine.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
+content-suffix = "/ru"
 
 [es]
 name = "Half-Life & Portal"
@@ -35,6 +36,7 @@ icon = "combine.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
+content-suffix = "/es"
 
 [en]
 name = "Half-Life"
@@ -79,6 +81,7 @@ icon = "combine.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
+content-suffix = "/pl"
 
 [zh]
 name = "Half-Life"
@@ -98,3 +101,4 @@ icon = "combine.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
+content-suffix = "/zh-hans"

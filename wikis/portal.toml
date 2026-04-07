@@ -16,6 +16,7 @@ icon = "portalwiki.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/ru"
 
 [en]
 name = "Portal"
@@ -66,3 +67,4 @@ icon = "portalwiki.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/fi"

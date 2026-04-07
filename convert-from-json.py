@@ -23,7 +23,12 @@ def convert_wiki(wiki: dict, lang):
             'mainpage': f'{prefix}_main_page',
             'search-path': f'{prefix}_search_path',
             'content-path': f'{prefix}_content_path',
+            'content-prefix': f'{prefix}_content_prefix',
+            'content-suffix': f'{prefix}_content_suffix',
         }
+
+        if prefix == 'origin':
+            props['destination-content-prefix'] = 'destination_content_prefix'
 
         for key in host.keys():
             if key not in props.values():

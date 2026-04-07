@@ -38,6 +38,7 @@ icon = "kerbalspaceprogramwiki.png"
 mainpage = "Main_Page"
 search-path = "/index.php"
 content-path = "/wiki/"
+content-suffix = "/fr"
 tags = [
     "official",
 ]

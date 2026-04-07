@@ -131,12 +131,14 @@ name = "A Minecraft Movie Fandom Wiki"
 url = "minecraft-the-movie.fandom.com"
 mainpage = "A_Minecraft_Movie_Wiki"
 content-path = "/wiki/"
+destination-content-prefix = "Movie:"
 
 [[en.origin]]
 name = "A Minecraft Movie Fandom Wiki"
 url = "a-minecraft-movie.fandom.com"
 mainpage = "A_Minecraft_Movie_Wiki"
 content-path = "/wiki/"
+destination-content-prefix = "Movie:"
 
 [[en.destination]]
 name = "Minecraft Wiki"

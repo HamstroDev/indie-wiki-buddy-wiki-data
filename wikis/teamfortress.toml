@@ -16,6 +16,7 @@ icon = "teamfortress.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/es"
 tags = [
     "official",
 ]
@@ -60,6 +61,7 @@ icon = "teamfortress.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/pt-br"
 tags = [
     "official",
 ]
@@ -82,6 +84,7 @@ icon = "teamfortress.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/pl"
 tags = [
     "official",
 ]

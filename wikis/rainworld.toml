@@ -17,6 +17,7 @@ icon = "rainworld.png"
 mainpage = "Rain_World_Wiki"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/ru"
 tags = [
     "official",
 ]

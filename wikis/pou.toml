@@ -17,6 +17,7 @@ icon = "poupedia.png"
 mainpage = "Poupedia"
 search-path = "/w/index.php"
 content-path = "/"
+content-suffix = "/ru"
 
 [en]
 name = "Pou"
@@ -57,3 +58,4 @@ icon = "poupedija.png"
 mainpage = "Poupedia"
 search-path = "/w/index.php"
 content-path = "/"
+content-suffix = "/hr"

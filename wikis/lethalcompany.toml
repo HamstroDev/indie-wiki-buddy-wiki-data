@@ -17,6 +17,7 @@ icon = "lethalcompany.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/de"
 
 [ru]
 name = "Lethal Company"
@@ -37,6 +38,7 @@ icon = "lethalcompany.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/ru"
 
 [en]
 name = "Lethal Company"
@@ -77,3 +79,4 @@ icon = "lethalcompany.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"
+content-suffix = "/fr"
