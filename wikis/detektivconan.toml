@@ -1,15 +1,18 @@
 [de]
-origins_label = "Detektiv Conan Fandom Wiki"
-destination = "ConanWiki"
-destination_base_url = "conanwiki.org"
-destination_platform = "mediawiki"
-destination_icon = "detektivconan.png"
-destination_main_page = "Hauptseite"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Detektiv Conan"
+icon = "detektivconan.png"
 
-[[de.origins]]
-origin = "Detektiv Conan Fandom Wiki"
-origin_base_url = "detektivconan.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Detektiv_Conan_Wiki"
+[[de.origin]]
+name = "Detektiv Conan Fandom Wiki"
+url = "detektivconan.fandom.com"
+mainpage = "Detektiv_Conan_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "ConanWiki"
+url = "conanwiki.org"
+platform = "mediawiki"
+icon = "detektivconan.png"
+mainpage = "Hauptseite"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "A Hat in Time Fandom Wiki"
-destination = "A Hat in Time Wiki"
-destination_base_url = "ahatintime.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "ahatintimewiki.png"
-destination_main_page = "A_Hat_in_Time_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "A Hat in Time"
+icon = "ahatintimewiki.png"
 
-[[en.origins]]
-origin = "A Hat in Time Fandom Wiki"
-origin_base_url = "ahatintime.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "A_Hat_in_Time_Wiki"
+[[en.origin]]
+name = "A Hat in Time Fandom Wiki"
+url = "ahatintime.fandom.com"
+mainpage = "A_Hat_in_Time_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "A Hat in Time Wiki"
+host = "wiki.gg"
+url = "ahatintime.wiki.gg"
+platform = "mediawiki"
+icon = "ahatintimewiki.png"
+mainpage = "A_Hat_in_Time_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

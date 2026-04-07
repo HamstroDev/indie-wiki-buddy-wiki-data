@@ -1,16 +1,19 @@
 [en]
-origins_label = "Cookie Clicker Fandom Wiki"
-destination = "Cookie Clicker Wiki"
-destination_base_url = "cookieclicker.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "cookieclickerwiki.png"
-destination_main_page = "Cookie_Clicker_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Cookie Clicker"
+icon = "cookieclickerwiki.png"
 
-[[en.origins]]
-origin = "Cookie Clicker Fandom Wiki"
-origin_base_url = "cookieclicker.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Cookie_Clicker_Wiki"
+[[en.origin]]
+name = "Cookie Clicker Fandom Wiki"
+url = "cookieclicker.fandom.com"
+mainpage = "Cookie_Clicker_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Cookie Clicker Wiki"
+host = "wiki.gg"
+url = "cookieclicker.wiki.gg"
+platform = "mediawiki"
+icon = "cookieclickerwiki.png"
+mainpage = "Cookie_Clicker_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

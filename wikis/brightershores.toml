@@ -1,21 +1,24 @@
 [en]
-origins_label = "Brighter Shores Fandom Wikis"
-destination = "Brighter Shores Wiki"
-destination_base_url = "brightershoreswiki.org"
-destination_platform = "mediawiki"
-destination_icon = "brightershoreswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Brighter Shores"
+icon = "brightershoreswiki.png"
 
-[[en.origins]]
-origin = "Brighter-Shores Fandom Wiki"
-origin_base_url = "brighter-shores.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Brighter_Shores_Wiki"
+[[en.origin]]
+name = "Brighter-Shores Fandom Wiki"
+url = "brighter-shores.fandom.com"
+mainpage = "Brighter_Shores_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Brighter Shores Fandom Wiki"
-origin_base_url = "brightershores.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Brighter_Shores_Wiki"
+[[en.origin]]
+name = "Brighter Shores Fandom Wiki"
+url = "brightershores.fandom.com"
+mainpage = "Brighter_Shores_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Brighter Shores Wiki"
+url = "brightershoreswiki.org"
+platform = "mediawiki"
+icon = "brightershoreswiki.png"
+mainpage = "Main_Page"
+search-path = "/"
+content-path = "/w/"

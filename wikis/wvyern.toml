@@ -1,15 +1,18 @@
 [en]
-origins_label = "Wyvern Fandom Wiki"
-destination = "Wyvern Source"
-destination_base_url = "wiki.wyvernsource.com"
-destination_platform = "mediawiki"
-destination_icon = "wyvernsource.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Wyvern"
+icon = "wyvernsource.png"
 
-[[en.origins]]
-origin = "Wyvern Fandom Wiki"
-origin_base_url = "wvyernrpg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Wyvern_Wiki"
+[[en.origin]]
+name = "Wyvern Fandom Wiki"
+url = "wvyernrpg.fandom.com"
+mainpage = "Wyvern_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wyvern Source"
+url = "wiki.wyvernsource.com"
+platform = "mediawiki"
+icon = "wyvernsource.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

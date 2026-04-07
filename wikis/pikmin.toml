@@ -1,21 +1,24 @@
 [en]
-origins_label = "Pikmin Fandom & Neoseeker Wikis"
-destination = "Pikipedia"
-destination_base_url = "www.pikminwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "pikipedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Pikmin"
+icon = "pikipedia.png"
 
-[[en.origins]]
-origin = "Pikmin Fandom Wiki"
-origin_base_url = "pikmin.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pikmin_Wiki"
+[[en.origin]]
+name = "Pikmin Fandom Wiki"
+url = "pikmin.fandom.com"
+mainpage = "Pikmin_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Pikmin Wiki - Neoseeker"
-origin_base_url = "pikmin.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Pikmin Wiki - Neoseeker"
+url = "pikmin.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Pikipedia"
+url = "www.pikminwiki.com"
+platform = "mediawiki"
+icon = "pikipedia.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

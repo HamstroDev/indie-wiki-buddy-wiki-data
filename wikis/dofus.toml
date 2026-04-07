@@ -1,15 +1,18 @@
 [fr]
-origins_label = "Dofus Fandom Wiki"
-destination = "Dofus Wiki"
-destination_base_url = "wiki-dofus.eu"
-destination_platform = "mediawiki"
-destination_icon = "dofuswiki.png"
-destination_main_page = "Accueil"
-destination_search_path = "/w"
-destination_content_path = "/w/"
+name = "Dofus"
+icon = "dofuswiki.png"
 
-[[fr.origins]]
-origin = "Dofus Fandom Wiki"
-origin_base_url = "dofuswiki.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Dofus"
+[[fr.origin]]
+name = "Dofus Fandom Wiki"
+url = "dofuswiki.fandom.com/fr"
+mainpage = "Wiki_Dofus"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Dofus Wiki"
+url = "wiki-dofus.eu"
+platform = "mediawiki"
+icon = "dofuswiki.png"
+mainpage = "Accueil"
+search-path = "/w"
+content-path = "/w/"

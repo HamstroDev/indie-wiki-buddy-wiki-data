@@ -1,16 +1,19 @@
 [en]
-origins_label = "Worship Fandom Wiki"
-destination = "Worship Wiki"
-destination_base_url = "worship.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "worshipwiki.png"
-destination_main_page = "Worship_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Worship"
+icon = "worshipwiki.png"
 
-[[en.origins]]
-origin = "Worship Fandom Wiki"
-origin_base_url = "worshipcrg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Worship_Wiki"
+[[en.origin]]
+name = "Worship Fandom Wiki"
+url = "worshipcrg.fandom.com"
+mainpage = "Worship_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Worship Wiki"
+host = "wiki.gg"
+url = "worship.wiki.gg"
+platform = "mediawiki"
+icon = "worshipwiki.png"
+mainpage = "Worship_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

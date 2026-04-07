@@ -1,19 +1,22 @@
 [en]
-origins_label = "FTL: Multiverse Fandom Wiki"
-destination = "FTL Multiverse Database"
-destination_base_url = "ftlmultiverse.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "ftlmultiversedatabase.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "FTL: Multiverse"
+icon = "ftlmultiversedatabase.png"
+
+[[en.origin]]
+name = "FTL: Multiverse Fandom Wiki"
+url = "ftlmultiverse.fandom.com"
+mainpage = "FTL:_Multiverse_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "FTL Multiverse Database"
+host = "Miraheze"
+url = "ftlmultiverse.miraheze.org"
+platform = "mediawiki"
+icon = "ftlmultiversedatabase.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "FTL: Multiverse Fandom Wiki"
-origin_base_url = "ftlmultiverse.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "FTL:_Multiverse_Wiki"

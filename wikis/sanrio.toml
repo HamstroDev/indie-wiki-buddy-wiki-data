@@ -1,15 +1,18 @@
 [en]
-origins_label = "Sanrio Fandom Wiki"
-destination = "Sanrio Wiki"
-destination_base_url = "sanriowiki.com"
-destination_platform = "mediawiki"
-destination_icon = "sanriowiki.png"
-destination_main_page = "Sanrio_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Sanrio"
+icon = "sanriowiki.png"
 
-[[en.origins]]
-origin = "Sanrio Fandom Wiki"
-origin_base_url = "sanrio.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sanrio_Wiki"
+[[en.origin]]
+name = "Sanrio Fandom Wiki"
+url = "sanrio.fandom.com"
+mainpage = "Sanrio_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sanrio Wiki"
+url = "sanriowiki.com"
+platform = "mediawiki"
+icon = "sanriowiki.png"
+mainpage = "Sanrio_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,21 +1,24 @@
 [en]
-origins_label = "MicroNations Fandom Wikis"
-destination = "MicroWiki"
-destination_base_url = "micronations.wiki"
-destination_platform = "mediawiki"
-destination_icon = "microwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "MicroNations"
+icon = "microwiki.png"
 
-[[en.origins]]
-origin = "MicroNations Fandom Wiki"
-origin_base_url = "micronations.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "MicroNations Fandom Wiki"
+url = "micronations.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Micronations Fandom Wiki"
-origin_base_url = "microcountries.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Micronations_Wiki"
+[[en.origin]]
+name = "Micronations Fandom Wiki"
+url = "microcountries.fandom.com"
+mainpage = "Micronations_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MicroWiki"
+url = "micronations.wiki"
+platform = "mediawiki"
+icon = "microwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Space Pioneers Fandom Wiki"
-destination = "Space Pioneers Wiki"
-destination_base_url = "spacepioneers.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "spacepioneerswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Space Pioneers"
+icon = "spacepioneerswiki.png"
 
-[[en.origins]]
-origin = "Space Pioneers Fandom Wiki"
-origin_base_url = "space-pioneers.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Space_Pioneers_Wiki"
+[[en.origin]]
+name = "Space Pioneers Fandom Wiki"
+url = "space-pioneers.fandom.com"
+mainpage = "Space_Pioneers_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Space Pioneers Wiki"
+host = "Miraheze"
+url = "spacepioneers.miraheze.org"
+platform = "mediawiki"
+icon = "spacepioneerswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

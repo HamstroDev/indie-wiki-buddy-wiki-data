@@ -1,16 +1,19 @@
 [en]
-origins_label = "Larn Fandom Wiki"
-destination = "Larn Wiki"
-destination_base_url = "wiki.larn.org"
-destination_platform = "mediawiki"
-destination_icon = "larn.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Main_Page"
-destination_host = "Miraheze"
+name = "Larn"
+icon = "larn.png"
 
-[[en.origins]]
-origin = "Larn Fandom Wiki"
-origin_base_url = "larn.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Larn_Wiki"
+[[en.origin]]
+name = "Larn Fandom Wiki"
+url = "larn.fandom.com"
+mainpage = "Larn_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Larn Wiki"
+host = "Miraheze"
+url = "wiki.larn.org"
+platform = "mediawiki"
+icon = "larn.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

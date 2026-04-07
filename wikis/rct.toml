@@ -1,16 +1,19 @@
 [en]
-origins_label = "RollerCoaster Tycoon Fandom Wiki"
-destination = "RollerCoaster Tycoon Wiki"
-destination_base_url = "rct.wiki"
-destination_platform = "mediawiki"
-destination_icon = "rctwiki.png"
-destination_main_page = "RollerCoaster_Tycoon_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "RollerCoaster Tycoon"
+icon = "rctwiki.png"
 
-[[en.origins]]
-origin = "RollerCoaster Tycoon Fandom Wiki"
-origin_base_url = "rct.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "RollerCoaster_Tycoon_Wiki"
+[[en.origin]]
+name = "RollerCoaster Tycoon Fandom Wiki"
+url = "rct.fandom.com"
+mainpage = "RollerCoaster_Tycoon_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "RollerCoaster Tycoon Wiki"
+host = "Miraheze"
+url = "rct.wiki"
+platform = "mediawiki"
+icon = "rctwiki.png"
+mainpage = "RollerCoaster_Tycoon_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

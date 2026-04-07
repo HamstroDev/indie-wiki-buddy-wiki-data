@@ -1,19 +1,22 @@
 [en]
-origins_label = "Magical Mixture Mill Fandom Wiki"
-destination = "Magical Mixture Mill Wiki"
-destination_base_url = "themagicalmixturemill.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "themagicalmixturemillwiki.png"
-destination_main_page = "The_Magical_Mixture_Mill_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Magical Mixture Mill"
+icon = "themagicalmixturemillwiki.png"
+
+[[en.origin]]
+name = "Magical Mixture Mill Fandom Wiki"
+url = "the-magical-mixture-mill.fandom.com"
+mainpage = "The_Magical_Mixture_Mill_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Magical Mixture Mill Wiki"
+host = "wiki.gg"
+url = "themagicalmixturemill.wiki.gg"
+platform = "mediawiki"
+icon = "themagicalmixturemillwiki.png"
+mainpage = "The_Magical_Mixture_Mill_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Magical Mixture Mill Fandom Wiki"
-origin_base_url = "the-magical-mixture-mill.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Magical_Mixture_Mill_Wiki"

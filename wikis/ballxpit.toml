@@ -1,16 +1,19 @@
 [en]
-origins_label = "BALL x PIT Fandom Wiki"
-destination = "BALL x PIT Wiki"
-destination_base_url = "ballxpit.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "ballxpit.png"
-destination_main_page = "BALL_x_PIT_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "BALL x PIT"
+icon = "ballxpit.png"
 
-[[en.origins]]
-origin = "BALL x PIT Fandom Wiki"
-origin_base_url = "ballxpit.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Ballxpit_Wiki"
+[[en.origin]]
+name = "BALL x PIT Fandom Wiki"
+url = "ballxpit.fandom.com"
+mainpage = "Ballxpit_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "BALL x PIT Wiki"
+host = "wiki.gg"
+url = "ballxpit.wiki.gg"
+platform = "mediawiki"
+icon = "ballxpit.png"
+mainpage = "BALL_x_PIT_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

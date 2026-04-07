@@ -1,16 +1,19 @@
 [en]
-origins_label = "20 Minutes Till Dawn Fandom Wiki"
-destination = "20 Minutes Till Dawn Wiki"
-destination_base_url = "20minutestilldawn.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "20mtd.png"
-destination_main_page = "20_Minutes_Till_Dawn_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "20 Minutes Till Dawn"
+icon = "20mtd.png"
 
-[[en.origins]]
-origin = "20 Minutes Till Dawn Fandom Wiki"
-origin_base_url = "20-minutes-till-dawn.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minutes_Till_Dawn_Wiki"
+[[en.origin]]
+name = "20 Minutes Till Dawn Fandom Wiki"
+url = "20-minutes-till-dawn.fandom.com"
+mainpage = "Minutes_Till_Dawn_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "20 Minutes Till Dawn Wiki"
+host = "wiki.gg"
+url = "20minutestilldawn.wiki.gg"
+platform = "mediawiki"
+icon = "20mtd.png"
+mainpage = "20_Minutes_Till_Dawn_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

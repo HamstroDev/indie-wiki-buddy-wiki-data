@@ -1,15 +1,18 @@
 [en]
-origins_label = "Bloons Fandom Wiki"
-destination = "Blooncyclopedia"
-destination_base_url = "www.bloonswiki.com"
-destination_platform = "mediawiki"
-destination_icon = "blooncyclopedia.png"
-destination_content_path = "/"
-destination_search_path = "/index.php"
-destination_main_page = "Main_Page"
+name = "Bloons"
+icon = "blooncyclopedia.png"
 
-[[en.origins]]
-origin = "Bloons Fandom Wiki"
-origin_base_url = "bloons.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bloons_Wiki"
+[[en.origin]]
+name = "Bloons Fandom Wiki"
+url = "bloons.fandom.com"
+mainpage = "Bloons_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Blooncyclopedia"
+url = "www.bloonswiki.com"
+platform = "mediawiki"
+icon = "blooncyclopedia.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

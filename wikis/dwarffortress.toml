@@ -1,15 +1,18 @@
 [en]
-origins_label = "Dwarf Fortress Fandom Wiki"
-destination = "Dwarf Fortress Wiki"
-destination_base_url = "dwarffortresswiki.org"
-destination_platform = "mediawiki"
-destination_icon = "dwarffortresswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Dwarf Fortress"
+icon = "dwarffortresswiki.png"
 
-[[en.origins]]
-origin = "Dwarf Fortress Fandom Wiki"
-origin_base_url = "dwarffortress.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dwarf_Fortress_Wiki"
+[[en.origin]]
+name = "Dwarf Fortress Fandom Wiki"
+url = "dwarffortress.fandom.com"
+mainpage = "Dwarf_Fortress_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dwarf Fortress Wiki"
+url = "dwarffortresswiki.org"
+platform = "mediawiki"
+icon = "dwarffortresswiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

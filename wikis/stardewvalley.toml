@@ -1,69 +1,81 @@
 [de]
-origins_label = "Stardew Valley Fandom Wiki"
-destination = "Stardew Valley Wiki"
-destination_base_url = "de.stardewvalleywiki.com"
-destination_platform = "mediawiki"
-destination_icon = "stardewvalley.png"
-destination_main_page = "Stardew_Valley_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Stardew Valley"
+icon = "stardewvalley.png"
 
-[[de.origins]]
-origin = "Stardew Valley Fandom Wiki"
-origin_base_url = "stardewvalley.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Stardew_Valley_Wiki"
+[[de.origin]]
+name = "Stardew Valley Fandom Wiki"
+url = "stardewvalley.fandom.com/de"
+mainpage = "Stardew_Valley_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Stardew Valley Wiki"
+url = "de.stardewvalleywiki.com"
+platform = "mediawiki"
+icon = "stardewvalley.png"
+mainpage = "Stardew_Valley_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"
 
 [es]
-origins_label = "Stardew Valley Fandom Wiki"
-destination = "Stardew Valley Wiki"
-destination_base_url = "es.stardewvalleywiki.com"
-destination_platform = "mediawiki"
-destination_icon = "stardewvalley.png"
-destination_main_page = "Stardew_Valley_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Stardew Valley"
+icon = "stardewvalley.png"
 
-[[es.origins]]
-origin = "Stardew Valley Fandom Wiki"
-origin_base_url = "stardewvalley.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Wikia_Stardew_Valley"
+[[es.origin]]
+name = "Stardew Valley Fandom Wiki"
+url = "stardewvalley.fandom.com/es"
+mainpage = "Wikia_Stardew_Valley"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Stardew Valley Wiki"
+url = "es.stardewvalleywiki.com"
+platform = "mediawiki"
+icon = "stardewvalley.png"
+mainpage = "Stardew_Valley_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"
 
 [en]
-origins_label = "Stardew Valley Fandom Wiki"
-destination = "Stardew Valley Wiki"
-destination_base_url = "stardewvalleywiki.com"
-destination_platform = "mediawiki"
-destination_icon = "stardew.png"
-destination_main_page = "Stardew_Valley_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Stardew Valley"
+icon = "stardew.png"
+
+[[en.origin]]
+name = "Stardew Valley Fandom Wiki"
+url = "stardewvalley.fandom.com"
+mainpage = "Stardew_Valley_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Stardew Valley Wiki"
+url = "stardewvalleywiki.com"
+platform = "mediawiki"
+icon = "stardew.png"
+mainpage = "Stardew_Valley_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Stardew Valley Fandom Wiki"
-origin_base_url = "stardewvalley.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Stardew_Valley_Wiki"
 
 [fr]
-origins_label = "Stardew Valley Fandom Wiki"
-destination = "Stardew Valley Wiki"
-destination_base_url = "fr.stardewvalleywiki.com"
-destination_platform = "mediawiki"
-destination_icon = "stardewvalleywiki.png"
-destination_main_page = "Stardew_Valley_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Stardew Valley"
+icon = "stardewvalleywiki.png"
+
+[[fr.origin]]
+name = "Stardew Valley Fandom Wiki"
+url = "stardew-valley-fr.fandom.com/fr"
+mainpage = "Home"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Stardew Valley Wiki"
+url = "fr.stardewvalleywiki.com"
+platform = "mediawiki"
+icon = "stardewvalleywiki.png"
+mainpage = "Stardew_Valley_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "Stardew Valley Fandom Wiki"
-origin_base_url = "stardew-valley-fr.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Home"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Mappercraft Fandom Wiki"
-destination = "Mappercraft Wiki"
-destination_base_url = "mappercraft.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "mappercraftwiki.png"
-destination_main_page = "Mappercraft_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Mappercraft"
+icon = "mappercraftwiki.png"
 
-[[en.origins]]
-origin = "Mappercraft Fandom Wiki"
-origin_base_url = "mappercraft.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mappercraft_Wiki"
+[[en.origin]]
+name = "Mappercraft Fandom Wiki"
+url = "mappercraft.fandom.com"
+mainpage = "Mappercraft_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Mappercraft Wiki"
+host = "Miraheze"
+url = "mappercraft.miraheze.org"
+platform = "mediawiki"
+icon = "mappercraftwiki.png"
+mainpage = "Mappercraft_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "TowerFall Fandom Wiki"
-destination = "TowerFall Wiki"
-destination_base_url = "towerfall.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "towerfallwiki.png"
-destination_main_page = "TowerFall_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "TowerFall"
+icon = "towerfallwiki.png"
 
-[[en.origins]]
-origin = "TowerFall Fandom Wiki"
-origin_base_url = "towerfall.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "TowerFall_Wiki"
+[[en.origin]]
+name = "TowerFall Fandom Wiki"
+url = "towerfall.fandom.com"
+mainpage = "TowerFall_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "TowerFall Wiki"
+host = "wiki.gg"
+url = "towerfall.wiki.gg"
+platform = "mediawiki"
+icon = "towerfallwiki.png"
+mainpage = "TowerFall_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

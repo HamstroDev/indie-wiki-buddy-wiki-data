@@ -1,15 +1,18 @@
 [en]
-origins_label = "Final Fantasy XIV Fandom Wiki"
-destination = "Final Fantasy XIV Online Wiki"
-destination_base_url = "ffxiv.consolegameswiki.com"
-destination_platform = "mediawiki"
-destination_icon = "ffxiv.png"
-destination_main_page = "FF14_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/wiki/"
+name = "Final Fantasy XIV"
+icon = "ffxiv.png"
 
-[[en.origins]]
-origin = "Final Fantasy XIV Fandom Wiki"
-origin_base_url = "ffxiv.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Final_Fantasy_XIV:_A_Realm_Reborn_Wiki"
+[[en.origin]]
+name = "Final Fantasy XIV Fandom Wiki"
+url = "ffxiv.fandom.com"
+mainpage = "Final_Fantasy_XIV:_A_Realm_Reborn_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Final Fantasy XIV Online Wiki"
+url = "ffxiv.consolegameswiki.com"
+platform = "mediawiki"
+icon = "ffxiv.png"
+mainpage = "FF14_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/wiki/"

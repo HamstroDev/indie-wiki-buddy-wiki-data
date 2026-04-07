@@ -1,34 +1,40 @@
 [en]
-origins_label = "Guild Wars Fandom Wiki"
-destination = "Guild Wars Wiki"
-destination_base_url = "wiki.guildwars.com"
-destination_platform = "mediawiki"
-destination_icon = "guildwarswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Guild Wars"
+icon = "guildwarswiki.png"
+
+[[en.origin]]
+name = "Guild Wars Fandom Wiki"
+url = "guildwiki.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Guild Wars Wiki"
+url = "wiki.guildwars.com"
+platform = "mediawiki"
+icon = "guildwarswiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
 
-[[en.origins]]
-origin = "Guild Wars Fandom Wiki"
-origin_base_url = "guildwiki.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
-
 [fr]
-origins_label = "Guild Wars Fandom Wiki"
-destination = "GWiki"
-destination_base_url = "www.gwiki.fr"
-destination_platform = "mediawiki"
-destination_icon = "guildwarswiki.png"
-destination_main_page = "Accueil"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Guild Wars"
+icon = "guildwarswiki.png"
 
-[[fr.origins]]
-origin = "Guild Wars Fandom Wiki"
-origin_base_url = "guildwars.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Guild_Wars_Wikia"
+[[fr.origin]]
+name = "Guild Wars Fandom Wiki"
+url = "guildwars.fandom.com/fr"
+mainpage = "Guild_Wars_Wikia"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "GWiki"
+url = "www.gwiki.fr"
+platform = "mediawiki"
+icon = "guildwarswiki.png"
+mainpage = "Accueil"
+search-path = "/w/index.php"
+content-path = "/wiki/"

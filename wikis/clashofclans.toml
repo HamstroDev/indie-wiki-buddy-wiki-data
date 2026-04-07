@@ -1,32 +1,38 @@
 [es]
-origins_label = "Clash of Clans Fandom Wiki"
-destination = "Wiki Clash of Clans"
-destination_base_url = "clashofclans.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "clashofclans.png"
-destination_main_page = "Wiki_Clash_of_Clans_en_Español"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Clash of Clans"
+icon = "clashofclans.png"
 
-[[es.origins]]
-origin = "Clash of Clans Fandom Wiki"
-origin_base_url = "clashofclans.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Clash_of_Clans_en_Español"
+[[es.origin]]
+name = "Clash of Clans Fandom Wiki"
+url = "clashofclans.fandom.com/es"
+mainpage = "Wiki_Clash_of_Clans_en_Español"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Wiki Clash of Clans"
+host = "wiki.gg"
+url = "clashofclans.wiki.gg/es"
+platform = "mediawiki"
+icon = "clashofclans.png"
+mainpage = "Wiki_Clash_of_Clans_en_Español"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [fr]
-origins_label = "Clash of Clans Fandom Wiki"
-destination = "Clash of Clans Wiki"
-destination_base_url = "wiki.clashofclans.fr"
-destination_platform = "mediawiki"
-destination_icon = "clashofclans.png"
-destination_main_page = "Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Clash of Clans"
+icon = "clashofclans.png"
 
-[[fr.origins]]
-origin = "Clash of Clans Fandom Wiki"
-origin_base_url = "clashofclans.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Clash_of_Clans"
+[[fr.origin]]
+name = "Clash of Clans Fandom Wiki"
+url = "clashofclans.fandom.com/fr"
+mainpage = "Wiki_Clash_of_Clans"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Clash of Clans Wiki"
+url = "wiki.clashofclans.fr"
+platform = "mediawiki"
+icon = "clashofclans.png"
+mainpage = "Accueil"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,21 +1,24 @@
 [en]
-origins_label = "Golden Sun Fandom & Neoseeker Wikis"
-destination = "Golden Sun Universe"
-destination_base_url = "goldensunwiki.net"
-destination_platform = "mediawiki"
-destination_icon = "goldensun.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Golden Sun"
+icon = "goldensun.png"
 
-[[en.origins]]
-origin = "Golden Sun Fandom Wiki"
-origin_base_url = "goldensun.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Golden_Sun_Wiki"
+[[en.origin]]
+name = "Golden Sun Fandom Wiki"
+url = "goldensun.fandom.com"
+mainpage = "Golden_Sun_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Golden Sun Wiki - Neoseeker"
-origin_base_url = "goldensun.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Golden Sun Wiki - Neoseeker"
+url = "goldensun.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Golden Sun Universe"
+url = "goldensunwiki.net"
+platform = "mediawiki"
+icon = "goldensun.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

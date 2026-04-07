@@ -1,16 +1,19 @@
 [en]
-origins_label = "Ship of Fools Fandom Wiki"
-destination = "Ship of Fools Wiki"
-destination_base_url = "shipoffools.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "shipoffoolswiki.png"
-destination_main_page = "Ship_of_Fools_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Ship of Fools"
+icon = "shipoffoolswiki.png"
 
-[[en.origins]]
-origin = "Ship of Fools Fandom Wiki"
-origin_base_url = "ship-of-fools.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Ship_of_Fools_Wiki"
+[[en.origin]]
+name = "Ship of Fools Fandom Wiki"
+url = "ship-of-fools.fandom.com"
+mainpage = "Ship_of_Fools_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Ship of Fools Wiki"
+host = "wiki.gg"
+url = "shipoffools.wiki.gg"
+platform = "mediawiki"
+icon = "shipoffoolswiki.png"
+mainpage = "Ship_of_Fools_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

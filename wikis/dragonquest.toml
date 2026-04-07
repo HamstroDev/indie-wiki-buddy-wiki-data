@@ -1,15 +1,18 @@
 [fr]
-origins_label = "Dragon Quest Fandom Wiki"
-destination = "Dragon Quest Wiki"
-destination_base_url = "wikidragonquest.fr"
-destination_platform = "mediawiki"
-destination_icon = "dragonquest.png"
-destination_main_page = "Wiki_Dragon_Quest"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Dragon Quest"
+icon = "dragonquest.png"
 
-[[fr.origins]]
-origin = "Dragon Quest Fandom Wiki"
-origin_base_url = "dragonquest.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Dragon_Quest"
+[[fr.origin]]
+name = "Dragon Quest Fandom Wiki"
+url = "dragonquest.fandom.com/fr"
+mainpage = "Wiki_Dragon_Quest"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Dragon Quest Wiki"
+url = "wikidragonquest.fr"
+platform = "mediawiki"
+icon = "dragonquest.png"
+mainpage = "Wiki_Dragon_Quest"
+search-path = "/index.php"
+content-path = "/"

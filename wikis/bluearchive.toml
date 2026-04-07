@@ -1,16 +1,19 @@
 [en]
-origins_label = "Blue Archive Fandom Wiki"
-destination = "Blue Archive Wiki"
-destination_base_url = "bluearchive.wiki"
-destination_platform = "mediawiki"
-destination_icon = "bluearchive.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Blue Archive"
+icon = "bluearchive.png"
 
-[[en.origins]]
-origin = "Blue Archive Fandom Wiki"
-origin_base_url = "bluearchive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Blue_Archive_Wiki"
+[[en.origin]]
+name = "Blue Archive Fandom Wiki"
+url = "bluearchive.fandom.com"
+mainpage = "Blue_Archive_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Blue Archive Wiki"
+host = "Miraheze"
+url = "bluearchive.wiki"
+platform = "mediawiki"
+icon = "bluearchive.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Sea of Thieves Fandom Wiki"
-destination = "Sea of Thieves Wiki"
-destination_base_url = "seaofthieves.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "seaofthieveswiki.png"
-destination_main_page = "Sea_of_Thieves_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Sea of Thieves"
+icon = "seaofthieveswiki.png"
 
-[[en.origins]]
-origin = "Sea of Thieves Fandom Wiki"
-origin_base_url = "seaofthieves.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sea_of_Thieves_Wiki"
+[[en.origin]]
+name = "Sea of Thieves Fandom Wiki"
+url = "seaofthieves.fandom.com"
+mainpage = "Sea_of_Thieves_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sea of Thieves Wiki"
+host = "wiki.gg"
+url = "seaofthieves.wiki.gg"
+platform = "mediawiki"
+icon = "seaofthieveswiki.png"
+mainpage = "Sea_of_Thieves_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

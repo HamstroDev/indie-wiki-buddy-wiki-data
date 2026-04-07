@@ -1,21 +1,24 @@
 [en]
-origins_label = "Magical Vacation Fandom Wikis"
-destination = "Kovopedia"
-destination_base_url = "kovopedia.com"
-destination_platform = "mediawiki"
-destination_icon = "kovopedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Magical Vacation"
+icon = "kovopedia.png"
 
-[[en.origins]]
-origin = "Magical Starsign Fandom Wiki"
-origin_base_url = "magicalstarsign.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Magical_Starsign_Wiki"
+[[en.origin]]
+name = "Magical Starsign Fandom Wiki"
+url = "magicalstarsign.fandom.com"
+mainpage = "Magical_Starsign_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Magical Vacation Fandom Wiki"
-origin_base_url = "magicalvacation.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Magical_Vacation_Wiki"
+[[en.origin]]
+name = "Magical Vacation Fandom Wiki"
+url = "magicalvacation.fandom.com"
+mainpage = "Magical_Vacation_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Kovopedia"
+url = "kovopedia.com"
+platform = "mediawiki"
+icon = "kovopedia.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

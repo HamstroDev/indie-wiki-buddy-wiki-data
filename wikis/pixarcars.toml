@@ -1,15 +1,18 @@
 [en]
-origins_label = "Pixar Cars Fandom Wiki"
-destination = "Disney•Pixar CARS Wiki"
-destination_base_url = "dpcarswiki.com"
-destination_platform = "mediawiki"
-destination_icon = "disneypixarcarswiki.png"
-destination_content_path = "/"
-destination_search_path = "/index.php"
-destination_main_page = "Main_Page"
+name = "Pixar Cars"
+icon = "disneypixarcarswiki.png"
 
-[[en.origins]]
-origin = "Pixar Cars Fandom Wiki"
-origin_base_url = "pixarcars.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Pixar Cars Fandom Wiki"
+url = "pixarcars.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Disney•Pixar CARS Wiki"
+url = "dpcarswiki.com"
+platform = "mediawiki"
+icon = "disneypixarcarswiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

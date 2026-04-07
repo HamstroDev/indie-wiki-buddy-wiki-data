@@ -1,19 +1,22 @@
 [en]
-origins_label = "Cities Skylines Fandom Wiki"
-destination = "Cities: Skylines Wiki"
-destination_base_url = "skylines.paradoxwikis.com"
-destination_platform = "mediawiki"
-destination_icon = "citiesskylines.png"
-destination_main_page = "Cities:_Skylines_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
-destination_host = "Paradox"
+name = "Cities Skylines"
+icon = "citiesskylines.png"
+
+[[en.origin]]
+name = "Cities Skylines Fandom Wiki"
+url = "skylines.fandom.com"
+mainpage = "Skylines_Wikia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Cities: Skylines Wiki"
+host = "Paradox"
+url = "skylines.paradoxwikis.com"
+platform = "mediawiki"
+icon = "citiesskylines.png"
+mainpage = "Cities:_Skylines_Wiki"
+search-path = "/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Cities Skylines Fandom Wiki"
-origin_base_url = "skylines.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Skylines_Wikia"

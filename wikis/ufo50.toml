@@ -1,16 +1,19 @@
 [en]
-origins_label = "UFO 50 Fandom Wiki"
-destination = "UFO 50 Wiki"
-destination_base_url = "ufo50.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "ufo50.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "UFO 50"
+icon = "ufo50.png"
 
-[[en.origins]]
-origin = "UFO 50 Fandom Wiki"
-origin_base_url = "ufo50.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "UFO_50_Wiki"
+[[en.origin]]
+name = "UFO 50 Fandom Wiki"
+url = "ufo50.fandom.com"
+mainpage = "UFO_50_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "UFO 50 Wiki"
+host = "Miraheze"
+url = "ufo50.miraheze.org"
+platform = "mediawiki"
+icon = "ufo50.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

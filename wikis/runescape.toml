@@ -1,40 +1,46 @@
 [en]
-origins_label = "RuneScape Fandom & Neoseeker Wikis"
-destination = "RuneScape Wiki"
-destination_base_url = "runescape.wiki"
-destination_platform = "mediawiki"
-destination_icon = "runescape.png"
-destination_main_page = "RuneScape_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "RuneScape"
+icon = "runescape.png"
+
+[[en.origin]]
+name = "RuneScape Fandom Wiki"
+url = "runescape.fandom.com"
+mainpage = "RuneScape_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "Runescape Wiki - Neoseeker"
+url = "runescape.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "RuneScape Wiki"
+url = "runescape.wiki"
+platform = "mediawiki"
+icon = "runescape.png"
+mainpage = "RuneScape_Wiki"
+search-path = "/"
+content-path = "/w/"
 tags = [
     "official",
 ]
 
-[[en.origins]]
-origin = "RuneScape Fandom Wiki"
-origin_base_url = "runescape.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "RuneScape_Wiki"
-
-[[en.origins]]
-origin = "Runescape Wiki - Neoseeker"
-origin_base_url = "runescape.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
-
 [pt]
-origins_label = "Runescape Fandom Wiki"
-destination = "Runescape Wiki"
-destination_base_url = "pt.runescape.wiki"
-destination_platform = "mediawiki"
-destination_icon = "runescape.png"
-destination_main_page = "RuneScape_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Runescape"
+icon = "runescape.png"
 
-[[pt.origins]]
-origin = "Runescape Fandom Wiki"
-origin_base_url = "runescape.fandom.com/pt"
-origin_content_path = "/wiki/"
-origin_main_page = "RuneScape_Wiki"
+[[pt.origin]]
+name = "Runescape Fandom Wiki"
+url = "runescape.fandom.com/pt"
+mainpage = "RuneScape_Wiki"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Runescape Wiki"
+url = "pt.runescape.wiki"
+platform = "mediawiki"
+icon = "runescape.png"
+mainpage = "RuneScape_Wiki"
+search-path = "/"
+content-path = "/w/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Moshi Monsters Fandom Wiki"
-destination = "Moshi Monsters Wiki"
-destination_base_url = "moshimonsters.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "moshimonsterswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Moshi_Monsters_Wiki"
-destination_host = "wiki.gg"
+name = "Moshi Monsters"
+icon = "moshimonsterswiki.png"
 
-[[en.origins]]
-origin = "Moshi Monsters Fandom Wiki"
-origin_base_url = "moshimonsters.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Moshi_Monsters_Wiki"
+[[en.origin]]
+name = "Moshi Monsters Fandom Wiki"
+url = "moshimonsters.fandom.com"
+mainpage = "Moshi_Monsters_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Moshi Monsters Wiki"
+host = "wiki.gg"
+url = "moshimonsters.wiki.gg"
+platform = "mediawiki"
+icon = "moshimonsterswiki.png"
+mainpage = "Moshi_Monsters_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

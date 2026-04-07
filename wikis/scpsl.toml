@@ -1,37 +1,43 @@
 [ru]
-origins_label = "SCP: Secret Laboratory Fandom Wiki"
-destination = "SCP: Secret Laboratory Wiki"
-destination_base_url = "ru.scpslgame.com"
-destination_platform = "mediawiki"
-destination_icon = "scpslwiki.png"
-destination_main_page = "Заглавная_страница"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "SCP: Secret Laboratory"
+icon = "scpslwiki.png"
+
+[[ru.origin]]
+name = "SCP: Secret Laboratory Fandom Wiki"
+url = "scp-secret-laboratory.fandom.com/ru"
+mainpage = "SCP:_Secret_Laboratory_вики"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "SCP: Secret Laboratory Wiki"
+url = "ru.scpslgame.com"
+platform = "mediawiki"
+icon = "scpslwiki.png"
+mainpage = "Заглавная_страница"
+search-path = "/index.php"
+content-path = "/index.php?title="
 tags = [
     "official",
 ]
-
-[[ru.origins]]
-origin = "SCP: Secret Laboratory Fandom Wiki"
-origin_base_url = "scp-secret-laboratory.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "SCP:_Secret_Laboratory_вики"
 
 [en]
-origins_label = "SCP: Secret Laboratory Fandom Wiki"
-destination = "SCP: Secret Laboratory Wiki"
-destination_base_url = "en.scpslgame.com"
-destination_platform = "mediawiki"
-destination_icon = "scpslwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "SCP: Secret Laboratory"
+icon = "scpslwiki.png"
+
+[[en.origin]]
+name = "SCP: Secret Laboratory Fandom Wiki"
+url = "scp-secret-laboratory.fandom.com"
+mainpage = "SCP:_Secret_Laboratory_Official_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SCP: Secret Laboratory Wiki"
+url = "en.scpslgame.com"
+platform = "mediawiki"
+icon = "scpslwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php?title="
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "SCP: Secret Laboratory Fandom Wiki"
-origin_base_url = "scp-secret-laboratory.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "SCP:_Secret_Laboratory_Official_Wiki"

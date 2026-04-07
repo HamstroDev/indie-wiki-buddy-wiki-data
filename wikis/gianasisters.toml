@@ -1,16 +1,19 @@
 [en]
-origins_label = "Giana Sisters Fandom Wiki"
-destination = "GianaPedia"
-destination_base_url = "gianasisters.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "gianapedia.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Main_Page"
-destination_host = "Miraheze"
+name = "Giana Sisters"
+icon = "gianapedia.png"
 
-[[en.origins]]
-origin = "Giana Sisters Fandom Wiki"
-origin_base_url = "giana-sisters.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Giana Sisters Fandom Wiki"
+url = "giana-sisters.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "GianaPedia"
+host = "Miraheze"
+url = "gianasisters.miraheze.org"
+platform = "mediawiki"
+icon = "gianapedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

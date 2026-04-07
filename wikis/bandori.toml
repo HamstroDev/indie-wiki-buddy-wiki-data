@@ -1,16 +1,19 @@
 [en]
-origins_label = "Bang Dream! Fandom Wiki"
-destination = "Bandori Wiki"
-destination_base_url = "bandori.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "bandoriwiki.png"
-destination_main_page = "BanG_Dream!_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Bang Dream!"
+icon = "bandoriwiki.png"
 
-[[en.origins]]
-origin = "Bang Dream! Fandom Wiki"
-origin_base_url = "bandori.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "BanG_Dream!_Wikia"
+[[en.origin]]
+name = "Bang Dream! Fandom Wiki"
+url = "bandori.fandom.com"
+mainpage = "BanG_Dream!_Wikia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Bandori Wiki"
+host = "Miraheze"
+url = "bandori.miraheze.org"
+platform = "mediawiki"
+icon = "bandoriwiki.png"
+mainpage = "BanG_Dream!_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

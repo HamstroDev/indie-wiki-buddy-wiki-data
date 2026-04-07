@@ -1,16 +1,19 @@
 [en]
-origins_label = "After Inc. Fandom Wiki"
-destination = "After Inc. Wiki"
-destination_base_url = "afterinc.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "afterincwiki.png"
-destination_main_page = "After_Inc._Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "After Inc."
+icon = "afterincwiki.png"
 
-[[en.origins]]
-origin = "After Inc. Fandom Wiki"
-origin_base_url = "after-inc.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "After_Inc._Wiki"
+[[en.origin]]
+name = "After Inc. Fandom Wiki"
+url = "after-inc.fandom.com"
+mainpage = "After_Inc._Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "After Inc. Wiki"
+host = "wiki.gg"
+url = "afterinc.wiki.gg"
+platform = "mediawiki"
+icon = "afterincwiki.png"
+mainpage = "After_Inc._Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

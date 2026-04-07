@@ -1,52 +1,59 @@
 [ru]
-origins_label = "Pou Fandom Wiki"
-destination = "Poupedia"
-destination_base_url = "poupedia.com"
-destination_content_suffix = "/ru"
-destination_platform = "mediawiki"
-destination_icon = "poupedia.png"
-destination_main_page = "Poupedia"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
-destination_host = "Miraheze"
+name = "Pou"
+icon = "poupedia.png"
 
-[[ru.origins]]
-origin = "Pou Fandom Wiki"
-origin_base_url = "pou.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "Pou_вики"
+[[ru.origin]]
+name = "Pou Fandom Wiki"
+url = "pou.fandom.com/ru"
+mainpage = "Pou_вики"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "Poupedia"
+host = "Miraheze"
+url = "poupedia.com"
+platform = "mediawiki"
+icon = "poupedia.png"
+mainpage = "Poupedia"
+search-path = "/w/index.php"
+content-path = "/"
 
 [en]
-origins_label = "Pou Fandom Wiki"
-destination = "Poupedia"
-destination_base_url = "poupedia.com"
-destination_platform = "mediawiki"
-destination_icon = "poupedia.png"
-destination_main_page = "Poupedia"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
-destination_host = "Miraheze"
+name = "Pou"
+icon = "poupedia.png"
 
-[[en.origins]]
-origin = "Pou Fandom Wiki"
-origin_base_url = "pou.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pou_Wiki"
+[[en.origin]]
+name = "Pou Fandom Wiki"
+url = "pou.fandom.com"
+mainpage = "Pou_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Poupedia"
+host = "Miraheze"
+url = "poupedia.com"
+platform = "mediawiki"
+icon = "poupedia.png"
+mainpage = "Poupedia"
+search-path = "/w/index.php"
+content-path = "/"
 
 [hr]
-origins_label = "Pou Fandom Wiki"
-destination = "Poupedija"
-destination_base_url = "poupedia.com"
-destination_content_suffix = "/hr"
-destination_platform = "mediawiki"
-destination_icon = "poupedija.png"
-destination_main_page = "Poupedia"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
-destination_host = "Miraheze"
+name = "Pou"
+icon = "poupedija.png"
 
-[[hr.origins]]
-origin = "Pou Fandom Wiki"
-origin_base_url = "pou.fandom.com/hr"
-origin_content_path = "/wiki/"
-origin_main_page = "Pou_Wiki"
+[[hr.origin]]
+name = "Pou Fandom Wiki"
+url = "pou.fandom.com/hr"
+mainpage = "Pou_Wiki"
+content-path = "/wiki/"
+
+[[hr.destination]]
+name = "Poupedija"
+host = "Miraheze"
+url = "poupedia.com"
+platform = "mediawiki"
+icon = "poupedija.png"
+mainpage = "Poupedia"
+search-path = "/w/index.php"
+content-path = "/"

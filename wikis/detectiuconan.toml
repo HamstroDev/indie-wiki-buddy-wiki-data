@@ -1,15 +1,18 @@
 [ca]
-origins_label = "Detectiu Conan Fandom Wiki"
-destination = "ConanWiki"
-destination_base_url = "ca.conanwiki.org"
-destination_platform = "mediawiki"
-destination_icon = "caconanwiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Detectiu_Conan_Wiki"
+name = "Detectiu Conan"
+icon = "caconanwiki.png"
 
-[[ca.origins]]
-origin = "Detectiu Conan Fandom Wiki"
-origin_base_url = "detectiuconan.fandom.com/ca"
-origin_content_path = "/wiki/"
-origin_main_page = "Detectiu_Conan_Wiki"
+[[ca.origin]]
+name = "Detectiu Conan Fandom Wiki"
+url = "detectiuconan.fandom.com/ca"
+mainpage = "Detectiu_Conan_Wiki"
+content-path = "/wiki/"
+
+[[ca.destination]]
+name = "ConanWiki"
+url = "ca.conanwiki.org"
+platform = "mediawiki"
+icon = "caconanwiki.png"
+mainpage = "Detectiu_Conan_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

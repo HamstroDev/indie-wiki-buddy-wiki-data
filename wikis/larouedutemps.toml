@@ -1,15 +1,18 @@
 [fr]
-origins_label = "La Roue du Temps Fandom Wiki"
-destination = "Encyclopédie de la Roue du Temps"
-destination_base_url = "encyclo.rouedutemps.fr"
-destination_platform = "mediawiki"
-destination_icon = "larouedutemps.png"
-destination_main_page = "Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "La Roue du Temps"
+icon = "larouedutemps.png"
 
-[[fr.origins]]
-origin = "La Roue du Temps Fandom Wiki"
-origin_base_url = "la-roue-du-temps.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_La_Roue_du_Temps"
+[[fr.origin]]
+name = "La Roue du Temps Fandom Wiki"
+url = "la-roue-du-temps.fandom.com/fr"
+mainpage = "Wiki_La_Roue_du_Temps"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Encyclopédie de la Roue du Temps"
+url = "encyclo.rouedutemps.fr"
+platform = "mediawiki"
+icon = "larouedutemps.png"
+mainpage = "Accueil"
+search-path = "/index.php"
+content-path = "/index.php?title="

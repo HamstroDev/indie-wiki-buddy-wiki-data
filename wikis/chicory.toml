@@ -1,16 +1,19 @@
 [en]
-origins_label = "Chicory: A Colorful Tale Fandom Wiki"
-destination = "Chicory: A Colorful Tale Wiki"
-destination_base_url = "wiki.chicory.pizza"
-destination_platform = "mediawiki"
-destination_icon = "chicory.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Chicory: A Colorful Tale"
+icon = "chicory.png"
 
-[[en.origins]]
-origin = "Chicory: A Colorful Tale Fandom Wiki"
-origin_base_url = "chicory-a-colorful-tale.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Chicory:_A_Colorful_Tale_Wiki"
+[[en.origin]]
+name = "Chicory: A Colorful Tale Fandom Wiki"
+url = "chicory-a-colorful-tale.fandom.com"
+mainpage = "Chicory:_A_Colorful_Tale_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Chicory: A Colorful Tale Wiki"
+host = "Miraheze"
+url = "wiki.chicory.pizza"
+platform = "mediawiki"
+icon = "chicory.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

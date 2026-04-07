@@ -1,16 +1,19 @@
 [en]
-origins_label = "The Kitatcho Laboratories Fandom Wiki"
-destination = "The Kitatcho Laboratories Wiki"
-destination_base_url = "kitatcho.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "kitatchowiki.png"
-destination_main_page = "The_Kitatcho_Laboratories_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "The Kitatcho Laboratories"
+icon = "kitatchowiki.png"
 
-[[en.origins]]
-origin = "The Kitatcho Laboratories Fandom Wiki"
-origin_base_url = "kitatcho-labs.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Kitatcho_Laboratories_Wiki"
+[[en.origin]]
+name = "The Kitatcho Laboratories Fandom Wiki"
+url = "kitatcho-labs.fandom.com"
+mainpage = "The_Kitatcho_Laboratories_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Kitatcho Laboratories Wiki"
+host = "wiki.gg"
+url = "kitatcho.wiki.gg"
+platform = "mediawiki"
+icon = "kitatchowiki.png"
+mainpage = "The_Kitatcho_Laboratories_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

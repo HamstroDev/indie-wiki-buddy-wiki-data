@@ -1,16 +1,19 @@
 [en]
-origins_label = "Oaklands Fandom Wiki"
-destination = "Oaklands Wiki"
-destination_base_url = "oaklandsrblxwiki.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "oaklandsroblox.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Oaklands"
+icon = "oaklandsroblox.png"
 
-[[en.origins]]
-origin = "Oaklands Fandom Wiki"
-origin_base_url = "oaklands.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Oaklands_Wiki"
+[[en.origin]]
+name = "Oaklands Fandom Wiki"
+url = "oaklands.fandom.com"
+mainpage = "Oaklands_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Oaklands Wiki"
+host = "Miraheze"
+url = "oaklandsrblxwiki.miraheze.org"
+platform = "mediawiki"
+icon = "oaklandsroblox.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

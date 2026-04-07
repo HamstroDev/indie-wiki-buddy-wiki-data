@@ -1,16 +1,19 @@
 [en]
-origins_label = "GTFO Fandom Wiki"
-destination = "GTFO Wiki"
-destination_base_url = "gtfo.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "gtfowiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "GTFO_Wiki"
-destination_host = "wiki.gg"
+name = "GTFO"
+icon = "gtfowiki.png"
 
-[[en.origins]]
-origin = "GTFO Fandom Wiki"
-origin_base_url = "gtfo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "GTFO_Wiki"
+[[en.origin]]
+name = "GTFO Fandom Wiki"
+url = "gtfo.fandom.com"
+mainpage = "GTFO_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "GTFO Wiki"
+host = "wiki.gg"
+url = "gtfo.wiki.gg"
+platform = "mediawiki"
+icon = "gtfowiki.png"
+mainpage = "GTFO_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

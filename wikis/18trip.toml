@@ -1,16 +1,19 @@
 [en]
-origins_label = "18TRIP Fandom Wiki"
-destination = "18TRIP Wiki"
-destination_base_url = "wiki.18t.rip"
-destination_platform = "mediawiki"
-destination_icon = "18tripwiki.png"
-destination_main_page = "18TRIP_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "18TRIP"
+icon = "18tripwiki.png"
 
-[[en.origins]]
-origin = "18TRIP Fandom Wiki"
-origin_base_url = "18trip.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "18_TRIP_Wiki"
+[[en.origin]]
+name = "18TRIP Fandom Wiki"
+url = "18trip.fandom.com"
+mainpage = "18_TRIP_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "18TRIP Wiki"
+host = "Miraheze"
+url = "wiki.18t.rip"
+platform = "mediawiki"
+icon = "18tripwiki.png"
+mainpage = "18TRIP_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

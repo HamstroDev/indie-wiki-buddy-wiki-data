@@ -1,16 +1,19 @@
 [en]
-origins_label = "Webfishing Fandom Wiki"
-destination = "WEBFISHING Wiki"
-destination_base_url = "webfishing.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "webfishingwiki.png"
-destination_main_page = "WEBFISHING_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Webfishing"
+icon = "webfishingwiki.png"
 
-[[en.origins]]
-origin = "Webfishing Fandom Wiki"
-origin_base_url = "webfishing.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Webfishing_Wiki"
+[[en.origin]]
+name = "Webfishing Fandom Wiki"
+url = "webfishing.fandom.com"
+mainpage = "Webfishing_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "WEBFISHING Wiki"
+host = "wiki.gg"
+url = "webfishing.wiki.gg"
+platform = "mediawiki"
+icon = "webfishingwiki.png"
+mainpage = "WEBFISHING_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

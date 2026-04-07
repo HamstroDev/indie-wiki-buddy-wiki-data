@@ -1,16 +1,19 @@
 [en]
-origins_label = "Horticular Fandom Wiki"
-destination = "Horticular Wiki"
-destination_base_url = "horticular.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "horticularwiki.png"
-destination_main_page = "Horticular_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Horticular"
+icon = "horticularwiki.png"
 
-[[en.origins]]
-origin = "Horticular Fandom Wiki"
-origin_base_url = "horticular.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Horticular_Wiki"
+[[en.origin]]
+name = "Horticular Fandom Wiki"
+url = "horticular.fandom.com"
+mainpage = "Horticular_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Horticular Wiki"
+host = "wiki.gg"
+url = "horticular.wiki.gg"
+platform = "mediawiki"
+icon = "horticularwiki.png"
+mainpage = "Horticular_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

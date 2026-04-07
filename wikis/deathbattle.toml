@@ -1,16 +1,19 @@
 [en]
-origins_label = "DEATH BATTLE Fandom Wiki"
-destination = "DEATH BATTLE! Wiki"
-destination_base_url = "deathbattle.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "deathbattlewiki.png"
-destination_main_page = "DEATH_BATTLE!_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "DEATH BATTLE"
+icon = "deathbattlewiki.png"
 
-[[en.origins]]
-origin = "DEATH BATTLE Fandom Wiki"
-origin_base_url = "deathbattle.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "DEATH_BATTLE!_Wiki"
+[[en.origin]]
+name = "DEATH BATTLE Fandom Wiki"
+url = "deathbattle.fandom.com"
+mainpage = "DEATH_BATTLE!_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "DEATH BATTLE! Wiki"
+host = "Miraheze"
+url = "deathbattle.miraheze.org"
+platform = "mediawiki"
+icon = "deathbattlewiki.png"
+mainpage = "DEATH_BATTLE!_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

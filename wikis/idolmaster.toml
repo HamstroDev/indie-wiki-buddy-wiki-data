@@ -1,15 +1,18 @@
 [en]
-origins_label = "IDOLM@STER Fandom Wiki"
-destination = "Project iM@S"
-destination_base_url = "project-imas.wiki"
-destination_platform = "mediawiki"
-destination_icon = "projectimas.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "IDOLM@STER"
+icon = "projectimas.png"
 
-[[en.origins]]
-origin = "IDOLM@STER Fandom Wiki"
-origin_base_url = "idolmaster.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "IDOLM@STER_Wiki"
+[[en.origin]]
+name = "IDOLM@STER Fandom Wiki"
+url = "idolmaster.fandom.com"
+mainpage = "IDOLM@STER_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Project iM@S"
+url = "project-imas.wiki"
+platform = "mediawiki"
+icon = "projectimas.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

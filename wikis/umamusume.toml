@@ -1,15 +1,18 @@
 [en]
-origins_label = "Uma Musume Fandom Wiki"
-destination = "Umamusume Wiki"
-destination_base_url = "umamusu.wiki"
-destination_platform = "mediawiki"
-destination_icon = "umamusumewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
+name = "Uma Musume"
+icon = "umamusumewiki.png"
 
-[[en.origins]]
-origin = "Uma Musume Fandom Wiki"
-origin_base_url = "umamusume.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Uma_Musume_Wiki"
+[[en.origin]]
+name = "Uma Musume Fandom Wiki"
+url = "umamusume.fandom.com"
+mainpage = "Uma_Musume_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Umamusume Wiki"
+url = "umamusu.wiki"
+platform = "mediawiki"
+icon = "umamusumewiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/"

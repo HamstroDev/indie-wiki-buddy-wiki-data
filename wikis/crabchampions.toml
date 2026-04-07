@@ -1,19 +1,22 @@
 [en]
-origins_label = "Crab Champions Fandom Wiki"
-destination = "Crab Champions Wiki"
-destination_base_url = "crabchampions.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "crabchampionswiki.png"
-destination_main_page = "Crab_Champions_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Crab Champions"
+icon = "crabchampionswiki.png"
+
+[[en.origin]]
+name = "Crab Champions Fandom Wiki"
+url = "crabchampions.fandom.com"
+mainpage = "Crab_Champions_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Crab Champions Wiki"
+host = "wiki.gg"
+url = "crabchampions.wiki.gg"
+platform = "mediawiki"
+icon = "crabchampionswiki.png"
+mainpage = "Crab_Champions_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Crab Champions Fandom Wiki"
-origin_base_url = "crabchampions.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Crab_Champions_Wiki"

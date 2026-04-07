@@ -1,16 +1,19 @@
 [en]
-origins_label = "Arknights: Endfield Fandom Wiki"
-destination = "Endfield Talos Wiki"
-destination_base_url = "endfield.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "endfieldtaloswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Endfield_Talos_Wiki"
-destination_host = "wiki.gg"
+name = "Arknights: Endfield"
+icon = "endfieldtaloswiki.png"
 
-[[en.origins]]
-origin = "Arknights: Endfield Fandom Wiki"
-origin_base_url = "endfield.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Arknights:_Endfield_Wiki"
+[[en.origin]]
+name = "Arknights: Endfield Fandom Wiki"
+url = "endfield.fandom.com"
+mainpage = "Arknights:_Endfield_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Endfield Talos Wiki"
+host = "wiki.gg"
+url = "endfield.wiki.gg"
+platform = "mediawiki"
+icon = "endfieldtaloswiki.png"
+mainpage = "Endfield_Talos_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

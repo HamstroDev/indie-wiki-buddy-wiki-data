@@ -1,89 +1,100 @@
 [ru]
-origins_label = "Half-Life Fandom Wiki"
-destination = "Combine OverWiki"
-destination_base_url = "combineoverwiki.net"
-destination_content_suffix = "/ru"
-destination_platform = "mediawiki"
-destination_icon = "combine.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Half-Life"
+icon = "combine.png"
 
-[[ru.origins]]
-origin = "Half-Life Fandom Wiki"
-origin_base_url = "halflife.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "Заглавная_страница"
+[[ru.origin]]
+name = "Half-Life Fandom Wiki"
+url = "halflife.fandom.com/ru"
+mainpage = "Заглавная_страница"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "Combine OverWiki"
+url = "combineoverwiki.net"
+platform = "mediawiki"
+icon = "combine.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [es]
-origins_label = "Half-Life & Portal Fandom Wiki"
-destination = "Combine OverWiki"
-destination_base_url = "combineoverwiki.net"
-destination_content_suffix = "/es"
-destination_platform = "mediawiki"
-destination_icon = "combine.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Half-Life & Portal"
+icon = "combine.png"
 
-[[es.origins]]
-origin = "Half-Life & Portal Fandom Wiki"
-origin_base_url = "halflife.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Portada"
+[[es.origin]]
+name = "Half-Life & Portal Fandom Wiki"
+url = "halflife.fandom.com/es"
+mainpage = "Portada"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Combine OverWiki"
+url = "combineoverwiki.net"
+platform = "mediawiki"
+icon = "combine.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [en]
-origins_label = "Half-Life Fandom & Neoseeker Wikis"
-destination = "Combine OverWiki"
-destination_base_url = "combineoverwiki.net"
-destination_platform = "mediawiki"
-destination_icon = "combine.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Half-Life"
+icon = "combine.png"
 
-[[en.origins]]
-origin = "Half-Life & Portal Fandom Wiki"
-origin_base_url = "half-life.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Half-Life & Portal Fandom Wiki"
+url = "half-life.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Half-Life Wiki - Neoseeker"
-origin_base_url = "halflife.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Half-Life Wiki - Neoseeker"
+url = "halflife.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Combine OverWiki"
+url = "combineoverwiki.net"
+platform = "mediawiki"
+icon = "combine.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [pl]
-origins_label = "Half-Life Fandom Wiki"
-destination = "Combine OverWiki"
-destination_base_url = "combineoverwiki.net"
-destination_content_suffix = "/pl"
-destination_platform = "mediawiki"
-destination_icon = "combine.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Half-Life"
+icon = "combine.png"
 
-[[pl.origins]]
-origin = "Half-Life Fandom Wiki"
-origin_base_url = "half-life.fandom.com/pl"
-origin_content_path = "/wiki/"
-origin_main_page = "Half-Life_Wiki"
+[[pl.origin]]
+name = "Half-Life Fandom Wiki"
+url = "half-life.fandom.com/pl"
+mainpage = "Half-Life_Wiki"
+content-path = "/wiki/"
+
+[[pl.destination]]
+name = "Combine OverWiki"
+url = "combineoverwiki.net"
+platform = "mediawiki"
+icon = "combine.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [zh]
-origins_label = "Half-Life Fandom Wiki"
-destination = "Combine OverWiki"
-destination_base_url = "combineoverwiki.net"
-destination_content_suffix = "/zh-hans"
-destination_platform = "mediawiki"
-destination_icon = "combine.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Half-Life"
+icon = "combine.png"
 
-[[zh.origins]]
-origin = "Half-Life Fandom Wiki"
-origin_base_url = "hlforever.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "首頁"
+[[zh.origin]]
+name = "Half-Life Fandom Wiki"
+url = "hlforever.fandom.com"
+mainpage = "首頁"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Combine OverWiki"
+url = "combineoverwiki.net"
+platform = "mediawiki"
+icon = "combine.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

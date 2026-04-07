@@ -1,16 +1,19 @@
 [en]
-origins_label = "Backpack Battles Fandom Wiki"
-destination = "Backpack Battles Wiki"
-destination_base_url = "backpackbattles.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "backpackbattleswiki.png"
-destination_main_page = "Backpack_Battles_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Backpack Battles"
+icon = "backpackbattleswiki.png"
 
-[[en.origins]]
-origin = "Backpack Battles Fandom Wiki"
-origin_base_url = "backpack-battles.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Backpack_Battles_Wiki"
+[[en.origin]]
+name = "Backpack Battles Fandom Wiki"
+url = "backpack-battles.fandom.com"
+mainpage = "Backpack_Battles_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Backpack Battles Wiki"
+host = "wiki.gg"
+url = "backpackbattles.wiki.gg"
+platform = "mediawiki"
+icon = "backpackbattleswiki.png"
+mainpage = "Backpack_Battles_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

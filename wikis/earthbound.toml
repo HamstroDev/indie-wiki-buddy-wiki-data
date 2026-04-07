@@ -1,37 +1,43 @@
 [en]
-origins_label = "EarthBound Fandom & Neoseeker Wikis"
-destination = "WikiBound"
-destination_base_url = "wikibound.info"
-destination_platform = "mediawiki"
-destination_icon = "wikibound.png"
-destination_main_page = "WikiBound"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "EarthBound"
+icon = "wikibound.png"
 
-[[en.origins]]
-origin = "EarthBound Fandom Wiki"
-origin_base_url = "earthbound.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "EarthBound Fandom Wiki"
+url = "earthbound.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Mother Wiki - Neoseeker"
-origin_base_url = "mother.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Mother Wiki - Neoseeker"
+url = "mother.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "WikiBound"
+url = "wikibound.info"
+platform = "mediawiki"
+icon = "wikibound.png"
+mainpage = "WikiBound"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [it]
-origins_label = "EarthBound Fandom Wiki"
-destination = "WikiBound"
-destination_base_url = "it.wikibound.info"
-destination_platform = "mediawiki"
-destination_icon = "wikibound.png"
-destination_main_page = "Pagina_principale"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "EarthBound"
+icon = "wikibound.png"
 
-[[it.origins]]
-origin = "EarthBound Fandom Wiki"
-origin_base_url = "earthbound.fandom.com/it"
-origin_content_path = "/wiki/"
-origin_main_page = "EarthBound_Wiki"
+[[it.origin]]
+name = "EarthBound Fandom Wiki"
+url = "earthbound.fandom.com/it"
+mainpage = "EarthBound_Wiki"
+content-path = "/wiki/"
+
+[[it.destination]]
+name = "WikiBound"
+url = "it.wikibound.info"
+platform = "mediawiki"
+icon = "wikibound.png"
+mainpage = "Pagina_principale"
+search-path = "/w/index.php"
+content-path = "/wiki/"

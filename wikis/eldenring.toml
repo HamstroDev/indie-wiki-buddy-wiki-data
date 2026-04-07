@@ -1,22 +1,25 @@
 [en]
-origins_label = "Elden Ring Fandom & Fextralife Wikis"
-destination = "Eldenpedia"
-destination_base_url = "eldenring.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "eldenring.png"
-destination_main_page = "Eldenpedia"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Elden Ring"
+icon = "eldenring.png"
 
-[[en.origins]]
-origin = "Elden Ring Fandom Wiki"
-origin_base_url = "eldenring.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Elden_Ring_Wiki"
+[[en.origin]]
+name = "Elden Ring Fandom Wiki"
+url = "eldenring.fandom.com"
+mainpage = "Elden_Ring_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Elden Ring Fextralife Wiki"
-origin_base_url = "eldenring.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Elden Ring Wiki"
+[[en.origin]]
+name = "Elden Ring Fextralife Wiki"
+url = "eldenring.wiki.fextralife.com"
+mainpage = "Elden Ring Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Eldenpedia"
+host = "wiki.gg"
+url = "eldenring.wiki.gg"
+platform = "mediawiki"
+icon = "eldenring.png"
+mainpage = "Eldenpedia"
+search-path = "/index.php"
+content-path = "/wiki/"

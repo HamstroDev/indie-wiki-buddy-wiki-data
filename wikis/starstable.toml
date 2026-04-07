@@ -1,16 +1,19 @@
 [en]
-origins_label = "Jorvikpedia Fandom Wiki"
-destination = "Star Stable Wiki"
-destination_base_url = "starstable.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "starstablewiki.png"
-destination_main_page = "Star_Stable_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Jorvikpedia"
+icon = "starstablewiki.png"
 
-[[en.origins]]
-origin = "Jorvikpedia Fandom Wiki"
-origin_base_url = "jorvikipedia.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Jorvikpedia_Wiki"
+[[en.origin]]
+name = "Jorvikpedia Fandom Wiki"
+url = "jorvikipedia.fandom.com"
+mainpage = "Jorvikpedia_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Star Stable Wiki"
+host = "wiki.gg"
+url = "starstable.wiki.gg"
+platform = "mediawiki"
+icon = "starstablewiki.png"
+mainpage = "Star_Stable_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

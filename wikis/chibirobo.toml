@@ -1,15 +1,18 @@
 [en]
-origins_label = "Chibi-Robo! Fandom Wiki"
-destination = "Chibi-Robo! Wiki"
-destination_base_url = "chibi-robo.wiki"
-destination_platform = "mediawiki"
-destination_icon = "chibirobowiki.png"
-destination_main_page = "Chibi-Robo_Wiki"
-destination_search_path = "/w/"
-destination_content_path = "/wiki/"
+name = "Chibi-Robo!"
+icon = "chibirobowiki.png"
 
-[[en.origins]]
-origin = "Chibi-Robo! Fandom Wiki"
-origin_base_url = "chibi-robo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Chibi-Robo_Wiki"
+[[en.origin]]
+name = "Chibi-Robo! Fandom Wiki"
+url = "chibi-robo.fandom.com"
+mainpage = "Chibi-Robo_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Chibi-Robo! Wiki"
+url = "chibi-robo.wiki"
+platform = "mediawiki"
+icon = "chibirobowiki.png"
+mainpage = "Chibi-Robo_Wiki"
+search-path = "/w/"
+content-path = "/wiki/"

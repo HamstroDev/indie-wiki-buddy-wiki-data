@@ -1,15 +1,18 @@
 [en]
-origins_label = "Drawn to Life Fandom Wiki"
-destination = "Wapopedia"
-destination_base_url = "drawntolife.wiki"
-destination_platform = "mediawiki"
-destination_icon = "wapopedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/en/"
+name = "Drawn to Life"
+icon = "wapopedia.png"
 
-[[en.origins]]
-origin = "Drawn to Life Fandom Wiki"
-origin_base_url = "drawntolife.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Drawn_to_Life_Wiki"
+[[en.origin]]
+name = "Drawn to Life Fandom Wiki"
+url = "drawntolife.fandom.com"
+mainpage = "Drawn_to_Life_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wapopedia"
+url = "drawntolife.wiki"
+platform = "mediawiki"
+icon = "wapopedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/en/"

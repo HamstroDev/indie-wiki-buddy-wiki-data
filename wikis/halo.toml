@@ -1,37 +1,43 @@
 [en]
-origins_label = "Halo Fandom & Neoseeker Wikis"
-destination = "Halopedia"
-destination_base_url = "www.halopedia.org"
-destination_platform = "mediawiki"
-destination_icon = "halopedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Halo"
+icon = "halopedia.png"
 
-[[en.origins]]
-origin = "Halo Alpha Fandom Wiki"
-origin_base_url = "halo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Halo_Alpha"
+[[en.origin]]
+name = "Halo Alpha Fandom Wiki"
+url = "halo.fandom.com"
+mainpage = "Halo_Alpha"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Halo Wiki - Neoseeker"
-origin_base_url = "halo.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Halo Wiki - Neoseeker"
+url = "halo.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Halopedia"
+url = "www.halopedia.org"
+platform = "mediawiki"
+icon = "halopedia.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"
 
 [fr]
-origins_label = "Halopedia Fandom Wiki"
-destination = "WikiHalo"
-destination_base_url = "wiki.halo.fr"
-destination_platform = "mediawiki"
-destination_icon = "wikihalo.png"
-destination_main_page = "Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Halopedia"
+icon = "wikihalo.png"
 
-[[fr.origins]]
-origin = "Halopedia Fandom Wiki"
-origin_base_url = "halo.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Halo_Nation"
+[[fr.origin]]
+name = "Halopedia Fandom Wiki"
+url = "halo.fandom.com/fr"
+mainpage = "Halo_Nation"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "WikiHalo"
+url = "wiki.halo.fr"
+platform = "mediawiki"
+icon = "wikihalo.png"
+mainpage = "Accueil"
+search-path = "/index.php"
+content-path = "/"

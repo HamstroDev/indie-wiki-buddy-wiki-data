@@ -1,16 +1,19 @@
 [en]
-origins_label = "Tower Unite Fandom Wiki"
-destination = "Tower Unite Wiki"
-destination_base_url = "towerunite.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "towerunitewiki.png"
-destination_main_page = "Tower_Unite_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Tower Unite"
+icon = "towerunitewiki.png"
 
-[[en.origins]]
-origin = "Tower Unite Fandom Wiki"
-origin_base_url = "tower-unite.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Tower_Unite_Wiki"
+[[en.origin]]
+name = "Tower Unite Fandom Wiki"
+url = "tower-unite.fandom.com"
+mainpage = "Tower_Unite_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tower Unite Wiki"
+host = "wiki.gg"
+url = "towerunite.wiki.gg"
+platform = "mediawiki"
+icon = "towerunitewiki.png"
+mainpage = "Tower_Unite_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

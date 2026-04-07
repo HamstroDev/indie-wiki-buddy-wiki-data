@@ -1,15 +1,18 @@
 [en]
-origins_label = "Roller Coaster Fandom Wiki"
-destination = "Coasterpedia"
-destination_base_url = "coasterpedia.net"
-destination_platform = "mediawiki"
-destination_icon = "coasterpedia.png"
-destination_main_page = "Coasterpedia_The_Roller_Coaster_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Roller Coaster"
+icon = "coasterpedia.png"
 
-[[en.origins]]
-origin = "Roller Coaster Fandom Wiki"
-origin_base_url = "rollercoaster.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Roller_Coaster_Wiki"
+[[en.origin]]
+name = "Roller Coaster Fandom Wiki"
+url = "rollercoaster.fandom.com"
+mainpage = "Roller_Coaster_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Coasterpedia"
+url = "coasterpedia.net"
+platform = "mediawiki"
+icon = "coasterpedia.png"
+mainpage = "Coasterpedia_The_Roller_Coaster_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

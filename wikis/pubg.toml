@@ -1,19 +1,22 @@
 [en]
-origins_label = "PUBG Fandom Wiki"
-destination = "PUBG Wiki"
-destination_base_url = "pubg.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "pubgwiki.png"
-destination_main_page = "PUBG_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "PUBG"
+icon = "pubgwiki.png"
+
+[[en.origin]]
+name = "PUBG Fandom Wiki"
+url = "pubg.fandom.com"
+mainpage = "PLAYERUNKNOWNS_BATTLEGROUNDS_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "PUBG Wiki"
+host = "wiki.gg"
+url = "pubg.wiki.gg"
+platform = "mediawiki"
+icon = "pubgwiki.png"
+mainpage = "PUBG_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "PUBG Fandom Wiki"
-origin_base_url = "pubg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "PLAYERUNKNOWNS_BATTLEGROUNDS_Wiki"

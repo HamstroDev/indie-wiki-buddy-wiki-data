@@ -1,15 +1,18 @@
 [en]
-origins_label = "Cyberdog Nation Server Fandom Wiki"
-destination = "Dogcraft Wiki"
-destination_base_url = "dogcraft.net"
-destination_platform = "mediawiki"
-destination_icon = "dogcraftwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/wiki/"
+name = "Cyberdog Nation Server"
+icon = "dogcraftwiki.png"
 
-[[en.origins]]
-origin = "Cyberdog Nation Server Fandom Wiki"
-origin_base_url = "dogcraft.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Cyberdog_Nation_Server_Wiki"
+[[en.origin]]
+name = "Cyberdog Nation Server Fandom Wiki"
+url = "dogcraft.fandom.com"
+mainpage = "Cyberdog_Nation_Server_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dogcraft Wiki"
+url = "dogcraft.net"
+platform = "mediawiki"
+icon = "dogcraftwiki.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/wiki/"

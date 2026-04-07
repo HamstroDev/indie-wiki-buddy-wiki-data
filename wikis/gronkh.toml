@@ -1,15 +1,18 @@
 [de]
-origins_label = "Gronkh Fandom Wiki"
-destination = "Gronkh-Wiki"
-destination_base_url = "gronkh-wiki.de"
-destination_platform = "mediawiki"
-destination_icon = "gronkhwiki.png"
-destination_main_page = "Hauptseite"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Gronkh"
+icon = "gronkhwiki.png"
 
-[[de.origins]]
-origin = "Gronkh Fandom Wiki"
-origin_base_url = "gronkh.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Gronkh_Wiki"
+[[de.origin]]
+name = "Gronkh Fandom Wiki"
+url = "gronkh.fandom.com/de"
+mainpage = "Gronkh_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Gronkh-Wiki"
+url = "gronkh-wiki.de"
+platform = "mediawiki"
+icon = "gronkhwiki.png"
+mainpage = "Hauptseite"
+search-path = "/index.php"
+content-path = "/wiki/"

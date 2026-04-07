@@ -1,85 +1,91 @@
 [en]
-origins_label = "Doctor Who Fandom & Neoseeker Wikis"
-destination = "Tardis (Doctor Who) Wiki"
-destination_base_url = "tardis.wiki"
-destination_platform = "mediawiki"
-destination_icon = "tardiswiki.png"
-destination_main_page = "Doctor_Who_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Doctor Who"
+icon = "tardiswiki.png"
 
-[[en.origins]]
-origin = "Tardis Fandom Wiki"
-origin_base_url = "tardis.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Doctor_Who_Wiki"
+[[en.origin]]
+name = "Tardis Fandom Wiki"
+url = "tardis.fandom.com"
+mainpage = "Doctor_Who_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Torchwood Archive Fandom Wiki"
-origin_base_url = "torchwood-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Torchwood_Archive_Wiki"
+[[en.origin]]
+name = "Torchwood Archive Fandom Wiki"
+url = "torchwood-archive.fandom.com"
+mainpage = "Torchwood_Archive_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Doctor Who Neoseeker Wiki"
-origin_base_url = "doctorwho.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Doctor Who Neoseeker Wiki"
+url = "doctorwho.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "The Sarah Jane Adventures Fandom Wiki"
-origin_base_url = "thesarahjaneadventures.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Sarah_Jane_Adventures_Wiki"
+[[en.origin]]
+name = "The Sarah Jane Adventures Fandom Wiki"
+url = "thesarahjaneadventures.fandom.com"
+mainpage = "The_Sarah_Jane_Adventures_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Doctor Who Fandom Wiki"
-origin_base_url = "doctorwhotv.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Doctor_Who_Wiki"
+[[en.origin]]
+name = "Doctor Who Fandom Wiki"
+url = "doctorwhotv.fandom.com"
+mainpage = "Doctor_Who_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Doctor Who The Time Traveling Tardis Fandom Wiki"
-origin_base_url = "doctorwhothetimetravlingtardis.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Doctor_Who"
+[[en.origin]]
+name = "Doctor Who The Time Traveling Tardis Fandom Wiki"
+url = "doctorwhothetimetravlingtardis.fandom.com"
+mainpage = "Doctor_Who"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "K9tv Fandom Wiki"
-origin_base_url = "k9tv.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "K9tv_Wiki"
+[[en.origin]]
+name = "K9tv Fandom Wiki"
+url = "k9tv.fandom.com"
+mainpage = "K9tv_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Doctor Who Fandom Wiki"
-origin_base_url = "whoniverse.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Doctor_Who_Wiki"
+[[en.origin]]
+name = "Doctor Who Fandom Wiki"
+url = "whoniverse.fandom.com"
+mainpage = "Doctor_Who_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Dr Who Fandom Wiki"
-origin_base_url = "daleksrus.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dr._Who_Wiki"
+[[en.origin]]
+name = "Dr Who Fandom Wiki"
+url = "daleksrus.fandom.com"
+mainpage = "Dr._Who_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Bigger on the Inside Fandom Wiki"
-origin_base_url = "biggerontheinside.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bigger_on_the_Inside_Wiki"
+[[en.origin]]
+name = "Bigger on the Inside Fandom Wiki"
+url = "biggerontheinside.fandom.com"
+mainpage = "Bigger_on_the_Inside_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tardis (Doctor Who) Wiki"
+url = "tardis.wiki"
+platform = "mediawiki"
+icon = "tardiswiki.png"
+mainpage = "Doctor_Who_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [zh]
-origins_label = "Doctor Who Fandom Wiki"
-destination = "Tardis (Doctor Who) Wiki"
-destination_base_url = "zh.tardis.wiki"
-destination_platform = "mediawiki"
-destination_icon = "tardiswiki.png"
-destination_main_page = "Tardis百科"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Doctor Who"
+icon = "tardiswiki.png"
 
-[[zh.origins]]
-origin = "Doctor Who Fandom Wiki"
-origin_base_url = "tardis.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Tardis"
+[[zh.origin]]
+name = "Doctor Who Fandom Wiki"
+url = "tardis.fandom.com/zh"
+mainpage = "Tardis"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Tardis (Doctor Who) Wiki"
+url = "zh.tardis.wiki"
+platform = "mediawiki"
+icon = "tardiswiki.png"
+mainpage = "Tardis百科"
+search-path = "/index.php"
+content-path = "/"

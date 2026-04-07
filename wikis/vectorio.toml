@@ -1,16 +1,19 @@
 [en]
-origins_label = "Vectorio Fandom Wiki"
-destination = "Vectorio Wiki"
-destination_base_url = "vectorio.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "vectoriowiki.png"
-destination_main_page = "Vectorio_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Vectorio"
+icon = "vectoriowiki.png"
 
-[[en.origins]]
-origin = "Vectorio Fandom Wiki"
-origin_base_url = "vectorio.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Vectorio_Wiki"
+[[en.origin]]
+name = "Vectorio Fandom Wiki"
+url = "vectorio.fandom.com"
+mainpage = "Vectorio_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Vectorio Wiki"
+host = "wiki.gg"
+url = "vectorio.wiki.gg"
+platform = "mediawiki"
+icon = "vectoriowiki.png"
+mainpage = "Vectorio_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

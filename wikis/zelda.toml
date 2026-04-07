@@ -1,65 +1,74 @@
 [de]
-origins_label = "Zeldapedia"
-destination = "Zeldapendium"
-destination_base_url = "www.zeldapendium.de"
-destination_platform = "mediawiki"
-destination_icon = "zeldapendium.png"
-destination_main_page = "Zeldapendium:Hauptseite"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Zeldapedia"
+icon = "zeldapendium.png"
 
-[[de.origins]]
-origin = "Zeldapedia"
-origin_base_url = "zelda.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Zeldapedia:Hauptseite"
+[[de.origin]]
+name = "Zeldapedia"
+url = "zelda.fandom.com/de"
+mainpage = "Zeldapedia:Hauptseite"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Zeldapendium"
+url = "www.zeldapendium.de"
+platform = "mediawiki"
+icon = "zeldapendium.png"
+mainpage = "Zeldapendium:Hauptseite"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [en]
-origins_label = "Zelda Fandom, Fextra, & Neoseeker Wikis"
-destination = "Zelda Wiki"
-destination_base_url = "zeldawiki.wiki"
-destination_platform = "mediawiki"
-destination_icon = "zeldapedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Zelda"
+icon = "zeldapedia.png"
 
-[[en.origins]]
-origin = "Zelda Fandom Wiki"
-origin_base_url = "zelda.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Zelda Fandom Wiki"
+url = "zelda.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Zeldapedia Fandom Wiki"
-origin_base_url = "zelda-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Zeldapedia"
+[[en.origin]]
+name = "Zeldapedia Fandom Wiki"
+url = "zelda-archive.fandom.com"
+mainpage = "Zeldapedia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Zelda Wiki - Neoseeker"
-origin_base_url = "zelda.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Zelda Wiki - Neoseeker"
+url = "zelda.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Zelda Tears of the Kingdom Fextralife Wiki"
-origin_base_url = "zeldatearsofthekingdom.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Zelda Tears of the Kingdom Wiki"
+[[en.origin]]
+name = "Zelda Tears of the Kingdom Fextralife Wiki"
+url = "zeldatearsofthekingdom.wiki.fextralife.com"
+mainpage = "Zelda Tears of the Kingdom Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Zelda Wiki"
+url = "zeldawiki.wiki"
+platform = "mediawiki"
+icon = "zeldapedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [fr]
-origins_label = "ZeldaWiki"
-destination = "Zelda Wiki"
-destination_base_url = "fr.zeldawiki.wiki"
-destination_platform = "mediawiki"
-destination_icon = "zeldawiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Zelda_Wiki"
+name = "ZeldaWiki"
+icon = "zeldawiki.png"
 
-[[fr.origins]]
-origin = "ZeldaWiki"
-origin_base_url = "zelda.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "ZeldaWiki"
+[[fr.origin]]
+name = "ZeldaWiki"
+url = "zelda.fandom.com/fr"
+mainpage = "ZeldaWiki"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Zelda Wiki"
+url = "fr.zeldawiki.wiki"
+platform = "mediawiki"
+icon = "zeldawiki.png"
+mainpage = "Zelda_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

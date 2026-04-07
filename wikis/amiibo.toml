@@ -1,15 +1,18 @@
 [es]
-origins_label = "amiibopedia Fandom Wiki"
-destination = "amiibopedia"
-destination_base_url = "es.amiibopedia.com"
-destination_platform = "mediawiki"
-destination_icon = "amiibopedia.png"
-destination_main_page = "Amiibopedia"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "amiibopedia"
+icon = "amiibopedia.png"
 
-[[es.origins]]
-origin = "amiibopedia Fandom Wiki"
-origin_base_url = "amiibo.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Amiibopedia"
+[[es.origin]]
+name = "amiibopedia Fandom Wiki"
+url = "amiibo.fandom.com/es"
+mainpage = "Amiibopedia"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "amiibopedia"
+url = "es.amiibopedia.com"
+platform = "mediawiki"
+icon = "amiibopedia.png"
+mainpage = "Amiibopedia"
+search-path = "/index.php"
+content-path = "/wiki/"

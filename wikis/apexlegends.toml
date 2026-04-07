@@ -1,22 +1,25 @@
 [en]
-origins_label = "Apex Legends Fandom Wikis"
-destination = "Apex Legends Wiki"
-destination_base_url = "apexlegends.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "apexlegendswiki.png"
-destination_main_page = "Apex_Legends_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Apex Legends"
+icon = "apexlegendswiki.png"
 
-[[en.origins]]
-origin = "Apex Legends Fandom Wiki"
-origin_base_url = "apexlegends.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Apex_Legends_Wiki"
+[[en.origin]]
+name = "Apex Legends Fandom Wiki"
+url = "apexlegends.fandom.com"
+mainpage = "Apex_Legends_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Apex Legends Fandom Wiki (Archive)"
-origin_base_url = "apex--legends-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Apexlegends_Wiki"
+[[en.origin]]
+name = "Apex Legends Fandom Wiki (Archive)"
+url = "apex--legends-archive.fandom.com"
+mainpage = "Apexlegends_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Apex Legends Wiki"
+host = "wiki.gg"
+url = "apexlegends.wiki.gg"
+platform = "mediawiki"
+icon = "apexlegendswiki.png"
+mainpage = "Apex_Legends_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

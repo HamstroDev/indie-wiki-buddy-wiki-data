@@ -1,19 +1,22 @@
 [en]
-origins_label = "Item Asylum Fandom Wiki"
-destination = "Item Asylum Wiki"
-destination_base_url = "itemasylum.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "itemasylumwiki.png"
-destination_main_page = "Item_Asylum_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
-destination_host = "Miraheze"
+name = "Item Asylum"
+icon = "itemasylumwiki.png"
+
+[[en.origin]]
+name = "Item Asylum Fandom Wiki"
+url = "item-asylum-wiki.fandom.com"
+mainpage = "Item_Asylum_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Item Asylum Wiki"
+host = "Miraheze"
+url = "itemasylum.miraheze.org"
+platform = "mediawiki"
+icon = "itemasylumwiki.png"
+mainpage = "Item_Asylum_Wiki"
+search-path = "/w/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Item Asylum Fandom Wiki"
-origin_base_url = "item-asylum-wiki.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Item_Asylum_Wiki"

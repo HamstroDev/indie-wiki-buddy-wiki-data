@@ -1,16 +1,19 @@
 [en]
-origins_label = "Hybrid Animals Fandom Wiki"
-destination = "Hybrid Animals Wiki"
-destination_base_url = "hybridanimals.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "hybridanimals.png"
-destination_main_page = "Hybrid_Animals_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Hybrid Animals"
+icon = "hybridanimals.png"
 
-[[en.origins]]
-origin = "Hybrid Animals Fandom Wiki"
-origin_base_url = "hybridanimals.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hybrid_Animals_Wiki"
+[[en.origin]]
+name = "Hybrid Animals Fandom Wiki"
+url = "hybridanimals.fandom.com"
+mainpage = "Hybrid_Animals_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Hybrid Animals Wiki"
+host = "wiki.gg"
+url = "hybridanimals.wiki.gg"
+platform = "mediawiki"
+icon = "hybridanimals.png"
+mainpage = "Hybrid_Animals_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,10 +1,60 @@
 #! /bin/python3
 
 import json
+import re
 import os
 import tomli_w
 
 wikis = {}
+
+def convert_wiki(wiki: dict, lang):
+    used_keys = []
+    def get(key):
+        used_keys.append(key)
+        return wiki.get(key)
+
+    def convert_host(host: dict, prefix: str):
+        props = {
+            'name': prefix,
+            'host': f'{prefix}_host',
+            'url': f'{prefix}_base_url',
+            'platform': f'{prefix}_platform',
+            'icon': f'{prefix}_icon',
+            'mainpage': f'{prefix}_main_page',
+            'search-path': f'{prefix}_search_path',
+            'content-path': f'{prefix}_content_path',
+        }
+
+        for key in host.keys():
+            if key not in props.values():
+                print(f'unknown host key {key}')
+
+        r = {}
+        for (k, v) in props.items():
+            if prefix == 'destination':
+                get(v)
+            if host.get(v) is not None:
+                r[k] = host.get(v)
+        return r
+
+    destination_host = dict(filter(lambda it: it[0].startswith('destination'), wiki.items()))
+    destination = convert_host(destination_host, 'destination')
+    if get('tags') is not None:
+        destination['tags'] = get('tags')
+
+    r = {
+        'name': re.sub(r'\s+Fandom.+Wiki.*$', '', get('origins_label') or ''),
+        'icon': get('destination_icon'),
+        'origin': list(map(lambda it: convert_host(it, 'origin'), get('origins') or {})),
+        'destination': [destination],
+    }
+    get('id')
+
+    for key in wiki.keys():
+        if key not in used_keys:
+            print(f'unknown wiki key {key}')
+
+    return r
 
 for e in os.scandir('json'):
     if e.is_file() and e.name.endswith('.json'):
@@ -17,8 +67,7 @@ for e in os.scandir('json'):
                 if id not in wikis:
                     wikis[id] = {}
                 
-                wikis[id][lang] = wiki
-                wikis[id][lang].pop('id')
+                wikis[id][lang] = convert_wiki(wiki, lang)
 
 for id in wikis.keys():
     with open(f'wikis/{id}.toml', 'wb') as f:

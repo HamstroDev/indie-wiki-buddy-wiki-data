@@ -1,19 +1,22 @@
 [en]
-origins_label = "Atlyss Fandom Wiki"
-destination = "ATLYSS Wiki"
-destination_base_url = "atlyss.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "atlysswiki.png"
-destination_main_page = "ATLYSS_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Atlyss"
+icon = "atlysswiki.png"
+
+[[en.origin]]
+name = "Atlyss Fandom Wiki"
+url = "atlyss.fandom.com"
+mainpage = "Atlyss_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "ATLYSS Wiki"
+host = "wiki.gg"
+url = "atlyss.wiki.gg"
+platform = "mediawiki"
+icon = "atlysswiki.png"
+mainpage = "ATLYSS_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Atlyss Fandom Wiki"
-origin_base_url = "atlyss.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Atlyss_Wiki"

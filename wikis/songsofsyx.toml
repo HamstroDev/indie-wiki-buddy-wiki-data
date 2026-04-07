@@ -1,18 +1,21 @@
 [en]
-origins_label = "Songs of Syx Fandom Wiki"
-destination = "Songs of Syx Wiki"
-destination_base_url = "songsofsyx.com/wiki"
-destination_platform = "mediawiki"
-destination_icon = "songsofsyxwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Songs of Syx"
+icon = "songsofsyxwiki.png"
+
+[[en.origin]]
+name = "Songs of Syx Fandom Wiki"
+url = "songs-of-syx.fandom.com"
+mainpage = "Songs_of_Syx_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Songs of Syx Wiki"
+url = "songsofsyx.com/wiki"
+platform = "mediawiki"
+icon = "songsofsyxwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Songs of Syx Fandom Wiki"
-origin_base_url = "songs-of-syx.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Songs_of_Syx_Wiki"

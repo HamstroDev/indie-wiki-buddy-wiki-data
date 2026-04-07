@@ -1,16 +1,19 @@
 [en]
-origins_label = "Last Origin International Fandom Wiki"
-destination = "Last Origin Wiki"
-destination_base_url = "lastorigin.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "lastoriginwiki.png"
-destination_main_page = "Last_Origin_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Last Origin International"
+icon = "lastoriginwiki.png"
 
-[[en.origins]]
-origin = "Last Origin International Fandom Wiki"
-origin_base_url = "lastorigin.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Last_Origin_Wiki"
+[[en.origin]]
+name = "Last Origin International Fandom Wiki"
+url = "lastorigin.fandom.com"
+mainpage = "Last_Origin_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Last Origin Wiki"
+host = "wiki.gg"
+url = "lastorigin.wiki.gg"
+platform = "mediawiki"
+icon = "lastoriginwiki.png"
+mainpage = "Last_Origin_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

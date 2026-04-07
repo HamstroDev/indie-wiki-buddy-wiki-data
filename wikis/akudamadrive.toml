@@ -1,16 +1,19 @@
 [en]
-origins_label = "Akudama Drive Fandom Wiki"
-destination = "Akudama Drive Wiki"
-destination_base_url = "akudamadrive.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "akudamadrivewiki.png"
-destination_main_page = "Akudama_Drive_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Akudama Drive"
+icon = "akudamadrivewiki.png"
 
-[[en.origins]]
-origin = "Akudama Drive Fandom Wiki"
-origin_base_url = "akudamadrive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Akudama_Drive_Wiki"
+[[en.origin]]
+name = "Akudama Drive Fandom Wiki"
+url = "akudamadrive.fandom.com"
+mainpage = "Akudama_Drive_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Akudama Drive Wiki"
+host = "Miraheze"
+url = "akudamadrive.miraheze.org"
+platform = "mediawiki"
+icon = "akudamadrivewiki.png"
+mainpage = "Akudama_Drive_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

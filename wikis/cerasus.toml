@@ -1,16 +1,18 @@
 [en]
-origins_label = "Cerasus Fandom Wiki"
-destination = "Cerasus Wiki"
-destination_base_url = "yume.wiki"
-destination_content_prefix = "Cerasus:"
-destination_platform = "mediawiki"
-destination_icon = "cerasuswiki.png"
-destination_main_page = "Cerasus_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Cerasus"
+icon = "cerasuswiki.png"
 
-[[en.origins]]
-origin = "Cerasus Fandom Wiki"
-origin_base_url = "cerasus.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Cerasus_Wiki"
+[[en.origin]]
+name = "Cerasus Fandom Wiki"
+url = "cerasus.fandom.com"
+mainpage = "Cerasus_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Cerasus Wiki"
+url = "yume.wiki"
+platform = "mediawiki"
+icon = "cerasuswiki.png"
+mainpage = "Cerasus_Wiki"
+search-path = "/index.php"
+content-path = "/"

@@ -1,18 +1,21 @@
 [en]
-origins_label = "Wildfrost Fandom Wiki"
-destination = "Wildfrost Wiki"
-destination_base_url = "wildfrostwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "wildfrostwiki.png"
-destination_main_page = "Wildfrost_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Wildfrost"
+icon = "wildfrostwiki.png"
+
+[[en.origin]]
+name = "Wildfrost Fandom Wiki"
+url = "wildfrost.fandom.com"
+mainpage = "Wildfrost_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wildfrost Wiki"
+url = "wildfrostwiki.com"
+platform = "mediawiki"
+icon = "wildfrostwiki.png"
+mainpage = "Wildfrost_Wiki"
+search-path = "/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Wildfrost Fandom Wiki"
-origin_base_url = "wildfrost.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Wildfrost_Wiki"

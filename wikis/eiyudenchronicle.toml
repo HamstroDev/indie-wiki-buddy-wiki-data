@@ -1,19 +1,22 @@
 [en]
-origins_label = "Eiyuden Chronicle: Hundred Heroes Fandom Wiki"
-destination = "Eiyuden Chronicle Wiki"
-destination_base_url = "eiyuden.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "eiyudenchroniclewiki.png"
-destination_main_page = "Eiyuden_Chronicle_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Eiyuden Chronicle: Hundred Heroes"
+icon = "eiyudenchroniclewiki.png"
+
+[[en.origin]]
+name = "Eiyuden Chronicle: Hundred Heroes Fandom Wiki"
+url = "eiyuden-chronicle-hundred-heroes.fandom.com"
+mainpage = "Eiyuden_Chronicle:_Hundred_Heroes_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Eiyuden Chronicle Wiki"
+host = "wiki.gg"
+url = "eiyuden.wiki.gg"
+platform = "mediawiki"
+icon = "eiyudenchroniclewiki.png"
+mainpage = "Eiyuden_Chronicle_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Eiyuden Chronicle: Hundred Heroes Fandom Wiki"
-origin_base_url = "eiyuden-chronicle-hundred-heroes.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Eiyuden_Chronicle:_Hundred_Heroes_Wiki"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Path to Nowhere Fandom Wiki"
-destination = "Path to Nowhere Wiki"
-destination_base_url = "pathtonowhere.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "pathtonowherewiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Path_To_Nowhere_Wiki"
-destination_host = "wiki.gg"
+name = "Path to Nowhere"
+icon = "pathtonowherewiki.png"
 
-[[en.origins]]
-origin = "Path to Nowhere Fandom Wiki"
-origin_base_url = "path-to-nowhere.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Path_To_Nowhere_Wiki"
+[[en.origin]]
+name = "Path to Nowhere Fandom Wiki"
+url = "path-to-nowhere.fandom.com"
+mainpage = "Path_To_Nowhere_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Path to Nowhere Wiki"
+host = "wiki.gg"
+url = "pathtonowhere.wiki.gg"
+platform = "mediawiki"
+icon = "pathtonowherewiki.png"
+mainpage = "Path_To_Nowhere_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

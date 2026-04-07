@@ -1,15 +1,18 @@
 [en]
-origins_label = "SM64 Speedrun Fandom Wiki"
-destination = "Ukikipedia"
-destination_base_url = "ukikipedia.net"
-destination_platform = "mediawiki"
-destination_icon = "ukikipedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/wiki/"
+name = "SM64 Speedrun"
+icon = "ukikipedia.png"
 
-[[en.origins]]
-origin = "SM64 Speedrun Fandom Wiki"
-origin_base_url = "sm64-speedrun.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "SM64_speedrun_Wiki"
+[[en.origin]]
+name = "SM64 Speedrun Fandom Wiki"
+url = "sm64-speedrun.fandom.com"
+mainpage = "SM64_speedrun_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Ukikipedia"
+url = "ukikipedia.net"
+platform = "mediawiki"
+icon = "ukikipedia.png"
+mainpage = "Main_Page"
+search-path = "/mediawiki/index.php"
+content-path = "/wiki/"

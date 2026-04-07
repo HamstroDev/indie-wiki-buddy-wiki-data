@@ -1,16 +1,19 @@
 [en]
-origins_label = "Brawlhalla Fandom Wiki"
-destination = "Brawlhalla Wiki"
-destination_base_url = "brawlhalla.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "brawlhallawiki.png"
-destination_main_page = "Brawlhalla_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Brawlhalla"
+icon = "brawlhallawiki.png"
 
-[[en.origins]]
-origin = "Brawlhalla Fandom Wiki"
-origin_base_url = "brawlhalla.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Brawlhalla_Wiki"
+[[en.origin]]
+name = "Brawlhalla Fandom Wiki"
+url = "brawlhalla.fandom.com"
+mainpage = "Brawlhalla_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Brawlhalla Wiki"
+host = "wiki.gg"
+url = "brawlhalla.wiki.gg"
+platform = "mediawiki"
+icon = "brawlhallawiki.png"
+mainpage = "Brawlhalla_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

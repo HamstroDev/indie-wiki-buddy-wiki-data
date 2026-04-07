@@ -1,15 +1,18 @@
 [en]
-origins_label = "Xenharmonic Fandom Wiki"
-destination = "Xenharmonic Wiki"
-destination_base_url = "en.xen.wiki"
-destination_platform = "mediawiki"
-destination_icon = "xenharmonicwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "Xenharmonic"
+icon = "xenharmonicwiki.png"
 
-[[en.origins]]
-origin = "Xenharmonic Fandom Wiki"
-origin_base_url = "xenharmonic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Xenharmonic Fandom Wiki"
+url = "xenharmonic.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Xenharmonic Wiki"
+url = "en.xen.wiki"
+platform = "mediawiki"
+icon = "xenharmonicwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/w/"

@@ -1,39 +1,45 @@
 [es]
-origins_label = "Coromon Fandom Wiki"
-destination = "Coromon Wiki"
-destination_base_url = "coromon.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "coromonwiki.png"
-destination_main_page = "Coromon_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Coromon"
+icon = "coromonwiki.png"
+
+[[es.origin]]
+name = "Coromon Fandom Wiki"
+url = "coromon.fandom.com/es"
+mainpage = "Coromon_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Coromon Wiki"
+host = "wiki.gg"
+url = "coromon.wiki.gg/es"
+platform = "mediawiki"
+icon = "coromonwiki.png"
+mainpage = "Coromon_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[es.origins]]
-origin = "Coromon Fandom Wiki"
-origin_base_url = "coromon.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Coromon_Wiki"
 
 [en]
-origins_label = "Coromon Fandom Wiki"
-destination = "Coromon Wiki"
-destination_base_url = "coromon.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "coromonwiki.png"
-destination_main_page = "Coromon_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Coromon"
+icon = "coromonwiki.png"
+
+[[en.origin]]
+name = "Coromon Fandom Wiki"
+url = "coromon.fandom.com"
+mainpage = "Coromon_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Coromon Wiki"
+host = "wiki.gg"
+url = "coromon.wiki.gg"
+platform = "mediawiki"
+icon = "coromonwiki.png"
+mainpage = "Coromon_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Coromon Fandom Wiki"
-origin_base_url = "coromon.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Coromon_Wiki"

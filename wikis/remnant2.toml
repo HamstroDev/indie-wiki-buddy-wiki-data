@@ -1,16 +1,19 @@
 [en]
-origins_label = "Remnant 2 Fextralife Wiki"
-destination = "Remnant 2 Wiki"
-destination_base_url = "remnant2.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "theremnant2wiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Remnant 2 Fextralife Wiki"
+icon = "theremnant2wiki.png"
 
-[[en.origins]]
-origin = "Remnant 2 Fextralife Wiki"
-origin_base_url = "remnant2.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Remnant 2 Wiki"
+[[en.origin]]
+name = "Remnant 2 Fextralife Wiki"
+url = "remnant2.wiki.fextralife.com"
+mainpage = "Remnant 2 Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Remnant 2 Wiki"
+host = "wiki.gg"
+url = "remnant2.wiki.gg"
+platform = "mediawiki"
+icon = "theremnant2wiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

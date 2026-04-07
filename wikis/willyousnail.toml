@@ -1,19 +1,22 @@
 [en]
-origins_label = "Will You Snail? Fandom Wiki"
-destination = "Will You Snail Wiki"
-destination_base_url = "willyousnail.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "willyousnailwiki.png"
-destination_main_page = "Will_You_Snail_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Will You Snail?"
+icon = "willyousnailwiki.png"
+
+[[en.origin]]
+name = "Will You Snail? Fandom Wiki"
+url = "willyousnail.fandom.com"
+mainpage = "Will_You_Snail?_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Will You Snail Wiki"
+host = "wiki.gg"
+url = "willyousnail.wiki.gg"
+platform = "mediawiki"
+icon = "willyousnailwiki.png"
+mainpage = "Will_You_Snail_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Will You Snail? Fandom Wiki"
-origin_base_url = "willyousnail.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Will_You_Snail?_Wiki"

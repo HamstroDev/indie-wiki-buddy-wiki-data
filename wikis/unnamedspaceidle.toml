@@ -1,18 +1,21 @@
 [en]
-origins_label = "Unnamed Space Idle Fandom Wiki"
-destination = "Unnamed Space Idle Wiki"
-destination_base_url = "usi.game-vault.net"
-destination_platform = "mediawiki"
-destination_icon = "unnamedspaceidle.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Unnamed Space Idle"
+icon = "unnamedspaceidle.png"
+
+[[en.origin]]
+name = "Unnamed Space Idle Fandom Wiki"
+url = "usi.fandom.com"
+mainpage = "USI_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Unnamed Space Idle Wiki"
+url = "usi.game-vault.net"
+platform = "mediawiki"
+icon = "unnamedspaceidle.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Unnamed Space Idle Fandom Wiki"
-origin_base_url = "usi.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "USI_Wiki"

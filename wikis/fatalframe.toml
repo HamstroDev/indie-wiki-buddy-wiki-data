@@ -1,15 +1,18 @@
 [en]
-origins_label = "Fatal Frame Fandom Wiki"
-destination = "Zero Wiki"
-destination_base_url = "wiki.thelostvillage.net"
-destination_platform = "mediawiki"
-destination_icon = "zerowiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Fatal Frame"
+icon = "zerowiki.png"
 
-[[en.origins]]
-origin = "Fatal Frame Fandom Wiki"
-origin_base_url = "fatalframe.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Fatal_Frame_Wiki"
+[[en.origin]]
+name = "Fatal Frame Fandom Wiki"
+url = "fatalframe.fandom.com"
+mainpage = "Fatal_Frame_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Zero Wiki"
+url = "wiki.thelostvillage.net"
+platform = "mediawiki"
+icon = "zerowiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

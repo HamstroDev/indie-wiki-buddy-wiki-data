@@ -1,15 +1,18 @@
 [en]
-origins_label = "Necesse Fandom Wiki"
-destination = "Necesse Wiki"
-destination_base_url = "necessewiki.com"
-destination_platform = "mediawiki"
-destination_icon = "necessewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Necesse"
+icon = "necessewiki.png"
 
-[[en.origins]]
-origin = "Necesse Fandom Wiki"
-origin_base_url = "necesse.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Necesse_Wiki"
+[[en.origin]]
+name = "Necesse Fandom Wiki"
+url = "necesse.fandom.com"
+mainpage = "Necesse_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Necesse Wiki"
+url = "necessewiki.com"
+platform = "mediawiki"
+icon = "necessewiki.png"
+mainpage = "Main_Page"
+search-path = "/mediawiki/index.php"
+content-path = "/"

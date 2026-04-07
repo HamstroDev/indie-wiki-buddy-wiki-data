@@ -1,15 +1,18 @@
 [en]
-origins_label = "Muse Fandom Wiki"
-destination = "MuseWiki"
-destination_base_url = "musewiki.org"
-destination_platform = "mediawiki"
-destination_icon = "musewiki.png"
-destination_content_path = "/"
-destination_search_path = "/index.php"
-destination_main_page = "MuseWiki"
+name = "Muse"
+icon = "musewiki.png"
 
-[[en.origins]]
-origin = "Muse Fandom Wiki"
-origin_base_url = "muse.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Muse Fandom Wiki"
+url = "muse.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MuseWiki"
+url = "musewiki.org"
+platform = "mediawiki"
+icon = "musewiki.png"
+mainpage = "MuseWiki"
+search-path = "/index.php"
+content-path = "/"

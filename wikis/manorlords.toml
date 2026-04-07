@@ -1,19 +1,22 @@
 [en]
-origins_label = "Manor Lords Fandom Wiki"
-destination = "Manor Lords Wiki"
-destination_base_url = "hoodedhorse.com/wiki/Manor_Lords"
-destination_platform = "mediawiki"
-destination_icon = "manorlordswiki.png"
-destination_main_page = "Manor_Lords_Official_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
-destination_host = "Hooded Horse"
+name = "Manor Lords"
+icon = "manorlordswiki.png"
+
+[[en.origin]]
+name = "Manor Lords Fandom Wiki"
+url = "manor-lords.fandom.com"
+mainpage = "Manor_Lords_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Manor Lords Wiki"
+host = "Hooded Horse"
+url = "hoodedhorse.com/wiki/Manor_Lords"
+platform = "mediawiki"
+icon = "manorlordswiki.png"
+mainpage = "Manor_Lords_Official_Wiki"
+search-path = "/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Manor Lords Fandom Wiki"
-origin_base_url = "manor-lords.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Manor_Lords_Wiki"

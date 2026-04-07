@@ -1,22 +1,25 @@
 [en]
-origins_label = "Geometry Dash Fandom Wikis"
-destination = "Geometry Dash Wiki"
-destination_base_url = "geometrydash.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "geometrydashwiki.png"
-destination_main_page = "Geometry_Dash_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Geometry Dash"
+icon = "geometrydashwiki.png"
 
-[[en.origins]]
-origin = "Geometry Dash Fandom Wiki"
-origin_base_url = "geometry-dash.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Geometry_Dash_Wiki"
+[[en.origin]]
+name = "Geometry Dash Fandom Wiki"
+url = "geometry-dash.fandom.com"
+mainpage = "Geometry_Dash_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Geometry Dash Fan Fandom Wiki"
-origin_base_url = "geometry-dash-fan.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Geometry_Dash_Fan_Wiki"
+[[en.origin]]
+name = "Geometry Dash Fan Fandom Wiki"
+url = "geometry-dash-fan.fandom.com"
+mainpage = "Geometry_Dash_Fan_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Geometry Dash Wiki"
+host = "wiki.gg"
+url = "geometrydash.wiki.gg"
+platform = "mediawiki"
+icon = "geometrydashwiki.png"
+mainpage = "Geometry_Dash_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

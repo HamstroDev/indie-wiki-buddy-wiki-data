@@ -1,50 +1,59 @@
 [de]
-origins_label = "South Park Fandom Wiki"
-destination = "South Park Wiki"
-destination_base_url = "southpark.wiki.gg/de"
-destination_platform = "mediawiki"
-destination_icon = "southparkwiki.png"
-destination_main_page = "South_Park_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "South Park"
+icon = "southparkwiki.png"
 
-[[de.origins]]
-origin = "South Park Fandom Wiki"
-origin_base_url = "southpark.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "South_Park_Wiki"
+[[de.origin]]
+name = "South Park Fandom Wiki"
+url = "southpark.fandom.com/de"
+mainpage = "South_Park_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "South Park Wiki"
+host = "wiki.gg"
+url = "southpark.wiki.gg/de"
+platform = "mediawiki"
+icon = "southparkwiki.png"
+mainpage = "South_Park_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [es]
-origins_label = "Wiki South Park"
-destination = "Wiki South Park"
-destination_base_url = "southpark.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "wikisouthpark.png"
-destination_main_page = "South_Park_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Wiki South Park"
+icon = "wikisouthpark.png"
 
-[[es.origins]]
-origin = "Wiki South Park"
-origin_base_url = "southpark.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "South_Park_Wiki"
+[[es.origin]]
+name = "Wiki South Park"
+url = "southpark.fandom.com/es"
+mainpage = "South_Park_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Wiki South Park"
+host = "wiki.gg"
+url = "southpark.wiki.gg/es"
+platform = "mediawiki"
+icon = "wikisouthpark.png"
+mainpage = "South_Park_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [en]
-origins_label = "South Park Public Library on Fandom"
-destination = "South Park Archives"
-destination_base_url = "southpark.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "southparkarchives.png"
-destination_main_page = "South_Park_Archives"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "South Park Public Library on Fandom"
+icon = "southparkarchives.png"
 
-[[en.origins]]
-origin = "South Park Public Library on Fandom"
-origin_base_url = "southpark.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "South_Park_Public_Library"
+[[en.origin]]
+name = "South Park Public Library on Fandom"
+url = "southpark.fandom.com"
+mainpage = "South_Park_Public_Library"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "South Park Archives"
+host = "wiki.gg"
+url = "southpark.wiki.gg"
+platform = "mediawiki"
+icon = "southparkarchives.png"
+mainpage = "South_Park_Archives"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,18 @@
 [en]
-origins_label = "Answered Prayers Fandom Wiki"
-destination = "Answered Prayers Wiki"
-destination_base_url = "yume.wiki"
-destination_content_prefix = "Answered_Prayers:"
-destination_platform = "mediawiki"
-destination_icon = "answeredprayerswiki.png"
-destination_main_page = "Answered_Prayers_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Answered Prayers"
+icon = "answeredprayerswiki.png"
 
-[[en.origins]]
-origin = "Answered Prayers Fandom Wiki"
-origin_base_url = "answeredprayers.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Answered_Prayers_Wiki"
+[[en.origin]]
+name = "Answered Prayers Fandom Wiki"
+url = "answeredprayers.fandom.com"
+mainpage = "Answered_Prayers_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Answered Prayers Wiki"
+url = "yume.wiki"
+platform = "mediawiki"
+icon = "answeredprayerswiki.png"
+mainpage = "Answered_Prayers_Wiki"
+search-path = "/index.php"
+content-path = "/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Jordan Edward Baumann Fandom Wiki"
-destination = "INTerpalore Wiki"
-destination_base_url = "whenobjectsworks.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "interpalorewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Jordan Edward Baumann"
+icon = "interpalorewiki.png"
 
-[[en.origins]]
-origin = "Jordan Edward Baumann Fandom Wiki"
-origin_base_url = "jordanb.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Jordan Edward Baumann Fandom Wiki"
+url = "jordanb.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "INTerpalore Wiki"
+host = "Miraheze"
+url = "whenobjectsworks.miraheze.org"
+platform = "mediawiki"
+icon = "interpalorewiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

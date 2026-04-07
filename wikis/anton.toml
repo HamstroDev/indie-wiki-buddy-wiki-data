@@ -1,22 +1,25 @@
 [en]
-origins_label = "AntonBlast Fandom Wikis"
-destination = "Summitpedia"
-destination_base_url = "summitpedia.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "summitpedia.png"
-destination_main_page = "Summitpedia:Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "AntonBlast"
+icon = "summitpedia.png"
 
-[[en.origins]]
-origin = "AntonBlast Fandom Wiki"
-origin_base_url = "antonblastpedia.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "AntonBlast_Wiki"
+[[en.origin]]
+name = "AntonBlast Fandom Wiki"
+url = "antonblastpedia.fandom.com"
+mainpage = "AntonBlast_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Antonball Fandom Wiki"
-origin_base_url = "antonball.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Antonball_Wiki"
+[[en.origin]]
+name = "Antonball Fandom Wiki"
+url = "antonball.fandom.com"
+mainpage = "Antonball_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Summitpedia"
+host = "Miraheze"
+url = "summitpedia.miraheze.org"
+platform = "mediawiki"
+icon = "summitpedia.png"
+mainpage = "Summitpedia:Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

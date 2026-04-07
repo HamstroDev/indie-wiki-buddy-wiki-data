@@ -1,15 +1,18 @@
 [en]
-origins_label = "Saints Row Fandom Wiki"
-destination = "Saints Row Wiki"
-destination_base_url = "saintsrow.wiki"
-destination_platform = "mediawiki"
-destination_icon = "saintsrowwiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Saints_Row_Wiki"
+name = "Saints Row"
+icon = "saintsrowwiki.png"
 
-[[en.origins]]
-origin = "Saints Row Fandom Wiki"
-origin_base_url = "saintsrow.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Saints_Row_Wiki"
+[[en.origin]]
+name = "Saints Row Fandom Wiki"
+url = "saintsrow.fandom.com"
+mainpage = "Saints_Row_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Saints Row Wiki"
+url = "saintsrow.wiki"
+platform = "mediawiki"
+icon = "saintsrowwiki.png"
+mainpage = "Saints_Row_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

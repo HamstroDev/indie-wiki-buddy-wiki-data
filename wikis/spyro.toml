@@ -1,21 +1,24 @@
 [en]
-origins_label = "Spyro Fandom & Neoseeker Wikis"
-destination = "Spyro Wiki"
-destination_base_url = "spyrowiki.com"
-destination_platform = "mediawiki"
-destination_icon = "spyro.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Spyro"
+icon = "spyro.png"
 
-[[en.origins]]
-origin = "Spyro Fandom Wiki"
-origin_base_url = "spyro.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Spyro Fandom Wiki"
+url = "spyro.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Spyro Neoseeker Wiki"
-origin_base_url = "spyro.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Spyro Neoseeker Wiki"
+url = "spyro.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Spyro Wiki"
+url = "spyrowiki.com"
+platform = "mediawiki"
+icon = "spyro.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

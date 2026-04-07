@@ -1,15 +1,18 @@
 [en]
-origins_label = "Camerapedia Fandom Wiki"
-destination = "Camera-wiki.org"
-destination_base_url = "camera-wiki.org"
-destination_platform = "mediawiki"
-destination_icon = "camerawiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Main_Page"
+name = "Camerapedia"
+icon = "camerawiki.png"
 
-[[en.origins]]
-origin = "Camerapedia Fandom Wiki"
-origin_base_url = "camerapedia.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Camerapedia"
+[[en.origin]]
+name = "Camerapedia Fandom Wiki"
+url = "camerapedia.fandom.com"
+mainpage = "Camerapedia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Camera-wiki.org"
+url = "camera-wiki.org"
+platform = "mediawiki"
+icon = "camerawiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

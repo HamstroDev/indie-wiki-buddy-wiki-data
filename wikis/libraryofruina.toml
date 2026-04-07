@@ -1,16 +1,19 @@
 [en]
-origins_label = "Library Of Ruina Fandom Wiki"
-destination = "Library of Ruina Wiki"
-destination_base_url = "libraryofruina.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "libraryofruinawiki.png"
-destination_main_page = "Library_of_Ruina_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Library Of Ruina"
+icon = "libraryofruinawiki.png"
 
-[[en.origins]]
-origin = "Library Of Ruina Fandom Wiki"
-origin_base_url = "library-of-ruina.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Library_Of_Ruina_Wiki"
+[[en.origin]]
+name = "Library Of Ruina Fandom Wiki"
+url = "library-of-ruina.fandom.com"
+mainpage = "Library_Of_Ruina_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Library of Ruina Wiki"
+host = "wiki.gg"
+url = "libraryofruina.wiki.gg"
+platform = "mediawiki"
+icon = "libraryofruinawiki.png"
+mainpage = "Library_of_Ruina_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Windowkill Fandom Wiki"
-destination = "Windowkill Wiki"
-destination_base_url = "windowkill.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "windowkillwiki.png"
-destination_main_page = "Windowkill_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Windowkill"
+icon = "windowkillwiki.png"
 
-[[en.origins]]
-origin = "Windowkill Fandom Wiki"
-origin_base_url = "windowkill.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Windowkill_Wiki"
+[[en.origin]]
+name = "Windowkill Fandom Wiki"
+url = "windowkill.fandom.com"
+mainpage = "Windowkill_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Windowkill Wiki"
+host = "wiki.gg"
+url = "windowkill.wiki.gg"
+platform = "mediawiki"
+icon = "windowkillwiki.png"
+mainpage = "Windowkill_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

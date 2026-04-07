@@ -1,16 +1,19 @@
 [en]
-origins_label = "Epic Battle Fantasy Fandom Wiki"
-destination = "Epic Battle Fantasy Wiki"
-destination_base_url = "epicbattlefantasy.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "epicbattlefantasywiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Epic_Battle_Fantasy_Wiki"
-destination_host = "wiki.gg"
+name = "Epic Battle Fantasy"
+icon = "epicbattlefantasywiki.png"
 
-[[en.origins]]
-origin = "Epic Battle Fantasy Fandom Wiki"
-origin_base_url = "epicbattlefantasy.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Epic_Battle_Fantasy_Wiki"
+[[en.origin]]
+name = "Epic Battle Fantasy Fandom Wiki"
+url = "epicbattlefantasy.fandom.com"
+mainpage = "Epic_Battle_Fantasy_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Epic Battle Fantasy Wiki"
+host = "wiki.gg"
+url = "epicbattlefantasy.wiki.gg"
+platform = "mediawiki"
+icon = "epicbattlefantasywiki.png"
+mainpage = "Epic_Battle_Fantasy_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Dungeon Fighter Online Fandom Wiki"
-destination = "DFO World Wiki"
-destination_base_url = "wiki.dfo.world"
-destination_platform = "mediawiki"
-destination_icon = "dfoworldwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/view/"
+name = "Dungeon Fighter Online"
+icon = "dfoworldwiki.png"
 
-[[en.origins]]
-origin = "Dungeon Fighter Online Fandom Wiki"
-origin_base_url = "dfo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dungeon_Fighter_Online_Wiki"
+[[en.origin]]
+name = "Dungeon Fighter Online Fandom Wiki"
+url = "dfo.fandom.com"
+mainpage = "Dungeon_Fighter_Online_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "DFO World Wiki"
+url = "wiki.dfo.world"
+platform = "mediawiki"
+icon = "dfoworldwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/view/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Island Adventures Fandom Wiki"
-destination = "Island Adventures Wiki"
-destination_base_url = "islandadventures.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "islandadventureswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Island_Adventures_Wiki"
-destination_host = "wiki.gg"
+name = "Island Adventures"
+icon = "islandadventureswiki.png"
 
-[[en.origins]]
-origin = "Island Adventures Fandom Wiki"
-origin_base_url = "island-adventures.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Island_Adventures_Wiki"
+[[en.origin]]
+name = "Island Adventures Fandom Wiki"
+url = "island-adventures.fandom.com"
+mainpage = "Island_Adventures_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Island Adventures Wiki"
+host = "wiki.gg"
+url = "islandadventures.wiki.gg"
+platform = "mediawiki"
+icon = "islandadventureswiki.png"
+mainpage = "Island_Adventures_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

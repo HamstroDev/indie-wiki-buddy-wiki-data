@@ -1,16 +1,19 @@
 [en]
-origins_label = "Sons of the Forest Fandom Wiki"
-destination = "Sons of the Forest Wiki"
-destination_base_url = "sonsoftheforest.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "sonsoftheforestwiki.png"
-destination_main_page = "Sons_of_the_Forest_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Sons of the Forest"
+icon = "sonsoftheforestwiki.png"
 
-[[en.origins]]
-origin = "Sons of the Forest Fandom Wiki"
-origin_base_url = "sonsoftheforest.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sons_of_the_Forest_Wiki"
+[[en.origin]]
+name = "Sons of the Forest Fandom Wiki"
+url = "sonsoftheforest.fandom.com"
+mainpage = "Sons_of_the_Forest_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sons of the Forest Wiki"
+host = "wiki.gg"
+url = "sonsoftheforest.wiki.gg"
+platform = "mediawiki"
+icon = "sonsoftheforestwiki.png"
+mainpage = "Sons_of_the_Forest_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

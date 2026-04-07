@@ -1,15 +1,18 @@
 [en]
-origins_label = "Dungeons and Dragons Fandom Wiki"
-destination = "Dungeons and Dragons Wiki"
-destination_base_url = "dnd-wiki.org"
-destination_platform = "mediawiki"
-destination_icon = "dungeonsanddragonswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Dungeons and Dragons"
+icon = "dungeonsanddragonswiki.png"
 
-[[en.origins]]
-origin = "Dungeons and Dragons Fandom Wiki"
-origin_base_url = "dungeons.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Dungeons and Dragons Fandom Wiki"
+url = "dungeons.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dungeons and Dragons Wiki"
+url = "dnd-wiki.org"
+platform = "mediawiki"
+icon = "dungeonsanddragonswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

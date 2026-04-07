@@ -1,15 +1,18 @@
 [en]
-origins_label = "Katawa Shoujo Fandom Wiki"
-destination = "Katawa Shoujo Wiki"
-destination_base_url = "wiki.fhs.sh"
-destination_platform = "mediawiki"
-destination_icon = "katawashoujo.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Katawa_Shoujo_Wiki"
+name = "Katawa Shoujo"
+icon = "katawashoujo.png"
 
-[[en.origins]]
-origin = "Katawa Shoujo Fandom Wiki"
-origin_base_url = "katawashoujo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Katawa_Shoujo_Wiki"
+[[en.origin]]
+name = "Katawa Shoujo Fandom Wiki"
+url = "katawashoujo.fandom.com"
+mainpage = "Katawa_Shoujo_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Katawa Shoujo Wiki"
+url = "wiki.fhs.sh"
+platform = "mediawiki"
+icon = "katawashoujo.png"
+mainpage = "Katawa_Shoujo_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

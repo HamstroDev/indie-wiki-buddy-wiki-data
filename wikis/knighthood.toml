@@ -1,16 +1,19 @@
 [en]
-origins_label = "Knighthood Fandom Wiki"
-destination = "Knighthood Wiki"
-destination_base_url = "knighthood.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "knighthoodwiki.png"
-destination_main_page = "Knighthood_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Knighthood"
+icon = "knighthoodwiki.png"
 
-[[en.origins]]
-origin = "Knighthood Fandom Wiki"
-origin_base_url = "knighthood.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Knighthood_Wiki"
+[[en.origin]]
+name = "Knighthood Fandom Wiki"
+url = "knighthood.fandom.com"
+mainpage = "Knighthood_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Knighthood Wiki"
+host = "wiki.gg"
+url = "knighthood.wiki.gg"
+platform = "mediawiki"
+icon = "knighthoodwiki.png"
+mainpage = "Knighthood_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

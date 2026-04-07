@@ -1,16 +1,19 @@
 [en]
-origins_label = "Fallen Aces Fandom Wiki"
-destination = "Fallen Aces Wiki"
-destination_base_url = "fallenaces.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "fallenaceswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Fallen_Aces_Wiki"
-destination_host = "wiki.gg"
+name = "Fallen Aces"
+icon = "fallenaceswiki.png"
 
-[[en.origins]]
-origin = "Fallen Aces Fandom Wiki"
-origin_base_url = "fallen-aces.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Fallen_Aces_Wiki"
+[[en.origin]]
+name = "Fallen Aces Fandom Wiki"
+url = "fallen-aces.fandom.com"
+mainpage = "Fallen_Aces_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Fallen Aces Wiki"
+host = "wiki.gg"
+url = "fallenaces.wiki.gg"
+platform = "mediawiki"
+icon = "fallenaceswiki.png"
+mainpage = "Fallen_Aces_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

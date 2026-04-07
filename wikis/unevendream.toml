@@ -1,16 +1,18 @@
 [en]
-origins_label = "Uneven Dream Fandom Wiki"
-destination = "Uneven Dream Wiki"
-destination_base_url = "yume.wiki"
-destination_content_prefix = "Uneven_Dream:"
-destination_platform = "mediawiki"
-destination_icon = "unevendreamwiki.png"
-destination_main_page = "Uneven_Dream_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Uneven Dream"
+icon = "unevendreamwiki.png"
 
-[[en.origins]]
-origin = "Uneven Dream Fandom Wiki"
-origin_base_url = "outotsuyume.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Outotsu_Yume_Wikia"
+[[en.origin]]
+name = "Uneven Dream Fandom Wiki"
+url = "outotsuyume.fandom.com"
+mainpage = "Outotsu_Yume_Wikia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Uneven Dream Wiki"
+url = "yume.wiki"
+platform = "mediawiki"
+icon = "unevendreamwiki.png"
+mainpage = "Uneven_Dream_Wiki"
+search-path = "/index.php"
+content-path = "/"

@@ -1,53 +1,62 @@
 [de]
-origins_label = "Simpsons Fandom Wiki"
-destination = "Simpsonspedia Wiki"
-destination_base_url = "simpsonspedia.net"
-destination_platform = "mediawiki"
-destination_icon = "simpsonspedia.png"
-destination_main_page = "Simpsonspedia"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Simpsons"
+icon = "simpsonspedia.png"
 
-[[de.origins]]
-origin = "Simpsons Fandom Wiki"
-origin_base_url = "simpsons.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Simpsons-Wiki"
+[[de.origin]]
+name = "Simpsons Fandom Wiki"
+url = "simpsons.fandom.com/de"
+mainpage = "Simpsons-Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Simpsonspedia Wiki"
+url = "simpsonspedia.net"
+platform = "mediawiki"
+icon = "simpsonspedia.png"
+mainpage = "Simpsonspedia"
+search-path = "/index.php"
+content-path = "/"
 
 [en]
-origins_label = "Simpsons Fandom & Neoseeker Wikis"
-destination = "Wikisimpsons"
-destination_base_url = "simpsonswiki.com"
-destination_platform = "mediawiki"
-destination_icon = "wikisimpsons.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Simpsons"
+icon = "wikisimpsons.png"
 
-[[en.origins]]
-origin = "Simpsons Fandom Wiki"
-origin_base_url = "simpsons.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Simpsons_Wiki"
+[[en.origin]]
+name = "Simpsons Fandom Wiki"
+url = "simpsons.fandom.com"
+mainpage = "Simpsons_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "The Simpsons Wiki - Neoseeker"
-origin_base_url = "simpsons.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "The Simpsons Wiki - Neoseeker"
+url = "simpsons.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wikisimpsons"
+url = "simpsonswiki.com"
+platform = "mediawiki"
+icon = "wikisimpsons.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [sv]
-origins_label = "Simpsons Fandom Wiki"
-destination = "Svenska Wikisimpsons"
-destination_base_url = "sv.simpsonswiki.com"
-destination_platform = "mediawiki"
-destination_icon = "wikisimpsons.png"
-destination_main_page = "Huvudsida"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Simpsons"
+icon = "wikisimpsons.png"
 
-[[sv.origins]]
-origin = "Simpsons Fandom Wiki"
-origin_base_url = "simpsons.fandom.com/sv"
-origin_content_path = "/wiki/"
-origin_main_page = "Wikisimpsons"
+[[sv.origin]]
+name = "Simpsons Fandom Wiki"
+url = "simpsons.fandom.com/sv"
+mainpage = "Wikisimpsons"
+content-path = "/wiki/"
+
+[[sv.destination]]
+name = "Svenska Wikisimpsons"
+url = "sv.simpsonswiki.com"
+platform = "mediawiki"
+icon = "wikisimpsons.png"
+mainpage = "Huvudsida"
+search-path = "/w/index.php"
+content-path = "/wiki/"

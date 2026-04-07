@@ -1,31 +1,37 @@
 [de]
-origins_label = "Tomb Raider Fandom Wiki"
-destination = "WikiRaider"
-destination_base_url = "www.wikiraider.de"
-destination_platform = "mediawiki"
-destination_icon = "wikiraiderde.png"
-destination_main_page = "Hauptseite"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Tomb Raider"
+icon = "wikiraiderde.png"
 
-[[de.origins]]
-origin = "Tomb Raider Fandom Wiki"
-origin_base_url = "tombraider.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Tomb_Raider_Wiki"
+[[de.origin]]
+name = "Tomb Raider Fandom Wiki"
+url = "tombraider.fandom.com/de"
+mainpage = "Tomb_Raider_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "WikiRaider"
+url = "www.wikiraider.de"
+platform = "mediawiki"
+icon = "wikiraiderde.png"
+mainpage = "Hauptseite"
+search-path = "/index.php"
+content-path = "/index.php/"
 
 [en]
-origins_label = "Tomb Raider Fandom Wiki"
-destination = "WikiRaider"
-destination_base_url = "www.wikiraider.com"
-destination_platform = "mediawiki"
-destination_icon = "wikiraider.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Tomb Raider"
+icon = "wikiraider.png"
 
-[[en.origins]]
-origin = "Tomb Raider Fandom Wiki"
-origin_base_url = "tombraider.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Tomb_Raider_Wiki"
+[[en.origin]]
+name = "Tomb Raider Fandom Wiki"
+url = "tombraider.fandom.com"
+mainpage = "Tomb_Raider_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "WikiRaider"
+url = "www.wikiraider.com"
+platform = "mediawiki"
+icon = "wikiraider.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Chip's Challenge Fandom Wiki"
-destination = "Chip's Challenge Wiki"
-destination_base_url = "wiki.bitbusters.club"
-destination_platform = "mediawiki"
-destination_icon = "chipschallenge.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Chip's Challenge"
+icon = "chipschallenge.png"
 
-[[en.origins]]
-origin = "Chip's Challenge Fandom Wiki"
-origin_base_url = "chipschallenge.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Chip's_Challenge_Wiki"
+[[en.origin]]
+name = "Chip's Challenge Fandom Wiki"
+url = "chipschallenge.fandom.com"
+mainpage = "Chip's_Challenge_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Chip's Challenge Wiki"
+url = "wiki.bitbusters.club"
+platform = "mediawiki"
+icon = "chipschallenge.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

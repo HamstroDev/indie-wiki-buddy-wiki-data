@@ -1,19 +1,22 @@
 [en]
-origins_label = "Peglin Fandom Wiki"
-destination = "Peglin Wiki"
-destination_base_url = "peglin.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "peglinwiki.png"
-destination_main_page = "Peglin_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Peglin"
+icon = "peglinwiki.png"
+
+[[en.origin]]
+name = "Peglin Fandom Wiki"
+url = "peglin.fandom.com"
+mainpage = "Peglin_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Peglin Wiki"
+host = "wiki.gg"
+url = "peglin.wiki.gg"
+platform = "mediawiki"
+icon = "peglinwiki.png"
+mainpage = "Peglin_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Peglin Fandom Wiki"
-origin_base_url = "peglin.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Peglin_Wiki"

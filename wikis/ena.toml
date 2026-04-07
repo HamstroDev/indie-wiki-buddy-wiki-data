@@ -1,16 +1,19 @@
 [en]
-origins_label = "ENA Fandom Wiki"
-destination = "ENA Wiki"
-destination_base_url = "ena.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "enawiki.png"
-destination_main_page = "ENA_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ENA"
+icon = "enawiki.png"
 
-[[en.origins]]
-origin = "ENA Fandom Wiki"
-origin_base_url = "enajoelg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "ENA_Wiki"
+[[en.origin]]
+name = "ENA Fandom Wiki"
+url = "enajoelg.fandom.com"
+mainpage = "ENA_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "ENA Wiki"
+host = "wiki.gg"
+url = "ena.wiki.gg"
+platform = "mediawiki"
+icon = "enawiki.png"
+mainpage = "ENA_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

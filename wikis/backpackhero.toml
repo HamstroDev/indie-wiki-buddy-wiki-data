@@ -1,16 +1,19 @@
 [en]
-origins_label = "Backpack Hero Fandom Wiki"
-destination = "Backpack Hero Wiki"
-destination_base_url = "backpackhero.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "backpackherowiki.png"
-destination_main_page = "Backpack_Hero_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Backpack Hero"
+icon = "backpackherowiki.png"
 
-[[en.origins]]
-origin = "Backpack Hero Fandom Wiki"
-origin_base_url = "backpack-hero.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Backpack_Hero_Wiki"
+[[en.origin]]
+name = "Backpack Hero Fandom Wiki"
+url = "backpack-hero.fandom.com"
+mainpage = "Backpack_Hero_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Backpack Hero Wiki"
+host = "wiki.gg"
+url = "backpackhero.wiki.gg"
+platform = "mediawiki"
+icon = "backpackherowiki.png"
+mainpage = "Backpack_Hero_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

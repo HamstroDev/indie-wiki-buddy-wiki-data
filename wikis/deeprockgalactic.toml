@@ -1,36 +1,42 @@
 [es]
-origins_label = "Deep Rock Galactic Fandom Wiki"
-destination = "Deep Rock Galactic Wiki"
-destination_base_url = "deeprockgalactic.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "deeprockgalacticwiki.png"
-destination_main_page = "Deep_Rock_Galactic_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Deep Rock Galactic"
+icon = "deeprockgalacticwiki.png"
 
-[[es.origins]]
-origin = "Deep Rock Galactic Fandom Wiki"
-origin_base_url = "deeprockgalactic.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Deep_Rock_Galactic_Wiki"
+[[es.origin]]
+name = "Deep Rock Galactic Fandom Wiki"
+url = "deeprockgalactic.fandom.com/es"
+mainpage = "Deep_Rock_Galactic_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Deep Rock Galactic Wiki"
+host = "wiki.gg"
+url = "deeprockgalactic.wiki.gg/es"
+platform = "mediawiki"
+icon = "deeprockgalacticwiki.png"
+mainpage = "Deep_Rock_Galactic_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [en]
-origins_label = "Deep Rock Galactic Fandom Wiki"
-destination = "Deep Rock Galactic Wiki"
-destination_base_url = "deeprockgalactic.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "deeprockgalacticwiki.png"
-destination_main_page = "Deep_Rock_Galactic_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Deep Rock Galactic"
+icon = "deeprockgalacticwiki.png"
+
+[[en.origin]]
+name = "Deep Rock Galactic Fandom Wiki"
+url = "deeprockgalactic.fandom.com"
+mainpage = "Deep_Rock_Galactic_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Deep Rock Galactic Wiki"
+host = "wiki.gg"
+url = "deeprockgalactic.wiki.gg"
+platform = "mediawiki"
+icon = "deeprockgalacticwiki.png"
+mainpage = "Deep_Rock_Galactic_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Deep Rock Galactic Fandom Wiki"
-origin_base_url = "deeprockgalactic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Deep_Rock_Galactic_Wiki"

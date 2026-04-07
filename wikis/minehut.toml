@@ -1,22 +1,25 @@
 [en]
-origins_label = "Minehut Fandom Wikis"
-destination = "Minehut Wiki"
-destination_base_url = "minehut.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "minehutwiki.png"
-destination_main_page = "Minehut_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Minehut"
+icon = "minehutwiki.png"
 
-[[en.origins]]
-origin = "Minehut Fandom Wiki"
-origin_base_url = "minehut.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minehut_Wiki"
+[[en.origin]]
+name = "Minehut Fandom Wiki"
+url = "minehut.fandom.com"
+mainpage = "Minehut_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Minehut MC Fandom Wiki"
-origin_base_url = "minehutmc.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minehut_Wiki"
+[[en.origin]]
+name = "Minehut MC Fandom Wiki"
+url = "minehutmc.fandom.com"
+mainpage = "Minehut_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Minehut Wiki"
+host = "wiki.gg"
+url = "minehut.wiki.gg"
+platform = "mediawiki"
+icon = "minehutwiki.png"
+mainpage = "Minehut_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

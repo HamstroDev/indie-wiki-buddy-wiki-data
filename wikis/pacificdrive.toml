@@ -1,15 +1,18 @@
 [en]
-origins_label = "Pacific Drive Fandom Wiki"
-destination = "Pacific Drive Wiki"
-destination_base_url = "pacificdrive.wiki"
-destination_platform = "mediawiki"
-destination_icon = "pacificdrivewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/view/"
+name = "Pacific Drive"
+icon = "pacificdrivewiki.png"
 
-[[en.origins]]
-origin = "Pacific Drive Fandom Wiki"
-origin_base_url = "pacific-drive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pacific_Drive_Wiki"
+[[en.origin]]
+name = "Pacific Drive Fandom Wiki"
+url = "pacific-drive.fandom.com"
+mainpage = "Pacific_Drive_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Pacific Drive Wiki"
+url = "pacificdrive.wiki"
+platform = "mediawiki"
+icon = "pacificdrivewiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/view/"

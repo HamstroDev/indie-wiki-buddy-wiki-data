@@ -1,15 +1,18 @@
 [en]
-origins_label = "Eastern Mind Fandom Wiki"
-destination = "Osamu Sato Wiki"
-destination_base_url = "compu-lsd.com"
-destination_platform = "mediawiki"
-destination_icon = "osamusato.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/w/"
+name = "Eastern Mind"
+icon = "osamusato.png"
 
-[[en.origins]]
-origin = "Eastern Mind Fandom Wiki"
-origin_base_url = "easternmind.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Eastern_Mind_Wiki"
+[[en.origin]]
+name = "Eastern Mind Fandom Wiki"
+url = "easternmind.fandom.com"
+mainpage = "Eastern_Mind_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Osamu Sato Wiki"
+url = "compu-lsd.com"
+platform = "mediawiki"
+icon = "osamusato.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/w/"

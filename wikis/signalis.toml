@@ -1,16 +1,19 @@
 [en]
-origins_label = "SIGNALIS Fandom Wiki"
-destination = "SIGNALIS Wiki"
-destination_base_url = "signalis.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "signalis.png"
-destination_main_page = "SIGNALIS_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "SIGNALIS"
+icon = "signalis.png"
 
-[[en.origins]]
-origin = "SIGNALIS Fandom Wiki"
-origin_base_url = "signalis.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "SIGNALIS_Wiki"
+[[en.origin]]
+name = "SIGNALIS Fandom Wiki"
+url = "signalis.fandom.com"
+mainpage = "SIGNALIS_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SIGNALIS Wiki"
+host = "wiki.gg"
+url = "signalis.wiki.gg"
+platform = "mediawiki"
+icon = "signalis.png"
+mainpage = "SIGNALIS_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

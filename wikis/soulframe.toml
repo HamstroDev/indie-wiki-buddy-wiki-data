@@ -1,21 +1,24 @@
 [en]
-origins_label = "Soulframe Fextralife Wiki"
-destination = "Soulframe Wiki"
-destination_base_url = "wiki.avakot.org"
-destination_platform = "mediawiki"
-destination_icon = "avakotwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
+name = "Soulframe Fextralife Wiki"
+icon = "avakotwiki.png"
 
-[[en.origins]]
-origin = "Soulframe Fextralife Wiki"
-origin_base_url = "soulframe.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Soulframe Wiki"
+[[en.origin]]
+name = "Soulframe Fextralife Wiki"
+url = "soulframe.wiki.fextralife.com"
+mainpage = "Soulframe Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Soulframe Fandom Wiki"
-origin_base_url = "soulframe.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Soulframe_Wiki"
+[[en.origin]]
+name = "Soulframe Fandom Wiki"
+url = "soulframe.fandom.com"
+mainpage = "Soulframe_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Soulframe Wiki"
+url = "wiki.avakot.org"
+platform = "mediawiki"
+icon = "avakotwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/"

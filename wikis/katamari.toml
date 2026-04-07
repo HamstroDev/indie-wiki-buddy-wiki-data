@@ -1,16 +1,19 @@
 [en]
-origins_label = "Katamari Fandom Wiki"
-destination = "Katamaripedia"
-destination_base_url = "katamaripedia.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "katamaripedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Katamari"
+icon = "katamaripedia.png"
 
-[[en.origins]]
-origin = "Katamari Fandom Wiki"
-origin_base_url = "katamari.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Katamari Fandom Wiki"
+url = "katamari.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Katamaripedia"
+host = "Miraheze"
+url = "katamaripedia.miraheze.org"
+platform = "mediawiki"
+icon = "katamaripedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

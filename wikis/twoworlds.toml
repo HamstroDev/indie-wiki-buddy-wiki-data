@@ -1,21 +1,24 @@
 [en]
-origins_label = "Two Worlds Fandom Wikis"
-destination = "Two Worlds Wiki"
-destination_base_url = "twoworldswiki.com"
-destination_platform = "mediawiki"
-destination_icon = "twoworldswiki.png"
-destination_main_page = "Two_Worlds_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Two Worlds"
+icon = "twoworldswiki.png"
 
-[[en.origins]]
-origin = "Two Worlds Fandom Wiki"
-origin_base_url = "twoworlds.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Two_Worlds_Main"
+[[en.origin]]
+name = "Two Worlds Fandom Wiki"
+url = "twoworlds.fandom.com"
+mainpage = "Two_Worlds_Main"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Two Worlds II Fandom Wiki"
-origin_base_url = "tw2.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Two_Worlds_2_Wiki"
+[[en.origin]]
+name = "Two Worlds II Fandom Wiki"
+url = "tw2.fandom.com"
+mainpage = "Two_Worlds_2_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Two Worlds Wiki"
+url = "twoworldswiki.com"
+platform = "mediawiki"
+icon = "twoworldswiki.png"
+mainpage = "Two_Worlds_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

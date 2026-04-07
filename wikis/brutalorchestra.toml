@@ -1,16 +1,19 @@
 [en]
-origins_label = "Brutal Orchestra Fandom Wiki"
-destination = "Brutal Orchestra Wiki"
-destination_base_url = "brutalorchestra.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "brutalorchestrawiki.png"
-destination_main_page = "Brutal_Orchestra_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Brutal Orchestra"
+icon = "brutalorchestrawiki.png"
 
-[[en.origins]]
-origin = "Brutal Orchestra Fandom Wiki"
-origin_base_url = "hbbrutalorchestra.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Brutal_Orchestra_Wiki"
+[[en.origin]]
+name = "Brutal Orchestra Fandom Wiki"
+url = "hbbrutalorchestra.fandom.com"
+mainpage = "Brutal_Orchestra_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Brutal Orchestra Wiki"
+host = "wiki.gg"
+url = "brutalorchestra.wiki.gg"
+platform = "mediawiki"
+icon = "brutalorchestrawiki.png"
+mainpage = "Brutal_Orchestra_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

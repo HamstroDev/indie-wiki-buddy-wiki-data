@@ -1,21 +1,24 @@
 [en]
-origins_label = "VVVVVV Fandom Wikis"
-destination = "Viki"
-destination_base_url = "vsix.dev"
-destination_platform = "mediawiki"
-destination_icon = "viki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "VVVVVV"
+icon = "viki.png"
 
-[[en.origins]]
-origin = "VVVVVV Fandom Wiki"
-origin_base_url = "vvvvvv.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "VVVVVV_Wiki"
+[[en.origin]]
+name = "VVVVVV Fandom Wiki"
+url = "vvvvvv.fandom.com"
+mainpage = "VVVVVV_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Space Station VVVVVV Fandom Wiki"
-origin_base_url = "spacestation.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "VVVVVV_Wiki"
+[[en.origin]]
+name = "Space Station VVVVVV Fandom Wiki"
+url = "spacestation.fandom.com"
+mainpage = "VVVVVV_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Viki"
+url = "vsix.dev"
+platform = "mediawiki"
+icon = "viki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

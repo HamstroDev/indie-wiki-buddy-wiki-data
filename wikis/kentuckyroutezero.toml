@@ -1,15 +1,18 @@
 [en]
-origins_label = "Kentucky Route Zero Fandom Wiki"
-destination = "Highway 0"
-destination_base_url = "consolidatedpower.co"
-destination_platform = "mediawiki"
-destination_icon = "highway0.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/~donald/zero/index.php"
-destination_content_path = "/~donald/zero/"
+name = "Kentucky Route Zero"
+icon = "highway0.png"
 
-[[en.origins]]
-origin = "Kentucky Route Zero Fandom Wiki"
-origin_base_url = "kentucky-route-zero.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Kentucky_Route_Zero_Wiki"
+[[en.origin]]
+name = "Kentucky Route Zero Fandom Wiki"
+url = "kentucky-route-zero.fandom.com"
+mainpage = "Kentucky_Route_Zero_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Highway 0"
+url = "consolidatedpower.co"
+platform = "mediawiki"
+icon = "highway0.png"
+mainpage = "Main_Page"
+search-path = "/~donald/zero/index.php"
+content-path = "/~donald/zero/"

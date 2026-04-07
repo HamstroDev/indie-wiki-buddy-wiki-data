@@ -1,16 +1,19 @@
 [en]
-origins_label = "Rabbit and Steel Fandom Wiki"
-destination = "Rabbit and Steel Wiki"
-destination_base_url = "rns.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "rabbitandsteelwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Rabbit and Steel"
+icon = "rabbitandsteelwiki.png"
 
-[[en.origins]]
-origin = "Rabbit and Steel Fandom Wiki"
-origin_base_url = "rabbitandsteel.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Rabbit_and_Steel_Wiki"
+[[en.origin]]
+name = "Rabbit and Steel Fandom Wiki"
+url = "rabbitandsteel.fandom.com"
+mainpage = "Rabbit_and_Steel_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Rabbit and Steel Wiki"
+host = "Miraheze"
+url = "rns.miraheze.org"
+platform = "mediawiki"
+icon = "rabbitandsteelwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

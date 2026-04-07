@@ -1,15 +1,18 @@
 [en]
-origins_label = "U.B. Funkeys Fandom Wiki"
-destination = "U.B. Funkeys Wiki"
-destination_base_url = "ubfunkeys.wiki"
-destination_platform = "mediawiki"
-destination_icon = "ubfunkeyswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "U.B. Funkeys"
+icon = "ubfunkeyswiki.png"
 
-[[en.origins]]
-origin = "U.B. Funkeys Fandom Wiki"
-origin_base_url = "ubfunkeys.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "U.B. Funkeys Fandom Wiki"
+url = "ubfunkeys.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "U.B. Funkeys Wiki"
+url = "ubfunkeys.wiki"
+platform = "mediawiki"
+icon = "ubfunkeyswiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php?title="

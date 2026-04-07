@@ -1,28 +1,31 @@
 [en]
-origins_label = "Rain (web comic) Fandom Wikis"
-destination = "Rainverse Wiki"
-destination_base_url = "rainverse.wiki"
-destination_platform = "mediawiki"
-destination_icon = "rainversewiki.png"
-destination_main_page = "Rainverse_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Rain (web comic)"
+icon = "rainversewiki.png"
 
-[[en.origins]]
-origin = "Rain (web comic) Fandom Wiki"
-origin_base_url = "rain-web-comic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Rain_(web_comic)_Wikia"
+[[en.origin]]
+name = "Rain (web comic) Fandom Wiki"
+url = "rain-web-comic.fandom.com"
+mainpage = "Rain_(web_comic)_Wikia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Rain (webcomic) Fandom Wiki"
-origin_base_url = "rain-webcomic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Rain_(webcomic)_Wiki"
+[[en.origin]]
+name = "Rain (webcomic) Fandom Wiki"
+url = "rain-webcomic.fandom.com"
+mainpage = "Rain_(webcomic)_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "My Impossible Soulmate Fandom Wiki"
-origin_base_url = "myimpossiblesoulmate.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "My_Impossible_Soulmate_Wiki"
+[[en.origin]]
+name = "My Impossible Soulmate Fandom Wiki"
+url = "myimpossiblesoulmate.fandom.com"
+mainpage = "My_Impossible_Soulmate_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Rainverse Wiki"
+host = "Miraheze"
+url = "rainverse.wiki"
+platform = "mediawiki"
+icon = "rainversewiki.png"
+mainpage = "Rainverse_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

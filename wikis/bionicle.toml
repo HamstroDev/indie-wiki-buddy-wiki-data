@@ -1,15 +1,18 @@
 [en]
-origins_label = "Bionicle Fandom Wiki"
-destination = "BIONICLEsector01"
-destination_base_url = "biosector01.com"
-destination_platform = "mediawiki"
-destination_icon = "biosector01.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Bionicle"
+icon = "biosector01.png"
 
-[[en.origins]]
-origin = "Bionicle Fandom Wiki"
-origin_base_url = "bionicle.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Bionicle_Wiki"
+[[en.origin]]
+name = "Bionicle Fandom Wiki"
+url = "bionicle.fandom.com"
+mainpage = "The_Bionicle_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "BIONICLEsector01"
+url = "biosector01.com"
+platform = "mediawiki"
+icon = "biosector01.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

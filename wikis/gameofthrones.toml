@@ -1,47 +1,56 @@
 [en]
-origins_label = "Game of Thrones Fandom Wiki"
-destination = "A Wiki of Ice and Fire"
-destination_base_url = "awoiaf.westeros.org"
-destination_platform = "mediawiki"
-destination_icon = "awikioficeandfire.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Game of Thrones"
+icon = "awikioficeandfire.png"
 
-[[en.origins]]
-origin = "A Song of Ice and Fire Fandom Wiki"
-origin_base_url = "iceandfire.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "A_Song_of_Ice_and_Fire_Wiki"
+[[en.origin]]
+name = "A Song of Ice and Fire Fandom Wiki"
+url = "iceandfire.fandom.com"
+mainpage = "A_Song_of_Ice_and_Fire_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "A Wiki of Ice and Fire"
+url = "awoiaf.westeros.org"
+platform = "mediawiki"
+icon = "awikioficeandfire.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"
 
 [pt]
-origins_label = "Game of Thrones Fandom Wiki"
-destination = "Gelo e Fogo Wiki"
-destination_base_url = "wiki.geloefogo.com"
-destination_platform = "mediawiki"
-destination_icon = "gameofthrones.png"
-destination_main_page = "Página_principal"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Game of Thrones"
+icon = "gameofthrones.png"
 
-[[pt.origins]]
-origin = "Game of Thrones Fandom Wiki"
-origin_base_url = "gameofthrones.fandom.com/pt-br"
-origin_content_path = "/wiki/"
-origin_main_page = "Game_of_Thrones_Wiki"
+[[pt.origin]]
+name = "Game of Thrones Fandom Wiki"
+url = "gameofthrones.fandom.com/pt-br"
+mainpage = "Game_of_Thrones_Wiki"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Gelo e Fogo Wiki"
+url = "wiki.geloefogo.com"
+platform = "mediawiki"
+icon = "gameofthrones.png"
+mainpage = "Página_principal"
+search-path = "/index.php"
+content-path = "/index.php/"
 
 [fr]
-origins_label = "Game of Thrones Fandom Wiki"
-destination = "La Garde de Nuit Wiki"
-destination_base_url = "www.lagardedenuit.com/wiki"
-destination_platform = "mediawiki"
-destination_icon = "gameofthrones.png"
-destination_main_page = "Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "Game of Thrones"
+icon = "gameofthrones.png"
 
-[[fr.origins]]
-origin = "Game of Thrones Fandom Wiki"
-origin_base_url = "gameofthrones.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Game_of_Thrones"
+[[fr.origin]]
+name = "Game of Thrones Fandom Wiki"
+url = "gameofthrones.fandom.com/fr"
+mainpage = "Wiki_Game_of_Thrones"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "La Garde de Nuit Wiki"
+url = "www.lagardedenuit.com/wiki"
+platform = "mediawiki"
+icon = "gameofthrones.png"
+mainpage = "Accueil"
+search-path = "/index.php"
+content-path = "/index.php?title="

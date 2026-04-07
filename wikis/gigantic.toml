@@ -1,22 +1,25 @@
 [en]
-origins_label = "Gigantic Fandom Wikis"
-destination = "Gigantic Wiki"
-destination_base_url = "gogigantic.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "giganticwiki.png"
-destination_main_page = "Gigantic_Wiki:Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Gigantic"
+icon = "giganticwiki.png"
 
-[[en.origins]]
-origin = "Gigantic Fandom Wiki"
-origin_base_url = "gigantic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gigantic_Wiki"
+[[en.origin]]
+name = "Gigantic Fandom Wiki"
+url = "gigantic.fandom.com"
+mainpage = "Gigantic_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Gigantic Fandom Wiki (Archived)"
-origin_base_url = "gigantic-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gigantic_Wiki"
+[[en.origin]]
+name = "Gigantic Fandom Wiki (Archived)"
+url = "gigantic-archive.fandom.com"
+mainpage = "Gigantic_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Gigantic Wiki"
+host = "Miraheze"
+url = "gogigantic.miraheze.org"
+platform = "mediawiki"
+icon = "giganticwiki.png"
+mainpage = "Gigantic_Wiki:Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

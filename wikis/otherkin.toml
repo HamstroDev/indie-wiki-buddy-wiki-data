@@ -1,16 +1,19 @@
 [en]
-origins_label = "Otherkin Fandom Wiki"
-destination = "Otherkin Wiki"
-destination_base_url = "otherkin.wiki"
-destination_platform = "mediawiki"
-destination_icon = "otherkinwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "miraheze"
+name = "Otherkin"
+icon = "otherkinwiki.png"
 
-[[en.origins]]
-origin = "Otherkin Fandom Wiki"
-origin_base_url = "otherkin.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Otherkin_Wiki"
+[[en.origin]]
+name = "Otherkin Fandom Wiki"
+url = "otherkin.fandom.com"
+mainpage = "Otherkin_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Otherkin Wiki"
+host = "miraheze"
+url = "otherkin.wiki"
+platform = "mediawiki"
+icon = "otherkinwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

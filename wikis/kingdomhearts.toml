@@ -1,21 +1,24 @@
 [en]
-origins_label = "Kingdom Hearts Fandom & Neoseeker Wikis"
-destination = "Kingdom Hearts Wiki"
-destination_base_url = "www.khwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "khwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Kingdom Hearts"
+icon = "khwiki.png"
 
-[[en.origins]]
-origin = "Kingdom Hearts Fandom Wiki"
-origin_base_url = "kingdomhearts.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Kingdom_Hearts_Wiki:Main_Page"
+[[en.origin]]
+name = "Kingdom Hearts Fandom Wiki"
+url = "kingdomhearts.fandom.com"
+mainpage = "Kingdom_Hearts_Wiki:Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Kingdom Hearts Wiki - Neoseeker"
-origin_base_url = "kingdomhearts.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Kingdom Hearts Wiki - Neoseeker"
+url = "kingdomhearts.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Kingdom Hearts Wiki"
+url = "www.khwiki.com"
+platform = "mediawiki"
+icon = "khwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

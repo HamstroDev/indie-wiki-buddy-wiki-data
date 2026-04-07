@@ -1,19 +1,22 @@
 [en]
-origins_label = "Junk Jack Fandom Wiki"
-destination = "Junk Jack Wiki"
-destination_base_url = "junkjack.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "junkjackwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Junk Jack"
+icon = "junkjackwiki.png"
+
+[[en.origin]]
+name = "Junk Jack Fandom Wiki"
+url = "junkjack.fandom.com"
+mainpage = "Junk_Jack_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Junk Jack Wiki"
+host = "wiki.gg"
+url = "junkjack.wiki.gg"
+platform = "mediawiki"
+icon = "junkjackwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Junk Jack Fandom Wiki"
-origin_base_url = "junkjack.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Junk_Jack_Wiki"

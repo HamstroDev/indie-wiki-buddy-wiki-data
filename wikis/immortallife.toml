@@ -1,19 +1,22 @@
 [en]
-origins_label = "Immortal Life Fandom Wiki"
-destination = "Immortal Life Wiki"
-destination_base_url = "immortallife.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "immortallifewiki.png"
-destination_main_page = "Immortal_Life_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Immortal Life"
+icon = "immortallifewiki.png"
+
+[[en.origin]]
+name = "Immortal Life Fandom Wiki"
+url = "immortal-life.fandom.com"
+mainpage = "Immortal_Life_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Immortal Life Wiki"
+host = "wiki.gg"
+url = "immortallife.wiki.gg"
+platform = "mediawiki"
+icon = "immortallifewiki.png"
+mainpage = "Immortal_Life_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Immortal Life Fandom Wiki"
-origin_base_url = "immortal-life.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Immortal_Life_Wiki"

@@ -1,18 +1,21 @@
 [en]
-origins_label = "Factorio Fandom Wiki"
-destination = "Factorio Wiki"
-destination_base_url = "wiki.factorio.com"
-destination_platform = "mediawiki"
-destination_icon = "factorio.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Factorio"
+icon = "factorio.png"
+
+[[en.origin]]
+name = "Factorio Fandom Wiki"
+url = "factorio.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Factorio Wiki"
+url = "wiki.factorio.com"
+platform = "mediawiki"
+icon = "factorio.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Factorio Fandom Wiki"
-origin_base_url = "factorio.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"

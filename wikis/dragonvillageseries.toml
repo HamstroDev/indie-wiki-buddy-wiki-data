@@ -1,16 +1,19 @@
 [en]
-origins_label = "Dragon Village Series Fandom Wiki"
-destination = "Dragon Village Series Wiki"
-destination_base_url = "dragonvillageseries.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "dragonvillageserieswiki.png"
-destination_main_page = "Dragon_Village_Series_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Dragon Village Series"
+icon = "dragonvillageserieswiki.png"
 
-[[en.origins]]
-origin = "Dragon Village Series Fandom Wiki"
-origin_base_url = "dragon-village-series.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dragon_Village_Series_Wiki"
+[[en.origin]]
+name = "Dragon Village Series Fandom Wiki"
+url = "dragon-village-series.fandom.com"
+mainpage = "Dragon_Village_Series_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dragon Village Series Wiki"
+host = "wiki.gg"
+url = "dragonvillageseries.wiki.gg"
+platform = "mediawiki"
+icon = "dragonvillageserieswiki.png"
+mainpage = "Dragon_Village_Series_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

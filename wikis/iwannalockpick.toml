@@ -1,16 +1,19 @@
 [en]
-origins_label = "I Wanna Lockpick Fandom Wiki"
-destination = "I Wanna Lockpick Wiki"
-destination_base_url = "iwannalockpickwiki.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "iwannalockpick.png"
-destination_main_page = "I_Wanna_Lockpick_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "I Wanna Lockpick"
+icon = "iwannalockpick.png"
 
-[[en.origins]]
-origin = "I Wanna Lockpick Fandom Wiki"
-origin_base_url = "iwannalockpick.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "I_Wanna_Lockpick_Wiki"
+[[en.origin]]
+name = "I Wanna Lockpick Fandom Wiki"
+url = "iwannalockpick.fandom.com"
+mainpage = "I_Wanna_Lockpick_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "I Wanna Lockpick Wiki"
+host = "Miraheze"
+url = "iwannalockpickwiki.miraheze.org"
+platform = "mediawiki"
+icon = "iwannalockpick.png"
+mainpage = "I_Wanna_Lockpick_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "JoJo's Bizarre Wiki"
-destination = "JoJo's Bizarre Encyclopedia"
-destination_base_url = "jojowiki.com"
-destination_platform = "mediawiki"
-destination_icon = "jojo.png"
-destination_main_page = "JoJo_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "JoJo's Bizarre Wiki"
+icon = "jojo.png"
 
-[[en.origins]]
-origin = "JoJo's Bizarre Wiki"
-origin_base_url = "jojo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "JoJo's Bizarre Wiki"
+url = "jojo.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "JoJo's Bizarre Encyclopedia"
+url = "jojowiki.com"
+platform = "mediawiki"
+icon = "jojo.png"
+mainpage = "JoJo_Wiki"
+search-path = "/index.php"
+content-path = "/"

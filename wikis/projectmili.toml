@@ -1,16 +1,19 @@
 [en]
-origins_label = "Mili Fandom Wiki"
-destination = "Mili Wiki"
-destination_base_url = "mili.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "miliwiki.png"
-destination_main_page = "Mili_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Mili"
+icon = "miliwiki.png"
 
-[[en.origins]]
-origin = "Mili Fandom Wiki"
-origin_base_url = "project-mili.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mili_Wiki"
+[[en.origin]]
+name = "Mili Fandom Wiki"
+url = "project-mili.fandom.com"
+mainpage = "Mili_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Mili Wiki"
+host = "wiki.gg"
+url = "mili.wiki.gg"
+platform = "mediawiki"
+icon = "miliwiki.png"
+mainpage = "Mili_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

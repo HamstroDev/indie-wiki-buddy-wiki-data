@@ -1,16 +1,19 @@
 [en]
-origins_label = "Gimkit Fandom Wiki"
-destination = "Gimkit Wiki"
-destination_base_url = "gimkit.wiki"
-destination_platform = "mediawiki"
-destination_icon = "gimkitwiki.png"
-destination_main_page = "Gimkit_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Gimkit"
+icon = "gimkitwiki.png"
 
-[[en.origins]]
-origin = "Gimkit Fandom Wiki"
-origin_base_url = "gimkit.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gimkit_Wiki"
+[[en.origin]]
+name = "Gimkit Fandom Wiki"
+url = "gimkit.fandom.com"
+mainpage = "Gimkit_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Gimkit Wiki"
+host = "Miraheze"
+url = "gimkit.wiki"
+platform = "mediawiki"
+icon = "gimkitwiki.png"
+mainpage = "Gimkit_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

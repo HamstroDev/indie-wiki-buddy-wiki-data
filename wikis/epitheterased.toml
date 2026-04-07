@@ -1,15 +1,18 @@
 [en]
-origins_label = "Epithet Erased Fandom Wiki"
-destination = "Epithet Erased Wiki"
-destination_base_url = "epitheterasedwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "epitheterasedwiki.png"
-destination_main_page = "Epithet_Erased_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Epithet Erased"
+icon = "epitheterasedwiki.png"
 
-[[en.origins]]
-origin = "Epithet Erased Fandom Wiki"
-origin_base_url = "epithet-erased.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Epithet_Erased_Wiki"
+[[en.origin]]
+name = "Epithet Erased Fandom Wiki"
+url = "epithet-erased.fandom.com"
+mainpage = "Epithet_Erased_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Epithet Erased Wiki"
+url = "epitheterasedwiki.com"
+platform = "mediawiki"
+icon = "epitheterasedwiki.png"
+mainpage = "Epithet_Erased_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

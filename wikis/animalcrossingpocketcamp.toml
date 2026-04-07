@@ -1,16 +1,19 @@
 [en]
-origins_label = "Animal Crossing: Pocket Camp Fandom Wiki"
-destination = "Animal Crossing: Pocket Camp Wiki"
-destination_base_url = "animalcrossingpocketcamp.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "animalcrossingpocketcampwiki.png"
-destination_main_page = "Animal_Crossing:_Pocket_Camp_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Animal Crossing: Pocket Camp"
+icon = "animalcrossingpocketcampwiki.png"
 
-[[en.origins]]
-origin = "Animal Crossing: Pocket Camp Fandom Wiki"
-origin_base_url = "animalcrossingpocketcamp.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Animal_Crossing:_Pocket_Camp_Wiki"
+[[en.origin]]
+name = "Animal Crossing: Pocket Camp Fandom Wiki"
+url = "animalcrossingpocketcamp.fandom.com"
+mainpage = "Animal_Crossing:_Pocket_Camp_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Animal Crossing: Pocket Camp Wiki"
+host = "wiki.gg"
+url = "animalcrossingpocketcamp.wiki.gg"
+platform = "mediawiki"
+icon = "animalcrossingpocketcampwiki.png"
+mainpage = "Animal_Crossing:_Pocket_Camp_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

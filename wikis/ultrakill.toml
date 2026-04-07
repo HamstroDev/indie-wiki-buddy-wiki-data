@@ -1,19 +1,22 @@
 [en]
-origins_label = "ULTRAKILL Fandom Wiki"
-destination = "ULTRAWIKI"
-destination_base_url = "ultrakill.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "ultrawiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ULTRAKILL"
+icon = "ultrawiki.png"
+
+[[en.origin]]
+name = "ULTRAKILL Fandom Wiki"
+url = "ultrakill.fandom.com"
+mainpage = "Home"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "ULTRAWIKI"
+host = "wiki.gg"
+url = "ultrakill.wiki.gg"
+platform = "mediawiki"
+icon = "ultrawiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "ULTRAKILL Fandom Wiki"
-origin_base_url = "ultrakill.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Home"

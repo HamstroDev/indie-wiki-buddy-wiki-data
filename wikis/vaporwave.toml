@@ -1,15 +1,18 @@
 [en]
-origins_label = "Vaporwave Fandom Wiki"
-destination = "vaporwave.wiki"
-destination_base_url = "vaporwave.wiki"
-destination_platform = "mediawiki"
-destination_icon = "vaporwavewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Vaporwave"
+icon = "vaporwavewiki.png"
 
-[[en.origins]]
-origin = "Vaporwave Fandom Wiki"
-origin_base_url = "vaporwave.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Vaporwave_Wiki"
+[[en.origin]]
+name = "Vaporwave Fandom Wiki"
+url = "vaporwave.fandom.com"
+mainpage = "Vaporwave_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "vaporwave.wiki"
+url = "vaporwave.wiki"
+platform = "mediawiki"
+icon = "vaporwavewiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

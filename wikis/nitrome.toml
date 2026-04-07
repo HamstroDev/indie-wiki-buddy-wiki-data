@@ -1,16 +1,19 @@
 [en]
-origins_label = "Nitrome Fandom Wiki"
-destination = "Nitrome Wiki"
-destination_base_url = "nitrome.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "thenitromewiki.png"
-destination_main_page = "The_Nitrome_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Nitrome"
+icon = "thenitromewiki.png"
 
-[[en.origins]]
-origin = "Nitrome Fandom Wiki"
-origin_base_url = "nitrome.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Nitrome_Wiki"
+[[en.origin]]
+name = "Nitrome Fandom Wiki"
+url = "nitrome.fandom.com"
+mainpage = "Nitrome_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Nitrome Wiki"
+host = "wiki.gg"
+url = "nitrome.wiki.gg"
+platform = "mediawiki"
+icon = "thenitromewiki.png"
+mainpage = "The_Nitrome_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

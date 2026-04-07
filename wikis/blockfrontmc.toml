@@ -1,16 +1,19 @@
 [en]
-origins_label = "BlockFrontMC Fandom Wiki"
-destination = "BlockFrontMC Wiki"
-destination_base_url = "blockfront.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "blockfrontwiki.png"
-destination_main_page = "BlockFront_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "BlockFrontMC"
+icon = "blockfrontwiki.png"
 
-[[en.origins]]
-origin = "BlockFrontMC Fandom Wiki"
-origin_base_url = "blockfrontmc.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "BlockFrontMC_Wikia"
+[[en.origin]]
+name = "BlockFrontMC Fandom Wiki"
+url = "blockfrontmc.fandom.com"
+mainpage = "BlockFrontMC_Wikia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "BlockFrontMC Wiki"
+host = "wiki.gg"
+url = "blockfront.wiki.gg"
+platform = "mediawiki"
+icon = "blockfrontwiki.png"
+mainpage = "BlockFront_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Pathfinder Fandom Wiki"
-destination = "PathfinderWiki"
-destination_base_url = "pathfinderwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "pathfinder.png"
-destination_main_page = "Pathfinder_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Pathfinder"
+icon = "pathfinder.png"
 
-[[en.origins]]
-origin = "Pathfinder Fandom Wiki"
-origin_base_url = "pathfinder.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pathfinder_Wiki"
+[[en.origin]]
+name = "Pathfinder Fandom Wiki"
+url = "pathfinder.fandom.com"
+mainpage = "Pathfinder_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "PathfinderWiki"
+url = "pathfinderwiki.com"
+platform = "mediawiki"
+icon = "pathfinder.png"
+mainpage = "Pathfinder_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

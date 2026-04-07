@@ -1,15 +1,18 @@
 [en]
-origins_label = "UnReal World Fandom Wiki"
-destination = "UnReal World Wiki"
-destination_base_url = "www.unrealworld.fi"
-destination_platform = "mediawiki"
-destination_icon = "unrealworldwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/wiki/index.php?title="
+name = "UnReal World"
+icon = "unrealworldwiki.png"
 
-[[en.origins]]
-origin = "UnReal World Fandom Wiki"
-origin_base_url = "unrealworld.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Unreal_World_Wiki"
+[[en.origin]]
+name = "UnReal World Fandom Wiki"
+url = "unrealworld.fandom.com"
+mainpage = "Unreal_World_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "UnReal World Wiki"
+url = "www.unrealworld.fi"
+platform = "mediawiki"
+icon = "unrealworldwiki.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/wiki/index.php?title="

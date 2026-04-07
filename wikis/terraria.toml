@@ -1,231 +1,264 @@
 [de]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/de"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[de.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/de"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/de"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[de.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [ru]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/ru"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[ru.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/ru"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/ru"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[ru.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [es]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[es.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/es"
+mainpage = "Wiki_Terraria"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/es"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[es.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Terraria"
 
 [en]
-origins_label = "Terraria Fandom & Neoseeker Wikis"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[en.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "Terraria Fandom Wiki (Archived)"
+url = "terraria-archive.fandom.com"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "Terraria Wiki - Neoseeker"
+url = "terraria.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
-
-[[en.origins]]
-origin = "Terraria Fandom Wiki (Archived)"
-origin_base_url = "terraria-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
-
-[[en.origins]]
-origin = "Terraria Wiki - Neoseeker"
-origin_base_url = "terraria.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
 
 [pt]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/pt"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[pt.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/pt"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/pt"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[pt.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/pt"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [pl]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/pl"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[pl.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/pl"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[pl.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/pl"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[pl.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/pl"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [ko]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/ko"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[ko.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/ko"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[ko.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/ko"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[ko.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/ko"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [zh]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/zh"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[zh.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/zh"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/zh"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[zh.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [hu]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/hu"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[hu.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/hu"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[hu.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/hu"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[hu.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/hu"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [fr]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/fr"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[fr.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/fr"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/fr"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"
 
 [uk]
-origins_label = "Terraria Fandom Wiki"
-destination = "Terraria Wiki"
-destination_base_url = "terraria.wiki.gg/uk"
-destination_platform = "mediawiki"
-destination_icon = "terrariawiki.png"
-destination_main_page = "Terraria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria"
+icon = "terrariawiki.png"
+
+[[uk.origin]]
+name = "Terraria Fandom Wiki"
+url = "terraria.fandom.com/uk"
+mainpage = "Terraria_Wiki"
+content-path = "/wiki/"
+
+[[uk.destination]]
+name = "Terraria Wiki"
+host = "wiki.gg"
+url = "terraria.wiki.gg/uk"
+platform = "mediawiki"
+icon = "terrariawiki.png"
+mainpage = "Terraria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[uk.origins]]
-origin = "Terraria Fandom Wiki"
-origin_base_url = "terraria.fandom.com/uk"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Wiki"

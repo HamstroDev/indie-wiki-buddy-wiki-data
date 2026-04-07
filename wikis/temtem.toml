@@ -1,39 +1,45 @@
 [en]
-origins_label = "Temtem Fandom Wiki"
-destination = "Temtem Wiki"
-destination_base_url = "temtem.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "officialtemtemwiki.png"
-destination_main_page = "Temtem_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Temtem"
+icon = "officialtemtemwiki.png"
+
+[[en.origin]]
+name = "Temtem Fandom Wiki"
+url = "temtem.fandom.com"
+mainpage = "Temtem_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Temtem Wiki"
+host = "wiki.gg"
+url = "temtem.wiki.gg"
+platform = "mediawiki"
+icon = "officialtemtemwiki.png"
+mainpage = "Temtem_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Temtem Fandom Wiki"
-origin_base_url = "temtem.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Temtem_Wiki"
 
 [fr]
-origins_label = "Temtem Fandom Wiki"
-destination = "Temtem Wiki"
-destination_base_url = "temtem.wiki.gg/fr"
-destination_platform = "mediawiki"
-destination_icon = "temtem.png"
-destination_main_page = "Temtem_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Temtem"
+icon = "temtem.png"
+
+[[fr.origin]]
+name = "Temtem Fandom Wiki"
+url = "temtem.fandom.com/fr"
+mainpage = "Temtem_Wiki"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Temtem Wiki"
+host = "wiki.gg"
+url = "temtem.wiki.gg/fr"
+platform = "mediawiki"
+icon = "temtem.png"
+mainpage = "Temtem_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "Temtem Fandom Wiki"
-origin_base_url = "temtem.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Temtem_Wiki"

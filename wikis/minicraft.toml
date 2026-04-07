@@ -1,19 +1,22 @@
 [en]
-origins_label = "Minicraft Fandom Wiki"
-destination = "Minicraft Wiki"
-destination_base_url = "minicraft.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "minicraftwiki.png"
-destination_main_page = "Minicraft_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Minicraft"
+icon = "minicraftwiki.png"
+
+[[en.origin]]
+name = "Minicraft Fandom Wiki"
+url = "minicraft.fandom.com"
+mainpage = "Minicraft_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Minicraft Wiki"
+host = "wiki.gg"
+url = "minicraft.wiki.gg"
+platform = "mediawiki"
+icon = "minicraftwiki.png"
+mainpage = "Minicraft_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Minicraft Fandom Wiki"
-origin_base_url = "minicraft.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minicraft_Wiki"

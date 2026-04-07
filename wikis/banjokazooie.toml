@@ -1,21 +1,24 @@
 [en]
-origins_label = "Banjo-Kazooie Fandom & Neoseeker Wikis"
-destination = "Jiggywikki"
-destination_base_url = "banjokazooiewiki.com"
-destination_platform = "mediawiki"
-destination_icon = "jiggywikki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Banjo-Kazooie"
+icon = "jiggywikki.png"
 
-[[en.origins]]
-origin = "Banjo-Kazooie Fandom Wiki"
-origin_base_url = "banjokazooie.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Banjo-Kazooie_Wiki"
+[[en.origin]]
+name = "Banjo-Kazooie Fandom Wiki"
+url = "banjokazooie.fandom.com"
+mainpage = "Banjo-Kazooie_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Banjo-Kazooie Wiki - Neoseeker"
-origin_base_url = "banjokazooie.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Banjo-Kazooie Wiki - Neoseeker"
+url = "banjokazooie.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Jiggywikki"
+url = "banjokazooiewiki.com"
+platform = "mediawiki"
+icon = "jiggywikki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

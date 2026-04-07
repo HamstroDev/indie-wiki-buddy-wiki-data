@@ -1,15 +1,18 @@
 [en]
-origins_label = "Star Trek Online Fandom Wiki"
-destination = "Star Trek Online Wiki"
-destination_base_url = "stowiki.net"
-destination_platform = "mediawiki"
-destination_icon = "sto.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Star Trek Online"
+icon = "sto.png"
 
-[[en.origins]]
-origin = "Star Trek Online Fandom Wiki"
-origin_base_url = "sto.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Star Trek Online Fandom Wiki"
+url = "sto.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Star Trek Online Wiki"
+url = "stowiki.net"
+platform = "mediawiki"
+icon = "sto.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

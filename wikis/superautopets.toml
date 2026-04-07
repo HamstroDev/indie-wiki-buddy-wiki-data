@@ -1,16 +1,19 @@
 [en]
-origins_label = "Super Auto Pets Fandom Wiki"
-destination = "Super Auto Pets Wiki"
-destination_base_url = "superautopets.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "superautopetswiki.png"
-destination_main_page = "Super_Auto_Pets_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Super Auto Pets"
+icon = "superautopetswiki.png"
 
-[[en.origins]]
-origin = "Super Auto Pets Fandom Wiki"
-origin_base_url = "superautopets.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Super_Auto_Pets_Wiki"
+[[en.origin]]
+name = "Super Auto Pets Fandom Wiki"
+url = "superautopets.fandom.com"
+mainpage = "Super_Auto_Pets_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Super Auto Pets Wiki"
+host = "wiki.gg"
+url = "superautopets.wiki.gg"
+platform = "mediawiki"
+icon = "superautopetswiki.png"
+mainpage = "Super_Auto_Pets_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

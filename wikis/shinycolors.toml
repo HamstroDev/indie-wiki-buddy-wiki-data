@@ -1,15 +1,18 @@
 [en]
-origins_label = "Shiny Colors Fandom Wiki"
-destination = "Shiny Colors Wiki"
-destination_base_url = "shinycolors.wiki"
-destination_platform = "mediawiki"
-destination_icon = "shinycolorswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Shiny Colors"
+icon = "shinycolorswiki.png"
 
-[[en.origins]]
-origin = "Shiny Colors Fandom Wiki"
-origin_base_url = "shinycolors.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Shiny_Colors_Wiki"
+[[en.origin]]
+name = "Shiny Colors Fandom Wiki"
+url = "shinycolors.fandom.com"
+mainpage = "Shiny_Colors_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Shiny Colors Wiki"
+url = "shinycolors.wiki"
+platform = "mediawiki"
+icon = "shinycolorswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

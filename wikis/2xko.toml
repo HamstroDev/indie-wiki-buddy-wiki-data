@@ -1,18 +1,21 @@
 [en]
-origins_label = "2XKO Fandom Wiki"
-destination = "2XKO Wiki"
-destination_base_url = "wiki.play2xko.com"
-destination_platform = "mediawiki"
-destination_icon = "2xkowiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/en-us/"
-destination_content_path = "/en-us/"
+name = "2XKO"
+icon = "2xkowiki.png"
+
+[[en.origin]]
+name = "2XKO Fandom Wiki"
+url = "2xko.fandom.com"
+mainpage = "2XKO_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "2XKO Wiki"
+url = "wiki.play2xko.com"
+platform = "mediawiki"
+icon = "2xkowiki.png"
+mainpage = "Main_Page"
+search-path = "/en-us/"
+content-path = "/en-us/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "2XKO Fandom Wiki"
-origin_base_url = "2xko.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "2XKO_Wiki"

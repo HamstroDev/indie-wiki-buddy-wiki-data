@@ -1,16 +1,19 @@
 [en]
-origins_label = "NecroMerger Fandom Wiki"
-destination = "NecroMerger Wiki"
-destination_base_url = "necromerger.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "necromergerwiki.png"
-destination_main_page = "NecroMerger_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "NecroMerger"
+icon = "necromergerwiki.png"
 
-[[en.origins]]
-origin = "NecroMerger Fandom Wiki"
-origin_base_url = "necromerger.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "NecroMerger"
+[[en.origin]]
+name = "NecroMerger Fandom Wiki"
+url = "necromerger.fandom.com"
+mainpage = "NecroMerger"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "NecroMerger Wiki"
+host = "wiki.gg"
+url = "necromerger.wiki.gg"
+platform = "mediawiki"
+icon = "necromergerwiki.png"
+mainpage = "NecroMerger_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Tiny Rogues Fandom Wiki"
-destination = "Tiny Rogues Wiki"
-destination_base_url = "roguepedia.net"
-destination_platform = "mediawiki"
-destination_icon = "tinyrogueswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/w/"
+name = "Tiny Rogues"
+icon = "tinyrogueswiki.png"
 
-[[en.origins]]
-origin = "Tiny Rogues Fandom Wiki"
-origin_base_url = "tiny-rogues.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Tiny_Rogues_Wiki"
+[[en.origin]]
+name = "Tiny Rogues Fandom Wiki"
+url = "tiny-rogues.fandom.com"
+mainpage = "Tiny_Rogues_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tiny Rogues Wiki"
+url = "roguepedia.net"
+platform = "mediawiki"
+icon = "tinyrogueswiki.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/w/"

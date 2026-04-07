@@ -1,15 +1,18 @@
 [en]
-origins_label = "Rhythm Heaven Fandom Wiki"
-destination = "Rhythm Heaven Wiki"
-destination_base_url = "rhwiki.net"
-destination_platform = "mediawiki"
-destination_icon = "rhythmheavenwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Rhythm Heaven"
+icon = "rhythmheavenwiki.png"
 
-[[en.origins]]
-origin = "Rhythm Heaven Fandom Wiki"
-origin_base_url = "rhythmheaven.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Home"
+[[en.origin]]
+name = "Rhythm Heaven Fandom Wiki"
+url = "rhythmheaven.fandom.com"
+mainpage = "Home"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Rhythm Heaven Wiki"
+url = "rhwiki.net"
+platform = "mediawiki"
+icon = "rhythmheavenwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

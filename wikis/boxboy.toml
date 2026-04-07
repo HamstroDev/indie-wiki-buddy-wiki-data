@@ -1,15 +1,18 @@
 [en]
-origins_label = "BOXBOY! Fandom Wiki"
-destination = "BOXBOY WIKI!"
-destination_base_url = "boxboy.wiki"
-destination_platform = "mediawiki"
-destination_icon = "boxboywiki.png"
-destination_main_page = "BOXBOY_WIKI!"
-destination_search_path = "/mw/index.php"
-destination_content_path = "/w/"
+name = "BOXBOY!"
+icon = "boxboywiki.png"
 
-[[en.origins]]
-origin = "BOXBOY! Fandom Wiki"
-origin_base_url = "boxboy.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "BOXBOY_WIKI!"
+[[en.origin]]
+name = "BOXBOY! Fandom Wiki"
+url = "boxboy.fandom.com"
+mainpage = "BOXBOY_WIKI!"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "BOXBOY WIKI!"
+url = "boxboy.wiki"
+platform = "mediawiki"
+icon = "boxboywiki.png"
+mainpage = "BOXBOY_WIKI!"
+search-path = "/mw/index.php"
+content-path = "/w/"

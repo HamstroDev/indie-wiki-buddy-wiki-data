@@ -1,18 +1,21 @@
 [en]
-origins_label = "Project Zomboid Fandom Wiki"
-destination = "Project Zomboid Wiki"
-destination_base_url = "pzwiki.net"
-destination_platform = "mediawiki"
-destination_icon = "pzwiki.png"
-destination_main_page = "Project_Zomboid_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Project Zomboid"
+icon = "pzwiki.png"
+
+[[en.origin]]
+name = "Project Zomboid Fandom Wiki"
+url = "projectzomboid.fandom.com"
+mainpage = "Project_Zomboid_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Project Zomboid Wiki"
+url = "pzwiki.net"
+platform = "mediawiki"
+icon = "pzwiki.png"
+mainpage = "Project_Zomboid_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Project Zomboid Fandom Wiki"
-origin_base_url = "projectzomboid.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Project_Zomboid_Wiki"

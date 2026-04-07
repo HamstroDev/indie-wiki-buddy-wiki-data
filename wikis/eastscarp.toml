@@ -1,16 +1,19 @@
 [en]
-origins_label = "East Scarp Fandom Wiki"
-destination = "East Scarp Wiki"
-destination_base_url = "eastscarp.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "eastscarpwiki.png"
-destination_main_page = "East_Scarp_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "East Scarp"
+icon = "eastscarpwiki.png"
 
-[[en.origins]]
-origin = "East Scarp Fandom Wiki"
-origin_base_url = "eastscarp.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "East_Scarp_Wiki"
+[[en.origin]]
+name = "East Scarp Fandom Wiki"
+url = "eastscarp.fandom.com"
+mainpage = "East_Scarp_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "East Scarp Wiki"
+host = "wiki.gg"
+url = "eastscarp.wiki.gg"
+platform = "mediawiki"
+icon = "eastscarpwiki.png"
+mainpage = "East_Scarp_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

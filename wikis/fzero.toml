@@ -1,21 +1,24 @@
 [en]
-origins_label = "F-Zero Fandom & Neoseeker Wikis"
-destination = "F-Zero Wiki"
-destination_base_url = "mutecity.org"
-destination_platform = "mediawiki"
-destination_icon = "fzero.png"
-destination_main_page = "F-Zero_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "F-Zero"
+icon = "fzero.png"
 
-[[en.origins]]
-origin = "F-Zero Fandom Wiki"
-origin_base_url = "fzero.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "F-Zero Fandom Wiki"
+url = "fzero.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "F-Zero Wiki - Neoseeker"
-origin_base_url = "fzero.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "F-Zero Wiki - Neoseeker"
+url = "fzero.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "F-Zero Wiki"
+url = "mutecity.org"
+platform = "mediawiki"
+icon = "fzero.png"
+mainpage = "F-Zero_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

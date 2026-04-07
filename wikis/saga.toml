@@ -1,15 +1,18 @@
 [en]
-origins_label = "SaGa Fandom Wiki"
-destination = "SaGa Wiki"
-destination_base_url = "sagawiki.org"
-destination_platform = "mediawiki"
-destination_icon = "sagawiki.png"
-destination_main_page = "SaGa_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "SaGa"
+icon = "sagawiki.png"
 
-[[en.origins]]
-origin = "SaGa Fandom Wiki"
-origin_base_url = "saga.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "SaGa_Wiki"
+[[en.origin]]
+name = "SaGa Fandom Wiki"
+url = "saga.fandom.com"
+mainpage = "SaGa_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SaGa Wiki"
+url = "sagawiki.org"
+platform = "mediawiki"
+icon = "sagawiki.png"
+mainpage = "SaGa_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

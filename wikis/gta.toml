@@ -1,15 +1,18 @@
 [en]
-origins_label = "GTA Fandom Wiki"
-destination = "GTA Wiki"
-destination_base_url = "gta.wiki"
-destination_platform = "mediawiki"
-destination_icon = "gtawiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "GTA"
+icon = "gtawiki.png"
 
-[[en.origins]]
-origin = "GTA Fandom Wiki"
-origin_base_url = "gta.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "GTA Fandom Wiki"
+url = "gta.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "GTA Wiki"
+url = "gta.wiki"
+platform = "mediawiki"
+icon = "gtawiki.png"
+mainpage = "Main_Page"
+search-path = "/"
+content-path = "/w/"

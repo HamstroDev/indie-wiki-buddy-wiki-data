@@ -1,46 +1,49 @@
 [en]
-origins_label = "Falcom Fandom Wikis"
-destination = "Falcom Wiki"
-destination_base_url = "falcom.wiki"
-destination_platform = "mediawiki"
-destination_icon = "falcomwiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Main_Page"
-destination_host = "Miraheze"
+name = "Falcom"
+icon = "falcomwiki.png"
 
-[[en.origins]]
-origin = "Kiseki Fandom Wiki"
-origin_base_url = "kiseki.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = ""
+[[en.origin]]
+name = "Kiseki Fandom Wiki"
+url = "kiseki.fandom.com"
+mainpage = ""
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Ys Fandom Wiki"
-origin_base_url = "isu.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Ys_Wiki"
+[[en.origin]]
+name = "Ys Fandom Wiki"
+url = "isu.fandom.com"
+mainpage = "Ys_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Tokyo Xanadu Fandom Wiki"
-origin_base_url = "tokyoxanadu.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Tokyo_Xanadu_Wikia"
+[[en.origin]]
+name = "Tokyo Xanadu Fandom Wiki"
+url = "tokyoxanadu.fandom.com"
+mainpage = "Tokyo_Xanadu_Wikia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Gagharv Fandom Wiki"
-origin_base_url = "gagharv.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gagharv_Wiki"
+[[en.origin]]
+name = "Gagharv Fandom Wiki"
+url = "gagharv.fandom.com"
+mainpage = "Gagharv_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Falcomverse Fandom Wiki"
-origin_base_url = "nihon-falcom.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Legend_Of_Heroes"
+[[en.origin]]
+name = "Falcomverse Fandom Wiki"
+url = "nihon-falcom.fandom.com"
+mainpage = "The_Legend_Of_Heroes"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Gurumin Fandom Wiki"
-origin_base_url = "gurumin.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gurumin_Wiki"
+[[en.origin]]
+name = "Gurumin Fandom Wiki"
+url = "gurumin.fandom.com"
+mainpage = "Gurumin_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Falcom Wiki"
+host = "Miraheze"
+url = "falcom.wiki"
+platform = "mediawiki"
+icon = "falcomwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

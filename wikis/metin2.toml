@@ -1,18 +1,21 @@
 [fr]
-origins_label = "Metin2 Fandom Wiki"
-destination = "Metin2 Wiki"
-destination_base_url = "fr-wiki.metin2.gameforge.com"
-destination_platform = "mediawiki"
-destination_icon = "metin2wiki.png"
-destination_main_page = "Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Metin2"
+icon = "metin2wiki.png"
+
+[[fr.origin]]
+name = "Metin2 Fandom Wiki"
+url = "metin2.fandom.com/fr"
+mainpage = "Accueil"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Metin2 Wiki"
+url = "fr-wiki.metin2.gameforge.com"
+platform = "mediawiki"
+icon = "metin2wiki.png"
+mainpage = "Accueil"
+search-path = "/index.php"
+content-path = "/index.php/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "Metin2 Fandom Wiki"
-origin_base_url = "metin2.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Accueil"

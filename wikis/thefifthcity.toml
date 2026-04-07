@@ -1,15 +1,18 @@
 [en]
-origins_label = "The Fifth City Fandom Wiki"
-destination = "The Fifth City Wiki"
-destination_base_url = "thefifthcity.wiki"
-destination_platform = "mediawiki"
-destination_icon = "thefifthcitywiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "The_Fifth_City:_the_Neath's_Lore_Wiki"
+name = "The Fifth City"
+icon = "thefifthcitywiki.png"
 
-[[en.origins]]
-origin = "The Fifth City Fandom Wiki"
-origin_base_url = "thefifthcity.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Fifth_City:_the_Neath's_Lore_Wiki"
+[[en.origin]]
+name = "The Fifth City Fandom Wiki"
+url = "thefifthcity.fandom.com"
+mainpage = "The_Fifth_City:_the_Neath's_Lore_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Fifth City Wiki"
+url = "thefifthcity.wiki"
+platform = "mediawiki"
+icon = "thefifthcitywiki.png"
+mainpage = "The_Fifth_City:_the_Neath's_Lore_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

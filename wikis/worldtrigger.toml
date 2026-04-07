@@ -1,16 +1,19 @@
 [en]
-origins_label = "World Trigger Fandom Wiki"
-destination = "World Trigger Wiki"
-destination_base_url = "worldtriggerwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "worldtrigger.png"
-destination_main_page = "Welcome_to_the_World_Trigger_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "World Trigger"
+icon = "worldtrigger.png"
 
-[[en.origins]]
-origin = "World Trigger Fandom Wiki"
-origin_base_url = "worldtrigger.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "World Trigger Fandom Wiki"
+url = "worldtrigger.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "World Trigger Wiki"
+host = "Miraheze"
+url = "worldtriggerwiki.com"
+platform = "mediawiki"
+icon = "worldtrigger.png"
+mainpage = "Welcome_to_the_World_Trigger_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

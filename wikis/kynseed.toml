@@ -1,18 +1,21 @@
 [en]
-origins_label = "Kynseed Fandom Wiki"
-destination = "Kynseed Wiki"
-destination_base_url = "wiki.kynseed.com"
-destination_platform = "mediawiki"
-destination_icon = "kynseedwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Kynseed"
+icon = "kynseedwiki.png"
+
+[[en.origin]]
+name = "Kynseed Fandom Wiki"
+url = "kynseed.fandom.com"
+mainpage = "Kynseed_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Kynseed Wiki"
+url = "wiki.kynseed.com"
+platform = "mediawiki"
+icon = "kynseedwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Kynseed Fandom Wiki"
-origin_base_url = "kynseed.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Kynseed_Wiki"

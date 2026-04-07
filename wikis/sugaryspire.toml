@@ -1,19 +1,22 @@
 [en]
-origins_label = "Sugary Spire Fandom Wiki"
-destination = "Sugary Spire Wiki"
-destination_base_url = "sugaryspire.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "sugaryspirewiki.png"
-destination_main_page = "Sugary_Spire_Wiki:Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Sugary Spire"
+icon = "sugaryspirewiki.png"
+
+[[en.origin]]
+name = "Sugary Spire Fandom Wiki"
+url = "sugary-spire.fandom.com"
+mainpage = "Sugary_Spire_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sugary Spire Wiki"
+host = "wiki.gg"
+url = "sugaryspire.wiki.gg"
+platform = "mediawiki"
+icon = "sugaryspirewiki.png"
+mainpage = "Sugary_Spire_Wiki:Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Sugary Spire Fandom Wiki"
-origin_base_url = "sugary-spire.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sugary_Spire_Wiki"

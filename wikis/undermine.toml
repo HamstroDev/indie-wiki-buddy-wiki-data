@@ -1,19 +1,22 @@
 [en]
-origins_label = "UnderMine Fandom Wiki"
-destination = "UnderMine Wiki"
-destination_base_url = "undermine.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "underminewiki.png"
-destination_main_page = "UnderMine_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "UnderMine"
+icon = "underminewiki.png"
+
+[[en.origin]]
+name = "UnderMine Fandom Wiki"
+url = "undermine.fandom.com"
+mainpage = "UnderMine_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "UnderMine Wiki"
+host = "wiki.gg"
+url = "undermine.wiki.gg"
+platform = "mediawiki"
+icon = "underminewiki.png"
+mainpage = "UnderMine_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "UnderMine Fandom Wiki"
-origin_base_url = "undermine.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "UnderMine_Wiki"

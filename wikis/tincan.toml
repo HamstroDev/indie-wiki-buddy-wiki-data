@@ -1,19 +1,22 @@
 [en]
-origins_label = "Tin Can Fandom Wiki"
-destination = "Tin Can Wiki"
-destination_base_url = "tincan.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "tincanwiki.png"
-destination_main_page = "Tin_Can_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Tin Can"
+icon = "tincanwiki.png"
+
+[[en.origin]]
+name = "Tin Can Fandom Wiki"
+url = "tincan.fandom.com"
+mainpage = "Tin_Can_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tin Can Wiki"
+host = "wiki.gg"
+url = "tincan.wiki.gg"
+platform = "mediawiki"
+icon = "tincanwiki.png"
+mainpage = "Tin_Can_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Tin Can Fandom Wiki"
-origin_base_url = "tincan.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Tin_Can_Wiki"

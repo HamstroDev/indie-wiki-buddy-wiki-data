@@ -1,15 +1,18 @@
 [en]
-origins_label = "MCC Island Fandom Wiki"
-destination = "MCC Island Wiki"
-destination_base_url = "mccisland.wiki"
-destination_platform = "mediawiki"
-destination_icon = "mcciwiki.png"
-destination_main_page = "Home"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "MCC Island"
+icon = "mcciwiki.png"
 
-[[en.origins]]
-origin = "MCC Island Fandom Wiki"
-origin_base_url = "mccisland.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "MCC_Island_Wiki"
+[[en.origin]]
+name = "MCC Island Fandom Wiki"
+url = "mccisland.fandom.com"
+mainpage = "MCC_Island_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MCC Island Wiki"
+url = "mccisland.wiki"
+platform = "mediawiki"
+icon = "mcciwiki.png"
+mainpage = "Home"
+search-path = "/index.php"
+content-path = "/"

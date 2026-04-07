@@ -1,16 +1,19 @@
 [en]
-origins_label = "Shadows Over Loathing Fandom Wiki"
-destination = "Wiki of Loathing"
-destination_base_url = "loathing.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "wikiofloathing.png"
-destination_main_page = "Wiki_of_Loathing"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Shadows Over Loathing"
+icon = "wikiofloathing.png"
 
-[[en.origins]]
-origin = "Shadows Over Loathing Fandom Wiki"
-origin_base_url = "shadowsoverloathing.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Shadows_Over_Loathing_Wiki"
+[[en.origin]]
+name = "Shadows Over Loathing Fandom Wiki"
+url = "shadowsoverloathing.fandom.com"
+mainpage = "Shadows_Over_Loathing_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wiki of Loathing"
+host = "wiki.gg"
+url = "loathing.wiki.gg"
+platform = "mediawiki"
+icon = "wikiofloathing.png"
+mainpage = "Wiki_of_Loathing"
+search-path = "/index.php"
+content-path = "/wiki/"

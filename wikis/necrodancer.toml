@@ -1,16 +1,19 @@
 [en]
-origins_label = "Crypt of the NecroDancer Fandom Wiki"
-destination = "Crypt of the NecroDancer Wiki"
-destination_base_url = "necrodancer.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "cryptofthenecrodancerwiki.png"
-destination_main_page = "NecroDancer_Wiki:About"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Crypt of the NecroDancer"
+icon = "cryptofthenecrodancerwiki.png"
 
-[[en.origins]]
-origin = "Crypt of the NecroDancer Fandom Wiki"
-origin_base_url = "crypt-of-the-necrodancer.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Crypt_of_the_NecroDancer_Wiki"
+[[en.origin]]
+name = "Crypt of the NecroDancer Fandom Wiki"
+url = "crypt-of-the-necrodancer.fandom.com"
+mainpage = "Crypt_of_the_NecroDancer_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Crypt of the NecroDancer Wiki"
+host = "Miraheze"
+url = "necrodancer.miraheze.org"
+platform = "mediawiki"
+icon = "cryptofthenecrodancerwiki.png"
+mainpage = "NecroDancer_Wiki:About"
+search-path = "/w/index.php"
+content-path = "/wiki/"

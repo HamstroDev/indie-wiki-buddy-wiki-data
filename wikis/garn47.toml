@@ -1,16 +1,19 @@
 [en]
-origins_label = "Garn47 Fandom Wiki"
-destination = "Garn47 Wiki"
-destination_base_url = "garn47.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "garn47wiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Garn47"
+icon = "garn47wiki.png"
 
-[[en.origins]]
-origin = "Garn47 Fandom Wiki"
-origin_base_url = "garn47.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Garn47_Wiki"
+[[en.origin]]
+name = "Garn47 Fandom Wiki"
+url = "garn47.fandom.com"
+mainpage = "Garn47_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Garn47 Wiki"
+host = "Miraheze"
+url = "garn47.miraheze.org"
+platform = "mediawiki"
+icon = "garn47wiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

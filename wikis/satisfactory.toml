@@ -1,39 +1,45 @@
 [en]
-origins_label = "Satisfactory Fandom Wiki"
-destination = "Satisfactory Wiki"
-destination_base_url = "satisfactory.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "satisfactorywiki.png"
-destination_main_page = "Satisfactory_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Satisfactory"
+icon = "satisfactorywiki.png"
+
+[[en.origin]]
+name = "Satisfactory Fandom Wiki"
+url = "satisfactory.fandom.com"
+mainpage = "Satisfactory_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Satisfactory Wiki"
+host = "wiki.gg"
+url = "satisfactory.wiki.gg"
+platform = "mediawiki"
+icon = "satisfactorywiki.png"
+mainpage = "Satisfactory_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Satisfactory Fandom Wiki"
-origin_base_url = "satisfactory.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Satisfactory_Wiki"
 
 [fr]
-origins_label = "Satisfactory Fandom Wiki"
-destination = "Satisfactory Wiki"
-destination_base_url = "satisfactory.wiki.gg/fr"
-destination_platform = "mediawiki"
-destination_icon = "satisfactorywiki.png"
-destination_main_page = "Satisfactory_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Satisfactory"
+icon = "satisfactorywiki.png"
+
+[[fr.origin]]
+name = "Satisfactory Fandom Wiki"
+url = "satisfactory.fandom.com/fr"
+mainpage = "Satisfactory_Wiki"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Satisfactory Wiki"
+host = "wiki.gg"
+url = "satisfactory.wiki.gg/fr"
+platform = "mediawiki"
+icon = "satisfactorywiki.png"
+mainpage = "Satisfactory_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "Satisfactory Fandom Wiki"
-origin_base_url = "satisfactory.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Satisfactory_Wiki"

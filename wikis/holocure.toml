@@ -1,16 +1,19 @@
 [en]
-origins_label = "HoloCure Fandom Wiki"
-destination = "HoloCure Wiki"
-destination_base_url = "holocure.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "holocurewiki.png"
-destination_main_page = "HoloCure_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "HoloCure"
+icon = "holocurewiki.png"
 
-[[en.origins]]
-origin = "HoloCure Fandom Wiki"
-origin_base_url = "holocure.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "HoloCure_Wiki"
+[[en.origin]]
+name = "HoloCure Fandom Wiki"
+url = "holocure.fandom.com"
+mainpage = "HoloCure_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "HoloCure Wiki"
+host = "wiki.gg"
+url = "holocure.wiki.gg"
+platform = "mediawiki"
+icon = "holocurewiki.png"
+mainpage = "HoloCure_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Uta no Prince-sama Fandom Wiki"
-destination = "Uta no Prince-sama Wiki"
-destination_base_url = "utanoprincesama.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "utanoprincesama.png"
-destination_main_page = "Uta_no_Prince-sama_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Uta no Prince-sama"
+icon = "utanoprincesama.png"
 
-[[en.origins]]
-origin = "Uta no Prince-sama Fandom Wiki"
-origin_base_url = "utanoprincesama.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Uta_no_Prince-sama_Wiki"
+[[en.origin]]
+name = "Uta no Prince-sama Fandom Wiki"
+url = "utanoprincesama.fandom.com"
+mainpage = "Uta_no_Prince-sama_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Uta no Prince-sama Wiki"
+host = "Miraheze"
+url = "utanoprincesama.miraheze.org"
+platform = "mediawiki"
+icon = "utanoprincesama.png"
+mainpage = "Uta_no_Prince-sama_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

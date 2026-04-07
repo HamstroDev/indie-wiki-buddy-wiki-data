@@ -1,16 +1,18 @@
 [en]
-origins_label = "Braingirl Fandom Wiki"
-destination = "Braingirl Wiki"
-destination_base_url = "yume.wiki"
-destination_content_prefix = "Braingirl:"
-destination_platform = "mediawiki"
-destination_icon = "braingirlwiki.png"
-destination_main_page = "Braingirl_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Braingirl"
+icon = "braingirlwiki.png"
 
-[[en.origins]]
-origin = "Braingirl Fandom Wiki"
-origin_base_url = "braingirl.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Braingirl_Wiki"
+[[en.origin]]
+name = "Braingirl Fandom Wiki"
+url = "braingirl.fandom.com"
+mainpage = "Braingirl_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Braingirl Wiki"
+url = "yume.wiki"
+platform = "mediawiki"
+icon = "braingirlwiki.png"
+mainpage = "Braingirl_Wiki"
+search-path = "/index.php"
+content-path = "/"

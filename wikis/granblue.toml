@@ -1,15 +1,18 @@
 [en]
-origins_label = "Granblue Fantasy Fandom Wiki"
-destination = "Granblue Wiki"
-destination_base_url = "gbf.wiki"
-destination_platform = "mediawiki"
-destination_icon = "granblue.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Granblue Fantasy"
+icon = "granblue.png"
 
-[[en.origins]]
-origin = "Granblue Fantasy Fandom Wiki"
-origin_base_url = "granblue.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Granblue_Fantasy_Wiki"
+[[en.origin]]
+name = "Granblue Fantasy Fandom Wiki"
+url = "granblue.fandom.com"
+mainpage = "Granblue_Fantasy_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Granblue Wiki"
+url = "gbf.wiki"
+platform = "mediawiki"
+icon = "granblue.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

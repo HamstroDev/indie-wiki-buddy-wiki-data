@@ -1,19 +1,22 @@
 [en]
-origins_label = "7 Days to Die Fandom Wiki"
-destination = "7 Days to Die Wiki"
-destination_base_url = "7daystodie.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "7daystodiewiki.png"
-destination_main_page = "7_Days_to_Die_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "7 Days to Die"
+icon = "7daystodiewiki.png"
+
+[[en.origin]]
+name = "7 Days to Die Fandom Wiki"
+url = "7daystodie.fandom.com"
+mainpage = "7_Days_to_Die_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "7 Days to Die Wiki"
+host = "wiki.gg"
+url = "7daystodie.wiki.gg"
+platform = "mediawiki"
+icon = "7daystodiewiki.png"
+mainpage = "7_Days_to_Die_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "7 Days to Die Fandom Wiki"
-origin_base_url = "7daystodie.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "7_Days_to_Die_Wiki"

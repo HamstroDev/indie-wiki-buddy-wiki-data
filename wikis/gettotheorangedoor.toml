@@ -1,16 +1,19 @@
 [en]
-origins_label = "Get To The Orange Door Fandom Wiki"
-destination = "GTTOD Wiki"
-destination_base_url = "gttod.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "gttodwiki.png"
-destination_main_page = "Get_To_The_Orange_Door_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Get To The Orange Door"
+icon = "gttodwiki.png"
 
-[[en.origins]]
-origin = "Get To The Orange Door Fandom Wiki"
-origin_base_url = "gttod.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Get_To_The_Orange_Door_Wiki"
+[[en.origin]]
+name = "Get To The Orange Door Fandom Wiki"
+url = "gttod.fandom.com"
+mainpage = "Get_To_The_Orange_Door_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "GTTOD Wiki"
+host = "wiki.gg"
+url = "gttod.wiki.gg"
+platform = "mediawiki"
+icon = "gttodwiki.png"
+mainpage = "Get_To_The_Orange_Door_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

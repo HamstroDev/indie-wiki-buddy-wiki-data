@@ -1,15 +1,18 @@
 [en]
-origins_label = "Madoka Magica Fandom Wiki"
-destination = "Puella Magi Wiki"
-destination_base_url = "wiki.puella-magi.net"
-destination_platform = "mediawiki"
-destination_icon = "puellamagi.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
+name = "Madoka Magica"
+icon = "puellamagi.png"
 
-[[en.origins]]
-origin = "Madoka Magica Fandom Wiki"
-origin_base_url = "madoka.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Madoka_Magica_Wiki"
+[[en.origin]]
+name = "Madoka Magica Fandom Wiki"
+url = "madoka.fandom.com"
+mainpage = "Madoka_Magica_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Puella Magi Wiki"
+url = "wiki.puella-magi.net"
+platform = "mediawiki"
+icon = "puellamagi.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/"

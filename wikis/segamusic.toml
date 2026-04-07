@@ -1,33 +1,36 @@
 [en]
-origins_label = "Sega Music Fandom Wikis"
-destination = "SilentBlue RemyWiki"
-destination_base_url = "silentblue.remywiki.com"
-destination_platform = "mediawiki"
-destination_icon = "silentblueremywiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Sega Music"
+icon = "silentblueremywiki.png"
 
-[[en.origins]]
-origin = "Chunithm Fandom Wiki"
-origin_base_url = "chunithm.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Chunithm Fandom Wiki"
+url = "chunithm.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Maimai International Fandom Wiki"
-origin_base_url = "maimai-intl.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Maimai_(International_Version)_Wiki"
+[[en.origin]]
+name = "Maimai International Fandom Wiki"
+url = "maimai-intl.fandom.com"
+mainpage = "Maimai_(International_Version)_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "maimai International Fandom Wiki"
-origin_base_url = "maimaieng.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Maimai_International_Wiki"
+[[en.origin]]
+name = "maimai International Fandom Wiki"
+url = "maimaieng.fandom.com"
+mainpage = "Maimai_International_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "O.N.G.E.K.I. Fandom Wiki"
-origin_base_url = "ongeki.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "O.N.G.E.K.I._Wiki"
+[[en.origin]]
+name = "O.N.G.E.K.I. Fandom Wiki"
+url = "ongeki.fandom.com"
+mainpage = "O.N.G.E.K.I._Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SilentBlue RemyWiki"
+url = "silentblue.remywiki.com"
+platform = "mediawiki"
+icon = "silentblueremywiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

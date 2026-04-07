@@ -1,16 +1,19 @@
 [en]
-origins_label = "Rogue Legacy Fandom Wiki"
-destination = "Rogue Legacy Wiki"
-destination_base_url = "roguelegacy.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "roguelegacywiki.png"
-destination_main_page = "Rogue_Legacy_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Rogue Legacy"
+icon = "roguelegacywiki.png"
 
-[[en.origins]]
-origin = "Rogue Legacy Fandom Wiki"
-origin_base_url = "rogue-legacy.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Rogue_Legacy_Wiki"
+[[en.origin]]
+name = "Rogue Legacy Fandom Wiki"
+url = "rogue-legacy.fandom.com"
+mainpage = "Rogue_Legacy_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Rogue Legacy Wiki"
+host = "wiki.gg"
+url = "roguelegacy.wiki.gg"
+platform = "mediawiki"
+icon = "roguelegacywiki.png"
+mainpage = "Rogue_Legacy_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

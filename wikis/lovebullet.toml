@@ -1,16 +1,19 @@
 [en]
-origins_label = "LOVE-BULLET Fandom Wiki"
-destination = "LOVE-BULLET Wiki"
-destination_base_url = "lovebullet.wiki"
-destination_platform = "mediawiki"
-destination_icon = "lovebullet.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "LOVE-BULLET"
+icon = "lovebullet.png"
 
-[[en.origins]]
-origin = "LOVE-BULLET Fandom Wiki"
-origin_base_url = "love-bullet.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "LOVE-BULLET_Wiki"
+[[en.origin]]
+name = "LOVE-BULLET Fandom Wiki"
+url = "love-bullet.fandom.com"
+mainpage = "LOVE-BULLET_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "LOVE-BULLET Wiki"
+host = "Miraheze"
+url = "lovebullet.wiki"
+platform = "mediawiki"
+icon = "lovebullet.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

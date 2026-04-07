@@ -1,15 +1,18 @@
 [en]
-origins_label = "Sega Fandom Wiki"
-destination = "Sega Retro"
-destination_base_url = "segaretro.org"
-destination_platform = "mediawiki"
-destination_icon = "segaretro.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Sega"
+icon = "segaretro.png"
 
-[[en.origins]]
-origin = "Sega Fandom Wiki"
-origin_base_url = "sega.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sega_Wiki"
+[[en.origin]]
+name = "Sega Fandom Wiki"
+url = "sega.fandom.com"
+mainpage = "Sega_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sega Retro"
+url = "segaretro.org"
+platform = "mediawiki"
+icon = "segaretro.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

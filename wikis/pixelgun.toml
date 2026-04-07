@@ -1,16 +1,19 @@
 [en]
-origins_label = "Pixel Gun Fandom Wiki"
-destination = "Pixel Gun 3D Wiki"
-destination_base_url = "pg3d.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "pixelgun3dwiki.png"
-destination_main_page = "Pixel_Gun_3D_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Pixel Gun"
+icon = "pixelgun3dwiki.png"
 
-[[en.origins]]
-origin = "Pixel Gun Fandom Wiki"
-origin_base_url = "pixelgun.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pixel_Gun_Wiki"
+[[en.origin]]
+name = "Pixel Gun Fandom Wiki"
+url = "pixelgun.fandom.com"
+mainpage = "Pixel_Gun_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Pixel Gun 3D Wiki"
+host = "wiki.gg"
+url = "pg3d.wiki.gg"
+platform = "mediawiki"
+icon = "pixelgun3dwiki.png"
+mainpage = "Pixel_Gun_3D_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

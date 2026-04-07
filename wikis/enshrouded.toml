@@ -1,16 +1,19 @@
 [en]
-origins_label = "Enshrouded Fandom Wiki"
-destination = "Enshrouded Wiki"
-destination_base_url = "enshrouded.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "enshroudedwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Enshrouded"
+icon = "enshroudedwiki.png"
 
-[[en.origins]]
-origin = "Enshrouded Fandom Wiki"
-origin_base_url = "enshrouded.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Enshrouded_Wiki"
+[[en.origin]]
+name = "Enshrouded Fandom Wiki"
+url = "enshrouded.fandom.com"
+mainpage = "Enshrouded_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Enshrouded Wiki"
+host = "wiki.gg"
+url = "enshrouded.wiki.gg"
+platform = "mediawiki"
+icon = "enshroudedwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

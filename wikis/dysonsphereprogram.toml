@@ -1,15 +1,18 @@
 [en]
-origins_label = "Dyson Sphere Program Fandom Wiki"
-destination = "Dyson Sphere Program Wiki"
-destination_base_url = "dsp-wiki.com"
-destination_platform = "mediawiki"
-destination_icon = "dspwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Dyson Sphere Program"
+icon = "dspwiki.png"
 
-[[en.origins]]
-origin = "Dyson Sphere Program Fandom Wiki"
-origin_base_url = "dyson-sphere-program.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dyson_Sphere_Program_Wiki"
+[[en.origin]]
+name = "Dyson Sphere Program Fandom Wiki"
+url = "dyson-sphere-program.fandom.com"
+mainpage = "Dyson_Sphere_Program_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dyson Sphere Program Wiki"
+url = "dsp-wiki.com"
+platform = "mediawiki"
+icon = "dspwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

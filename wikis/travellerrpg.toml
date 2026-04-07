@@ -1,15 +1,18 @@
 [en]
-origins_label = "Traveller RPG Fandom Wiki"
-destination = "Traveller RPG Wiki"
-destination_base_url = "wiki.travellerrpg.com"
-destination_platform = "mediawiki"
-destination_icon = "travellerwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Traveller RPG"
+icon = "travellerwiki.png"
 
-[[en.origins]]
-origin = "Traveller RPG Fandom Wiki"
-origin_base_url = "traveller-rpg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Traveller_RPG_Wiki"
+[[en.origin]]
+name = "Traveller RPG Fandom Wiki"
+url = "traveller-rpg.fandom.com"
+mainpage = "Traveller_RPG_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Traveller RPG Wiki"
+url = "wiki.travellerrpg.com"
+platform = "mediawiki"
+icon = "travellerwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

@@ -1,78 +1,87 @@
 [es]
-origins_label = "Team Fortress Fandom Wiki"
-destination = "Team Fortress Wiki"
-destination_base_url = "wiki.teamfortress.com"
-destination_content_suffix = "/es"
-destination_platform = "mediawiki"
-destination_icon = "teamfortress.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Team Fortress"
+icon = "teamfortress.png"
+
+[[es.origin]]
+name = "Team Fortress Fandom Wiki"
+url = "team-fortress.fandom.com/es"
+mainpage = "Wiki_Team_Fortress"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Team Fortress Wiki"
+url = "wiki.teamfortress.com"
+platform = "mediawiki"
+icon = "teamfortress.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[es.origins]]
-origin = "Team Fortress Fandom Wiki"
-origin_base_url = "team-fortress.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Team_Fortress"
 
 [en]
-origins_label = "Team Fortress Fandom Wiki"
-destination = "Team Fortress Wiki"
-destination_base_url = "wiki.teamfortress.com"
-destination_platform = "mediawiki"
-destination_icon = "teamfortress.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Team Fortress"
+icon = "teamfortress.png"
+
+[[en.origin]]
+name = "Team Fortress Fandom Wiki"
+url = "teamfortress.fandom.com"
+mainpage = "Team_Fortress_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Team Fortress Wiki"
+url = "wiki.teamfortress.com"
+platform = "mediawiki"
+icon = "teamfortress.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Team Fortress Fandom Wiki"
-origin_base_url = "teamfortress.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Team_Fortress_Wiki"
 
 [pt]
-origins_label = "Team Fortress Fandom Wiki"
-destination = "Team Fortress Wiki"
-destination_base_url = "wiki.teamfortress.com"
-destination_content_suffix = "/pt-br"
-destination_platform = "mediawiki"
-destination_icon = "teamfortress.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Team Fortress"
+icon = "teamfortress.png"
+
+[[pt.origin]]
+name = "Team Fortress Fandom Wiki"
+url = "team-fortress.fandom.com/pt-br"
+mainpage = "Página_principal"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Team Fortress Wiki"
+url = "wiki.teamfortress.com"
+platform = "mediawiki"
+icon = "teamfortress.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[pt.origins]]
-origin = "Team Fortress Fandom Wiki"
-origin_base_url = "team-fortress.fandom.com/pt-br"
-origin_content_path = "/wiki/"
-origin_main_page = "Página_principal"
 
 [pl]
-origins_label = "Team Fortress Fandom Wiki"
-destination = "Team Fortress Wiki"
-destination_base_url = "wiki.teamfortress.com"
-destination_content_suffix = "/pl"
-destination_platform = "mediawiki"
-destination_icon = "teamfortress.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Team Fortress"
+icon = "teamfortress.png"
+
+[[pl.origin]]
+name = "Team Fortress Fandom Wiki"
+url = "teamfortress.fandom.com/pl"
+mainpage = "Team_Fortress_Wiki"
+content-path = "/wiki/"
+
+[[pl.destination]]
+name = "Team Fortress Wiki"
+url = "wiki.teamfortress.com"
+platform = "mediawiki"
+icon = "teamfortress.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[pl.origins]]
-origin = "Team Fortress Fandom Wiki"
-origin_base_url = "teamfortress.fandom.com/pl"
-origin_content_path = "/wiki/"
-origin_main_page = "Team_Fortress_Wiki"

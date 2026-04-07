@@ -1,15 +1,18 @@
 [en]
-origins_label = "Japari Library Fandom Wiki"
-destination = "Japari Library"
-destination_base_url = "japari-library.com"
-destination_platform = "mediawiki"
-destination_icon = "japarilibrary.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Japari Library"
+icon = "japarilibrary.png"
 
-[[en.origins]]
-origin = "Japari Library Fandom Wiki"
-origin_base_url = "kemono-friends.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Japari_Library_Wiki"
+[[en.origin]]
+name = "Japari Library Fandom Wiki"
+url = "kemono-friends.fandom.com"
+mainpage = "Japari_Library_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Japari Library"
+url = "japari-library.com"
+platform = "mediawiki"
+icon = "japarilibrary.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

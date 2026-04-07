@@ -1,15 +1,18 @@
 [en]
-origins_label = "Blood 1997 Fandom Wiki"
-destination = "Blood Wiki"
-destination_base_url = "blood-wiki.org"
-destination_platform = "mediawiki"
-destination_icon = "bloodwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "Blood 1997"
+icon = "bloodwiki.png"
 
-[[en.origins]]
-origin = "Blood 1997 Fandom Wiki"
-origin_base_url = "blood-1997.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bloodpedia"
+[[en.origin]]
+name = "Blood 1997 Fandom Wiki"
+url = "blood-1997.fandom.com"
+mainpage = "Bloodpedia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Blood Wiki"
+url = "blood-wiki.org"
+platform = "mediawiki"
+icon = "bloodwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php?title="

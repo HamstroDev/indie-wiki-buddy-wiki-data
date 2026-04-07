@@ -1,16 +1,19 @@
 [en]
-origins_label = "SYNTHETIK Fandom Wiki"
-destination = "SYNTHETIK Universe Wiki"
-destination_base_url = "synthetikuniverse.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "synthetikuniversewiki.png"
-destination_main_page = "SYNTHETIK_Universe_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "SYNTHETIK"
+icon = "synthetikuniversewiki.png"
 
-[[en.origins]]
-origin = "SYNTHETIK Fandom Wiki"
-origin_base_url = "synthetik.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "SYNTHETIK_Wiki"
+[[en.origin]]
+name = "SYNTHETIK Fandom Wiki"
+url = "synthetik.fandom.com"
+mainpage = "SYNTHETIK_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SYNTHETIK Universe Wiki"
+host = "wiki.gg"
+url = "synthetikuniverse.wiki.gg"
+platform = "mediawiki"
+icon = "synthetikuniversewiki.png"
+mainpage = "SYNTHETIK_Universe_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

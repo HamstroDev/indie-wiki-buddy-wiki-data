@@ -1,21 +1,24 @@
 [en]
-origins_label = "Lord of the Rings Fandom & Neoseeker Wikis"
-destination = "Tolkien Gateway"
-destination_base_url = "tolkiengateway.net"
-destination_platform = "mediawiki"
-destination_icon = "tolkiengateway.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Lord of the Rings"
+icon = "tolkiengateway.png"
 
-[[en.origins]]
-origin = "Lord of the Rings Fandom Wiki"
-origin_base_url = "lotr.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Lord of the Rings Fandom Wiki"
+url = "lotr.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Lord of the Rings Wiki - Neoseeker"
-origin_base_url = "lotr.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Lord of the Rings Wiki - Neoseeker"
+url = "lotr.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tolkien Gateway"
+url = "tolkiengateway.net"
+platform = "mediawiki"
+icon = "tolkiengateway.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

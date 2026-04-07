@@ -1,307 +1,347 @@
 [de]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "de.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[de.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[de.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/de"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Minecraft Wiki"
+url = "de.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [ru]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "ru.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Заглавная_страница"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[ru.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "Заглавная_страница"
+[[ru.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/ru"
+mainpage = "Заглавная_страница"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "Minecraft Wiki"
+url = "ru.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Заглавная_страница"
+search-path = "/"
+content-path = "/w/"
 
 [th]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "th.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[th.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/th"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[th.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/th"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[th.destination]]
+name = "Minecraft Wiki"
+url = "th.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [es]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "es.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[es.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[es.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/es"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Minecraft Wiki"
+url = "es.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [en]
-origins_label = "Minecraft Fandom, Fextra, & Neoseeker Wikis"
-destination = "Minecraft Wiki"
-destination_base_url = "minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[en.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[en.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Minecraft Fandom Wiki (Archived)"
-origin_base_url = "minecraft-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[en.origin]]
+name = "Minecraft Fandom Wiki (Archived)"
+url = "minecraft-archive.fandom.com"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "MCPC Fandom Wiki (Archived)"
-origin_base_url = "mcpc.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[en.origin]]
+name = "MCPC Fandom Wiki (Archived)"
+url = "mcpc.fandom.com"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Minecraft Bedrock Fandom Wiki"
-origin_base_url = "minecraftbedrock-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Bedrock_Wiki"
+[[en.origin]]
+name = "Minecraft Bedrock Fandom Wiki"
+url = "minecraftbedrock-archive.fandom.com"
+mainpage = "Minecraft_Bedrock_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Mine-craft Fandom Wiki"
-origin_base_url = "mine-craft.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[en.origin]]
+name = "Mine-craft Fandom Wiki"
+url = "mine-craft.fandom.com"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Minecraft Wiki - Neoseeker"
-origin_base_url = "minecraft.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Minecraft Wiki - Neoseeker"
+url = "minecraft.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Minecraft Dungeons Fextralife Wiki"
-origin_base_url = "minecraftdungeons.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Minecraft Dungeons Wiki"
+[[en.origin]]
+name = "Minecraft Dungeons Fextralife Wiki"
+url = "minecraftdungeons.wiki.fextralife.com"
+mainpage = "Minecraft Dungeons Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Minecraft Dungeons Fandom Wiki"
-origin_base_url = "minecraftdungeons-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft:_Dungeons_Wiki"
+[[en.origin]]
+name = "Minecraft Dungeons Fandom Wiki"
+url = "minecraftdungeons-archive.fandom.com"
+mainpage = "Minecraft:_Dungeons_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "A Minecraft Movie Fandom Wiki"
-origin_base_url = "minecraft-the-movie.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "A_Minecraft_Movie_Wiki"
-destination_content_prefix = "Movie:"
+[[en.origin]]
+name = "A Minecraft Movie Fandom Wiki"
+url = "minecraft-the-movie.fandom.com"
+mainpage = "A_Minecraft_Movie_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "A Minecraft Movie Fandom Wiki"
-origin_base_url = "a-minecraft-movie.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "A_Minecraft_Movie_Wiki"
-destination_content_prefix = "Movie:"
+[[en.origin]]
+name = "A Minecraft Movie Fandom Wiki"
+url = "a-minecraft-movie.fandom.com"
+mainpage = "A_Minecraft_Movie_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Minecraft Wiki"
+url = "minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [pt]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "pt.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[pt.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/pt"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[pt.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/pt"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Minecraft Wiki"
+url = "pt.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [ja]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "ja.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[ja.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/ja"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[ja.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/ja"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[ja.destination]]
+name = "Minecraft Wiki"
+url = "ja.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [it]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "it.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[it.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/it"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[it.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/it"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[it.destination]]
+name = "Minecraft Wiki"
+url = "it.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [lzh]
-origins_label = "礦藝大典"
-destination = "Minecraft Wiki"
-destination_base_url = "lzh.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "礦藝大典"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "礦藝大典"
+icon = "minecraftwiki.png"
+origin = [
+    { name = "礦藝大典", url = "minecraft.fandom.com/lzh", mainpage = "礦藝大典", content-path = "/wiki/" },
+]
 
-[[lzh.origins]]
-origin = "礦藝大典"
-origin_base_url = "minecraft.fandom.com/lzh"
-origin_content_path = "/wiki/"
-origin_main_page = "礦藝大典"
+[[lzh.destination]]
+name = "Minecraft Wiki"
+url = "lzh.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "礦藝大典"
+search-path = "/"
+content-path = "/w/"
 
 [pl]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki Polska"
-destination_base_url = "minewiki.pl"
-destination_platform = "mediawiki"
-destination_icon = "minecraft.png"
-destination_main_page = "Strona_główna"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Minecraft"
+icon = "minecraft.png"
 
-[[pl.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/pl"
-origin_content_path = "/wiki/"
-origin_main_page = "Strona_główna"
+[[pl.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/pl"
+mainpage = "Strona_główna"
+content-path = "/wiki/"
+
+[[pl.destination]]
+name = "Minecraft Wiki Polska"
+url = "minewiki.pl"
+platform = "mediawiki"
+icon = "minecraft.png"
+mainpage = "Strona_główna"
+search-path = "/index.php"
+content-path = "/"
 
 [ko]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "ko.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[ko.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/ko"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[ko.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/ko"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[ko.destination]]
+name = "Minecraft Wiki"
+url = "ko.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [zh]
-origins_label = "Minecraft Fandom Wikis"
-destination = "Minecraft Wiki"
-destination_base_url = "zh.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[zh.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[zh.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/zh"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
 
-[[zh.origins]]
-origin = "Minecraft Fandom Wiki (Archived)"
-origin_base_url = "minecraft-archive.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[zh.origin]]
+name = "Minecraft Fandom Wiki (Archived)"
+url = "minecraft-archive.fandom.com/zh"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Minecraft Wiki"
+url = "zh.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [fr]
-origins_label = "Minecraft Fandom Wikis"
-destination = "Minecraft Wiki"
-destination_base_url = "fr.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[fr.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[fr.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/fr"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
 
-[[fr.origins]]
-origin = "Minecraft Fandom Wiki (Archived)"
-origin_base_url = "minecraft-archive.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Minecraft"
+[[fr.origin]]
+name = "Minecraft Fandom Wiki (Archived)"
+url = "minecraft-archive.fandom.com/fr"
+mainpage = "Wiki_Minecraft"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Minecraft Wiki"
+url = "fr.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [nl]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "nl.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Minecraft_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[nl.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/nl"
-origin_content_path = "/wiki/"
-origin_main_page = "Minecraft_Wiki"
+[[nl.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/nl"
+mainpage = "Minecraft_Wiki"
+content-path = "/wiki/"
+
+[[nl.destination]]
+name = "Minecraft Wiki"
+url = "nl.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Minecraft_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [uk]
-origins_label = "Minecraft Fandom Wiki"
-destination = "Minecraft Wiki"
-destination_base_url = "uk.minecraft.wiki"
-destination_platform = "mediawiki"
-destination_icon = "minecraftwiki.png"
-destination_main_page = "Головна_сторінка"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Minecraft"
+icon = "minecraftwiki.png"
 
-[[uk.origins]]
-origin = "Minecraft Fandom Wiki"
-origin_base_url = "minecraft.fandom.com/uk"
-origin_content_path = "/wiki/"
-origin_main_page = "Головна_сторінка"
+[[uk.origin]]
+name = "Minecraft Fandom Wiki"
+url = "minecraft.fandom.com/uk"
+mainpage = "Головна_сторінка"
+content-path = "/wiki/"
+
+[[uk.destination]]
+name = "Minecraft Wiki"
+url = "uk.minecraft.wiki"
+platform = "mediawiki"
+icon = "minecraftwiki.png"
+mainpage = "Головна_сторінка"
+search-path = "/"
+content-path = "/w/"

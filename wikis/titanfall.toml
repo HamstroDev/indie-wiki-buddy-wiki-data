@@ -1,16 +1,19 @@
 [en]
-origins_label = "Titanfall Fandom Wiki"
-destination = "Titanfall Wiki"
-destination_base_url = "titanfall.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "titanfallwiki.png"
-destination_main_page = "Titanfall_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Titanfall"
+icon = "titanfallwiki.png"
 
-[[en.origins]]
-origin = "Titanfall Fandom Wiki"
-origin_base_url = "titanfall.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Titanfall_Wiki"
+[[en.origin]]
+name = "Titanfall Fandom Wiki"
+url = "titanfall.fandom.com"
+mainpage = "Titanfall_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Titanfall Wiki"
+host = "wiki.gg"
+url = "titanfall.wiki.gg"
+platform = "mediawiki"
+icon = "titanfallwiki.png"
+mainpage = "Titanfall_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

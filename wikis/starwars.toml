@@ -1,32 +1,38 @@
 [tr]
-origins_label = "Star Wars Fandom Wiki"
-destination = "Sithpedi"
-destination_base_url = "starwarsturkiye.com"
-destination_platform = "mediawiki"
-destination_icon = "sithpedi.png"
-destination_main_page = "Anasayfa"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/wiki/"
+name = "Star Wars"
+icon = "sithpedi.png"
 
-[[tr.origins]]
-origin = "Star Wars Fandom Wiki"
-origin_base_url = "starwars.fandom.com/tr"
-origin_content_path = "/wiki/"
-origin_main_page = "Ana_sayfa"
+[[tr.origin]]
+name = "Star Wars Fandom Wiki"
+url = "starwars.fandom.com/tr"
+mainpage = "Ana_sayfa"
+content-path = "/wiki/"
+
+[[tr.destination]]
+name = "Sithpedi"
+url = "starwarsturkiye.com"
+platform = "mediawiki"
+icon = "sithpedi.png"
+mainpage = "Anasayfa"
+search-path = "/wiki/index.php"
+content-path = "/wiki/"
 
 [fi]
-origins_label = "Jedipedia Fandom Wiki"
-destination = "Jedipedia"
-destination_base_url = "www.jedipedia.fi"
-destination_platform = "mediawiki"
-destination_icon = "jedipedia.png"
-destination_main_page = "Etusivu"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "ShoutWiki"
+name = "Jedipedia"
+icon = "jedipedia.png"
 
-[[fi.origins]]
-origin = "Jedipedia Fandom Wiki"
-origin_base_url = "starwars.fandom.com/fi"
-origin_content_path = "/wiki/"
-origin_main_page = "Etusivu"
+[[fi.origin]]
+name = "Jedipedia Fandom Wiki"
+url = "starwars.fandom.com/fi"
+mainpage = "Etusivu"
+content-path = "/wiki/"
+
+[[fi.destination]]
+name = "Jedipedia"
+host = "ShoutWiki"
+url = "www.jedipedia.fi"
+platform = "mediawiki"
+icon = "jedipedia.png"
+mainpage = "Etusivu"
+search-path = "/w/index.php"
+content-path = "/wiki/"

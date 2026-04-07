@@ -1,16 +1,19 @@
 [en]
-origins_label = "My Boo Fandom Wiki"
-destination = "My Boo Wiki"
-destination_base_url = "myboo.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "myboowiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "My Boo"
+icon = "myboowiki.png"
 
-[[en.origins]]
-origin = "My Boo Fandom Wiki"
-origin_base_url = "myboovirtualpet.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Home_Page"
+[[en.origin]]
+name = "My Boo Fandom Wiki"
+url = "myboovirtualpet.fandom.com"
+mainpage = "Home_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "My Boo Wiki"
+host = "Miraheze"
+url = "myboo.miraheze.org"
+platform = "mediawiki"
+icon = "myboowiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

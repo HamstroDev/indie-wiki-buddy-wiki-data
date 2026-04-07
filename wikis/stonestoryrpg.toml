@@ -1,16 +1,19 @@
 [en]
-origins_label = "Stone Story RPG Fandom Wiki"
-destination = "Stone Story RPG Wiki"
-destination_base_url = "stonestoryrpg.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "stonestoryrpgwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Stone Story RPG"
+icon = "stonestoryrpgwiki.png"
 
-[[en.origins]]
-origin = "Stone Story RPG Fandom Wiki"
-origin_base_url = "stone-story-rpg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Stone_Story_RPG_Wiki"
+[[en.origin]]
+name = "Stone Story RPG Fandom Wiki"
+url = "stone-story-rpg.fandom.com"
+mainpage = "Stone_Story_RPG_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Stone Story RPG Wiki"
+host = "Miraheze"
+url = "stonestoryrpg.miraheze.org"
+platform = "mediawiki"
+icon = "stonestoryrpgwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

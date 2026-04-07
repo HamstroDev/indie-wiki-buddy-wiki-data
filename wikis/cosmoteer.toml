@@ -1,16 +1,19 @@
 [en]
-origins_label = "Cosmoteer Fandom Wiki"
-destination = "Cosmoteer Wiki"
-destination_base_url = "cosmoteer.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "cosmoteerwiki.png"
-destination_main_page = "Cosmoteer_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Cosmoteer"
+icon = "cosmoteerwiki.png"
 
-[[en.origins]]
-origin = "Cosmoteer Fandom Wiki"
-origin_base_url = "cosmoteer.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Cosmoteer_Wiki"
+[[en.origin]]
+name = "Cosmoteer Fandom Wiki"
+url = "cosmoteer.fandom.com"
+mainpage = "Cosmoteer_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Cosmoteer Wiki"
+host = "wiki.gg"
+url = "cosmoteer.wiki.gg"
+platform = "mediawiki"
+icon = "cosmoteerwiki.png"
+mainpage = "Cosmoteer_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

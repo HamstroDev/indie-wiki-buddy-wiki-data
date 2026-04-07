@@ -1,16 +1,19 @@
 [fr]
-origins_label = "Gundam Fandom Wiki"
-destination = "Gundam FR Wiki"
-destination_base_url = "gundamfr.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "wikigundamfr.png"
-destination_main_page = "Wiki_Gundam_FR"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Gundam"
+icon = "wikigundamfr.png"
 
-[[fr.origins]]
-origin = "Gundam Fandom Wiki"
-origin_base_url = "gundam.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Gundam"
+[[fr.origin]]
+name = "Gundam Fandom Wiki"
+url = "gundam.fandom.com/fr"
+mainpage = "Wiki_Gundam"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Gundam FR Wiki"
+host = "Miraheze"
+url = "gundamfr.miraheze.org"
+platform = "mediawiki"
+icon = "wikigundamfr.png"
+mainpage = "Wiki_Gundam_FR"
+search-path = "/w/index.php"
+content-path = "/wiki/"

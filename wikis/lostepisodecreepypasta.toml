@@ -1,19 +1,22 @@
 [en]
-origins_label = "Lost Episode Creepypasta Fandom Wiki"
-destination = "Lost Episode Creepypasta Wiki"
-destination_base_url = "lostepisodecreepypasta.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "lostepisodecreepypasta.png"
-destination_main_page = "Lost_Episode_Creepypasta_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Lost Episode Creepypasta"
+icon = "lostepisodecreepypasta.png"
+
+[[en.origin]]
+name = "Lost Episode Creepypasta Fandom Wiki"
+url = "lostepisodecreepypasta.fandom.com"
+mainpage = "Lost_Episode_Creepypasta_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Lost Episode Creepypasta Wiki"
+host = "Miraheze"
+url = "lostepisodecreepypasta.miraheze.org"
+platform = "mediawiki"
+icon = "lostepisodecreepypasta.png"
+mainpage = "Lost_Episode_Creepypasta_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Lost Episode Creepypasta Fandom Wiki"
-origin_base_url = "lostepisodecreepypasta.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Lost_Episode_Creepypasta_Wiki"

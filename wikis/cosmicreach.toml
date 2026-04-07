@@ -1,19 +1,22 @@
 [en]
-origins_label = "Cosmic Reach Fandom Wiki"
-destination = "Cosmic Reach Wiki"
-destination_base_url = "cosmicreach.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "cosmicreachwiki.png"
-destination_main_page = "Cosmic_Reach_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Cosmic Reach"
+icon = "cosmicreachwiki.png"
+
+[[en.origin]]
+name = "Cosmic Reach Fandom Wiki"
+url = "cosmicreach.fandom.com"
+mainpage = "Cosmic_Reach_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Cosmic Reach Wiki"
+host = "wiki.gg"
+url = "cosmicreach.wiki.gg"
+platform = "mediawiki"
+icon = "cosmicreachwiki.png"
+mainpage = "Cosmic_Reach_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Cosmic Reach Fandom Wiki"
-origin_base_url = "cosmicreach.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Cosmic_Reach_Wiki"

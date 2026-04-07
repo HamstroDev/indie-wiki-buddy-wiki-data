@@ -1,33 +1,39 @@
 [en]
-origins_label = "Plants vs. Zombies Fandom Wiki"
-destination = "Plants vs. Zombies Wiki"
-destination_base_url = "plantsvszombies.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "plantsvszombieswiki.png"
-destination_main_page = "Plants_vs._Zombies_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Plants vs. Zombies"
+icon = "plantsvszombieswiki.png"
 
-[[en.origins]]
-origin = "Plants vs. Zombies Fandom Wiki"
-origin_base_url = "plantsvszombies.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Plants vs. Zombies Fandom Wiki"
+url = "plantsvszombies.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Plants vs. Zombies Wiki"
+host = "wiki.gg"
+url = "plantsvszombies.wiki.gg"
+platform = "mediawiki"
+icon = "plantsvszombieswiki.png"
+mainpage = "Plants_vs._Zombies_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [zh]
-origins_label = "Plants vs. Zombies Fandom Wiki"
-destination = "Plants vs. Zombies Wiki"
-destination_base_url = "plantsvszombies.wiki.gg/zh"
-destination_platform = "mediawiki"
-destination_icon = "plantsvszombieswiki.png"
-destination_main_page = "植物大战僵尸百科"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Plants vs. Zombies"
+icon = "plantsvszombieswiki.png"
 
-[[zh.origins]]
-origin = "Plants vs. Zombies Fandom Wiki"
-origin_base_url = "pvz.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "植物大战僵尸百科"
+[[zh.origin]]
+name = "Plants vs. Zombies Fandom Wiki"
+url = "pvz.fandom.com/zh"
+mainpage = "植物大战僵尸百科"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Plants vs. Zombies Wiki"
+host = "wiki.gg"
+url = "plantsvszombies.wiki.gg/zh"
+platform = "mediawiki"
+icon = "plantsvszombieswiki.png"
+mainpage = "植物大战僵尸百科"
+search-path = "/index.php"
+content-path = "/wiki/"

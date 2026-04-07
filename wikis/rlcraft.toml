@@ -1,16 +1,19 @@
 [en]
-origins_label = "RLCraft Fandom Wiki"
-destination = "RLCraft Wiki"
-destination_base_url = "rlcraft.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "rlcraft.png"
-destination_main_page = "RLCraft_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "RLCraft"
+icon = "rlcraft.png"
 
-[[en.origins]]
-origin = "RLCraft Fandom Wiki"
-origin_base_url = "rlcraft.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "RLCraft_Wiki"
+[[en.origin]]
+name = "RLCraft Fandom Wiki"
+url = "rlcraft.fandom.com"
+mainpage = "RLCraft_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "RLCraft Wiki"
+host = "wiki.gg"
+url = "rlcraft.wiki.gg"
+platform = "mediawiki"
+icon = "rlcraft.png"
+mainpage = "RLCraft_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

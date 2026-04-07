@@ -1,19 +1,22 @@
 [en]
-origins_label = "Omega Strikers Fandom Wiki"
-destination = "Omega Strikers Wiki"
-destination_base_url = "omegastrikers.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "omegastrikerswiki.png"
-destination_main_page = "Omega_Strikers_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Omega Strikers"
+icon = "omegastrikerswiki.png"
+
+[[en.origin]]
+name = "Omega Strikers Fandom Wiki"
+url = "omegastrikers.fandom.com"
+mainpage = "Omega_Strikers_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Omega Strikers Wiki"
+host = "wiki.gg"
+url = "omegastrikers.wiki.gg"
+platform = "mediawiki"
+icon = "omegastrikerswiki.png"
+mainpage = "Omega_Strikers_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Omega Strikers Fandom Wiki"
-origin_base_url = "omegastrikers.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Omega_Strikers_Wiki"

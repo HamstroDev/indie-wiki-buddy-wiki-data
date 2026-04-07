@@ -1,21 +1,24 @@
 [en]
-origins_label = "Doom Fandom & Neoseeker Wikis"
-destination = "The Doom Wiki"
-destination_base_url = "doomwiki.org"
-destination_platform = "mediawiki"
-destination_icon = "doomwiki.png"
-destination_main_page = "Entryway"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Doom"
+icon = "doomwiki.png"
 
-[[en.origins]]
-origin = "Doom Fandom Wiki"
-origin_base_url = "doom.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Doom_Wiki"
+[[en.origin]]
+name = "Doom Fandom Wiki"
+url = "doom.fandom.com"
+mainpage = "Doom_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Doom Wiki - Neoseeker"
-origin_base_url = "doom.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Doom Wiki - Neoseeker"
+url = "doom.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Doom Wiki"
+url = "doomwiki.org"
+platform = "mediawiki"
+icon = "doomwiki.png"
+mainpage = "Entryway"
+search-path = "/w/index.php"
+content-path = "/wiki/"

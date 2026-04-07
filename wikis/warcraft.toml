@@ -1,34 +1,37 @@
 [en]
-origins_label = "Warcraft Fandom & Neoseeker Wikis"
-destination = "Warcraft Wiki"
-destination_base_url = "warcraft.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "warcraftwiki.png"
-destination_main_page = "Warcraft_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Warcraft"
+icon = "warcraftwiki.png"
 
-[[en.origins]]
-origin = "Wowpedia Fandom Wiki"
-origin_base_url = "wowpedia.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Wowpedia"
+[[en.origin]]
+name = "Wowpedia Fandom Wiki"
+url = "wowpedia.fandom.com"
+mainpage = "Wowpedia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "WoWWiki Fandom Wiki (Archived)"
-origin_base_url = "wowwiki-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Portal:Main"
+[[en.origin]]
+name = "WoWWiki Fandom Wiki (Archived)"
+url = "wowwiki-archive.fandom.com"
+mainpage = "Portal:Main"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Warcraft Wiki - Neoseeker"
-origin_base_url = "warcraft.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Warcraft Wiki - Neoseeker"
+url = "warcraft.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "World of Warcraft Wiki - Neoseeker"
-origin_base_url = "wow.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "World of Warcraft Wiki - Neoseeker"
+url = "wow.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Warcraft Wiki"
+host = "wiki.gg"
+url = "warcraft.wiki.gg"
+platform = "mediawiki"
+icon = "warcraftwiki.png"
+mainpage = "Warcraft_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

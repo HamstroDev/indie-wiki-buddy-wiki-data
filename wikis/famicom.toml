@@ -1,15 +1,18 @@
 [en]
-origins_label = "Famicom Fandom Wiki"
-destination = "FamiWiki"
-destination_base_url = "famiwiki.net"
-destination_platform = "mediawiki"
-destination_icon = "famiwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Famicom"
+icon = "famiwiki.png"
 
-[[en.origins]]
-origin = "Famicom Fandom Wiki"
-origin_base_url = "famicom.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Famicom_Wiki"
+[[en.origin]]
+name = "Famicom Fandom Wiki"
+url = "famicom.fandom.com"
+mainpage = "Famicom_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "FamiWiki"
+url = "famiwiki.net"
+platform = "mediawiki"
+icon = "famiwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

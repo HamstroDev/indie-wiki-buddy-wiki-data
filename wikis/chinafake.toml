@@ -1,16 +1,19 @@
 [en]
-origins_label = "Chinafake Fandom Wiki"
-destination = "Chinafake Wiki"
-destination_base_url = "chinafake.wiki"
-destination_platform = "mediawiki"
-destination_icon = "chinafakewiki.png"
-destination_main_page = "Chinafake_Wiki:Home"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Chinafake"
+icon = "chinafakewiki.png"
 
-[[en.origins]]
-origin = "Chinafake Fandom Wiki"
-origin_base_url = "chinafake.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Chinafake_Wiki:Home"
+[[en.origin]]
+name = "Chinafake Fandom Wiki"
+url = "chinafake.fandom.com"
+mainpage = "Chinafake_Wiki:Home"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Chinafake Wiki"
+host = "Miraheze"
+url = "chinafake.wiki"
+platform = "mediawiki"
+icon = "chinafakewiki.png"
+mainpage = "Chinafake_Wiki:Home"
+search-path = "/w/index.php"
+content-path = "/wiki/"

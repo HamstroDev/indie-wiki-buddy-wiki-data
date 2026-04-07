@@ -1,16 +1,19 @@
 [en]
-origins_label = "The Fire Rises Fandom Wiki"
-destination = "The Fire Rises Wiki"
-destination_base_url = "thefireriseswiki.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "thefireriseswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "The_fire_rises_Wiki"
-destination_host = "Miraheze"
+name = "The Fire Rises"
+icon = "thefireriseswiki.png"
 
-[[en.origins]]
-origin = "The Fire Rises Fandom Wiki"
-origin_base_url = "the-fire-rises-unoffical-database.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_fire_rises_Wiki"
+[[en.origin]]
+name = "The Fire Rises Fandom Wiki"
+url = "the-fire-rises-unoffical-database.fandom.com"
+mainpage = "The_fire_rises_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Fire Rises Wiki"
+host = "Miraheze"
+url = "thefireriseswiki.miraheze.org"
+platform = "mediawiki"
+icon = "thefireriseswiki.png"
+mainpage = "The_fire_rises_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

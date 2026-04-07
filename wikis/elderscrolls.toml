@@ -1,85 +1,85 @@
 [en]
-origins_label = "Elder Scrolls Fandom, Fextra, & Neoseeker Wikis"
-destination = "Unofficial Elder Scrolls Pages"
-destination_base_url = "en.uesp.net"
-destination_platform = "mediawiki"
-destination_icon = "uesp.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Elder Scrolls"
+icon = "uesp.png"
 
-[[en.origins]]
-origin = "Elder Scrolls Fandom Wiki"
-origin_base_url = "elderscrolls.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Elder_Scrolls_Wiki"
+[[en.origin]]
+name = "Elder Scrolls Fandom Wiki"
+url = "elderscrolls.fandom.com"
+mainpage = "The_Elder_Scrolls_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "The Elder Scrolls Fandom Wiki"
-origin_base_url = "the-elder-scrolls.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Elder_Scrolls_Wiki"
+[[en.origin]]
+name = "The Elder Scrolls Fandom Wiki"
+url = "the-elder-scrolls.fandom.com"
+mainpage = "Elder_Scrolls_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Skyrim Fandom Wiki"
-origin_base_url = "skyrim.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Skyrim_Wiki"
-destination_content_prefix = "Skyrim:"
+[[en.origin]]
+name = "Skyrim Fandom Wiki"
+url = "skyrim.fandom.com"
+mainpage = "Skyrim_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Elder Scrolls Legends Fextralife Wiki"
-origin_base_url = "elderscrollslegends.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Elder Scrolls Legends Wiki"
-destination_content_prefix = "Legends:"
+[[en.origin]]
+name = "Elder Scrolls Legends Fextralife Wiki"
+url = "elderscrollslegends.wiki.fextralife.com"
+mainpage = "Elder Scrolls Legends Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Elder Scrolls Online Fextralife Wiki"
-origin_base_url = "elderscrollsonline.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Elder Scrolls Online Wiki"
-destination_content_prefix = "Online:"
+[[en.origin]]
+name = "Elder Scrolls Online Fextralife Wiki"
+url = "elderscrollsonline.wiki.fextralife.com"
+mainpage = "Elder Scrolls Online Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Skyrim Fextralife Wiki"
-origin_base_url = "skyrim.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Skyrim Wiki"
-destination_content_prefix = "Skyrim:"
+[[en.origin]]
+name = "Skyrim Fextralife Wiki"
+url = "skyrim.wiki.fextralife.com"
+mainpage = "Skyrim Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "The Elder Scrolls Wiki - Neoseeker"
-origin_base_url = "elderscrolls.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "The Elder Scrolls Wiki - Neoseeker"
+url = "elderscrolls.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Skyrim - Elder Scrolls V Wiki - Neoseeker"
-origin_base_url = "skyrim.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
-destination_content_prefix = "Skyrim:"
+[[en.origin]]
+name = "Skyrim - Elder Scrolls V Wiki - Neoseeker"
+url = "skyrim.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Oblivion Remastered Fextralife Wiki"
-origin_base_url = "oblivionremastered.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Oblivion+Wiki"
-destination_content_prefix = "Oblivion:"
+[[en.origin]]
+name = "Oblivion Remastered Fextralife Wiki"
+url = "oblivionremastered.wiki.fextralife.com"
+mainpage = "Oblivion+Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Unofficial Elder Scrolls Pages"
+url = "en.uesp.net"
+platform = "mediawiki"
+icon = "uesp.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [pt]
-origins_label = "Elder Scrolls Fandom Wiki"
-destination = "Unofficial Elder Scrolls Pages"
-destination_base_url = "pt.uesp.net"
-destination_platform = "mediawiki"
-destination_icon = "uesp.png"
-destination_main_page = "Página_Principal"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Elder Scrolls"
+icon = "uesp.png"
 
-[[pt.origins]]
-origin = "Elder Scrolls Fandom Wiki"
-origin_base_url = "elderscrolls.fandom.com/pt"
-origin_content_path = "/wiki/"
-origin_main_page = "Página_principal"
+[[pt.origin]]
+name = "Elder Scrolls Fandom Wiki"
+url = "elderscrolls.fandom.com/pt"
+mainpage = "Página_principal"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Unofficial Elder Scrolls Pages"
+url = "pt.uesp.net"
+platform = "mediawiki"
+icon = "uesp.png"
+mainpage = "Página_Principal"
+search-path = "/w/index.php"
+content-path = "/wiki/"

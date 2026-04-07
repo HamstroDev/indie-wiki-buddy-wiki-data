@@ -1,15 +1,18 @@
 [en]
-origins_label = "EVE Online Fandom Wiki"
-destination = "EVE University Wiki"
-destination_base_url = "wiki.eveuniversity.org"
-destination_platform = "mediawiki"
-destination_icon = "eveonline.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "EVE Online"
+icon = "eveonline.png"
 
-[[en.origins]]
-origin = "EVE Fandom Wiki"
-origin_base_url = "eve.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "EVE Fandom Wiki"
+url = "eve.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "EVE University Wiki"
+url = "wiki.eveuniversity.org"
+platform = "mediawiki"
+icon = "eveonline.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

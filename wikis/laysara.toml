@@ -1,16 +1,19 @@
 [en]
-origins_label = "Laysara: Summit Kingdom Fandom Wiki"
-destination = "Laysara: Summit Kingdom Wiki"
-destination_base_url = "laysara.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "laysarawiki.png"
-destination_main_page = "Laysara:_Summit_Kingdom_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Laysara: Summit Kingdom"
+icon = "laysarawiki.png"
 
-[[en.origins]]
-origin = "Laysara: Summit Kingdom Fandom Wiki"
-origin_base_url = "laysara.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Laysara:_Summit_Kingdom_Wiki"
+[[en.origin]]
+name = "Laysara: Summit Kingdom Fandom Wiki"
+url = "laysara.fandom.com"
+mainpage = "Laysara:_Summit_Kingdom_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Laysara: Summit Kingdom Wiki"
+host = "wiki.gg"
+url = "laysara.wiki.gg"
+platform = "mediawiki"
+icon = "laysarawiki.png"
+mainpage = "Laysara:_Summit_Kingdom_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

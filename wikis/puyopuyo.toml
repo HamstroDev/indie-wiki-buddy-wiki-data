@@ -1,15 +1,18 @@
 [en]
-origins_label = "Puyo Puyo Fandom Wiki"
-destination = "Puyo Nexus Wiki"
-destination_base_url = "puyonexus.com"
-destination_platform = "mediawiki"
-destination_icon = "puyonexus.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/wiki/"
+name = "Puyo Puyo"
+icon = "puyonexus.png"
 
-[[en.origins]]
-origin = "Puyo Puyo Fandom Wiki"
-origin_base_url = "arleandcarbuncle.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Puyo_Puyo_Wiki"
+[[en.origin]]
+name = "Puyo Puyo Fandom Wiki"
+url = "arleandcarbuncle.fandom.com"
+mainpage = "Puyo_Puyo_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Puyo Nexus Wiki"
+url = "puyonexus.com"
+platform = "mediawiki"
+icon = "puyonexus.png"
+mainpage = "Main_Page"
+search-path = "/mediawiki/index.php"
+content-path = "/wiki/"

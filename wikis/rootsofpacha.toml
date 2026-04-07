@@ -1,19 +1,22 @@
 [en]
-origins_label = "Roots of Pacha Fandom Wiki"
-destination = "Roots of Pacha Wiki"
-destination_base_url = "rootsofpacha.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "rootsofpachawiki.png"
-destination_main_page = "Roots_of_Pacha_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Roots of Pacha"
+icon = "rootsofpachawiki.png"
+
+[[en.origin]]
+name = "Roots of Pacha Fandom Wiki"
+url = "rootsofpacha.fandom.com"
+mainpage = "Roots_of_Pacha_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Roots of Pacha Wiki"
+host = "wiki.gg"
+url = "rootsofpacha.wiki.gg"
+platform = "mediawiki"
+icon = "rootsofpachawiki.png"
+mainpage = "Roots_of_Pacha_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Roots of Pacha Fandom Wiki"
-origin_base_url = "rootsofpacha.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Roots_of_Pacha_Wiki"

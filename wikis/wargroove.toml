@@ -1,15 +1,18 @@
 [en]
-origins_label = "Wargroove Fandom Wiki"
-destination = "Wargroove Wiki"
-destination_base_url = "wargroovewiki.com"
-destination_platform = "mediawiki"
-destination_icon = "wargroovewiki.png"
-destination_main_page = "Wargroove_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Wargroove"
+icon = "wargroovewiki.png"
 
-[[en.origins]]
-origin = "Wargroove Fandom Wiki"
-origin_base_url = "wargroove.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Wargroove_Wiki"
+[[en.origin]]
+name = "Wargroove Fandom Wiki"
+url = "wargroove.fandom.com"
+mainpage = "Wargroove_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wargroove Wiki"
+url = "wargroovewiki.com"
+platform = "mediawiki"
+icon = "wargroovewiki.png"
+mainpage = "Wargroove_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"

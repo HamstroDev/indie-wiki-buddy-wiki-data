@@ -1,15 +1,18 @@
 [en]
-origins_label = "PCSX2 Fandom Wiki"
-destination = "PCSX2 Wiki"
-destination_base_url = "wiki.pcsx2.net"
-destination_platform = "mediawiki"
-destination_icon = "pcsx2.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "PCSX2"
+icon = "pcsx2.png"
 
-[[en.origins]]
-origin = "PCSX2 Fandom Wiki"
-origin_base_url = "pcsx2-emu.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "PCSX2_Wiki"
+[[en.origin]]
+name = "PCSX2 Fandom Wiki"
+url = "pcsx2-emu.fandom.com"
+mainpage = "PCSX2_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "PCSX2 Wiki"
+url = "wiki.pcsx2.net"
+platform = "mediawiki"
+icon = "pcsx2.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

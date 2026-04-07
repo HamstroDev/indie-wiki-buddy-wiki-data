@@ -1,19 +1,22 @@
 [en]
-origins_label = "PenguinMod Fandom Wiki"
-destination = "PenguinMod Wiki"
-destination_base_url = "wiki.penguinmod.com"
-destination_platform = "mediawiki"
-destination_icon = "penguinmodwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "PenguinMod"
+icon = "penguinmodwiki.png"
+
+[[en.origin]]
+name = "PenguinMod Fandom Wiki"
+url = "penguinmod.fandom.com"
+mainpage = "PenguinMod_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "PenguinMod Wiki"
+host = "Miraheze"
+url = "wiki.penguinmod.com"
+platform = "mediawiki"
+icon = "penguinmodwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "PenguinMod Fandom Wiki"
-origin_base_url = "penguinmod.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "PenguinMod_Wiki"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "White Knuckle Fandom Wiki"
-destination = "White Knuckle Wiki"
-destination_base_url = "whiteknuckle.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "whiteknucklewiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "White_Knuckle_Wiki"
-destination_host = "Miraheze"
+name = "White Knuckle"
+icon = "whiteknucklewiki.png"
 
-[[en.origins]]
-origin = "White Knuckle Fandom Wiki"
-origin_base_url = "white-knuckle.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "White_Knuckle_Wiki"
+[[en.origin]]
+name = "White Knuckle Fandom Wiki"
+url = "white-knuckle.fandom.com"
+mainpage = "White_Knuckle_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "White Knuckle Wiki"
+host = "Miraheze"
+url = "whiteknuckle.miraheze.org"
+platform = "mediawiki"
+icon = "whiteknucklewiki.png"
+mainpage = "White_Knuckle_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

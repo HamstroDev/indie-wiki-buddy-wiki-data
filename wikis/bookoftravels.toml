@@ -1,19 +1,22 @@
 [en]
-origins_label = "Book of Travels Fandom Wiki"
-destination = "Book of Travels Wiki"
-destination_base_url = "bookoftravels.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "bookoftravelswiki.png"
-destination_main_page = "Book_of_Travels_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Book of Travels"
+icon = "bookoftravelswiki.png"
+
+[[en.origin]]
+name = "Book of Travels Fandom Wiki"
+url = "bookoftravels.fandom.com"
+mainpage = "Book_of_Travels_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Book of Travels Wiki"
+host = "wiki.gg"
+url = "bookoftravels.wiki.gg"
+platform = "mediawiki"
+icon = "bookoftravelswiki.png"
+mainpage = "Book_of_Travels_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Book of Travels Fandom Wiki"
-origin_base_url = "bookoftravels.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Book_of_Travels_Wiki"

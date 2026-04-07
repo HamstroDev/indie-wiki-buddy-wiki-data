@@ -1,205 +1,235 @@
 [de]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/de"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[de.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/de"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/de"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[de.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [ru]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/ru"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[ru.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/ru"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/ru"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[ru.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [th]
-origins_label = "ARK Survival Evolved Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/th"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK Survival Evolved"
+icon = "arkwiki.png"
+
+[[th.origin]]
+name = "ARK Survival Evolved Fandom Wiki"
+url = "ark.fandom.com/th"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[th.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/th"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[th.origins]]
-origin = "ARK Survival Evolved Fandom Wiki"
-origin_base_url = "ark.fandom.com/th"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [es]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[es.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/es"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/es"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[es.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [en]
-origins_label = "ARK Fandom Wikis"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[en.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "ARK Fandom Wiki"
+url = "ark-survival-evolved-archive.fandom.com"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
-
-[[en.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark-survival-evolved-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [pt]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/pt-br"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[pt.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/pt-br"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/pt-br"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[pt.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/pt-br"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [ja]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/ja"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[ja.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/ja"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[ja.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/ja"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[ja.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/ja"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [it]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/it"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[it.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/it"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[it.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/it"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[it.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/it"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [pl]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/pl"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[pl.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/pl"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[pl.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/pl"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[pl.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/pl"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"
 
 [fr]
-origins_label = "ARK Fandom Wiki"
-destination = "ARK Wiki"
-destination_base_url = "ark.wiki.gg/fr"
-destination_platform = "mediawiki"
-destination_icon = "arkwiki.png"
-destination_main_page = "ARK_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ARK"
+icon = "arkwiki.png"
+
+[[fr.origin]]
+name = "ARK Fandom Wiki"
+url = "ark.fandom.com/fr"
+mainpage = "ARK_Survival_Evolved_Wiki"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "ARK Wiki"
+host = "wiki.gg"
+url = "ark.wiki.gg/fr"
+platform = "mediawiki"
+icon = "arkwiki.png"
+mainpage = "ARK_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "ARK Fandom Wiki"
-origin_base_url = "ark.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "ARK_Survival_Evolved_Wiki"

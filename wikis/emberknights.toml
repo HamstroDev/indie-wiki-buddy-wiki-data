@@ -1,16 +1,19 @@
 [en]
-origins_label = "Ember Knights Fandom Wiki"
-destination = "Ember Knights Wiki"
-destination_base_url = "emberknights.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "emberknightswiki.png"
-destination_main_page = "Ember_Knights_-_Game_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Ember Knights"
+icon = "emberknightswiki.png"
 
-[[en.origins]]
-origin = "Ember Knights Fandom Wiki"
-origin_base_url = "ember-knights-game.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Ember_Knights_-_Game_Wiki"
+[[en.origin]]
+name = "Ember Knights Fandom Wiki"
+url = "ember-knights-game.fandom.com"
+mainpage = "Ember_Knights_-_Game_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Ember Knights Wiki"
+host = "wiki.gg"
+url = "emberknights.wiki.gg"
+platform = "mediawiki"
+icon = "emberknightswiki.png"
+mainpage = "Ember_Knights_-_Game_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

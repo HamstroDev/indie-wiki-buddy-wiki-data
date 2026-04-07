@@ -1,16 +1,19 @@
 [en]
-origins_label = "Merc Storia Fandom Wiki"
-destination = "Merc Storia Wiki"
-destination_base_url = "mercstoria.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "mercstoriaenglishwiki.png"
-destination_main_page = "Merc_Storia_English_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Merc Storia"
+icon = "mercstoriaenglishwiki.png"
 
-[[en.origins]]
-origin = "Merc Storia Fandom Wiki"
-origin_base_url = "merc-storia-english.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Merc_Storia_English_Wiki"
+[[en.origin]]
+name = "Merc Storia Fandom Wiki"
+url = "merc-storia-english.fandom.com"
+mainpage = "Merc_Storia_English_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Merc Storia Wiki"
+host = "Miraheze"
+url = "mercstoria.miraheze.org"
+platform = "mediawiki"
+icon = "mercstoriaenglishwiki.png"
+mainpage = "Merc_Storia_English_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

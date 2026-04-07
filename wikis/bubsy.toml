@@ -1,16 +1,19 @@
 [en]
-origins_label = "Bubsy Bobcat Fandom Wiki"
-destination = "Bubsypedia"
-destination_base_url = "bubsypedia.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "bubsypedia.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Bubsypedia"
-destination_host = "Miraheze"
+name = "Bubsy Bobcat"
+icon = "bubsypedia.png"
 
-[[en.origins]]
-origin = "Bubsy Bobcat Fandom Wiki"
-origin_base_url = "bubsy.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bubsy_Bobcat_Wiki"
+[[en.origin]]
+name = "Bubsy Bobcat Fandom Wiki"
+url = "bubsy.fandom.com"
+mainpage = "Bubsy_Bobcat_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Bubsypedia"
+host = "Miraheze"
+url = "bubsypedia.miraheze.org"
+platform = "mediawiki"
+icon = "bubsypedia.png"
+mainpage = "Bubsypedia"
+search-path = "/w/index.php"
+content-path = "/wiki/"

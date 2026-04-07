@@ -1,16 +1,19 @@
 [en]
-origins_label = "Green Day Fandom Wiki"
-destination = "Green Day Wiki"
-destination_base_url = "greenday.shoutwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "greendaywiki.png"
-destination_main_page = "Green_Day_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "ShoutWiki"
+name = "Green Day"
+icon = "greendaywiki.png"
 
-[[en.origins]]
-origin = "Green Day Fandom Wiki"
-origin_base_url = "greenday.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Green_Day_Wiki"
+[[en.origin]]
+name = "Green Day Fandom Wiki"
+url = "greenday.fandom.com"
+mainpage = "Green_Day_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Green Day Wiki"
+host = "ShoutWiki"
+url = "greenday.shoutwiki.com"
+platform = "mediawiki"
+icon = "greendaywiki.png"
+mainpage = "Green_Day_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

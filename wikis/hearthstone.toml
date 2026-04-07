@@ -1,22 +1,25 @@
 [en]
-origins_label = "Hearthstone Fandom & Neoseeker Wikis"
-destination = "Hearthstone Wiki"
-destination_base_url = "hearthstone.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "hearthstonewiki.png"
-destination_main_page = "Hearthstone_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Hearthstone"
+icon = "hearthstonewiki.png"
 
-[[en.origins]]
-origin = "Hearthstone Fandom Wiki"
-origin_base_url = "hearthstone.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hearthstone_Wiki"
+[[en.origin]]
+name = "Hearthstone Fandom Wiki"
+url = "hearthstone.fandom.com"
+mainpage = "Hearthstone_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Hearthstone Wiki - Neoseeker"
-origin_base_url = "hearthstone.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Hearthstone Wiki - Neoseeker"
+url = "hearthstone.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Hearthstone Wiki"
+host = "wiki.gg"
+url = "hearthstone.wiki.gg"
+platform = "mediawiki"
+icon = "hearthstonewiki.png"
+mainpage = "Hearthstone_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

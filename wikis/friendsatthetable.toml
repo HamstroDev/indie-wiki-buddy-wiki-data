@@ -1,51 +1,54 @@
 [en]
-origins_label = "Friends at the Table Fandom Wikis"
-destination = "FatTWiki"
-destination_base_url = "fatt.wiki"
-destination_platform = "mediawiki"
-destination_icon = "friendsatthetable.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/view/"
+name = "Friends at the Table"
+icon = "friendsatthetable.png"
 
-[[en.origins]]
-origin = "Friends at the Table Fandom Wiki"
-origin_base_url = "friendsatthetable.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Friends_at_the_Table_Wikia"
+[[en.origin]]
+name = "Friends at the Table Fandom Wiki"
+url = "friendsatthetable.fandom.com"
+mainpage = "Friends_at_the_Table_Wikia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "The New Archives Fandom Wiki"
-origin_base_url = "thenewarchives.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_New_Archives_Wikia"
+[[en.origin]]
+name = "The New Archives Fandom Wiki"
+url = "thenewarchives.fandom.com"
+mainpage = "The_New_Archives_Wikia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "COUNTER/Weight Fandom Wiki"
-origin_base_url = "counterweight.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "COUNTER/Weight_Wikia"
+[[en.origin]]
+name = "COUNTER/Weight Fandom Wiki"
+url = "counterweight.fandom.com"
+mainpage = "COUNTER/Weight_Wikia"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Twilight Mirage Fandom Wiki"
-origin_base_url = "twilightmirage.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Twilight_Mirage_Wiki"
+[[en.origin]]
+name = "Twilight Mirage Fandom Wiki"
+url = "twilightmirage.fandom.com"
+mainpage = "Twilight_Mirage_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "PARTIZAN Fandom Wiki"
-origin_base_url = "partizan.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "PARTIZAN_Wiki"
+[[en.origin]]
+name = "PARTIZAN Fandom Wiki"
+url = "partizan.fandom.com"
+mainpage = "PARTIZAN_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Sangfielle Fandom Wiki"
-origin_base_url = "sangfielle.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sangfielle_Wiki"
+[[en.origin]]
+name = "Sangfielle Fandom Wiki"
+url = "sangfielle.fandom.com"
+mainpage = "Sangfielle_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Bluff City Fandom Wiki"
-origin_base_url = "visit-bluff-city.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bluff_City_Wiki"
+[[en.origin]]
+name = "Bluff City Fandom Wiki"
+url = "visit-bluff-city.fandom.com"
+mainpage = "Bluff_City_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "FatTWiki"
+url = "fatt.wiki"
+platform = "mediawiki"
+icon = "friendsatthetable.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/view/"

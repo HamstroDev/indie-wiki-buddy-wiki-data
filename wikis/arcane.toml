@@ -1,16 +1,19 @@
 [fr]
-origins_label = "Arcane Fandom Wiki"
-destination = "Arcane Wiki"
-destination_base_url = "arcanefr.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "wikiarcane.png"
-destination_main_page = "Accueil"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Arcane"
+icon = "wikiarcane.png"
 
-[[fr.origins]]
-origin = "Arcane Fandom Wiki"
-origin_base_url = "wiki-arcane.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Wiki_Arcane"
+[[fr.origin]]
+name = "Arcane Fandom Wiki"
+url = "wiki-arcane.fandom.com/fr"
+mainpage = "Wiki_Wiki_Arcane"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Arcane Wiki"
+host = "Miraheze"
+url = "arcanefr.miraheze.org"
+platform = "mediawiki"
+icon = "wikiarcane.png"
+mainpage = "Accueil"
+search-path = "/w/index.php"
+content-path = "/wiki/"

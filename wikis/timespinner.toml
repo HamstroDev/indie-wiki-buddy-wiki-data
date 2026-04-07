@@ -1,15 +1,18 @@
 [en]
-origins_label = "Timespinner Fandom Wiki"
-destination = "Timespinner Wiki"
-destination_base_url = "timespinnerwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "timespinnerwiki.png"
-destination_main_page = "Timespinner_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Timespinner"
+icon = "timespinnerwiki.png"
 
-[[en.origins]]
-origin = "Timespinner Fandom Wiki"
-origin_base_url = "timespinner.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Timespinner_Wiki"
+[[en.origin]]
+name = "Timespinner Fandom Wiki"
+url = "timespinner.fandom.com"
+mainpage = "Timespinner_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Timespinner Wiki"
+url = "timespinnerwiki.com"
+platform = "mediawiki"
+icon = "timespinnerwiki.png"
+mainpage = "Timespinner_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"

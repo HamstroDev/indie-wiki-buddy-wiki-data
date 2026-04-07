@@ -1,15 +1,18 @@
 [en]
-origins_label = "Wheel of Time Fandom Wiki"
-destination = "Tar Valon Library Wiki"
-destination_base_url = "library.tarvalon.net"
-destination_platform = "mediawiki"
-destination_icon = "tarvalon.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php?title="
+name = "Wheel of Time"
+icon = "tarvalon.png"
 
-[[en.origins]]
-origin = "The Wheel of Time Fandom Wiki"
-origin_base_url = "wot.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "A_beginning"
+[[en.origin]]
+name = "The Wheel of Time Fandom Wiki"
+url = "wot.fandom.com"
+mainpage = "A_beginning"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tar Valon Library Wiki"
+url = "library.tarvalon.net"
+platform = "mediawiki"
+icon = "tarvalon.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php?title="

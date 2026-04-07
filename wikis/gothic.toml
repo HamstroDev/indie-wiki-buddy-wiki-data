@@ -1,15 +1,18 @@
 [en]
-origins_label = "Gothic Fandom Wiki"
-destination = "Gothic Wiki"
-destination_base_url = "gothic.wiki"
-destination_platform = "mediawiki"
-destination_icon = "gothicwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/w/"
+name = "Gothic"
+icon = "gothicwiki.png"
 
-[[en.origins]]
-origin = "Gothic Fandom Wiki"
-origin_base_url = "gothic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gothic_Wiki"
+[[en.origin]]
+name = "Gothic Fandom Wiki"
+url = "gothic.fandom.com"
+mainpage = "Gothic_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Gothic Wiki"
+url = "gothic.wiki"
+platform = "mediawiki"
+icon = "gothicwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/w/"

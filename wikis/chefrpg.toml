@@ -1,19 +1,22 @@
 [en]
-origins_label = "Chef RPG Fandom Wiki"
-destination = "Chef RPG Wiki"
-destination_base_url = "chefrpg.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "chefrpgwiki.png"
-destination_main_page = "Chef_RPG_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Chef RPG"
+icon = "chefrpgwiki.png"
+
+[[en.origin]]
+name = "Chef RPG Fandom Wiki"
+url = "chef-rpg.fandom.com"
+mainpage = "Chef_RPG_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Chef RPG Wiki"
+host = "wiki.gg"
+url = "chefrpg.wiki.gg"
+platform = "mediawiki"
+icon = "chefrpgwiki.png"
+mainpage = "Chef_RPG_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Chef RPG Fandom Wiki"
-origin_base_url = "chef-rpg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Chef_RPG_Wiki"

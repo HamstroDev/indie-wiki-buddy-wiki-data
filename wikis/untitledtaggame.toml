@@ -1,16 +1,19 @@
 [en]
-origins_label = "Untitled Tag Game Fandom Wiki"
-destination = "Untitled Tag Game Wiki"
-destination_base_url = "utg.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "untitledtaggame.png"
-destination_main_page = "Untitled_Tag_Game_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
-destination_host = "Miraheze"
+name = "Untitled Tag Game"
+icon = "untitledtaggame.png"
 
-[[en.origins]]
-origin = "Untitled Tag Game Fandom Wiki"
-origin_base_url = "utg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Untitled_Tag_Game_Wiki"
+[[en.origin]]
+name = "Untitled Tag Game Fandom Wiki"
+url = "utg.fandom.com"
+mainpage = "Untitled_Tag_Game_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Untitled Tag Game Wiki"
+host = "Miraheze"
+url = "utg.miraheze.org"
+platform = "mediawiki"
+icon = "untitledtaggame.png"
+mainpage = "Untitled_Tag_Game_Wiki"
+search-path = "/w/index.php"
+content-path = "/"

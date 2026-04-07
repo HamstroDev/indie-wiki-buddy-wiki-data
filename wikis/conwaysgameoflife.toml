@@ -1,15 +1,18 @@
 [en]
-origins_label = "Conway's Game of Life Fandom Wiki"
-destination = "LifeWiki"
-destination_base_url = "conwaylife.com"
-destination_platform = "mediawiki"
-destination_icon = "lifewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Conway's Game of Life"
+icon = "lifewiki.png"
 
-[[en.origins]]
-origin = "Conway's Game of Life Fandom Wiki"
-origin_base_url = "conways-game-of-life.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Conway's_Game_of_Life_Wiki"
+[[en.origin]]
+name = "Conway's Game of Life Fandom Wiki"
+url = "conways-game-of-life.fandom.com"
+mainpage = "Conway's_Game_of_Life_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "LifeWiki"
+url = "conwaylife.com"
+platform = "mediawiki"
+icon = "lifewiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

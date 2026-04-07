@@ -1,24 +1,27 @@
 [en]
-origins_label = "League of Legends Fandom & Neoseeker Wikis"
-destination = "League of Legends Wiki"
-destination_base_url = "wiki.leagueoflegends.com"
-destination_platform = "mediawiki"
-destination_icon = "leagueoflegendswiki.png"
-destination_main_page = "League_of_Legends_Wiki"
-destination_search_path = "/en-us/"
-destination_content_path = "/en-us/"
+name = "League of Legends"
+icon = "leagueoflegendswiki.png"
+
+[[en.origin]]
+name = "League of Legends Fandom Wiki"
+url = "leagueoflegends.fandom.com"
+mainpage = "League_of_Legends_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "League of Legends Neoseeker Wiki"
+url = "leagueoflegends.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "League of Legends Wiki"
+url = "wiki.leagueoflegends.com"
+platform = "mediawiki"
+icon = "leagueoflegendswiki.png"
+mainpage = "League_of_Legends_Wiki"
+search-path = "/en-us/"
+content-path = "/en-us/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "League of Legends Fandom Wiki"
-origin_base_url = "leagueoflegends.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "League_of_Legends_Wiki"
-
-[[en.origins]]
-origin = "League of Legends Neoseeker Wiki"
-origin_base_url = "leagueoflegends.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"

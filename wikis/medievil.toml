@@ -1,15 +1,18 @@
 [en]
-origins_label = "Gallowmere Historia (MediEvil Fandom Wiki)"
-destination = "Gallowpedia (MediEvil Wiki)"
-destination_base_url = "medievil.wiki"
-destination_platform = "mediawiki"
-destination_icon = "gallowpedia.png"
-destination_main_page = "Gallowpedia"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "Gallowmere Historia (MediEvil"
+icon = "gallowpedia.png"
 
-[[en.origins]]
-origin = "Gallowmere Historia"
-origin_base_url = "gallowmere.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gallowmere_Historia"
+[[en.origin]]
+name = "Gallowmere Historia"
+url = "gallowmere.fandom.com"
+mainpage = "Gallowmere_Historia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Gallowpedia (MediEvil Wiki)"
+url = "medievil.wiki"
+platform = "mediawiki"
+icon = "gallowpedia.png"
+mainpage = "Gallowpedia"
+search-path = "/index.php"
+content-path = "/w/"

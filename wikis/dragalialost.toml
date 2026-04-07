@@ -1,15 +1,18 @@
 [en]
-origins_label = "Dragalia Lost Fandom Wiki"
-destination = "Dragalia Lost Wiki"
-destination_base_url = "dragalialost.wiki"
-destination_platform = "mediawiki"
-destination_icon = "dragalialost.png"
-destination_main_page = "Dragalia_Lost_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "Dragalia Lost"
+icon = "dragalialost.png"
 
-[[en.origins]]
-origin = "Dragalia Lost Fandom Wiki"
-origin_base_url = "dragalialost.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dragalia_Lost_Wiki"
+[[en.origin]]
+name = "Dragalia Lost Fandom Wiki"
+url = "dragalialost.fandom.com"
+mainpage = "Dragalia_Lost_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dragalia Lost Wiki"
+url = "dragalialost.wiki"
+platform = "mediawiki"
+icon = "dragalialost.png"
+mainpage = "Dragalia_Lost_Wiki"
+search-path = "/index.php"
+content-path = "/w/"

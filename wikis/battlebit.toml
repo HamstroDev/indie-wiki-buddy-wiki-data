@@ -1,19 +1,22 @@
 [en]
-origins_label = "BattleBit Fandom Wiki"
-destination = "BattleBit Wiki"
-destination_base_url = "battlebit.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "battlebitwiki.png"
-destination_main_page = "BattleBit_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "BattleBit"
+icon = "battlebitwiki.png"
+
+[[en.origin]]
+name = "BattleBit Fandom Wiki"
+url = "battlebit.fandom.com"
+mainpage = "BattleBit_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "BattleBit Wiki"
+host = "wiki.gg"
+url = "battlebit.wiki.gg"
+platform = "mediawiki"
+icon = "battlebitwiki.png"
+mainpage = "BattleBit_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "BattleBit Fandom Wiki"
-origin_base_url = "battlebit.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "BattleBit_Wiki"

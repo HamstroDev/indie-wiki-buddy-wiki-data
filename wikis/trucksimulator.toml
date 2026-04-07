@@ -1,16 +1,19 @@
 [en]
-origins_label = "Truck Simulator Fandom Wiki"
-destination = "Truck Simulator Wiki"
-destination_base_url = "trucksimulator.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "trucksimulatorwiki.png"
-destination_main_page = "Truck_Simulator_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Truck Simulator"
+icon = "trucksimulatorwiki.png"
 
-[[en.origins]]
-origin = "Truck Simulator Fandom Wiki"
-origin_base_url = "truck-simulator.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Truck_Simulator_Wiki"
+[[en.origin]]
+name = "Truck Simulator Fandom Wiki"
+url = "truck-simulator.fandom.com"
+mainpage = "Truck_Simulator_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Truck Simulator Wiki"
+host = "wiki.gg"
+url = "trucksimulator.wiki.gg"
+platform = "mediawiki"
+icon = "trucksimulatorwiki.png"
+mainpage = "Truck_Simulator_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

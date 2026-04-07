@@ -1,19 +1,22 @@
 [en]
-origins_label = "Thorium Mod Fandom Wiki"
-destination = "Thorium Mod Wiki"
-destination_base_url = "thoriummod.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "thoriummodwiki.png"
-destination_main_page = "Thorium_Mod_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Thorium Mod"
+icon = "thoriummodwiki.png"
+
+[[en.origin]]
+name = "Thorium Mod Fandom Wiki"
+url = "thoriummod.fandom.com"
+mainpage = "Thorium_Mod_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Thorium Mod Wiki"
+host = "wiki.gg"
+url = "thoriummod.wiki.gg"
+platform = "mediawiki"
+icon = "thoriummodwiki.png"
+mainpage = "Thorium_Mod_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Thorium Mod Fandom Wiki"
-origin_base_url = "thoriummod.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Thorium_Mod_Wiki"

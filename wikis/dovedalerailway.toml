@@ -1,18 +1,21 @@
 [en]
-origins_label = "Dovedale Railway Fandom Wiki"
-destination = "Dovedale Railway Wiki"
-destination_base_url = "dovedale.wiki"
-destination_platform = "mediawiki"
-destination_icon = "dovedalerailwaywiki.png"
-destination_main_page = "Dovedale_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Dovedale Railway"
+icon = "dovedalerailwaywiki.png"
+
+[[en.origin]]
+name = "Dovedale Railway Fandom Wiki"
+url = "dovedale.fandom.com"
+mainpage = "Dovedale_Railway_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dovedale Railway Wiki"
+url = "dovedale.wiki"
+platform = "mediawiki"
+icon = "dovedalerailwaywiki.png"
+mainpage = "Dovedale_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Dovedale Railway Fandom Wiki"
-origin_base_url = "dovedale.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dovedale_Railway_Wiki"

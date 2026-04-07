@@ -1,15 +1,18 @@
 [en]
-origins_label = "ARMS Fandom Wiki"
-destination = "ARMS Institute"
-destination_base_url = "armswiki.org"
-destination_platform = "mediawiki"
-destination_icon = "arms.png"
-destination_main_page = "Home"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "ARMS"
+icon = "arms.png"
 
-[[en.origins]]
-origin = "ARMS Fandom Wiki"
-origin_base_url = "arms.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "ARMS_Wiki"
+[[en.origin]]
+name = "ARMS Fandom Wiki"
+url = "arms.fandom.com"
+mainpage = "ARMS_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "ARMS Institute"
+url = "armswiki.org"
+platform = "mediawiki"
+icon = "arms.png"
+mainpage = "Home"
+search-path = "/w/index.php"
+content-path = "/wiki/"

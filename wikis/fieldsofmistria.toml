@@ -1,16 +1,19 @@
 [en]
-origins_label = "Fields of Mistria Fandom Wiki"
-destination = "Fields of Mistria Wiki"
-destination_base_url = "fieldsofmistria.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "fieldsofmistriawiki.png"
-destination_main_page = "Fields_of_Mistria_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Fields of Mistria"
+icon = "fieldsofmistriawiki.png"
 
-[[en.origins]]
-origin = "Fields of Mistria Fandom Wiki"
-origin_base_url = "fields-of-mistria.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Fields_of_Mistria_Wiki"
+[[en.origin]]
+name = "Fields of Mistria Fandom Wiki"
+url = "fields-of-mistria.fandom.com"
+mainpage = "Fields_of_Mistria_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Fields of Mistria Wiki"
+host = "wiki.gg"
+url = "fieldsofmistria.wiki.gg"
+platform = "mediawiki"
+icon = "fieldsofmistriawiki.png"
+mainpage = "Fields_of_Mistria_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

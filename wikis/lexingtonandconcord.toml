@@ -1,16 +1,19 @@
 [en]
-origins_label = "Lexington & Concord Fandom Wiki"
-destination = "Lexington & Concord Wiki"
-destination_base_url = "lexingtonandconcord.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "lexingtonconcordofficialwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Lexington & Concord"
+icon = "lexingtonconcordofficialwiki.png"
 
-[[en.origins]]
-origin = "Lexington & Concord Fandom Wiki"
-origin_base_url = "lexington-and-concord.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Lexington_&_Concord_Wiki"
+[[en.origin]]
+name = "Lexington & Concord Fandom Wiki"
+url = "lexington-and-concord.fandom.com"
+mainpage = "Lexington_&_Concord_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Lexington & Concord Wiki"
+host = "Miraheze"
+url = "lexingtonandconcord.miraheze.org"
+platform = "mediawiki"
+icon = "lexingtonconcordofficialwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

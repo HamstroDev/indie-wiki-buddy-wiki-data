@@ -1,16 +1,19 @@
 [en]
-origins_label = "Left 4 Dead Fandom Wiki"
-destination = "Left 4 Dead Wiki"
-destination_base_url = "left4deadwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "left4dead.png"
-destination_main_page = "Left_4_Dead_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Left 4 Dead"
+icon = "left4dead.png"
 
-[[en.origins]]
-origin = "Left 4 Dead Fandom Wiki"
-origin_base_url = "left4dead.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Left_4_Dead_Wiki"
+[[en.origin]]
+name = "Left 4 Dead Fandom Wiki"
+url = "left4dead.fandom.com"
+mainpage = "Left_4_Dead_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Left 4 Dead Wiki"
+host = "Miraheze"
+url = "left4deadwiki.com"
+platform = "mediawiki"
+icon = "left4dead.png"
+mainpage = "Left_4_Dead_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

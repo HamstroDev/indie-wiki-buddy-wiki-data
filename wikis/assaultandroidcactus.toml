@@ -1,16 +1,19 @@
 [en]
-origins_label = "Assault Android Cactus Fandom Wiki"
-destination = "Assault Android Cactus Wiki"
-destination_base_url = "assaultandroidcactus.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "assaultandroidcactuswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Assault Android Cactus"
+icon = "assaultandroidcactuswiki.png"
 
-[[en.origins]]
-origin = "Assault Android Cactus Fandom Wiki"
-origin_base_url = "assault-android-cactus.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Assault_Android_Cactus_Wiki"
+[[en.origin]]
+name = "Assault Android Cactus Fandom Wiki"
+url = "assault-android-cactus.fandom.com"
+mainpage = "Assault_Android_Cactus_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Assault Android Cactus Wiki"
+host = "Miraheze"
+url = "assaultandroidcactus.miraheze.org"
+platform = "mediawiki"
+icon = "assaultandroidcactuswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

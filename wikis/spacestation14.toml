@@ -1,15 +1,18 @@
 [en]
-origins_label = "Space Station 14 Fandom Wiki"
-destination = "Space Station 14 Wiki"
-destination_base_url = "wiki.spacestation14.com"
-destination_platform = "mediawiki"
-destination_icon = "ss14.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Space Station 14"
+icon = "ss14.png"
 
-[[en.origins]]
-origin = "Space Station 14 Fandom Wiki"
-origin_base_url = "space-station-14.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Space_Station_14_Wiki"
+[[en.origin]]
+name = "Space Station 14 Fandom Wiki"
+url = "space-station-14.fandom.com"
+mainpage = "Space_Station_14_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Space Station 14 Wiki"
+url = "wiki.spacestation14.com"
+platform = "mediawiki"
+icon = "ss14.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

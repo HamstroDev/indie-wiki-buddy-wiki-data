@@ -1,16 +1,19 @@
 [en]
-origins_label = "Celeste Fandom Wiki"
-destination = "Celeste Wiki"
-destination_base_url = "celeste.ink"
-destination_platform = "mediawiki"
-destination_icon = "celeste.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Celeste"
+icon = "celeste.png"
 
-[[en.origins]]
-origin = "Celeste Fandom Wiki"
-origin_base_url = "celestegame.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Celeste_Wiki"
+[[en.origin]]
+name = "Celeste Fandom Wiki"
+url = "celestegame.fandom.com"
+mainpage = "Celeste_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Celeste Wiki"
+host = "Miraheze"
+url = "celeste.ink"
+platform = "mediawiki"
+icon = "celeste.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

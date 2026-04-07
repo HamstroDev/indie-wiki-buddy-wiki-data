@@ -1,16 +1,19 @@
 [en]
-origins_label = "Sun Haven Fandom Wiki"
-destination = "Sun Haven Wiki"
-destination_base_url = "sunhaven.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "sunhavenwiki.png"
-destination_main_page = "Sun_Haven_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Sun Haven"
+icon = "sunhavenwiki.png"
 
-[[en.origins]]
-origin = "Sun Haven Fandom Wiki"
-origin_base_url = "sun-haven.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sun_Haven_Wiki"
+[[en.origin]]
+name = "Sun Haven Fandom Wiki"
+url = "sun-haven.fandom.com"
+mainpage = "Sun_Haven_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sun Haven Wiki"
+host = "wiki.gg"
+url = "sunhaven.wiki.gg"
+platform = "mediawiki"
+icon = "sunhavenwiki.png"
+mainpage = "Sun_Haven_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

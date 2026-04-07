@@ -1,16 +1,19 @@
 [en]
-origins_label = "Oxygen Not Included Fandom Wiki"
-destination = "Oxygen Not Included Wiki"
-destination_base_url = "oxygennotincluded.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "oxygennotincluded.png"
-destination_main_page = "Oxygen_Not_Included_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Oxygen Not Included"
+icon = "oxygennotincluded.png"
 
-[[en.origins]]
-origin = "Oxygen Not Included Fandom Wiki"
-origin_base_url = "oxygennotincluded.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Oxygen_Not_Included_Wiki"
+[[en.origin]]
+name = "Oxygen Not Included Fandom Wiki"
+url = "oxygennotincluded.fandom.com"
+mainpage = "Oxygen_Not_Included_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Oxygen Not Included Wiki"
+host = "wiki.gg"
+url = "oxygennotincluded.wiki.gg"
+platform = "mediawiki"
+icon = "oxygennotincluded.png"
+mainpage = "Oxygen_Not_Included_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

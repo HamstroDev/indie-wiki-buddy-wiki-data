@@ -1,16 +1,19 @@
 [en]
-origins_label = "Milk Series Fandom Wiki"
-destination = "Milk Series Wiki"
-destination_base_url = "milk.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "milkserieswiki.png"
-destination_main_page = "Milk_Series_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Milk Series"
+icon = "milkserieswiki.png"
 
-[[en.origins]]
-origin = "Milk Series Fandom Wiki"
-origin_base_url = "milk-games.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Milk_Series_Wiki"
+[[en.origin]]
+name = "Milk Series Fandom Wiki"
+url = "milk-games.fandom.com"
+mainpage = "Milk_Series_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Milk Series Wiki"
+host = "wiki.gg"
+url = "milk.wiki.gg"
+platform = "mediawiki"
+icon = "milkserieswiki.png"
+mainpage = "Milk_Series_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

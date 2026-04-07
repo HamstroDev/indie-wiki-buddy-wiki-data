@@ -1,16 +1,19 @@
 [en]
-origins_label = "Azumanga Daioh! Fandom Wiki"
-destination = "Azumanga Daioh Wiki"
-destination_base_url = "azudaioh.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "azumangadaiohwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Azumanga Daioh!"
+icon = "azumangadaiohwiki.png"
 
-[[en.origins]]
-origin = "Azumanga Daioh! Fandom Wiki"
-origin_base_url = "azumanga.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Azumanga_Daioh_Yotsuba&!_Wiki"
+[[en.origin]]
+name = "Azumanga Daioh! Fandom Wiki"
+url = "azumanga.fandom.com"
+mainpage = "Azumanga_Daioh_Yotsuba&!_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Azumanga Daioh Wiki"
+host = "Miraheze"
+url = "azudaioh.miraheze.org"
+platform = "mediawiki"
+icon = "azumangadaiohwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

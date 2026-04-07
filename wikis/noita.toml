@@ -1,50 +1,59 @@
 [en]
-origins_label = "Noita Fandom Wiki"
-destination = "Noita Wiki"
-destination_base_url = "noita.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "noitawiki.png"
-destination_main_page = "Noita_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Noita"
+icon = "noitawiki.png"
 
-[[en.origins]]
-origin = "Noita Fandom Wiki"
-origin_base_url = "noita.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Noita_Wiki"
+[[en.origin]]
+name = "Noita Fandom Wiki"
+url = "noita.fandom.com"
+mainpage = "Noita_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Noita Wiki"
+host = "wiki.gg"
+url = "noita.wiki.gg"
+platform = "mediawiki"
+icon = "noitawiki.png"
+mainpage = "Noita_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [ja]
-origins_label = "Noita Fandom Wiki"
-destination = "Noita Wiki"
-destination_base_url = "noita.wiki.gg/ja"
-destination_platform = "mediawiki"
-destination_icon = "noitawiki.png"
-destination_main_page = "Noita_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Noita"
+icon = "noitawiki.png"
 
-[[ja.origins]]
-origin = "Noita Fandom Wiki"
-origin_base_url = "noita.fandom.com/ja"
-origin_content_path = "/wiki/"
-origin_main_page = "Noita_Wiki"
+[[ja.origin]]
+name = "Noita Fandom Wiki"
+url = "noita.fandom.com/ja"
+mainpage = "Noita_Wiki"
+content-path = "/wiki/"
+
+[[ja.destination]]
+name = "Noita Wiki"
+host = "wiki.gg"
+url = "noita.wiki.gg/ja"
+platform = "mediawiki"
+icon = "noitawiki.png"
+mainpage = "Noita_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [zh]
-origins_label = "Noita中文 Fandom Wiki"
-destination = "Noita Wiki"
-destination_base_url = "noita.wiki.gg/zh"
-destination_platform = "mediawiki"
-destination_icon = "noitawiki.png"
-destination_main_page = "Noita_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Noita中文"
+icon = "noitawiki.png"
 
-[[zh.origins]]
-origin = "Noita中文 Fandom Wiki"
-origin_base_url = "noita.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Noita_Wiki"
+[[zh.origin]]
+name = "Noita中文 Fandom Wiki"
+url = "noita.fandom.com/zh"
+mainpage = "Noita_Wiki"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Noita Wiki"
+host = "wiki.gg"
+url = "noita.wiki.gg/zh"
+platform = "mediawiki"
+icon = "noitawiki.png"
+mainpage = "Noita_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

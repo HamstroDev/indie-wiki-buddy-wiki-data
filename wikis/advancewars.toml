@@ -1,21 +1,24 @@
 [en]
-origins_label = "Advance Wars Fandom Wiki"
-destination = "Wars Wiki"
-destination_base_url = "warswiki.org"
-destination_platform = "mediawiki"
-destination_icon = "warswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Advance Wars"
+icon = "warswiki.png"
 
-[[en.origins]]
-origin = "Advance Wars Fandom Wiki"
-origin_base_url = "advancewars.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Advance_Wars_Wiki"
+[[en.origin]]
+name = "Advance Wars Fandom Wiki"
+url = "advancewars.fandom.com"
+mainpage = "Advance_Wars_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Advance Wars Neoseeker Wiki"
-origin_base_url = "advancewars.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Advance Wars Neoseeker Wiki"
+url = "advancewars.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Wars Wiki"
+url = "warswiki.org"
+platform = "mediawiki"
+icon = "warswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

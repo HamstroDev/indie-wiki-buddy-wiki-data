@@ -1,19 +1,22 @@
 [en]
-origins_label = "Industrialist Fandom Wiki"
-destination = "Industrialist Wiki"
-destination_base_url = "industrialist.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "industrialist.png"
-destination_main_page = "Industrialist_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Industrialist"
+icon = "industrialist.png"
+
+[[en.origin]]
+name = "Industrialist Fandom Wiki"
+url = "industrialist.fandom.com"
+mainpage = "Industrialist_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Industrialist Wiki"
+host = "Miraheze"
+url = "industrialist.miraheze.org"
+platform = "mediawiki"
+icon = "industrialist.png"
+mainpage = "Industrialist_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Industrialist Fandom Wiki"
-origin_base_url = "industrialist.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Industrialist_Wiki"

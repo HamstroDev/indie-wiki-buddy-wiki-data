@@ -1,19 +1,22 @@
 [en]
-origins_label = "Bleed Fandom Wiki"
-destination = "Bleed Wiki"
-destination_base_url = "bleed.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "bleedwiki.png"
-destination_main_page = "Bleed_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Bleed"
+icon = "bleedwiki.png"
+
+[[en.origin]]
+name = "Bleed Fandom Wiki"
+url = "bleed-game.fandom.com"
+mainpage = "Bleed_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Bleed Wiki"
+host = "wiki.gg"
+url = "bleed.wiki.gg"
+platform = "mediawiki"
+icon = "bleedwiki.png"
+mainpage = "Bleed_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Bleed Fandom Wiki"
-origin_base_url = "bleed-game.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bleed_Wiki"

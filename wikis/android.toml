@@ -1,16 +1,19 @@
 [en]
-origins_label = "Android Fandom Wiki"
-destination = "Android Wiki"
-destination_base_url = "androidwiki.info"
-destination_platform = "mediawiki"
-destination_icon = "androidwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Android"
+icon = "androidwiki.png"
 
-[[en.origins]]
-origin = "Android Fandom Wiki"
-origin_base_url = "android.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Android_Wiki"
+[[en.origin]]
+name = "Android Fandom Wiki"
+url = "android.fandom.com"
+mainpage = "Android_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Android Wiki"
+host = "Miraheze"
+url = "androidwiki.info"
+platform = "mediawiki"
+icon = "androidwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

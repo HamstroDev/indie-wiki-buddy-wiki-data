@@ -1,16 +1,19 @@
 [en]
-origins_label = "NEEDY STREAMER OVERLOAD Fandom Wiki"
-destination = "NEEDY STREAMER OVERLOAD Wiki"
-destination_base_url = "needystreameroverload.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "needystreameroverloadwiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "NEEDY_STREAMER_OVERLOAD_Wiki"
-destination_host = "wiki.gg"
+name = "NEEDY STREAMER OVERLOAD"
+icon = "needystreameroverloadwiki.png"
 
-[[en.origins]]
-origin = "NEEDY STREAMER OVERLOAD Fandom Wiki"
-origin_base_url = "needy-streamer-overload.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "NEEDY_STREAMER_OVERLOAD_Wiki"
+[[en.origin]]
+name = "NEEDY STREAMER OVERLOAD Fandom Wiki"
+url = "needy-streamer-overload.fandom.com"
+mainpage = "NEEDY_STREAMER_OVERLOAD_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "NEEDY STREAMER OVERLOAD Wiki"
+host = "wiki.gg"
+url = "needystreameroverload.wiki.gg"
+platform = "mediawiki"
+icon = "needystreameroverloadwiki.png"
+mainpage = "NEEDY_STREAMER_OVERLOAD_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

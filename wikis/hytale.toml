@@ -1,53 +1,62 @@
 [de]
-origins_label = "Hytale Fandom Wiki"
-destination = "Hytale Wiki"
-destination_base_url = "de.hytalewiki.org"
-destination_platform = "mediawiki"
-destination_icon = "hytalewiki.png"
-destination_content_path = "/w/"
-destination_search_path = "/"
-destination_main_page = "Hauptseite"
+name = "Hytale"
+icon = "hytalewiki.png"
 
-[[de.origins]]
-origin = "Hytale Fandom Wiki"
-origin_base_url = "hytale.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Hytale_Wiki"
+[[de.origin]]
+name = "Hytale Fandom Wiki"
+url = "hytale.fandom.com/de"
+mainpage = "Hytale_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "Hytale Wiki"
+url = "de.hytalewiki.org"
+platform = "mediawiki"
+icon = "hytalewiki.png"
+mainpage = "Hauptseite"
+search-path = "/"
+content-path = "/w/"
 
 [en]
-origins_label = "Hytale Fandom Wikis"
-destination = "Hytale Wiki"
-destination_base_url = "hytalewiki.org"
-destination_platform = "mediawiki"
-destination_icon = "hytalewiki.png"
-destination_content_path = "/w/"
-destination_search_path = "/"
-destination_main_page = "Hytale_Wiki"
+name = "Hytale"
+icon = "hytalewiki.png"
 
-[[en.origins]]
-origin = "Hytale Fandom Wiki"
-origin_base_url = "hytale.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hytale_Wiki"
+[[en.origin]]
+name = "Hytale Fandom Wiki"
+url = "hytale.fandom.com"
+mainpage = "Hytale_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Hytale Game Fandom Wiki"
-origin_base_url = "hytale-game.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hytale_Wiki"
+[[en.origin]]
+name = "Hytale Game Fandom Wiki"
+url = "hytale-game.fandom.com"
+mainpage = "Hytale_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Hytale Wiki"
+url = "hytalewiki.org"
+platform = "mediawiki"
+icon = "hytalewiki.png"
+mainpage = "Hytale_Wiki"
+search-path = "/"
+content-path = "/w/"
 
 [pt]
-origins_label = "Hytale Fandom Wiki"
-destination = "Hytale Wiki"
-destination_base_url = "pt.hytalewiki.org"
-destination_platform = "mediawiki"
-destination_icon = "hytalewiki.png"
-destination_content_path = "/w/"
-destination_search_path = "/"
-destination_main_page = "Hytale_Wiki"
+name = "Hytale"
+icon = "hytalewiki.png"
 
-[[pt.origins]]
-origin = "Hytale Fandom Wiki"
-origin_base_url = "hytale.fandom.com/pt-br"
-origin_content_path = "/wiki/"
-origin_main_page = "Hytale_Wiki"
+[[pt.origin]]
+name = "Hytale Fandom Wiki"
+url = "hytale.fandom.com/pt-br"
+mainpage = "Hytale_Wiki"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Hytale Wiki"
+url = "pt.hytalewiki.org"
+platform = "mediawiki"
+icon = "hytalewiki.png"
+mainpage = "Hytale_Wiki"
+search-path = "/"
+content-path = "/w/"

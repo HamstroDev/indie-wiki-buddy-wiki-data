@@ -1,16 +1,19 @@
 [en]
-origins_label = "Volcano Princess Fandom Wiki"
-destination = "Volcano Princess Wiki"
-destination_base_url = "volcanoprincess.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "volcanoprincesswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Volcano Princess"
+icon = "volcanoprincesswiki.png"
 
-[[en.origins]]
-origin = "Volcano Princess Fandom Wiki"
-origin_base_url = "volcano-princess.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Volcano_Princess_Wiki"
+[[en.origin]]
+name = "Volcano Princess Fandom Wiki"
+url = "volcano-princess.fandom.com"
+mainpage = "Volcano_Princess_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Volcano Princess Wiki"
+host = "Miraheze"
+url = "volcanoprincess.miraheze.org"
+platform = "mediawiki"
+icon = "volcanoprincesswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

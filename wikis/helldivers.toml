@@ -1,16 +1,19 @@
 [en]
-origins_label = "Helldivers Fandom Wiki"
-destination = "Helldivers Wiki"
-destination_base_url = "helldivers.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "helldiverswiki.png"
-destination_main_page = "Helldivers_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Helldivers"
+icon = "helldiverswiki.png"
 
-[[en.origins]]
-origin = "Helldivers Fandom Wiki"
-origin_base_url = "helldivers.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Helldivers_Wiki"
+[[en.origin]]
+name = "Helldivers Fandom Wiki"
+url = "helldivers.fandom.com"
+mainpage = "Helldivers_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Helldivers Wiki"
+host = "wiki.gg"
+url = "helldivers.wiki.gg"
+platform = "mediawiki"
+icon = "helldiverswiki.png"
+mainpage = "Helldivers_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

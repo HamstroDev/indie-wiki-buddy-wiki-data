@@ -1,15 +1,18 @@
 [fr]
-origins_label = "Battlestar Fandom Wiki"
-destination = "Battlestar Wiki"
-destination_base_url = "fr.battlestarwiki.ddns.net"
-destination_platform = "mediawiki"
-destination_icon = "battlestarwiki.png"
-destination_main_page = "Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Battlestar"
+icon = "battlestarwiki.png"
 
-[[fr.origins]]
-origin = "Battlestar Fandom Wiki"
-origin_base_url = "galactica.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Accueil"
+[[fr.origin]]
+name = "Battlestar Fandom Wiki"
+url = "galactica.fandom.com/fr"
+mainpage = "Accueil"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Battlestar Wiki"
+url = "fr.battlestarwiki.ddns.net"
+platform = "mediawiki"
+icon = "battlestarwiki.png"
+mainpage = "Accueil"
+search-path = "/index.php"
+content-path = "/wiki/"

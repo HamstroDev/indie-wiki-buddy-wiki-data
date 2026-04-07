@@ -1,21 +1,24 @@
 [en]
-origins_label = "Dreamlight Valley Fandom Wikis"
-destination = "Dreamlight Valley Wiki"
-destination_base_url = "dreamlightvalleywiki.com"
-destination_platform = "mediawiki"
-destination_icon = "dreamlightvalleywiki.png"
-destination_main_page = "Dreamlight_Valley_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Dreamlight Valley"
+icon = "dreamlightvalleywiki.png"
 
-[[en.origins]]
-origin = "Dreamlight Valley Fandom Wiki"
-origin_base_url = "disneydreamlightvalley.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Disney_Dreamlight_Valley_Wiki"
+[[en.origin]]
+name = "Dreamlight Valley Fandom Wiki"
+url = "disneydreamlightvalley.fandom.com"
+mainpage = "Disney_Dreamlight_Valley_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Dreamlight Valley Fandom Wiki"
-origin_base_url = "disney-dreamlight-valley.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Disney_Dreamlight_Valley_Wiki"
+[[en.origin]]
+name = "Dreamlight Valley Fandom Wiki"
+url = "disney-dreamlight-valley.fandom.com"
+mainpage = "Disney_Dreamlight_Valley_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dreamlight Valley Wiki"
+url = "dreamlightvalleywiki.com"
+platform = "mediawiki"
+icon = "dreamlightvalleywiki.png"
+mainpage = "Dreamlight_Valley_Wiki"
+search-path = "/index.php"
+content-path = "/"

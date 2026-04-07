@@ -1,16 +1,19 @@
 [en]
-origins_label = "Nebulamancers Fandom Wiki"
-destination = "Nebulamancers Wiki"
-destination_base_url = "nebulamancers.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "nebulamancerswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Nebulamancers_Wiki"
-destination_host = "Miraheze"
+name = "Nebulamancers"
+icon = "nebulamancerswiki.png"
 
-[[en.origins]]
-origin = "Nebulamancers Fandom Wiki"
-origin_base_url = "nebulamancers.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Nebulamancers_Wiki"
+[[en.origin]]
+name = "Nebulamancers Fandom Wiki"
+url = "nebulamancers.fandom.com"
+mainpage = "Nebulamancers_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Nebulamancers Wiki"
+host = "Miraheze"
+url = "nebulamancers.miraheze.org"
+platform = "mediawiki"
+icon = "nebulamancerswiki.png"
+mainpage = "Nebulamancers_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

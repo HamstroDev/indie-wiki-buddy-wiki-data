@@ -1,16 +1,19 @@
 [en]
-origins_label = "Galaxy Life Fandom Wiki"
-destination = "Galaxy Life Wiki"
-destination_base_url = "galaxylife.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "galaxylifewiki.png"
-destination_main_page = "Galaxy_Life_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Galaxy Life"
+icon = "galaxylifewiki.png"
 
-[[en.origins]]
-origin = "Galaxy Life Fandom Wiki"
-origin_base_url = "galaxylife.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Galaxy_Life_Wiki"
+[[en.origin]]
+name = "Galaxy Life Fandom Wiki"
+url = "galaxylife.fandom.com"
+mainpage = "Galaxy_Life_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Galaxy Life Wiki"
+host = "wiki.gg"
+url = "galaxylife.wiki.gg"
+platform = "mediawiki"
+icon = "galaxylifewiki.png"
+mainpage = "Galaxy_Life_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

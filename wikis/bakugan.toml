@@ -1,15 +1,18 @@
 [en]
-origins_label = "Bakugan Fandom Wiki"
-destination = "Bakugan Wiki"
-destination_base_url = "bakugan.wiki"
-destination_platform = "mediawiki"
-destination_icon = "bakugan.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Bakugan"
+icon = "bakugan.png"
 
-[[en.origins]]
-origin = "Bakugan Fandom Wiki"
-origin_base_url = "bakugan.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Bakugan_Wiki"
+[[en.origin]]
+name = "Bakugan Fandom Wiki"
+url = "bakugan.fandom.com"
+mainpage = "Bakugan_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Bakugan Wiki"
+url = "bakugan.wiki"
+platform = "mediawiki"
+icon = "bakugan.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

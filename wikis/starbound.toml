@@ -1,18 +1,21 @@
 [en]
-origins_label = "Starbound Fandom Wiki"
-destination = "Starbounder"
-destination_base_url = "starbounder.org"
-destination_platform = "mediawiki"
-destination_icon = "starbounder.png"
-destination_main_page = "Starbound_Wiki"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/"
+name = "Starbound"
+icon = "starbounder.png"
+
+[[en.origin]]
+name = "Starbound Fandom Wiki"
+url = "starbound.fandom.com"
+mainpage = "Starbound_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Starbounder"
+url = "starbounder.org"
+platform = "mediawiki"
+icon = "starbounder.png"
+mainpage = "Starbound_Wiki"
+search-path = "/mediawiki/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Starbound Fandom Wiki"
-origin_base_url = "starbound.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Starbound_Wiki"

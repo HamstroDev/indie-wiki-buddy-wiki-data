@@ -1,16 +1,19 @@
 [en]
-origins_label = "Dying Light Fandom Wiki"
-destination = "Dying Light Wiki"
-destination_base_url = "dyinglight.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "dyinglightwiki.png"
-destination_main_page = "Dying_Light_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Dying Light"
+icon = "dyinglightwiki.png"
 
-[[en.origins]]
-origin = "Dying Light Fandom Wiki"
-origin_base_url = "dyinglight.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dying_Light_Wiki"
+[[en.origin]]
+name = "Dying Light Fandom Wiki"
+url = "dyinglight.fandom.com"
+mainpage = "Dying_Light_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dying Light Wiki"
+host = "wiki.gg"
+url = "dyinglight.wiki.gg"
+platform = "mediawiki"
+icon = "dyinglightwiki.png"
+mainpage = "Dying_Light_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

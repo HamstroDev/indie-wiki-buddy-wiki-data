@@ -1,15 +1,18 @@
 [en]
-origins_label = "Koei Tecmo Fandom Wiki"
-destination = "Koei Tecmo Wiki"
-destination_base_url = "koeitecmo.wiki"
-destination_platform = "mediawiki"
-destination_icon = "koeitecmowiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Koei Tecmo"
+icon = "koeitecmowiki.png"
 
-[[en.origins]]
-origin = "Koei Tecmo Fandom Wiki"
-origin_base_url = "koei.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Koei Tecmo Fandom Wiki"
+url = "koei.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Koei Tecmo Wiki"
+url = "koeitecmo.wiki"
+platform = "mediawiki"
+icon = "koeitecmowiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Habbo Fandom Wiki"
-destination = "Habbox Wiki"
-destination_base_url = "habboxwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "habboxwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/"
+name = "Habbo"
+icon = "habboxwiki.png"
 
-[[en.origins]]
-origin = "Habbo Fandom Wiki"
-origin_base_url = "habbo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Habbo_Wiki"
+[[en.origin]]
+name = "Habbo Fandom Wiki"
+url = "habbo.fandom.com"
+mainpage = "Habbo_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Habbox Wiki"
+url = "habboxwiki.com"
+platform = "mediawiki"
+icon = "habboxwiki.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/"

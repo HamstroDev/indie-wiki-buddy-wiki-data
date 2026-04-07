@@ -1,16 +1,19 @@
 [en]
-origins_label = "Plague Inc. Fandom Wiki"
-destination = "Plague Inc. Wiki"
-destination_base_url = "plagueinc.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "plagueincwiki.png"
-destination_main_page = "Plague_Inc._Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Plague Inc."
+icon = "plagueincwiki.png"
 
-[[en.origins]]
-origin = "Plague Inc. Fandom Wiki"
-origin_base_url = "plagueinc.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Plague_Inc._Wiki"
+[[en.origin]]
+name = "Plague Inc. Fandom Wiki"
+url = "plagueinc.fandom.com"
+mainpage = "Plague_Inc._Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Plague Inc. Wiki"
+host = "wiki.gg"
+url = "plagueinc.wiki.gg"
+platform = "mediawiki"
+icon = "plagueincwiki.png"
+mainpage = "Plague_Inc._Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

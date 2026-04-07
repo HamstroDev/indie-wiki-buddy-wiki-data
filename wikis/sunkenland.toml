@@ -1,16 +1,19 @@
 [en]
-origins_label = "Sunkenland Fandom Wiki"
-destination = "Sunkenland Wiki"
-destination_base_url = "sunkenland.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "sunkenlandwiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Sunkenland_Wiki"
-destination_host = "wiki.gg"
+name = "Sunkenland"
+icon = "sunkenlandwiki.png"
 
-[[en.origins]]
-origin = "Sunkenland Fandom Wiki"
-origin_base_url = "sunkenland.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sunkenland_Wiki"
+[[en.origin]]
+name = "Sunkenland Fandom Wiki"
+url = "sunkenland.fandom.com"
+mainpage = "Sunkenland_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sunkenland Wiki"
+host = "wiki.gg"
+url = "sunkenland.wiki.gg"
+platform = "mediawiki"
+icon = "sunkenlandwiki.png"
+mainpage = "Sunkenland_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

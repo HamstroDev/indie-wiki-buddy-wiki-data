@@ -1,16 +1,19 @@
 [en]
-origins_label = "Thunderbolt Fantasy Fandom Wiki"
-destination = "Thunderbolt Fantasy Wiki"
-destination_base_url = "thunderboltfantasywiki.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "thunderboltfantasywiki.png"
-destination_main_page = "Thunderbolt_Fantasy_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Thunderbolt Fantasy"
+icon = "thunderboltfantasywiki.png"
 
-[[en.origins]]
-origin = "Thunderbolt Fantasy Fandom Wiki"
-origin_base_url = "thunderbolt-fantasy.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Thunderbolt_Fantasy_Wiki"
+[[en.origin]]
+name = "Thunderbolt Fantasy Fandom Wiki"
+url = "thunderbolt-fantasy.fandom.com"
+mainpage = "Thunderbolt_Fantasy_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Thunderbolt Fantasy Wiki"
+host = "Miraheze"
+url = "thunderboltfantasywiki.miraheze.org"
+platform = "mediawiki"
+icon = "thunderboltfantasywiki.png"
+mainpage = "Thunderbolt_Fantasy_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,18 +1,21 @@
 [en]
-origins_label = "Python Fandom Wiki"
-destination = "Python Wiki"
-destination_base_url = "wiki.python.org"
-destination_platform = "moinmoin"
-destination_icon = "pythonwiki.png"
-destination_main_page = "FrontPage"
-destination_search_path = "/moin/"
-destination_content_path = "/moin/"
+name = "Python"
+icon = "pythonwiki.png"
+
+[[en.origin]]
+name = "Python Fandom Wiki"
+url = "python.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Python Wiki"
+url = "wiki.python.org"
+platform = "moinmoin"
+icon = "pythonwiki.png"
+mainpage = "FrontPage"
+search-path = "/moin/"
+content-path = "/moin/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Python Fandom Wiki"
-origin_base_url = "python.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"

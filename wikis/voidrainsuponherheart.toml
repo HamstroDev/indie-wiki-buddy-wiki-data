@@ -1,16 +1,19 @@
 [en]
-origins_label = "The Void Rains Upon Her Heart Fandom Wiki"
-destination = "The Void Rains Upon Her Heart Wiki"
-destination_base_url = "tvruhh.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "thevoidrainsuponherheartwiki.png"
-destination_main_page = "The_Void_Rains_Upon_Her_Heart_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "The Void Rains Upon Her Heart"
+icon = "thevoidrainsuponherheartwiki.png"
 
-[[en.origins]]
-origin = "The Void Rains Upon Her Heart Fandom Wiki"
-origin_base_url = "the-void-rains-upon-her-heart.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Void_Rains_Upon_Her_Heart_Wiki"
+[[en.origin]]
+name = "The Void Rains Upon Her Heart Fandom Wiki"
+url = "the-void-rains-upon-her-heart.fandom.com"
+mainpage = "The_Void_Rains_Upon_Her_Heart_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Void Rains Upon Her Heart Wiki"
+host = "wiki.gg"
+url = "tvruhh.wiki.gg"
+platform = "mediawiki"
+icon = "thevoidrainsuponherheartwiki.png"
+mainpage = "The_Void_Rains_Upon_Her_Heart_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

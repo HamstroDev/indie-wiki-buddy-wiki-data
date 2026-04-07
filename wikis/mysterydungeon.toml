@@ -1,21 +1,24 @@
 [en]
-origins_label = "Mystery Dungeon Fandom Wikis"
-destination = "Mystery Dungeon Wiki"
-destination_base_url = "mysterydungeonwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "mysterydungeon.png"
-destination_main_page = "Mystery_Dungeon_Franchise_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Mystery Dungeon"
+icon = "mysterydungeon.png"
 
-[[en.origins]]
-origin = "Mystery Dungeon Fandom Wiki"
-origin_base_url = "mysterydungeon.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mystery_Dungeon_Wiki"
+[[en.origin]]
+name = "Mystery Dungeon Fandom Wiki"
+url = "mysterydungeon.fandom.com"
+mainpage = "Mystery_Dungeon_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Pokémon Mystery Dungeon Fandom Wiki"
-origin_base_url = "pmd-rt-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pokémon_Wiki"
+[[en.origin]]
+name = "Pokémon Mystery Dungeon Fandom Wiki"
+url = "pmd-rt-archive.fandom.com"
+mainpage = "Pokémon_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Mystery Dungeon Wiki"
+url = "mysterydungeonwiki.com"
+platform = "mediawiki"
+icon = "mysterydungeon.png"
+mainpage = "Mystery_Dungeon_Franchise_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

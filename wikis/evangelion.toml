@@ -1,38 +1,44 @@
 [en]
-origins_label = "Evangelion Fandom & Neoseeker Wikis"
-destination = "EvaWiki"
-destination_base_url = "wiki.evageeks.org"
-destination_platform = "mediawiki"
-destination_icon = "evawiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Evangelion"
+icon = "evawiki.png"
 
-[[en.origins]]
-origin = "Evangelion Fandom Wiki"
-origin_base_url = "evangelion.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Evangelion Fandom Wiki"
+url = "evangelion.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Neon Genesis Evangelion Wiki - Neoseeker"
-origin_base_url = "evangelion.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Neon Genesis Evangelion Wiki - Neoseeker"
+url = "evangelion.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "EvaWiki"
+url = "wiki.evageeks.org"
+platform = "mediawiki"
+icon = "evawiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"
 
 [fr]
-origins_label = "Evangelion Fandom Wiki"
-destination = "Shin Wiki Evangelion"
-destination_base_url = "shinwikievangelionfr.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "shinwikievagelion.png"
-destination_main_page = "Wiki_Evangelion"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Evangelion"
+icon = "shinwikievagelion.png"
 
-[[fr.origins]]
-origin = "Evangelion Fandom Wiki"
-origin_base_url = "evangelion.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Evangelion"
+[[fr.origin]]
+name = "Evangelion Fandom Wiki"
+url = "evangelion.fandom.com/fr"
+mainpage = "Wiki_Evangelion"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Shin Wiki Evangelion"
+host = "Miraheze"
+url = "shinwikievangelionfr.miraheze.org"
+platform = "mediawiki"
+icon = "shinwikievagelion.png"
+mainpage = "Wiki_Evangelion"
+search-path = "/index.php"
+content-path = "/wiki/"

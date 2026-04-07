@@ -1,129 +1,142 @@
 [de]
-origins_label = "Pokémon Fandom Wiki"
-destination = "PokéWiki"
-destination_base_url = "www.pokewiki.de"
-destination_platform = "mediawiki"
-destination_icon = "pokewiki.png"
-destination_main_page = "Hauptseite"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Pokémon"
+icon = "pokewiki.png"
 
-[[de.origins]]
-origin = "Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com/de"
-origin_content_path = "/wiki/"
-origin_main_page = "Pokémon_Wiki"
+[[de.origin]]
+name = "Pokémon Fandom Wiki"
+url = "pokemon.fandom.com/de"
+mainpage = "Pokémon_Wiki"
+content-path = "/wiki/"
+
+[[de.destination]]
+name = "PokéWiki"
+url = "www.pokewiki.de"
+platform = "mediawiki"
+icon = "pokewiki.png"
+mainpage = "Hauptseite"
+search-path = "/index.php"
+content-path = "/"
 
 [es]
-origins_label = "Pokémon Fandom Wiki"
-destination = "WikiDex"
-destination_base_url = "www.wikidex.net"
-destination_platform = "mediawiki"
-destination_icon = "wikidex.png"
-destination_main_page = "WikiDex"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Pokémon"
+icon = "wikidex.png"
 
-[[es.origins]]
-origin = "Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Pokémon_Wiki"
+[[es.origin]]
+name = "Pokémon Fandom Wiki"
+url = "pokemon.fandom.com/es"
+mainpage = "Pokémon_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "WikiDex"
+url = "www.wikidex.net"
+platform = "mediawiki"
+icon = "wikidex.png"
+mainpage = "WikiDex"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [en]
-origins_label = "Pokémon Fandom & Neoseeker Wikis"
-destination = "Bulbapedia"
-destination_base_url = "bulbapedia.bulbagarden.net"
-destination_platform = "mediawiki"
-destination_icon = "bulbapedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Pokémon"
+icon = "bulbapedia.png"
 
-[[en.origins]]
-origin = "Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pokémon_Wiki"
+[[en.origin]]
+name = "Pokémon Fandom Wiki"
+url = "pokemon.fandom.com"
+mainpage = "Pokémon_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Azurilland Wiki"
-origin_base_url = "pokemon-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Azurilland_Wiki"
+[[en.origin]]
+name = "Azurilland Wiki"
+url = "pokemon-archive.fandom.com"
+mainpage = "Azurilland_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Pokémon Wiki - Neoseeker"
-origin_base_url = "pokemon.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Pokémon Wiki - Neoseeker"
+url = "pokemon.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Bulbapedia"
+url = "bulbapedia.bulbagarden.net"
+platform = "mediawiki"
+icon = "bulbapedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [ja]
-origins_label = "Pokémon Fandom Wiki"
-destination = "ポケモンWiki"
-destination_base_url = "wiki.ポケモン.com"
-destination_platform = "mediawiki"
-destination_icon = "pokemonwiki.png"
-destination_main_page = "メインページ"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Pokémon"
+icon = "pokemonwiki.png"
 
-[[ja.origins]]
-origin = "Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com/ja"
-origin_content_path = "/wiki/"
-origin_main_page = "ポケットモンスター_Wiki"
+[[ja.origin]]
+name = "Pokémon Fandom Wiki"
+url = "pokemon.fandom.com/ja"
+mainpage = "ポケットモンスター_Wiki"
+content-path = "/wiki/"
+
+[[ja.destination]]
+name = "ポケモンWiki"
+url = "wiki.ポケモン.com"
+platform = "mediawiki"
+icon = "pokemonwiki.png"
+mainpage = "メインページ"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [it]
-origins_label = "Analisi Pokémon Fandom Wiki"
-destination = "Pokémon Central Wiki"
-destination_base_url = "wiki.pokemoncentral.it"
-destination_platform = "mediawiki"
-destination_icon = "pokemoncentral.png"
-destination_main_page = "Home"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Analisi Pokémon"
+icon = "pokemoncentral.png"
 
-[[it.origins]]
-origin = "Analisi Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com/it"
-origin_content_path = "/wiki/"
-origin_main_page = "Analisi_Pokémon_Wiki"
+[[it.origin]]
+name = "Analisi Pokémon Fandom Wiki"
+url = "pokemon.fandom.com/it"
+mainpage = "Analisi_Pokémon_Wiki"
+content-path = "/wiki/"
+
+[[it.destination]]
+name = "Pokémon Central Wiki"
+url = "wiki.pokemoncentral.it"
+platform = "mediawiki"
+icon = "pokemoncentral.png"
+mainpage = "Home"
+search-path = "/index.php"
+content-path = "/"
 
 [zh]
-origins_label = "Pokémon Fandom Wikis"
-destination = "52Poké Wiki"
-destination_base_url = "wiki.52poke.com"
-destination_platform = "mediawiki"
-destination_icon = "52pokewiki.png"
-destination_main_page = "主页"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Pokémon"
+icon = "52pokewiki.png"
+origin = [
+    { url = "pokemon.fandom.com/zh", mainpage = "Pokemon", content-path = "/wiki/" },
+    { url = "pokemon.fandom.com/zh-hk", mainpage = "寵物小精靈百科", content-path = "/wiki/" },
+]
 
-[[zh.origins]]
-origins = "Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Pokemon"
-
-[[zh.origins]]
-origins = "Pokémon Fandom Wiki (Zh-Hk)"
-origin_base_url = "pokemon.fandom.com/zh-hk"
-origin_content_path = "/wiki/"
-origin_main_page = "寵物小精靈百科"
+[[zh.destination]]
+name = "52Poké Wiki"
+url = "wiki.52poke.com"
+platform = "mediawiki"
+icon = "52pokewiki.png"
+mainpage = "主页"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [fr]
-origins_label = "Pokémon Fandom Wiki"
-destination = "Poképédia"
-destination_base_url = "www.pokepedia.fr"
-destination_platform = "mediawiki"
-destination_icon = "pokepedia.png"
-destination_main_page = "Portail:Accueil"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Pokémon"
+icon = "pokepedia.png"
 
-[[fr.origins]]
-origin = "Pokémon Fandom Wiki"
-origin_base_url = "pokemon.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Pokémon"
+[[fr.origin]]
+name = "Pokémon Fandom Wiki"
+url = "pokemon.fandom.com/fr"
+mainpage = "Wiki_Pokémon"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Poképédia"
+url = "www.pokepedia.fr"
+platform = "mediawiki"
+icon = "pokepedia.png"
+mainpage = "Portail:Accueil"
+search-path = "/index.php"
+content-path = "/"

@@ -1,25 +1,28 @@
 [en]
-origins_label = "Terra Invicta Fandom Wikis"
-destination = "Terra Invicta Wiki"
-destination_base_url = "hoodedhorse.com/wiki/Terra_Invicta"
-destination_platform = "mediawiki"
-destination_icon = "terrainvictawiki.png"
-destination_main_page = "Terra_Invicta_Official_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
-destination_host = "Hooded Horse"
+name = "Terra Invicta"
+icon = "terrainvictawiki.png"
+
+[[en.origin]]
+name = "Terra Invicta Fandom Wiki"
+url = "terra-invicta.fandom.com"
+mainpage = "Terra_Invicta_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "Terra Invicta Game Fandom Wiki"
+url = "terrainvictagame.fandom.com"
+mainpage = "Terra_Invicta_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Terra Invicta Wiki"
+host = "Hooded Horse"
+url = "hoodedhorse.com/wiki/Terra_Invicta"
+platform = "mediawiki"
+icon = "terrainvictawiki.png"
+mainpage = "Terra_Invicta_Official_Wiki"
+search-path = "/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Terra Invicta Fandom Wiki"
-origin_base_url = "terra-invicta.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Terra_Invicta_Wiki"
-
-[[en.origins]]
-origin = "Terra Invicta Game Fandom Wiki"
-origin_base_url = "terrainvictagame.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Terra_Invicta_Wiki"

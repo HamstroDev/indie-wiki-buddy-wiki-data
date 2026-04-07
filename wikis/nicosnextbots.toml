@@ -1,16 +1,19 @@
 [en]
-origins_label = "Nico's Nextbots Fandom Wiki"
-destination = "Nico's Nextbots Wiki"
-destination_base_url = "nicosnextbots.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "nicosnextbotswiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/w/index.php"
-destination_main_page = "Nico's_Nextbots_Wiki"
-destination_host = "Miraheze"
+name = "Nico's Nextbots"
+icon = "nicosnextbotswiki.png"
 
-[[en.origins]]
-origin = "Nico's Nextbots Fandom Wiki"
-origin_base_url = "nicos-nextbots.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Nico's_Nextbots_Wiki"
+[[en.origin]]
+name = "Nico's Nextbots Fandom Wiki"
+url = "nicos-nextbots.fandom.com"
+mainpage = "Nico's_Nextbots_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Nico's Nextbots Wiki"
+host = "Miraheze"
+url = "nicosnextbots.miraheze.org"
+platform = "mediawiki"
+icon = "nicosnextbotswiki.png"
+mainpage = "Nico's_Nextbots_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [zh]
-origins_label = "Cookie Fandom Wiki"
-destination = "Cookie☆Wiki"
-destination_base_url = "cookie.wiki"
-destination_platform = "mediawiki"
-destination_icon = "cookiewiki.png"
-destination_main_page = "首页"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Cookie"
+icon = "cookiewiki.png"
 
-[[zh.origins]]
-origin = "Cookie Fandom Wiki"
-origin_base_url = "cookie.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "首页"
+[[zh.origin]]
+name = "Cookie Fandom Wiki"
+url = "cookie.fandom.com/zh"
+mainpage = "首页"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Cookie☆Wiki"
+url = "cookie.wiki"
+platform = "mediawiki"
+icon = "cookiewiki.png"
+mainpage = "首页"
+search-path = "/index.php"
+content-path = "/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Hololive Fandom Wiki"
-destination = "Hololive Fan Wiki"
-destination_base_url = "hololive.wiki"
-destination_platform = "mediawiki"
-destination_icon = "hololive.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Hololive"
+icon = "hololive.png"
 
-[[en.origins]]
-origin = "Hololive Fandom Wiki"
-origin_base_url = "hololivevtuber.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hololive_Wiki"
+[[en.origin]]
+name = "Hololive Fandom Wiki"
+url = "hololivevtuber.fandom.com"
+mainpage = "Hololive_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Hololive Fan Wiki"
+host = "Miraheze"
+url = "hololive.wiki"
+platform = "mediawiki"
+icon = "hololive.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,19 +1,22 @@
 [en]
-origins_label = "Sunless Sea Fandom Wiki"
-destination = "Sunless Sea Wiki"
-destination_base_url = "sunlesssea.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "sunlessseawiki.png"
-destination_main_page = "Official_Sunless_Sea_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Sunless Sea"
+icon = "sunlessseawiki.png"
+
+[[en.origin]]
+name = "Sunless Sea Fandom Wiki"
+url = "sunlesssea.fandom.com"
+mainpage = "Sunless_Sea_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sunless Sea Wiki"
+host = "Miraheze"
+url = "sunlesssea.miraheze.org"
+platform = "mediawiki"
+icon = "sunlessseawiki.png"
+mainpage = "Official_Sunless_Sea_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Sunless Sea Fandom Wiki"
-origin_base_url = "sunlesssea.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sunless_Sea_Wiki"

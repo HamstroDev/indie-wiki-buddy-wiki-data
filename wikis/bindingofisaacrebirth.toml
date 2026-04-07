@@ -1,33 +1,39 @@
 [en]
-origins_label = "Binding Of Isaac: Rebirth Fandom Wiki"
-destination = "Binding Of Isaac: Rebirth Wiki"
-destination_base_url = "bindingofisaacrebirth.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "isaacrebirthwiki.png"
-destination_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Binding Of Isaac: Rebirth"
+icon = "isaacrebirthwiki.png"
 
-[[en.origins]]
-origin = "Binding Of Isaac: Rebirth Fandom Wiki"
-origin_base_url = "bindingofisaacrebirth.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
+[[en.origin]]
+name = "Binding Of Isaac: Rebirth Fandom Wiki"
+url = "bindingofisaacrebirth.fandom.com"
+mainpage = "Binding_of_Isaac:_Rebirth_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Binding Of Isaac: Rebirth Wiki"
+host = "wiki.gg"
+url = "bindingofisaacrebirth.wiki.gg"
+platform = "mediawiki"
+icon = "isaacrebirthwiki.png"
+mainpage = "Binding_of_Isaac:_Rebirth_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [fr]
-origins_label = "The Binding Of Isaac: Rebirth Fandom Wiki"
-destination = "The Binding Of Isaac: Rebirth Wiki"
-destination_base_url = "bindingofisaacrebirth.wiki.gg/fr"
-destination_platform = "mediawiki"
-destination_icon = "isaacrebirthwiki.png"
-destination_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "The Binding Of Isaac: Rebirth"
+icon = "isaacrebirthwiki.png"
 
-[[fr.origins]]
-origin = "The Binding Of Isaac: Rebirth Fandom Wiki"
-origin_base_url = "bindingofisaacrebirth.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Binding_of_Isaac:_Rebirth_Wiki"
+[[fr.origin]]
+name = "The Binding Of Isaac: Rebirth Fandom Wiki"
+url = "bindingofisaacrebirth.fandom.com/fr"
+mainpage = "Binding_of_Isaac:_Rebirth_Wiki"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "The Binding Of Isaac: Rebirth Wiki"
+host = "wiki.gg"
+url = "bindingofisaacrebirth.wiki.gg/fr"
+platform = "mediawiki"
+icon = "isaacrebirthwiki.png"
+mainpage = "Binding_of_Isaac:_Rebirth_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

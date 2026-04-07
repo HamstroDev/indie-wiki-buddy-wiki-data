@@ -1,19 +1,22 @@
 [en]
-origins_label = "Enter the Gungeon Fandom Wiki"
-destination = "Enter the Gungeon Wiki"
-destination_base_url = "enterthegungeon.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "enterthegungeonwiki.png"
-destination_main_page = "Enter_the_Gungeon_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Enter the Gungeon"
+icon = "enterthegungeonwiki.png"
+
+[[en.origin]]
+name = "Enter the Gungeon Fandom Wiki"
+url = "enterthegungeon.fandom.com"
+mainpage = "Enter_the_Gungeon_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Enter the Gungeon Wiki"
+host = "wiki.gg"
+url = "enterthegungeon.wiki.gg"
+platform = "mediawiki"
+icon = "enterthegungeonwiki.png"
+mainpage = "Enter_the_Gungeon_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Enter the Gungeon Fandom Wiki"
-origin_base_url = "enterthegungeon.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Enter_the_Gungeon_Wiki"

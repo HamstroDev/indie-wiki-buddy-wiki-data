@@ -1,15 +1,18 @@
 [en]
-origins_label = "Commander Keen Fandom Wiki"
-destination = "Commander Keen Wiki"
-destination_base_url = "keenwiki.shikadi.net"
-destination_platform = "mediawiki"
-destination_icon = "commanderkeenwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Commander Keen"
+icon = "commanderkeenwiki.png"
 
-[[en.origins]]
-origin = "Commander Keen Fandom Wiki"
-origin_base_url = "commander-keen.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Commander_Keen_Wiki"
+[[en.origin]]
+name = "Commander Keen Fandom Wiki"
+url = "commander-keen.fandom.com"
+mainpage = "Commander_Keen_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Commander Keen Wiki"
+url = "keenwiki.shikadi.net"
+platform = "mediawiki"
+icon = "commanderkeenwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

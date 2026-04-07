@@ -1,21 +1,24 @@
 [en]
-origins_label = "Baldur's Gate 3 Fandom & Fextralife Wikis"
-destination = "Baldur's Gate 3 Wiki"
-destination_base_url = "bg3.wiki"
-destination_platform = "mediawiki"
-destination_icon = "baldursgate3.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Baldur's Gate 3"
+icon = "baldursgate3.png"
 
-[[en.origins]]
-origin = "Baldur's Gate 3 Fextralife Wiki"
-origin_base_url = "baldursgate3.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Baldur's Gate 3 Wiki"
+[[en.origin]]
+name = "Baldur's Gate 3 Fextralife Wiki"
+url = "baldursgate3.wiki.fextralife.com"
+mainpage = "Baldur's Gate 3 Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Baldur's Gate 3 Fandom Wiki"
-origin_base_url = "baldurs-gate-3-guide.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Baldur's_Gate_3_Guide_Wiki"
+[[en.origin]]
+name = "Baldur's Gate 3 Fandom Wiki"
+url = "baldurs-gate-3-guide.fandom.com"
+mainpage = "Baldur's_Gate_3_Guide_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Baldur's Gate 3 Wiki"
+url = "bg3.wiki"
+platform = "mediawiki"
+icon = "baldursgate3.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

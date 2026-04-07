@@ -1,18 +1,21 @@
 [en]
-origins_label = "Vampire Survivors Fandom Wiki"
-destination = "Vampire Survivors Wiki"
-destination_base_url = "vampire.survivors.wiki"
-destination_platform = "mediawiki"
-destination_icon = "vampiresurvivorswiki.png"
-destination_main_page = "Vampire_Survivors_Wiki"
-destination_search_path = "/"
-destination_content_path = "/w/"
+name = "Vampire Survivors"
+icon = "vampiresurvivorswiki.png"
+
+[[en.origin]]
+name = "Vampire Survivors Fandom Wiki"
+url = "vampire-survivors.fandom.com"
+mainpage = "Vampire_Survivors_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Vampire Survivors Wiki"
+url = "vampire.survivors.wiki"
+platform = "mediawiki"
+icon = "vampiresurvivorswiki.png"
+mainpage = "Vampire_Survivors_Wiki"
+search-path = "/"
+content-path = "/w/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Vampire Survivors Fandom Wiki"
-origin_base_url = "vampire-survivors.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Vampire_Survivors_Wiki"

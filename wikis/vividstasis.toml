@@ -1,16 +1,19 @@
 [en]
-origins_label = "Vivid/stasis Fandom Wiki"
-destination = "vivid/stasis wiki"
-destination_base_url = "vividstasis.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "vividstasiswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Vivid/stasis"
+icon = "vividstasiswiki.png"
 
-[[en.origins]]
-origin = "Vivid/stasis Fandom Wiki"
-origin_base_url = "vividstasis.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Vivid/stasis_Wiki"
+[[en.origin]]
+name = "Vivid/stasis Fandom Wiki"
+url = "vividstasis.fandom.com"
+mainpage = "Vivid/stasis_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "vivid/stasis wiki"
+host = "Miraheze"
+url = "vividstasis.miraheze.org"
+platform = "mediawiki"
+icon = "vividstasiswiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

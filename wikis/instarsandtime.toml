@@ -1,16 +1,19 @@
 [en]
-origins_label = "In Stars and Time Fandom Wiki"
-destination = "In Stars and Time Wiki"
-destination_base_url = "instarsandtime.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "instarsandtimewiki.png"
-destination_main_page = "In_Stars_and_Time_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "In Stars and Time"
+icon = "instarsandtimewiki.png"
 
-[[en.origins]]
-origin = "In Stars and Time Fandom Wiki"
-origin_base_url = "in-stars-and-time.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "In_Stars_and_Time_Wiki"
+[[en.origin]]
+name = "In Stars and Time Fandom Wiki"
+url = "in-stars-and-time.fandom.com"
+mainpage = "In_Stars_and_Time_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "In Stars and Time Wiki"
+host = "wiki.gg"
+url = "instarsandtime.wiki.gg"
+platform = "mediawiki"
+icon = "instarsandtimewiki.png"
+mainpage = "In_Stars_and_Time_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

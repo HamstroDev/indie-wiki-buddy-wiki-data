@@ -1,16 +1,19 @@
 [en]
-origins_label = "Picross Fandom Wiki"
-destination = "Picross Wiki"
-destination_base_url = "picross.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "picrosswiki.png"
-destination_main_page = "Picross_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Picross"
+icon = "picrosswiki.png"
 
-[[en.origins]]
-origin = "Picross Fandom Wiki"
-origin_base_url = "picross.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Picross_Wiki"
+[[en.origin]]
+name = "Picross Fandom Wiki"
+url = "picross.fandom.com"
+mainpage = "Picross_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Picross Wiki"
+host = "Miraheze"
+url = "picross.miraheze.org"
+platform = "mediawiki"
+icon = "picrosswiki.png"
+mainpage = "Picross_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

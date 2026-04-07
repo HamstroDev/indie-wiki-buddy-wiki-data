@@ -1,21 +1,24 @@
 [en]
-origins_label = "MapleStory Fandom & Neoseeker Wikis"
-destination = "MapleStory Wiki"
-destination_base_url = "maplestorywiki.net"
-destination_platform = "mediawiki"
-destination_icon = "maplestory.png"
-destination_main_page = "MapleStory_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "MapleStory"
+icon = "maplestory.png"
 
-[[en.origins]]
-origin = "MapleWiki Fandom Wiki"
-origin_base_url = "maplestory.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Template:MapleWiki"
+[[en.origin]]
+name = "MapleWiki Fandom Wiki"
+url = "maplestory.fandom.com"
+mainpage = "Template:MapleWiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "MapleStory Wiki - Neoseeker"
-origin_base_url = "maplestory.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "MapleStory Wiki - Neoseeker"
+url = "maplestory.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MapleStory Wiki"
+url = "maplestorywiki.net"
+platform = "mediawiki"
+icon = "maplestory.png"
+mainpage = "MapleStory_Wiki"
+search-path = "/index.php"
+content-path = "/w/"

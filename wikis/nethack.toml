@@ -1,15 +1,18 @@
 [en]
-origins_label = "NetHack Fandom Wiki"
-destination = "NetHackWiki"
-destination_base_url = "nethackwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "nethack.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "NetHack"
+icon = "nethack.png"
 
-[[en.origins]]
-origin = "NetHack Fandom Wiki"
-origin_base_url = "nethack.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "NetHack Fandom Wiki"
+url = "nethack.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "NetHackWiki"
+url = "nethackwiki.com"
+platform = "mediawiki"
+icon = "nethack.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

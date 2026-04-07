@@ -1,19 +1,22 @@
 [en]
-origins_label = "Terraria Starlight River Fandom Wiki"
-destination = "Terraria Starlight River Mod Wiki"
-destination_base_url = "starlightrivermod.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "starlightrivermodwiki.png"
-destination_main_page = "Starlight_River_Mod_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Terraria Starlight River"
+icon = "starlightrivermodwiki.png"
+
+[[en.origin]]
+name = "Terraria Starlight River Fandom Wiki"
+url = "terraria-starlight-river.fandom.com"
+mainpage = "Terraria_Starlight_River_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Terraria Starlight River Mod Wiki"
+host = "wiki.gg"
+url = "starlightrivermod.wiki.gg"
+platform = "mediawiki"
+icon = "starlightrivermodwiki.png"
+mainpage = "Starlight_River_Mod_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Terraria Starlight River Fandom Wiki"
-origin_base_url = "terraria-starlight-river.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Starlight_River_Wiki"

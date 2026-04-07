@@ -1,15 +1,18 @@
 [en]
-origins_label = "Severance Fandom Wiki"
-destination = "Severance Wiki"
-destination_base_url = "severance.wiki"
-destination_platform = "dokuwiki"
-destination_icon = "severancewiki.png"
-destination_main_page = "Start"
-destination_search_path = "/doku.php"
-destination_content_path = "/"
+name = "Severance"
+icon = "severancewiki.png"
 
-[[en.origins]]
-origin = "Severance Fandom Wiki"
-origin_base_url = "severance-tv.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Severance_Wiki"
+[[en.origin]]
+name = "Severance Fandom Wiki"
+url = "severance-tv.fandom.com"
+mainpage = "Severance_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Severance Wiki"
+url = "severance.wiki"
+platform = "dokuwiki"
+icon = "severancewiki.png"
+mainpage = "Start"
+search-path = "/doku.php"
+content-path = "/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Space Station 13 Fandom Wiki"
-destination = "Space Station 13 Wiki"
-destination_base_url = "wiki.ss13.co"
-destination_platform = "mediawiki"
-destination_icon = "spacestation13wiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Space Station 13"
+icon = "spacestation13wiki.png"
 
-[[en.origins]]
-origin = "Space Station 13 Fandom Wiki"
-origin_base_url = "spacestation13.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Space_Station_13_Wiki"
+[[en.origin]]
+name = "Space Station 13 Fandom Wiki"
+url = "spacestation13.fandom.com"
+mainpage = "Space_Station_13_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Space Station 13 Wiki"
+url = "wiki.ss13.co"
+platform = "mediawiki"
+icon = "spacestation13wiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

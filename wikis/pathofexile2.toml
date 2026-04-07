@@ -1,24 +1,27 @@
 [en]
-origins_label = "Path of Exile 2 Wikis"
-destination = "Path of Exile 2 Wiki"
-destination_base_url = "www.poe2wiki.net"
-destination_platform = "mediawiki"
-destination_icon = "pathofexile2.png"
-destination_main_page = "Path_of_Exile_2_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Path of Exile 2 Wikis"
+icon = "pathofexile2.png"
+
+[[en.origin]]
+name = "Path of Exile 2 Fextralife Wiki"
+url = "pathofexile2.wiki.fextralife.com"
+mainpage = "Path of Exile 2 Wiki"
+content-path = "/"
+
+[[en.origin]]
+name = "Path of Exile 2 Fandom Wiki"
+url = "path-of-exile-2.fandom.com"
+mainpage = "Path_of_Exile_2_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Path of Exile 2 Wiki"
+url = "www.poe2wiki.net"
+platform = "mediawiki"
+icon = "pathofexile2.png"
+mainpage = "Path_of_Exile_2_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Path of Exile 2 Fextralife Wiki"
-origin_base_url = "pathofexile2.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Path of Exile 2 Wiki"
-
-[[en.origins]]
-origin = "Path of Exile 2 Fandom Wiki"
-origin_base_url = "path-of-exile-2.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Path_of_Exile_2_Wiki"

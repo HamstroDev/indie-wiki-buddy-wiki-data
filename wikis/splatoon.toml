@@ -1,47 +1,56 @@
 [es]
-origins_label = "Splatoon Fandom Wiki"
-destination = "Inkipedia ES"
-destination_base_url = "es.splatoonwiki.org"
-destination_platform = "mediawiki"
-destination_icon = "inkipedia.png"
-destination_main_page = "Página_principal"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Splatoon"
+icon = "inkipedia.png"
 
-[[es.origins]]
-origin = "Splatoon Fandom Wiki"
-origin_base_url = "splatoon.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Splatoon_Wiki"
+[[es.origin]]
+name = "Splatoon Fandom Wiki"
+url = "splatoon.fandom.com/es"
+mainpage = "Splatoon_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Inkipedia ES"
+url = "es.splatoonwiki.org"
+platform = "mediawiki"
+icon = "inkipedia.png"
+mainpage = "Página_principal"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [en]
-origins_label = "Splatoon Fandom Wiki"
-destination = "Inkipedia"
-destination_base_url = "splatoonwiki.org"
-destination_platform = "mediawiki"
-destination_icon = "inkipedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Splatoon"
+icon = "inkipedia.png"
 
-[[en.origins]]
-origin = "Splatoon Fandom Wiki"
-origin_base_url = "splatoon.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Splatoon_Wiki"
+[[en.origin]]
+name = "Splatoon Fandom Wiki"
+url = "splatoon.fandom.com"
+mainpage = "Splatoon_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Inkipedia"
+url = "splatoonwiki.org"
+platform = "mediawiki"
+icon = "inkipedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 
 [fr]
-origins_label = "Splatoon Fandom Wiki"
-destination = "Inkipédia"
-destination_base_url = "fr.splatoonwiki.org"
-destination_platform = "mediawiki"
-destination_icon = "inkipedia.png"
-destination_main_page = "Accueil"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Splatoon"
+icon = "inkipedia.png"
 
-[[fr.origins]]
-origin = "Splatoon Fandom Wiki"
-origin_base_url = "splatoon.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Splatoon"
+[[fr.origin]]
+name = "Splatoon Fandom Wiki"
+url = "splatoon.fandom.com/fr"
+mainpage = "Wiki_Splatoon"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Inkipédia"
+url = "fr.splatoonwiki.org"
+platform = "mediawiki"
+icon = "inkipedia.png"
+mainpage = "Accueil"
+search-path = "/w/index.php"
+content-path = "/wiki/"

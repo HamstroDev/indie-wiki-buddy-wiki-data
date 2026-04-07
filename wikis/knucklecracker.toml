@@ -1,15 +1,18 @@
 [en]
-origins_label = "Knuckle Cracker Fandom Wiki"
-destination = "Knuckle Cracker Wiki"
-destination_base_url = "knucklecracker.com"
-destination_platform = "dokuwiki"
-destination_icon = "knucklecrackerwiki.png"
-destination_main_page = "start"
-destination_search_path = "/wiki/doku.php"
-destination_content_path = "/wiki/doku.php?id="
+name = "Knuckle Cracker"
+icon = "knucklecrackerwiki.png"
 
-[[en.origins]]
-origin = "Knuckle Cracker Fandom Wiki"
-origin_base_url = "knucklecracker.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Knuckle_Cracker_Wiki"
+[[en.origin]]
+name = "Knuckle Cracker Fandom Wiki"
+url = "knucklecracker.fandom.com"
+mainpage = "Knuckle_Cracker_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Knuckle Cracker Wiki"
+url = "knucklecracker.com"
+platform = "dokuwiki"
+icon = "knucklecrackerwiki.png"
+mainpage = "start"
+search-path = "/wiki/doku.php"
+content-path = "/wiki/doku.php?id="

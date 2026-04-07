@@ -1,15 +1,18 @@
 [en]
-origins_label = "Shroud of the Avatar Fandom Wiki"
-destination = "SotAwiki"
-destination_base_url = "sotawiki.net"
-destination_platform = "mediawiki"
-destination_icon = "sotawiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/sota/"
+name = "Shroud of the Avatar"
+icon = "sotawiki.png"
 
-[[en.origins]]
-origin = "Shroud of the Avatar Fandom Wiki"
-origin_base_url = "shroudoftheavatar.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Shroud_of_the_Avatar_Wiki"
+[[en.origin]]
+name = "Shroud of the Avatar Fandom Wiki"
+url = "shroudoftheavatar.fandom.com"
+mainpage = "Shroud_of_the_Avatar_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SotAwiki"
+url = "sotawiki.net"
+platform = "mediawiki"
+icon = "sotawiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/sota/"

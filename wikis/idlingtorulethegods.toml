@@ -1,16 +1,19 @@
 [en]
-origins_label = "Idling to Rule the Gods Fandom Wiki"
-destination = "Idling to Rule the Gods Wiki"
-destination_base_url = "itrtg.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "idlingtorulethegodswiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Idling to Rule the Gods"
+icon = "idlingtorulethegodswiki.png"
 
-[[en.origins]]
-origin = "Idling to Rule the Gods Fandom Wiki"
-origin_base_url = "idling-to-rule-the-gods.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Idling_to_Rule_the_Gods_Wiki"
+[[en.origin]]
+name = "Idling to Rule the Gods Fandom Wiki"
+url = "idling-to-rule-the-gods.fandom.com"
+mainpage = "Idling_to_Rule_the_Gods_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Idling to Rule the Gods Wiki"
+host = "wiki.gg"
+url = "itrtg.wiki.gg"
+platform = "mediawiki"
+icon = "idlingtorulethegodswiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

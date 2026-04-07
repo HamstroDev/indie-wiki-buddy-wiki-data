@@ -1,15 +1,18 @@
 [en]
-origins_label = "Voidscape Fandom Wiki"
-destination = "Voidscape Wiki"
-destination_base_url = "voidscape.tamaized.com"
-destination_platform = "mediawiki"
-destination_icon = "voidscape.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Voidscape"
+icon = "voidscape.png"
 
-[[en.origins]]
-origin = "Voidscape Fandom Wiki"
-origin_base_url = "voidscape.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Voidscape_Wiki"
+[[en.origin]]
+name = "Voidscape Fandom Wiki"
+url = "voidscape.fandom.com"
+mainpage = "Voidscape_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Voidscape Wiki"
+url = "voidscape.tamaized.com"
+platform = "mediawiki"
+icon = "voidscape.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Pathologic Fandom Wiki"
-destination = "Pathologic Wiki"
-destination_base_url = "pathologic.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "pathologicwiki.png"
-destination_main_page = "Pathologic_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Pathologic"
+icon = "pathologicwiki.png"
 
-[[en.origins]]
-origin = "Pathologic Fandom Wiki"
-origin_base_url = "pathologic.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pathologic_Wiki"
+[[en.origin]]
+name = "Pathologic Fandom Wiki"
+url = "pathologic.fandom.com"
+mainpage = "Pathologic_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Pathologic Wiki"
+host = "wiki.gg"
+url = "pathologic.wiki.gg"
+platform = "mediawiki"
+icon = "pathologicwiki.png"
+mainpage = "Pathologic_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

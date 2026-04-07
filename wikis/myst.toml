@@ -1,15 +1,18 @@
 [en]
-origins_label = "D'ni Fandom Wiki"
-destination = "Guild of Archivists Wiki"
-destination_base_url = "archive.guildofarchivists.org"
-destination_platform = "mediawiki"
-destination_icon = "guildofarchivists.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "D'ni"
+icon = "guildofarchivists.png"
 
-[[en.origins]]
-origin = "D'ni Fandom Wiki"
-origin_base_url = "dni.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "D'ni_Wiki"
+[[en.origin]]
+name = "D'ni Fandom Wiki"
+url = "dni.fandom.com"
+mainpage = "D'ni_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Guild of Archivists Wiki"
+url = "archive.guildofarchivists.org"
+platform = "mediawiki"
+icon = "guildofarchivists.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,22 +1,25 @@
 [en]
-origins_label = "Content Warning Fandom Wikis"
-destination = "Content Warning Wiki"
-destination_base_url = "contentwarning.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "contentwarningwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Content Warning"
+icon = "contentwarningwiki.png"
 
-[[en.origins]]
-origin = "Content Warning Fandom Wiki"
-origin_base_url = "content-warning.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Content_Warning_Wiki"
+[[en.origin]]
+name = "Content Warning Fandom Wiki"
+url = "content-warning.fandom.com"
+mainpage = "Content_Warning_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Content Warning Landfall Fandom Wiki"
-origin_base_url = "content-warning-landfall.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Content_Warning_Wiki"
+[[en.origin]]
+name = "Content Warning Landfall Fandom Wiki"
+url = "content-warning-landfall.fandom.com"
+mainpage = "Content_Warning_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Content Warning Wiki"
+host = "wiki.gg"
+url = "contentwarning.wiki.gg"
+platform = "mediawiki"
+icon = "contentwarningwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

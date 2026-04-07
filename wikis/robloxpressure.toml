@@ -1,25 +1,28 @@
 [en]
-origins_label = "Pressure Fandom Wikis"
-destination = "Pressure Wiki"
-destination_base_url = "urbanshade.org"
-destination_platform = "mediawiki"
-destination_icon = "pressurewiki.png"
-destination_main_page = "Pressure_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Pressure"
+icon = "pressurewiki.png"
+
+[[en.origin]]
+name = "Pressure Fandom Wiki"
+url = "pressure.fandom.com"
+mainpage = "Pressure_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "Pressure Roblox Fandom Wiki"
+url = "pressure-roblox.fandom.com"
+mainpage = "Pressure_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Pressure Wiki"
+host = "Miraheze"
+url = "urbanshade.org"
+platform = "mediawiki"
+icon = "pressurewiki.png"
+mainpage = "Pressure_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Pressure Fandom Wiki"
-origin_base_url = "pressure.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pressure_Wiki"
-
-[[en.origins]]
-origin = "Pressure Roblox Fandom Wiki"
-origin_base_url = "pressure-roblox.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pressure_Wiki"

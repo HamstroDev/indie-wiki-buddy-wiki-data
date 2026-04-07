@@ -1,18 +1,21 @@
 [en]
-origins_label = "SiIvaGunner Fandom Wiki"
-destination = "SiIvaGunner Wiki"
-destination_base_url = "siivagunner.wiki"
-destination_platform = "mediawiki"
-destination_icon = "siivagunner.png"
-destination_main_page = "SiIvaGunner_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "SiIvaGunner"
+icon = "siivagunner.png"
+
+[[en.origin]]
+name = "SiIvagunner Fandom Wiki"
+url = "siivagunner.fandom.com"
+mainpage = "SiIvaGunner_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "SiIvaGunner Wiki"
+url = "siivagunner.wiki"
+platform = "mediawiki"
+icon = "siivagunner.png"
+mainpage = "SiIvaGunner_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "SiIvagunner Fandom Wiki"
-origin_base_url = "siivagunner.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "SiIvaGunner_Wiki"

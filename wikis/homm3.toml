@@ -1,15 +1,18 @@
 [en]
-origins_label = "Heroes III Fandom Wiki"
-destination = "Heroes III Wiki"
-destination_base_url = "heroes.thelazy.net"
-destination_platform = "mediawiki"
-destination_icon = "heroes3wiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Heroes III"
+icon = "heroes3wiki.png"
 
-[[en.origins]]
-origin = "Heroes III Fandom Wiki"
-origin_base_url = "homm.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Heroes III Fandom Wiki"
+url = "homm.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Heroes III Wiki"
+url = "heroes.thelazy.net"
+platform = "mediawiki"
+icon = "heroes3wiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

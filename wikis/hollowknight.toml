@@ -1,27 +1,30 @@
 [en]
-origins_label = "Hollow Knight Fandom & Fextra Wikis"
-destination = "Hollow Knight Wiki"
-destination_base_url = "hollowknight.wiki"
-destination_platform = "mediawiki"
-destination_icon = "hollowknight.png"
-destination_main_page = "Hollow_Knight_Wiki"
-destination_search_path = "/mw/index.php"
-destination_content_path = "/w/"
+name = "Hollow Knight"
+icon = "hollowknight.png"
 
-[[en.origins]]
-origin = "Hollow Knight Fandom Wiki"
-origin_base_url = "hollowknight.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hollow_Knight_Wiki"
+[[en.origin]]
+name = "Hollow Knight Fandom Wiki"
+url = "hollowknight.fandom.com"
+mainpage = "Hollow_Knight_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Hollow Knight Fextralife Wiki"
-origin_base_url = "hollowknight.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Hollow Knight Wiki"
+[[en.origin]]
+name = "Hollow Knight Fextralife Wiki"
+url = "hollowknight.wiki.fextralife.com"
+mainpage = "Hollow Knight Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Hollow Knight Silksong Fextralife Wiki"
-origin_base_url = "hollowknightsilksong.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Hollow Knight Silksong Wiki"
+[[en.origin]]
+name = "Hollow Knight Silksong Fextralife Wiki"
+url = "hollowknightsilksong.wiki.fextralife.com"
+mainpage = "Hollow Knight Silksong Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Hollow Knight Wiki"
+url = "hollowknight.wiki"
+platform = "mediawiki"
+icon = "hollowknight.png"
+mainpage = "Hollow_Knight_Wiki"
+search-path = "/mw/index.php"
+content-path = "/w/"

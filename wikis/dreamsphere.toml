@@ -1,19 +1,22 @@
 [en]
-origins_label = "Dreamsphere Fandom Wiki"
-destination = "Dreamsphere Wiki"
-destination_base_url = "dreamsphere.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "dreamsphere.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Dreamsphere"
+icon = "dreamsphere.png"
+
+[[en.origin]]
+name = "Dreamsphere Fandom Wiki"
+url = "dreamsphere.fandom.com"
+mainpage = "Dreamsphere_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dreamsphere Wiki"
+host = "Miraheze"
+url = "dreamsphere.miraheze.org"
+platform = "mediawiki"
+icon = "dreamsphere.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Dreamsphere Fandom Wiki"
-origin_base_url = "dreamsphere.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dreamsphere_Wiki"

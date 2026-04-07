@@ -1,67 +1,79 @@
 [en]
-origins_label = "Ace Combat Fandom Wiki"
-destination = "Ace Combat Wiki"
-destination_base_url = "acecombat.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "acecombatwiki.png"
-destination_main_page = "Ace_Combat_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Ace Combat"
+icon = "acecombatwiki.png"
 
-[[en.origins]]
-origin = "Ace Combat Fandom Wiki"
-origin_base_url = "acecombat.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Acepedia"
+[[en.origin]]
+name = "Ace Combat Fandom Wiki"
+url = "acecombat.fandom.com"
+mainpage = "Acepedia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Ace Combat Wiki"
+host = "wiki.gg"
+url = "acecombat.wiki.gg"
+platform = "mediawiki"
+icon = "acecombatwiki.png"
+mainpage = "Ace_Combat_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [pt]
-origins_label = "Ace Combat Fandom Wiki"
-destination = "Ace Combat Wiki"
-destination_base_url = "acecombat.wiki.gg/pt-br"
-destination_platform = "mediawiki"
-destination_icon = "acecombatwiki.png"
-destination_main_page = "Página_principal"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Ace Combat"
+icon = "acecombatwiki.png"
 
-[[pt.origins]]
-origin = "Ace Combat Fandom Wiki"
-origin_base_url = "acecombat.fandom.com/pt-br"
-origin_content_path = "/wiki/"
-origin_main_page = "Página_principal"
+[[pt.origin]]
+name = "Ace Combat Fandom Wiki"
+url = "acecombat.fandom.com/pt-br"
+mainpage = "Página_principal"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Ace Combat Wiki"
+host = "wiki.gg"
+url = "acecombat.wiki.gg/pt-br"
+platform = "mediawiki"
+icon = "acecombatwiki.png"
+mainpage = "Página_principal"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [ja]
-origins_label = "ACES Fandom Wiki"
-destination = "ACES WIKI"
-destination_base_url = "acecombat.wiki.gg/ja"
-destination_platform = "mediawiki"
-destination_icon = "aceswiki.png"
-destination_main_page = "ACES_WIKI"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "ACES"
+icon = "aceswiki.png"
 
-[[ja.origins]]
-origin = "ACES Fandom Wiki"
-origin_base_url = "acecombat.fandom.com/ja"
-origin_content_path = "/wiki/"
-origin_main_page = "ACES_WIKI"
+[[ja.origin]]
+name = "ACES Fandom Wiki"
+url = "acecombat.fandom.com/ja"
+mainpage = "ACES_WIKI"
+content-path = "/wiki/"
+
+[[ja.destination]]
+name = "ACES WIKI"
+host = "wiki.gg"
+url = "acecombat.wiki.gg/ja"
+platform = "mediawiki"
+icon = "aceswiki.png"
+mainpage = "ACES_WIKI"
+search-path = "/index.php"
+content-path = "/wiki/"
 
 [zh]
-origins_label = "空戰奇兵 Fandom Wiki"
-destination = "空戰奇兵 (Ace Combat) Wiki"
-destination_base_url = "acecombat.wiki.gg/zh"
-destination_platform = "mediawiki"
-destination_icon = "acecombatwiki.png"
-destination_main_page = "Ace_Combat_中文_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "空戰奇兵"
+icon = "acecombatwiki.png"
 
-[[zh.origins]]
-origin = "空戰奇兵 Fandom Wiki"
-origin_base_url = "acecombat.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "首頁"
+[[zh.origin]]
+name = "空戰奇兵 Fandom Wiki"
+url = "acecombat.fandom.com/zh"
+mainpage = "首頁"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "空戰奇兵 (Ace Combat) Wiki"
+host = "wiki.gg"
+url = "acecombat.wiki.gg/zh"
+platform = "mediawiki"
+icon = "acecombatwiki.png"
+mainpage = "Ace_Combat_中文_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

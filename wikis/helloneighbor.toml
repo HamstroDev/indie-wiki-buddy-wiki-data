@@ -1,16 +1,19 @@
 [en]
-origins_label = "Hello Neighbor Fandom Wiki"
-destination = "Hello Neighbor Wiki"
-destination_base_url = "helloneighbor.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "helloneighborwiki.png"
-destination_main_page = "Hello_Neighbor_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Hello Neighbor"
+icon = "helloneighborwiki.png"
 
-[[en.origins]]
-origin = "Hello Neighbor Fandom Wiki"
-origin_base_url = "hello-neighbor.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Hello_Neighbor_Wiki"
+[[en.origin]]
+name = "Hello Neighbor Fandom Wiki"
+url = "hello-neighbor.fandom.com"
+mainpage = "Hello_Neighbor_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Hello Neighbor Wiki"
+host = "wiki.gg"
+url = "helloneighbor.wiki.gg"
+platform = "mediawiki"
+icon = "helloneighborwiki.png"
+mainpage = "Hello_Neighbor_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

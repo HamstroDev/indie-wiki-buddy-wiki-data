@@ -1,16 +1,19 @@
 [en]
-origins_label = "Gex Fandom Wiki"
-destination = "Gexpedia"
-destination_base_url = "gexpedia.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "gexpedia.png"
-destination_main_page = "Gexpedia"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Gex"
+icon = "gexpedia.png"
 
-[[en.origins]]
-origin = "Gex Fandom Wiki"
-origin_base_url = "gex.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Gex_wiki"
+[[en.origin]]
+name = "Gex Fandom Wiki"
+url = "gex.fandom.com"
+mainpage = "Gex_wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Gexpedia"
+host = "Miraheze"
+url = "gexpedia.miraheze.org"
+platform = "mediawiki"
+icon = "gexpedia.png"
+mainpage = "Gexpedia"
+search-path = "/w/index.php"
+content-path = "/wiki/"

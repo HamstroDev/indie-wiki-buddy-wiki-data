@@ -1,36 +1,42 @@
 [en]
-origins_label = "Dead by Daylight Fandom Wiki"
-destination = "Dead by Daylight Wiki"
-destination_base_url = "deadbydaylight.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "deadbydaylightwiki.png"
-destination_main_page = "Dead_by_Daylight_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Dead by Daylight"
+icon = "deadbydaylightwiki.png"
+
+[[en.origin]]
+name = "Dead by Daylight Fandom Wiki"
+url = "deadbydaylight.fandom.com"
+mainpage = "Dead_by_Daylight_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dead by Daylight Wiki"
+host = "wiki.gg"
+url = "deadbydaylight.wiki.gg"
+platform = "mediawiki"
+icon = "deadbydaylightwiki.png"
+mainpage = "Dead_by_Daylight_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
 
-[[en.origins]]
-origin = "Dead by Daylight Fandom Wiki"
-origin_base_url = "deadbydaylight.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dead_by_Daylight_Wiki"
-
 [fr]
-origins_label = "Dead by Daylight Fandom Wiki"
-destination = "Dead by Daylight Wiki"
-destination_base_url = "deadbydaylight.wiki.gg/fr"
-destination_platform = "mediawiki"
-destination_icon = "wikideadbydaylight.png"
-destination_main_page = "Wiki_Dead_by_Daylight"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Dead by Daylight"
+icon = "wikideadbydaylight.png"
 
-[[fr.origins]]
-origin = "Dead by Daylight Fandom Wiki"
-origin_base_url = "deadbydaylight.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Dead_by_Daylight"
+[[fr.origin]]
+name = "Dead by Daylight Fandom Wiki"
+url = "deadbydaylight.fandom.com/fr"
+mainpage = "Wiki_Dead_by_Daylight"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Dead by Daylight Wiki"
+host = "wiki.gg"
+url = "deadbydaylight.wiki.gg/fr"
+platform = "mediawiki"
+icon = "wikideadbydaylight.png"
+mainpage = "Wiki_Dead_by_Daylight"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Critical Role Fandom Wiki"
-destination = "Critical Role Wiki"
-destination_base_url = "criticalrole.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "criticalrole.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Critical Role"
+icon = "criticalrole.png"
 
-[[en.origins]]
-origin = "Critical Role Fandom Wiki"
-origin_base_url = "criticalrole.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Critical_Role_Wiki"
+[[en.origin]]
+name = "Critical Role Fandom Wiki"
+url = "criticalrole.fandom.com"
+mainpage = "Critical_Role_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Critical Role Wiki"
+host = "Miraheze"
+url = "criticalrole.miraheze.org"
+platform = "mediawiki"
+icon = "criticalrole.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

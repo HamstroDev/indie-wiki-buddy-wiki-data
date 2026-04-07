@@ -1,16 +1,19 @@
 [en]
-origins_label = "Illusion Carnival Fandom Wiki"
-destination = "Illusion Carnival Wiki"
-destination_base_url = "illusioncarnival.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "illusioncarnivalwiki.png"
-destination_main_page = "Illusion_Carnival_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Illusion Carnival"
+icon = "illusioncarnivalwiki.png"
 
-[[en.origins]]
-origin = "Illusion Carnival Fandom Wiki"
-origin_base_url = "illusion-carnival.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Illusion_Carnival_Wiki"
+[[en.origin]]
+name = "Illusion Carnival Fandom Wiki"
+url = "illusion-carnival.fandom.com"
+mainpage = "Illusion_Carnival_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Illusion Carnival Wiki"
+host = "wiki.gg"
+url = "illusioncarnival.wiki.gg"
+platform = "mediawiki"
+icon = "illusioncarnivalwiki.png"
+mainpage = "Illusion_Carnival_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Legend of Galactic Heroes Fandom Wiki"
-destination = "Gineipaedia"
-destination_base_url = "gineipaedia.com"
-destination_platform = "mediawiki"
-destination_icon = "gineipaedia.png"
-destination_main_page = "Portal:Main"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Legend of Galactic Heroes"
+icon = "gineipaedia.png"
 
-[[en.origins]]
-origin = "Legend of Galactic Heroes Fandom Wiki"
-origin_base_url = "legendofthegalacticheroes.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Legend_of_Galactic_Heroes_Wiki"
+[[en.origin]]
+name = "Legend of Galactic Heroes Fandom Wiki"
+url = "legendofthegalacticheroes.fandom.com"
+mainpage = "Legend_of_Galactic_Heroes_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Gineipaedia"
+url = "gineipaedia.com"
+platform = "mediawiki"
+icon = "gineipaedia.png"
+mainpage = "Portal:Main"
+search-path = "/w/index.php"
+content-path = "/wiki/"

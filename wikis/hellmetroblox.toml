@@ -1,16 +1,19 @@
 [en]
-origins_label = "HELLMET Fandom Wiki"
-destination = "Hellmet Wiki"
-destination_base_url = "hellmet.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "hellmetwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "HELLMET"
+icon = "hellmetwiki.png"
 
-[[en.origins]]
-origin = "HELLMET Fandom Wiki"
-origin_base_url = "hellmet-roblox.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "HELLMET_Fandom"
+[[en.origin]]
+name = "HELLMET Fandom Wiki"
+url = "hellmet-roblox.fandom.com"
+mainpage = "HELLMET_Fandom"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Hellmet Wiki"
+host = "Miraheze"
+url = "hellmet.miraheze.org"
+platform = "mediawiki"
+icon = "hellmetwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

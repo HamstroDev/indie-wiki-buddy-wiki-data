@@ -1,15 +1,18 @@
 [en]
-origins_label = "Magic: The Gathering Fandom Wiki"
-destination = "MTG Wiki"
-destination_base_url = "mtg.wiki"
-destination_platform = "mediawiki"
-destination_icon = "mtgwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/page/"
+name = "Magic: The Gathering"
+icon = "mtgwiki.png"
 
-[[en.origins]]
-origin = "Magic: The Gathering Fandom Wiki"
-origin_base_url = "mtg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Magic: The Gathering Fandom Wiki"
+url = "mtg.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MTG Wiki"
+url = "mtg.wiki"
+platform = "mediawiki"
+icon = "mtgwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/page/"

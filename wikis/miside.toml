@@ -1,16 +1,19 @@
 [en]
-origins_label = "MiSide Fandom Wiki"
-destination = "MiSide Wiki"
-destination_base_url = "miside.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "misidewiki.png"
-destination_main_page = "MiSide_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "MiSide"
+icon = "misidewiki.png"
 
-[[en.origins]]
-origin = "MiSide Fandom Wiki"
-origin_base_url = "miside.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "MiSide_Wiki"
+[[en.origin]]
+name = "MiSide Fandom Wiki"
+url = "miside.fandom.com"
+mainpage = "MiSide_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MiSide Wiki"
+host = "wiki.gg"
+url = "miside.wiki.gg"
+platform = "mediawiki"
+icon = "misidewiki.png"
+mainpage = "MiSide_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Deadlock Fandom Wiki"
-destination = "Deadlock Wiki"
-destination_base_url = "deadlock.wiki"
-destination_platform = "mediawiki"
-destination_icon = "deadlock.png"
-destination_main_page = "Deadlock_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Deadlock"
+icon = "deadlock.png"
 
-[[en.origins]]
-origin = "Deadlock Fandom Wiki"
-origin_base_url = "playdeadlock.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Deadlock_Wiki"
+[[en.origin]]
+name = "Deadlock Fandom Wiki"
+url = "playdeadlock.fandom.com"
+mainpage = "Deadlock_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Deadlock Wiki"
+url = "deadlock.wiki"
+platform = "mediawiki"
+icon = "deadlock.png"
+mainpage = "Deadlock_Wiki"
+search-path = "/index.php"
+content-path = "/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Project Wingman Fandom Wiki"
-destination = "Project Wingman Wiki"
-destination_base_url = "projectwingman.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "projectwingmanwiki.png"
-destination_main_page = "Project_Wingman_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Project Wingman"
+icon = "projectwingmanwiki.png"
 
-[[en.origins]]
-origin = "Project Wingman Fandom Wiki"
-origin_base_url = "projectwingman.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Project_Wingman_Wiki"
+[[en.origin]]
+name = "Project Wingman Fandom Wiki"
+url = "projectwingman.fandom.com"
+mainpage = "Project_Wingman_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Project Wingman Wiki"
+host = "wiki.gg"
+url = "projectwingman.wiki.gg"
+platform = "mediawiki"
+icon = "projectwingmanwiki.png"
+mainpage = "Project_Wingman_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

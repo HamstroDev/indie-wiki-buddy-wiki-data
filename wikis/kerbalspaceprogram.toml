@@ -1,38 +1,43 @@
 [en]
-origins_label = "Kerbal Space Program Fandom Wiki"
-destination = "Kerbal Space Program Wiki"
-destination_base_url = "wiki.kerbalspaceprogram.com"
-destination_platform = "mediawiki"
-destination_icon = "kerbalspaceprogramwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Kerbal Space Program"
+icon = "kerbalspaceprogramwiki.png"
+
+[[en.origin]]
+name = "Kerbal Space Program Fandom Wiki"
+url = "kerbalspaceprogram.fandom.com"
+mainpage = "Kerbal_Space_Program_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Kerbal Space Program Wiki"
+url = "wiki.kerbalspaceprogram.com"
+platform = "mediawiki"
+icon = "kerbalspaceprogramwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Kerbal Space Program Fandom Wiki"
-origin_base_url = "kerbalspaceprogram.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Kerbal_Space_Program_Wiki"
 
 [fr]
-origins_label = "Kerbal Space Program Fandom Wiki"
-destination = "Kerbal Space Program Wiki"
-destination_base_url = "wiki.kerbalspaceprogram.com"
-destination_content_suffix = "/fr"
-destination_platform = "mediawiki"
-destination_icon = "kerbalspaceprogramwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Kerbal Space Program"
+icon = "kerbalspaceprogramwiki.png"
+
+[[fr.origin]]
+name = "Kerbal Space Program Fandom Wiki"
+url = "kerbalspaceprogram.fandom.com/fr"
+mainpage = "Wiki_KerbalSpaceProgram"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Kerbal Space Program Wiki"
+url = "wiki.kerbalspaceprogram.com"
+platform = "mediawiki"
+icon = "kerbalspaceprogramwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[fr.origins]]
-origin = "Kerbal Space Program Fandom Wiki"
-origin_base_url = "kerbalspaceprogram.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_KerbalSpaceProgram"

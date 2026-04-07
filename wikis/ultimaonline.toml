@@ -1,15 +1,18 @@
 [en]
-origins_label = "Ultima Online Fandom Wiki"
-destination = "UOGuide"
-destination_base_url = "www.uoguide.com"
-destination_platform = "mediawiki"
-destination_icon = "uoguide.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Ultima Online"
+icon = "uoguide.png"
 
-[[en.origins]]
-origin = "Ultima Online Fandom Wiki"
-origin_base_url = "ultimaonline.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Ultima_Online_Wiki"
+[[en.origin]]
+name = "Ultima Online Fandom Wiki"
+url = "ultimaonline.fandom.com"
+mainpage = "Ultima_Online_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "UOGuide"
+url = "www.uoguide.com"
+platform = "mediawiki"
+icon = "uoguide.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

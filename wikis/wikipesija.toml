@@ -1,15 +1,18 @@
 [tok]
-origins_label = "Toki Pona Fandom Wiki"
-destination = "Wikipesija"
-destination_base_url = "tok.wikipedia.org"
-destination_platform = "mediawiki"
-destination_icon = "wikipesija.png"
-destination_main_page = "lipu_open"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Toki Pona"
+icon = "wikipesija.png"
 
-[[tok.origins]]
-origin = "Toki Pona Fandom Wiki"
-origin_base_url = "tokipona.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "lipu_lawa"
+[[tok.origin]]
+name = "Toki Pona Fandom Wiki"
+url = "tokipona.fandom.com"
+mainpage = "lipu_lawa"
+content-path = "/wiki/"
+
+[[tok.destination]]
+name = "Wikipesija"
+url = "tok.wikipedia.org"
+platform = "mediawiki"
+icon = "wikipesija.png"
+mainpage = "lipu_open"
+search-path = "/w/index.php"
+content-path = "/wiki/"

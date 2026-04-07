@@ -1,79 +1,91 @@
 [ru]
-origins_label = "Calamity Mod Fandom Wiki"
-destination = "Calamity Mod Wiki"
-destination_base_url = "calamitymod.wiki.gg/ru"
-destination_platform = "mediawiki"
-destination_icon = "calamitymodwiki.png"
-destination_main_page = "Calamity_Mod_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Calamity Mod"
+icon = "calamitymodwiki.png"
+
+[[ru.origin]]
+name = "Calamity Mod Fandom Wiki"
+url = "terraria-calamity-mod.fandom.com/ru"
+mainpage = "Terraria_Calamity_Mod_вики"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "Calamity Mod Wiki"
+host = "wiki.gg"
+url = "calamitymod.wiki.gg/ru"
+platform = "mediawiki"
+icon = "calamitymodwiki.png"
+mainpage = "Calamity_Mod_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[ru.origins]]
-origin = "Calamity Mod Fandom Wiki"
-origin_base_url = "terraria-calamity-mod.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Calamity_Mod_вики"
 
 [es]
-origins_label = "Calamity Mod Fandom Wiki"
-destination = "Wiki Calamity Mod Oficial"
-destination_base_url = "calamitymod.wiki.gg/es"
-destination_platform = "mediawiki"
-destination_icon = "wikicalamitymodoficial.png"
-destination_main_page = "Wiki_Calamity_Mod_en_Español"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Calamity Mod"
+icon = "wikicalamitymodoficial.png"
+
+[[es.origin]]
+name = "Calamity Mod Fandom Wiki"
+url = "calamitymod.fandom.com/es"
+mainpage = "Wiki_Calamity_Mod"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "Wiki Calamity Mod Oficial"
+host = "wiki.gg"
+url = "calamitymod.wiki.gg/es"
+platform = "mediawiki"
+icon = "wikicalamitymodoficial.png"
+mainpage = "Wiki_Calamity_Mod_en_Español"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[es.origins]]
-origin = "Calamity Mod Fandom Wiki"
-origin_base_url = "calamitymod.fandom.com/es"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Calamity_Mod"
 
 [en]
-origins_label = "Calamity Mod Fandom Wiki"
-destination = "Calamity Mod Wiki"
-destination_base_url = "calamitymod.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "calamitymodwiki.png"
-destination_main_page = "Calamity_Mod_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Calamity Mod"
+icon = "calamitymodwiki.png"
+
+[[en.origin]]
+name = "Calamity Mod Fandom Wiki"
+url = "calamitymod.fandom.com"
+mainpage = "Calamity_Mod_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Calamity Mod Wiki"
+host = "wiki.gg"
+url = "calamitymod.wiki.gg"
+platform = "mediawiki"
+icon = "calamitymodwiki.png"
+mainpage = "Calamity_Mod_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Calamity Mod Fandom Wiki"
-origin_base_url = "calamitymod.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Calamity_Mod_Wiki"
 
 [zh]
-origins_label = "Calamity Mod Fandom Wiki"
-destination = "Calamity Mod Wiki"
-destination_base_url = "calamitymod.wiki.gg/zh"
-destination_platform = "mediawiki"
-destination_icon = "calamitymodwiki.png"
-destination_main_page = "Calamity_Mod_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Calamity Mod"
+icon = "calamitymodwiki.png"
+
+[[zh.origin]]
+name = "Calamity Mod Fandom Wiki"
+url = "terraria-calamity-mod.fandom.com/zh"
+mainpage = "Terraria_Calamity_Mod_中文_Wiki"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Calamity Mod Wiki"
+host = "wiki.gg"
+url = "calamitymod.wiki.gg/zh"
+platform = "mediawiki"
+icon = "calamitymodwiki.png"
+mainpage = "Calamity_Mod_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[zh.origins]]
-origin = "Calamity Mod Fandom Wiki"
-origin_base_url = "terraria-calamity-mod.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Terraria_Calamity_Mod_中文_Wiki"

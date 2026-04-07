@@ -1,19 +1,22 @@
 [en]
-origins_label = "Empire of Sin Fandom Wiki"
-destination = "Empire of Sin Wiki"
-destination_base_url = "eos.paradoxwikis.com"
-destination_platform = "mediawiki"
-destination_icon = "empireofsin.png"
-destination_main_page = "Empire_of_Sin_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
-destination_host = "Paradox"
+name = "Empire of Sin"
+icon = "empireofsin.png"
+
+[[en.origin]]
+name = "EmpireOfSin Fandom Wiki"
+url = "empireofsin.fandom.com"
+mainpage = "EmpireOfSin_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Empire of Sin Wiki"
+host = "Paradox"
+url = "eos.paradoxwikis.com"
+platform = "mediawiki"
+icon = "empireofsin.png"
+mainpage = "Empire_of_Sin_Wiki"
+search-path = "/index.php"
+content-path = "/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "EmpireOfSin Fandom Wiki"
-origin_base_url = "empireofsin.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "EmpireOfSin_Wiki"

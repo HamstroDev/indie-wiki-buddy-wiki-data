@@ -1,16 +1,19 @@
 [en]
-origins_label = "Blade & Sorcery Fandom Wiki"
-destination = "Blade & Sorcery Wiki"
-destination_base_url = "bladeandsorcery.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "bladeandsorcery.png"
-destination_main_page = "Blade_%26_Sorcery_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Blade & Sorcery"
+icon = "bladeandsorcery.png"
 
-[[en.origins]]
-origin = "Blade & Sorcery Fandom Wiki"
-origin_base_url = "blade-and-sorcery.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Blade_and_Sorcery_Wiki"
+[[en.origin]]
+name = "Blade & Sorcery Fandom Wiki"
+url = "blade-and-sorcery.fandom.com"
+mainpage = "Blade_and_Sorcery_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Blade & Sorcery Wiki"
+host = "wiki.gg"
+url = "bladeandsorcery.wiki.gg"
+platform = "mediawiki"
+icon = "bladeandsorcery.png"
+mainpage = "Blade_%26_Sorcery_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

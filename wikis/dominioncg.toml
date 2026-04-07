@@ -1,21 +1,24 @@
 [en]
-origins_label = "Dominion (Card Game) Fandom Wikis"
-destination = "Dominion Strategy Wiki"
-destination_base_url = "wiki.dominionstrategy.com"
-destination_platform = "mediawiki"
-destination_icon = "dominionstrategywiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/index.php/"
+name = "Dominion (Card Game)"
+icon = "dominionstrategywiki.png"
 
-[[en.origins]]
-origin = "Dominion (Card Game) Fandom Wiki"
-origin_base_url = "dominioncg.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dominion_Card_Game"
+[[en.origin]]
+name = "Dominion (Card Game) Fandom Wiki"
+url = "dominioncg.fandom.com"
+mainpage = "Dominion_Card_Game"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Dominion Strategy Fandom Wiki"
-origin_base_url = "dominionstrategy.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Dominion Strategy Fandom Wiki"
+url = "dominionstrategy.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dominion Strategy Wiki"
+url = "wiki.dominionstrategy.com"
+platform = "mediawiki"
+icon = "dominionstrategywiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/index.php/"

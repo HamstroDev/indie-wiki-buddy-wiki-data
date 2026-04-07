@@ -1,15 +1,18 @@
 [en]
-origins_label = "Weezer Fandom Wiki"
-destination = "Weezerpedia"
-destination_base_url = "www.weezerpedia.com"
-destination_platform = "mediawiki"
-destination_icon = "weezerpedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Weezer"
+icon = "weezerpedia.png"
 
-[[en.origins]]
-origin = "Weezer Fandom Wiki"
-origin_base_url = "weezer.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Weezer_Wiki"
+[[en.origin]]
+name = "Weezer Fandom Wiki"
+url = "weezer.fandom.com"
+mainpage = "Weezer_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Weezerpedia"
+url = "www.weezerpedia.com"
+platform = "mediawiki"
+icon = "weezerpedia.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

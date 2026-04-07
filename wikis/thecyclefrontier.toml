@@ -1,15 +1,18 @@
 [en]
-origins_label = "The Cycle: Frontier Fandom Wiki"
-destination = "The Cycle: Frontier Wiki"
-destination_base_url = "thecyclefrontier.wiki"
-destination_platform = "mediawiki"
-destination_icon = "tcfwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "The Cycle: Frontier"
+icon = "tcfwiki.png"
 
-[[en.origins]]
-origin = "The Cycle: Frontier Fandom Wiki"
-origin_base_url = "thecyclefrontier.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Cycle_Wiki"
+[[en.origin]]
+name = "The Cycle: Frontier Fandom Wiki"
+url = "thecyclefrontier.fandom.com"
+mainpage = "The_Cycle_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Cycle: Frontier Wiki"
+url = "thecyclefrontier.wiki"
+platform = "mediawiki"
+icon = "tcfwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

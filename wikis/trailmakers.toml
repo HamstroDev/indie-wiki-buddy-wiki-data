@@ -1,19 +1,22 @@
 [en]
-origins_label = "Trailmakers Fandom Wiki"
-destination = "Trailmakers Wiki"
-destination_base_url = "trailmakers.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "trailmakers.png"
-destination_main_page = "Trailmakers_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Trailmakers"
+icon = "trailmakers.png"
+
+[[en.origin]]
+name = "Trailmakers Fandom Wiki"
+url = "trailmakers.fandom.com"
+mainpage = "Trailmakers_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Trailmakers Wiki"
+host = "wiki.gg"
+url = "trailmakers.wiki.gg"
+platform = "mediawiki"
+icon = "trailmakers.png"
+mainpage = "Trailmakers_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Trailmakers Fandom Wiki"
-origin_base_url = "trailmakers.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Trailmakers_Wiki"

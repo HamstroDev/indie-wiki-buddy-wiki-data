@@ -1,19 +1,22 @@
 [en]
-origins_label = "Palia Fandom Wiki"
-destination = "Palia Wiki"
-destination_base_url = "palia.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "paliawiki.png"
-destination_main_page = "Palia_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Palia"
+icon = "paliawiki.png"
+
+[[en.origin]]
+name = "Palia Fandom Wiki"
+url = "palia.fandom.com"
+mainpage = "Palia_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Palia Wiki"
+host = "wiki.gg"
+url = "palia.wiki.gg"
+platform = "mediawiki"
+icon = "paliawiki.png"
+mainpage = "Palia_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Palia Fandom Wiki"
-origin_base_url = "palia.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Palia_Wiki"

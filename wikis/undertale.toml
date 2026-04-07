@@ -1,53 +1,62 @@
 [en]
-origins_label = "Undertale Fandom Wikis"
-destination = "Undertale Wiki"
-destination_base_url = "undertale.wiki"
-destination_platform = "mediawiki"
-destination_icon = "undertalewiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "Undertale"
+icon = "undertalewiki.png"
 
-[[en.origins]]
-origin = "Undertale Fandom Wiki"
-origin_base_url = "undertale.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Undertale Fandom Wiki"
+url = "undertale.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Undertale Fandom Wiki (Archived)"
-origin_base_url = "undertale-archive.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Undertale_Wiki"
+[[en.origin]]
+name = "Undertale Fandom Wiki (Archived)"
+url = "undertale-archive.fandom.com"
+mainpage = "Undertale_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Undertale Wiki"
+url = "undertale.wiki"
+platform = "mediawiki"
+icon = "undertalewiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/w/"
 
 [pt]
-origins_label = "Undertale Fandom Wiki"
-destination = "Undertale Wiki"
-destination_base_url = "pt-br.undertale.wiki"
-destination_platform = "mediawiki"
-destination_icon = "undertalewiki.png"
-destination_main_page = "Página_principal"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "Undertale"
+icon = "undertalewiki.png"
 
-[[pt.origins]]
-origin = "Undertale Fandom Wiki"
-origin_base_url = "undertale.fandom.com/pt-br"
-origin_content_path = "/wiki/"
-origin_main_page = "Página_principal"
+[[pt.origin]]
+name = "Undertale Fandom Wiki"
+url = "undertale.fandom.com/pt-br"
+mainpage = "Página_principal"
+content-path = "/wiki/"
+
+[[pt.destination]]
+name = "Undertale Wiki"
+url = "pt-br.undertale.wiki"
+platform = "mediawiki"
+icon = "undertalewiki.png"
+mainpage = "Página_principal"
+search-path = "/index.php"
+content-path = "/w/"
 
 [zh]
-origins_label = "Undertale Fandom Wiki"
-destination = "Undertale Wiki"
-destination_base_url = "zh.undertale.wiki"
-destination_platform = "mediawiki"
-destination_icon = "undertalewiki.png"
-destination_main_page = "Undertale_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/w/"
+name = "Undertale"
+icon = "undertalewiki.png"
 
-[[zh.origins]]
-origin = "Undertale Fandom Wiki"
-origin_base_url = "undertale.fandom.com/zh"
-origin_content_path = "/wiki/"
-origin_main_page = "Undertale_Wiki"
+[[zh.origin]]
+name = "Undertale Fandom Wiki"
+url = "undertale.fandom.com/zh"
+mainpage = "Undertale_Wiki"
+content-path = "/wiki/"
+
+[[zh.destination]]
+name = "Undertale Wiki"
+url = "zh.undertale.wiki"
+platform = "mediawiki"
+icon = "undertalewiki.png"
+mainpage = "Undertale_Wiki"
+search-path = "/index.php"
+content-path = "/w/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Lobotomy Corporation Fandom Wiki"
-destination = "Lobotomy Corporation Wiki"
-destination_base_url = "lobotomycorporation.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "lobotomycorporationwiki.png"
-destination_content_path = "/wiki/"
-destination_search_path = "/index.php"
-destination_main_page = "Lobotomy_Corporation_Wiki"
-destination_host = "wiki.gg"
+name = "Lobotomy Corporation"
+icon = "lobotomycorporationwiki.png"
 
-[[en.origins]]
-origin = "Lobotomy Corporation Fandom Wiki"
-origin_base_url = "lobotomycorp.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Home"
+[[en.origin]]
+name = "Lobotomy Corporation Fandom Wiki"
+url = "lobotomycorp.fandom.com"
+mainpage = "Home"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Lobotomy Corporation Wiki"
+host = "wiki.gg"
+url = "lobotomycorporation.wiki.gg"
+platform = "mediawiki"
+icon = "lobotomycorporationwiki.png"
+mainpage = "Lobotomy_Corporation_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

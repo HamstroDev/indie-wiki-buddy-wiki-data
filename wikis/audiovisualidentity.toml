@@ -1,15 +1,18 @@
 [en]
-origins_label = "Closing Logo Group Fandom Wiki"
-destination = "Audiovisual Identity Database"
-destination_base_url = "www.avid.wiki"
-destination_platform = "mediawiki"
-destination_icon = "audiovisualidentitydatabase.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
+name = "Closing Logo Group"
+icon = "audiovisualidentitydatabase.png"
 
-[[en.origins]]
-origin = "Closing Logo Group Fandom Wiki"
-origin_base_url = "closinglogogroup.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Closing_Logo_Group"
+[[en.origin]]
+name = "Closing Logo Group Fandom Wiki"
+url = "closinglogogroup.fandom.com"
+mainpage = "Closing_Logo_Group"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Audiovisual Identity Database"
+url = "www.avid.wiki"
+platform = "mediawiki"
+icon = "audiovisualidentitydatabase.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/"

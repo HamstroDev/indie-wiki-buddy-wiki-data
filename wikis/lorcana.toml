@@ -1,15 +1,18 @@
 [en]
-origins_label = "Lorcana Fandom Wiki"
-destination = "Mushu Report's Lorcana Wiki"
-destination_base_url = "wiki.mushureport.com"
-destination_platform = "mediawiki"
-destination_icon = "mushureport.png"
-destination_main_page = "Mushu_Report"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Lorcana"
+icon = "mushureport.png"
 
-[[en.origins]]
-origin = "Lorcana Fandom Wiki"
-origin_base_url = "lorcana.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Lorcana_Wiki"
+[[en.origin]]
+name = "Lorcana Fandom Wiki"
+url = "lorcana.fandom.com"
+mainpage = "Lorcana_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Mushu Report's Lorcana Wiki"
+url = "wiki.mushureport.com"
+platform = "mediawiki"
+icon = "mushureport.png"
+mainpage = "Mushu_Report"
+search-path = "/index.php"
+content-path = "/wiki/"

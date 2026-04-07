@@ -1,16 +1,19 @@
 [en]
-origins_label = "Dungeon Rampage Fandom Wiki"
-destination = "Dungeon Rampage Wiki"
-destination_base_url = "dungeonrampage.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "dungeonrampage.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Dungeon Rampage"
+icon = "dungeonrampage.png"
 
-[[en.origins]]
-origin = "Dungeon Rampage Fandom Wiki"
-origin_base_url = "dungeonrampage.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Dungeon_Rampage_Wiki"
+[[en.origin]]
+name = "Dungeon Rampage Fandom Wiki"
+url = "dungeonrampage.fandom.com"
+mainpage = "Dungeon_Rampage_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Dungeon Rampage Wiki"
+host = "Miraheze"
+url = "dungeonrampage.miraheze.org"
+platform = "mediawiki"
+icon = "dungeonrampage.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

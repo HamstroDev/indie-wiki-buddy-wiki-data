@@ -1,16 +1,19 @@
 [en]
-origins_label = "IDOLiSH7 Fandom Wiki"
-destination = "IDOLiSH7 Wiki"
-destination_base_url = "idolish7.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "idolish7.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "IDOLiSH7"
+icon = "idolish7.png"
 
-[[en.origins]]
-origin = "IDOLiSH7 Fandom Wiki"
-origin_base_url = "idolish7.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "IDOLiSH7_Wiki"
+[[en.origin]]
+name = "IDOLiSH7 Fandom Wiki"
+url = "idolish7.fandom.com"
+mainpage = "IDOLiSH7_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "IDOLiSH7 Wiki"
+host = "Miraheze"
+url = "idolish7.miraheze.org"
+platform = "mediawiki"
+icon = "idolish7.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

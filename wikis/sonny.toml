@@ -1,16 +1,19 @@
 [en]
-origins_label = "Sonny Fandom Wiki"
-destination = "Sonny Wiki"
-destination_base_url = "sonny.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "sonnywiki.png"
-destination_main_page = "Sonny_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Sonny"
+icon = "sonnywiki.png"
 
-[[en.origins]]
-origin = "Sonny Fandom Wiki"
-origin_base_url = "sonny.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Sonny_Wiki"
+[[en.origin]]
+name = "Sonny Fandom Wiki"
+url = "sonny.fandom.com"
+mainpage = "Sonny_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Sonny Wiki"
+host = "wiki.gg"
+url = "sonny.wiki.gg"
+platform = "mediawiki"
+icon = "sonnywiki.png"
+mainpage = "Sonny_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

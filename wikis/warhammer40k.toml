@@ -1,37 +1,43 @@
 [en]
-origins_label = "Warhammer Fandom & Neoseeker Wikis"
-destination = "Lexicanum"
-destination_base_url = "wh40k.lexicanum.com"
-destination_platform = "mediawiki"
-destination_icon = "lexicanum.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/wiki/"
+name = "Warhammer"
+icon = "lexicanum.png"
 
-[[en.origins]]
-origin = "Warhammer 40,000 Fandom Wiki"
-origin_base_url = "warhammer40k.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Warhammer_40k_Wiki"
+[[en.origin]]
+name = "Warhammer 40,000 Fandom Wiki"
+url = "warhammer40k.fandom.com"
+mainpage = "Warhammer_40k_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Warhammer Wiki - Neoseeker"
-origin_base_url = "warhammer.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Warhammer Wiki - Neoseeker"
+url = "warhammer.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Lexicanum"
+url = "wh40k.lexicanum.com"
+platform = "mediawiki"
+icon = "lexicanum.png"
+mainpage = "Main_Page"
+search-path = "/mediawiki/index.php"
+content-path = "/wiki/"
 
 [fr]
-origins_label = "Warhammer 40,000 Fandom Wiki"
-destination = "Lexicanum"
-destination_base_url = "wh40k-fr.lexicanum.com"
-destination_platform = "mediawiki"
-destination_icon = "warhammer40klexicanum.png"
-destination_main_page = "Accueil"
-destination_search_path = "/mediawiki/index.php"
-destination_content_path = "/wiki/"
+name = "Warhammer 40,000"
+icon = "warhammer40klexicanum.png"
 
-[[fr.origins]]
-origin = "Warhammer 40,000 Fandom Wiki"
-origin_base_url = "warhammer40k.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Accueil"
+[[fr.origin]]
+name = "Warhammer 40,000 Fandom Wiki"
+url = "warhammer40k.fandom.com/fr"
+mainpage = "Accueil"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Lexicanum"
+url = "wh40k-fr.lexicanum.com"
+platform = "mediawiki"
+icon = "warhammer40klexicanum.png"
+mainpage = "Accueil"
+search-path = "/mediawiki/index.php"
+content-path = "/wiki/"

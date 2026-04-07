@@ -1,16 +1,19 @@
 [en]
-origins_label = "Farming Simulator Fandom Wiki"
-destination = "Farming Simulator Wiki"
-destination_base_url = "farmingsimulator.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "farmingsimulatorwiki.png"
-destination_main_page = "Farming_Simulator_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Farming Simulator"
+icon = "farmingsimulatorwiki.png"
 
-[[en.origins]]
-origin = "Farming Simulator Fandom Wiki"
-origin_base_url = "farmingsimulator.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Farming_Simulator_Wiki"
+[[en.origin]]
+name = "Farming Simulator Fandom Wiki"
+url = "farmingsimulator.fandom.com"
+mainpage = "Farming_Simulator_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Farming Simulator Wiki"
+host = "wiki.gg"
+url = "farmingsimulator.wiki.gg"
+platform = "mediawiki"
+icon = "farmingsimulatorwiki.png"
+mainpage = "Farming_Simulator_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

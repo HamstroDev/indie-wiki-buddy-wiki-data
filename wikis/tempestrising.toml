@@ -1,16 +1,19 @@
 [en]
-origins_label = "Tempest Rising Fandom Wiki"
-destination = "Tempest Rising Wiki"
-destination_base_url = "tempestrising.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "tempestrisingwiki.png"
-destination_main_page = "Tempest_Rising_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Tempest Rising"
+icon = "tempestrisingwiki.png"
 
-[[en.origins]]
-origin = "Tempest Rising Fandom Wiki"
-origin_base_url = "tempestrising.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Tempest_Rising_Wiki"
+[[en.origin]]
+name = "Tempest Rising Fandom Wiki"
+url = "tempestrising.fandom.com"
+mainpage = "Tempest_Rising_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Tempest Rising Wiki"
+host = "wiki.gg"
+url = "tempestrising.wiki.gg"
+platform = "mediawiki"
+icon = "tempestrisingwiki.png"
+mainpage = "Tempest_Rising_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

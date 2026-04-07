@@ -1,16 +1,19 @@
 [en]
-origins_label = "The Broken Script Fandom Wiki"
-destination = "The Broken Script Wiki"
-destination_base_url = "thebrokenscript.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "thebrokenscriptwiki.png"
-destination_main_page = "The_Broken_Script_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "The Broken Script"
+icon = "thebrokenscriptwiki.png"
 
-[[en.origins]]
-origin = "The Broken Script Fandom Wiki"
-origin_base_url = "the-broken-script.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "The_Broken_Script_Wiki"
+[[en.origin]]
+name = "The Broken Script Fandom Wiki"
+url = "the-broken-script.fandom.com"
+mainpage = "The_Broken_Script_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "The Broken Script Wiki"
+host = "wiki.gg"
+url = "thebrokenscript.wiki.gg"
+platform = "mediawiki"
+icon = "thebrokenscriptwiki.png"
+mainpage = "The_Broken_Script_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

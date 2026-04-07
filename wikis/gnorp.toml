@@ -1,16 +1,19 @@
 [en]
-origins_label = "(the) Gnorp Apologue Fandom Wiki"
-destination = "(the) Gnorp Apologue Wiki"
-destination_base_url = "gnorp.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "gnorp.png"
-destination_main_page = "(the)_Gnorp_Apologue_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "(the) Gnorp Apologue"
+icon = "gnorp.png"
 
-[[en.origins]]
-origin = "(the) Gnorp Apologue Fandom Wiki"
-origin_base_url = "gnorp-apologue.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "(the)_Gnorp_Apologue_Wiki"
+[[en.origin]]
+name = "(the) Gnorp Apologue Fandom Wiki"
+url = "gnorp-apologue.fandom.com"
+mainpage = "(the)_Gnorp_Apologue_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "(the) Gnorp Apologue Wiki"
+host = "wiki.gg"
+url = "gnorp.wiki.gg"
+platform = "mediawiki"
+icon = "gnorp.png"
+mainpage = "(the)_Gnorp_Apologue_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

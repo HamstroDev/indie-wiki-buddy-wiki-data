@@ -1,16 +1,19 @@
 [en]
-origins_label = "MultiVersus Fandom Wiki"
-destination = "MultiVersus Wiki"
-destination_base_url = "multiversus.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "multiversuswiki.png"
-destination_main_page = "MultiVersus_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "MultiVersus"
+icon = "multiversuswiki.png"
 
-[[en.origins]]
-origin = "MultiVersus Fandom Wiki"
-origin_base_url = "multiversus.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "MultiVersus_Wiki"
+[[en.origin]]
+name = "MultiVersus Fandom Wiki"
+url = "multiversus.fandom.com"
+mainpage = "MultiVersus_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "MultiVersus Wiki"
+host = "wiki.gg"
+url = "multiversus.wiki.gg"
+platform = "mediawiki"
+icon = "multiversuswiki.png"
+mainpage = "MultiVersus_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

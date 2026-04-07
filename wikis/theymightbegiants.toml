@@ -1,15 +1,18 @@
 [en]
-origins_label = "TheyMightBeGiants Fandom Wiki"
-destination = "This Might Be A Wiki"
-destination_base_url = "tmbw.net"
-destination_platform = "mediawiki"
-destination_icon = "thismightbeawiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/wiki/index.php"
-destination_content_path = "/wiki/"
+name = "TheyMightBeGiants"
+icon = "thismightbeawiki.png"
 
-[[en.origins]]
-origin = "TheyMightBeGiants Fandom Wiki"
-origin_base_url = "theymightbegiants.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "TheyMightBeGiants_Wiki"
+[[en.origin]]
+name = "TheyMightBeGiants Fandom Wiki"
+url = "theymightbegiants.fandom.com"
+mainpage = "TheyMightBeGiants_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "This Might Be A Wiki"
+url = "tmbw.net"
+platform = "mediawiki"
+icon = "thismightbeawiki.png"
+mainpage = "Main_Page"
+search-path = "/wiki/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Risk of Rain 2 Fandom Wiki"
-destination = "Risk of Rain 2 Wiki"
-destination_base_url = "riskofrain2.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "riskofrain2wiki.png"
-destination_main_page = "Risk_of_Rain_2_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Risk of Rain 2"
+icon = "riskofrain2wiki.png"
 
-[[en.origins]]
-origin = "Risk of Rain 2 Fandom Wiki"
-origin_base_url = "riskofrain2.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Risk_of_Rain_2_Wiki"
+[[en.origin]]
+name = "Risk of Rain 2 Fandom Wiki"
+url = "riskofrain2.fandom.com"
+mainpage = "Risk_of_Rain_2_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Risk of Rain 2 Wiki"
+host = "wiki.gg"
+url = "riskofrain2.wiki.gg"
+platform = "mediawiki"
+icon = "riskofrain2wiki.png"
+mainpage = "Risk_of_Rain_2_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

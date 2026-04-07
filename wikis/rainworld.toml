@@ -1,46 +1,51 @@
 [ru]
-origins_label = "Rain World Fandom Wiki"
-destination = "Rain World Wiki"
-destination_base_url = "rainworld.miraheze.org"
-destination_content_suffix = "/ru"
-destination_platform = "mediawiki"
-destination_icon = "rainworld.png"
-destination_main_page = "Rain_World_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Rain World"
+icon = "rainworld.png"
+
+[[ru.origin]]
+name = "Rain World Fandom Wiki"
+url = "rainworld.fandom.com/ru"
+mainpage = "Rain_World_Wiki_Rus"
+content-path = "/wiki/"
+
+[[ru.destination]]
+name = "Rain World Wiki"
+host = "Miraheze"
+url = "rainworld.miraheze.org"
+platform = "mediawiki"
+icon = "rainworld.png"
+mainpage = "Rain_World_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[ru.origins]]
-origin = "Rain World Fandom Wiki"
-origin_base_url = "rainworld.fandom.com/ru"
-origin_content_path = "/wiki/"
-origin_main_page = "Rain_World_Wiki_Rus"
 
 [en]
-origins_label = "Rain World Fandom Wikis"
-destination = "Rain World Wiki"
-destination_base_url = "rainworld.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "rainworld.png"
-destination_main_page = "Rain_World_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Rain World"
+icon = "rainworld.png"
+
+[[en.origin]]
+name = "Rain World Fandom Wiki"
+url = "rain-world-game.fandom.com"
+mainpage = "Rain_World_Wiki"
+content-path = "/wiki/"
+
+[[en.origin]]
+name = "Rain World 007 Fandom Wiki"
+url = "rain-world07.fandom.com"
+mainpage = "Rain_world_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Rain World Wiki"
+host = "Miraheze"
+url = "rainworld.miraheze.org"
+platform = "mediawiki"
+icon = "rainworld.png"
+mainpage = "Rain_World_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "Rain World Fandom Wiki"
-origin_base_url = "rain-world-game.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Rain_World_Wiki"
-
-[[en.origins]]
-origin = "Rain World 007 Fandom Wiki"
-origin_base_url = "rain-world07.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Rain_world_Wiki"

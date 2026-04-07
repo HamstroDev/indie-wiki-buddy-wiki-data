@@ -1,16 +1,19 @@
 [en]
-origins_label = "Path of Achra Fandom Wiki"
-destination = "Path of Achra Wiki"
-destination_base_url = "pathofachra.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "pathofachrawiki.png"
-destination_main_page = "Path_of_Achra_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Path of Achra"
+icon = "pathofachrawiki.png"
 
-[[en.origins]]
-origin = "Path of Achra Fandom Wiki"
-origin_base_url = "path-of-achra.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Path_of_Achra_Wiki"
+[[en.origin]]
+name = "Path of Achra Fandom Wiki"
+url = "path-of-achra.fandom.com"
+mainpage = "Path_of_Achra_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Path of Achra Wiki"
+host = "wiki.gg"
+url = "pathofachra.wiki.gg"
+platform = "mediawiki"
+icon = "pathofachrawiki.png"
+mainpage = "Path_of_Achra_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

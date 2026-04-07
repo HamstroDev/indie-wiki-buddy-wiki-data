@@ -1,16 +1,19 @@
 [en]
-origins_label = "Aground Fandom Wiki"
-destination = "Aground Wiki"
-destination_base_url = "aground.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "agroundwiki.png"
-destination_main_page = "Aground_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Aground"
+icon = "agroundwiki.png"
 
-[[en.origins]]
-origin = "Aground Fandom Wiki"
-origin_base_url = "aground.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Aground_Wiki"
+[[en.origin]]
+name = "Aground Fandom Wiki"
+url = "aground.fandom.com"
+mainpage = "Aground_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Aground Wiki"
+host = "wiki.gg"
+url = "aground.wiki.gg"
+platform = "mediawiki"
+icon = "agroundwiki.png"
+mainpage = "Aground_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

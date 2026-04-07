@@ -1,16 +1,19 @@
 [en]
-origins_label = "Ashes.town Fandom Wiki"
-destination = "Ashes.Town Wiki"
-destination_base_url = "ashestown.wiki.gg"
-destination_platform = "mediawiki"
-destination_icon = "ashestownwiki.png"
-destination_main_page = "Ashes.town_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
-destination_host = "wiki.gg"
+name = "Ashes.town"
+icon = "ashestownwiki.png"
 
-[[en.origins]]
-origin = "Ashes.town Fandom Wiki"
-origin_base_url = "ashestown.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Ashes.town_Wiki"
+[[en.origin]]
+name = "Ashes.town Fandom Wiki"
+url = "ashestown.fandom.com"
+mainpage = "Ashes.town_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Ashes.Town Wiki"
+host = "wiki.gg"
+url = "ashestown.wiki.gg"
+platform = "mediawiki"
+icon = "ashestownwiki.png"
+mainpage = "Ashes.town_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,16 +1,19 @@
 [en]
-origins_label = "Catacomb Fandom Wiki"
-destination = "Catacomb Wiki"
-destination_base_url = "catacomb.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "catacombwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Catacomb"
+icon = "catacombwiki.png"
 
-[[en.origins]]
-origin = "Catacomb Fandom Wiki"
-origin_base_url = "catacomb.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Catacomb_Wiki"
+[[en.origin]]
+name = "Catacomb Fandom Wiki"
+url = "catacomb.fandom.com"
+mainpage = "Catacomb_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Catacomb Wiki"
+host = "Miraheze"
+url = "catacomb.miraheze.org"
+platform = "mediawiki"
+icon = "catacombwiki.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

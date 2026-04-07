@@ -1,33 +1,36 @@
 [en]
-origins_label = "Destiny Fandom, Fextra, & Neoseeker Wikis"
-destination = "Destinypedia"
-destination_base_url = "www.destinypedia.com"
-destination_platform = "mediawiki"
-destination_icon = "destinypedia.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Destiny"
+icon = "destinypedia.png"
 
-[[en.origins]]
-origin = "Destiny Fandom Wiki"
-origin_base_url = "destiny.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Destiny_Wiki"
+[[en.origin]]
+name = "Destiny Fandom Wiki"
+url = "destiny.fandom.com"
+mainpage = "Destiny_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Destiny Wiki - Neoseeker"
-origin_base_url = "destiny.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Destiny Wiki - Neoseeker"
+url = "destiny.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Destiny Fextralife Wiki"
-origin_base_url = "destiny.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Destiny Wiki"
+[[en.origin]]
+name = "Destiny Fextralife Wiki"
+url = "destiny.wiki.fextralife.com"
+mainpage = "Destiny Wiki"
+content-path = "/"
 
-[[en.origins]]
-origin = "Destiny 2 Fextralife Wiki"
-origin_base_url = "destiny2.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Destiny 2 Wiki"
+[[en.origin]]
+name = "Destiny 2 Fextralife Wiki"
+url = "destiny2.wiki.fextralife.com"
+mainpage = "Destiny 2 Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Destinypedia"
+url = "www.destinypedia.com"
+platform = "mediawiki"
+icon = "destinypedia.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Brotato Fandom Wiki"
-destination = "Brotato Wiki"
-destination_base_url = "brotato.wiki.spellsandguns.com"
-destination_platform = "mediawiki"
-destination_icon = "brotatowiki.png"
-destination_main_page = "Brotato_Wiki"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Brotato"
+icon = "brotatowiki.png"
 
-[[en.origins]]
-origin = "Brotato Fandom Wiki"
-origin_base_url = "brotato.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Brotato_Wiki"
+[[en.origin]]
+name = "Brotato Fandom Wiki"
+url = "brotato.fandom.com"
+mainpage = "Brotato_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Brotato Wiki"
+url = "brotato.wiki.spellsandguns.com"
+platform = "mediawiki"
+icon = "brotatowiki.png"
+mainpage = "Brotato_Wiki"
+search-path = "/index.php"
+content-path = "/"

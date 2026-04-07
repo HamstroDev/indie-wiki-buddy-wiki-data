@@ -1,15 +1,18 @@
 [en]
-origins_label = "Serial Experiments Lain Fandom Wiki"
-destination = "Serial Experiments Lain Wiki"
-destination_base_url = "lain.wiki"
-destination_platform = "mediawiki"
-destination_icon = "serialexperimentslainwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Serial Experiments Lain"
+icon = "serialexperimentslainwiki.png"
 
-[[en.origins]]
-origin = "Serial Experiments Lain Fandom Wiki"
-origin_base_url = "lain.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Serial_Experiments_Lain_Wiki"
+[[en.origin]]
+name = "Serial Experiments Lain Fandom Wiki"
+url = "lain.fandom.com"
+mainpage = "Serial_Experiments_Lain_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Serial Experiments Lain Wiki"
+url = "lain.wiki"
+platform = "mediawiki"
+icon = "serialexperimentslainwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

@@ -1,19 +1,22 @@
 [en]
-origins_label = "B3313 Fandom Wiki"
-destination = "B3313 Wiki"
-destination_base_url = "b3313official.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "b3313.png"
-destination_main_page = ""
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "B3313"
+icon = "b3313.png"
+
+[[en.origin]]
+name = "B3313 Fandom Wiki"
+url = "b3313.fandom.com"
+mainpage = "B3313_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "B3313 Wiki"
+host = "Miraheze"
+url = "b3313official.miraheze.org"
+platform = "mediawiki"
+icon = "b3313.png"
+mainpage = ""
+search-path = "/w/index.php"
+content-path = "/wiki/"
 tags = [
     "official",
 ]
-
-[[en.origins]]
-origin = "B3313 Fandom Wiki"
-origin_base_url = "b3313.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "B3313_Wiki"

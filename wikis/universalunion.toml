@@ -1,16 +1,19 @@
 [en]
-origins_label = "Universal Union Fandom Wiki"
-destination = "Universal Union Wiki"
-destination_base_url = "universalunion.wiki"
-destination_platform = "mediawiki"
-destination_icon = "universalunion.png"
-destination_main_page = "Main"
-destination_search_path = "/w/index.php"
-destination_content_path = "/"
-destination_host = "Miraheze"
+name = "Universal Union"
+icon = "universalunion.png"
 
-[[en.origins]]
-origin = "Universal Union Fandom Wiki"
-origin_base_url = "universalunion.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "MainPage"
+[[en.origin]]
+name = "Universal Union Fandom Wiki"
+url = "universalunion.fandom.com"
+mainpage = "MainPage"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Universal Union Wiki"
+host = "Miraheze"
+url = "universalunion.wiki"
+platform = "mediawiki"
+icon = "universalunion.png"
+mainpage = "Main"
+search-path = "/w/index.php"
+content-path = "/"

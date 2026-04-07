@@ -1,89 +1,98 @@
 [en]
-origins_label = "Mario Fandom & Neoseeker Wikis"
-destination = "Super Mario Wiki"
-destination_base_url = "www.mariowiki.com"
-destination_platform = "mediawiki"
-destination_icon = "supermariowiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Mario"
+icon = "supermariowiki.png"
 
-[[en.origins]]
-origin = "Mario Fandom Wiki"
-origin_base_url = "mario.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mario_Wiki"
+[[en.origin]]
+name = "Mario Fandom Wiki"
+url = "mario.fandom.com"
+mainpage = "Mario_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Donkey Kong Fandom Wiki"
-origin_base_url = "donkeykong.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Donkey_Kong_Wiki"
+[[en.origin]]
+name = "Donkey Kong Fandom Wiki"
+url = "donkeykong.fandom.com"
+mainpage = "Donkey_Kong_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Mario Wiki - Neoseeker"
-origin_base_url = "mario.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Mario Wiki - Neoseeker"
+url = "mario.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Mario & Luigi Fandom Wiki"
-origin_base_url = "marioluigi.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mario_&_Luigi_Wiki"
+[[en.origin]]
+name = "Mario & Luigi Fandom Wiki"
+url = "marioluigi.fandom.com"
+mainpage = "Mario_&_Luigi_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Paper Mario Fandom Wiki"
-origin_base_url = "papermario.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Paper Mario Fandom Wiki"
+url = "papermario.fandom.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Mario Kart Racing Fandom Wiki"
-origin_base_url = "mariokart.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mario_Kart_Racing_Wiki:Main_Menu"
+[[en.origin]]
+name = "Mario Kart Racing Fandom Wiki"
+url = "mariokart.fandom.com"
+mainpage = "Mario_Kart_Racing_Wiki:Main_Menu"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Mario Party Fandom Wiki"
-origin_base_url = "diceblock.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mario_Party_Wiki"
+[[en.origin]]
+name = "Mario Party Fandom Wiki"
+url = "diceblock.fandom.com"
+mainpage = "Mario_Party_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Luigi's Mansion Fandom Wiki"
-origin_base_url = "luigi-mansion.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mansionpedia"
+[[en.origin]]
+name = "Luigi's Mansion Fandom Wiki"
+url = "luigi-mansion.fandom.com"
+mainpage = "Mansionpedia"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Super Mario Wiki"
+url = "www.mariowiki.com"
+platform = "mediawiki"
+icon = "supermariowiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"
 
 [it]
-origins_label = "Mario Fandom Wiki"
-destination = "Super Mario Wiki"
-destination_base_url = "www.mariowiki.it"
-destination_platform = "mediawiki"
-destination_icon = "supermariowiki.png"
-destination_main_page = "Pagina_principale"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Mario"
+icon = "supermariowiki.png"
 
-[[it.origins]]
-origin = "Mario Fandom Wiki"
-origin_base_url = "mario.fandom.com/it"
-origin_content_path = "/wiki/"
-origin_main_page = "Mario_Wiki"
+[[it.origin]]
+name = "Mario Fandom Wiki"
+url = "mario.fandom.com/it"
+mainpage = "Mario_Wiki"
+content-path = "/wiki/"
+
+[[it.destination]]
+name = "Super Mario Wiki"
+url = "www.mariowiki.it"
+platform = "mediawiki"
+icon = "supermariowiki.png"
+mainpage = "Pagina_principale"
+search-path = "/index.php"
+content-path = "/"
 
 [fr]
-origins_label = "Mario Fandom Wiki"
-destination = "Wiki Mario"
-destination_base_url = "wikimario.fr"
-destination_platform = "mediawiki"
-destination_icon = "mario.png"
-destination_main_page = "Wiki_Mario"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Mario"
+icon = "mario.png"
 
-[[fr.origins]]
-origin = "Mario Fandom Wikii"
-origin_base_url = "mario.fandom.com/fr"
-origin_content_path = "/wiki/"
-origin_main_page = "Wiki_Mario"
+[[fr.origin]]
+name = "Mario Fandom Wikii"
+url = "mario.fandom.com/fr"
+mainpage = "Wiki_Mario"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Wiki Mario"
+url = "wikimario.fr"
+platform = "mediawiki"
+icon = "mario.png"
+mainpage = "Wiki_Mario"
+search-path = "/index.php"
+content-path = "/"

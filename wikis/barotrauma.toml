@@ -1,15 +1,18 @@
 [en]
-origins_label = "Barotrauma Fandom Wiki"
-destination = "Barotrauma Wiki"
-destination_base_url = "barotraumagame.com"
-destination_platform = "mediawiki"
-destination_icon = "barotrauma.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/baro-wiki/index.php"
-destination_content_path = "/wiki/"
+name = "Barotrauma"
+icon = "barotrauma.png"
 
-[[en.origins]]
-origin = "Barotrauma Fandom Wiki"
-origin_base_url = "barotrauma.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Barotrauma_Wiki"
+[[en.origin]]
+name = "Barotrauma Fandom Wiki"
+url = "barotrauma.fandom.com"
+mainpage = "Barotrauma_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Barotrauma Wiki"
+url = "barotraumagame.com"
+platform = "mediawiki"
+icon = "barotrauma.png"
+mainpage = "Main_Page"
+search-path = "/baro-wiki/index.php"
+content-path = "/wiki/"

@@ -1,21 +1,24 @@
 [en]
-origins_label = "Megami Tensei Fandom & Neoseeker Wikis"
-destination = "Megami Tensei Wiki"
-destination_base_url = "megatenwiki.com"
-destination_platform = "mediawiki"
-destination_icon = "megamitenseiwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/wiki/"
+name = "Megami Tensei"
+icon = "megamitenseiwiki.png"
 
-[[en.origins]]
-origin = "Megami Tensei Fandom Wiki"
-origin_base_url = "megamitensei.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Megami_Tensei_Wiki"
+[[en.origin]]
+name = "Megami Tensei Fandom Wiki"
+url = "megamitensei.fandom.com"
+mainpage = "Megami_Tensei_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Megami Tensei Wiki - Neoseeker"
-origin_base_url = "megamitensei.neoseeker.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Main_Page"
+[[en.origin]]
+name = "Megami Tensei Wiki - Neoseeker"
+url = "megamitensei.neoseeker.com"
+mainpage = "Main_Page"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Megami Tensei Wiki"
+url = "megatenwiki.com"
+platform = "mediawiki"
+icon = "megamitenseiwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"

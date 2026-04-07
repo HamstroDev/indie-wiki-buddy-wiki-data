@@ -1,16 +1,19 @@
 [en]
-origins_label = "Pizza Tower Fandom Wiki"
-destination = "Pizza Tower Wiki"
-destination_base_url = "pizzatower.wiki"
-destination_platform = "mediawiki"
-destination_icon = "pizzatowerwiki.png"
-destination_main_page = "Pizza_Tower_Wiki:Main_Page"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Pizza Tower"
+icon = "pizzatowerwiki.png"
 
-[[en.origins]]
-origin = "Pizza Tower Fandom Wiki"
-origin_base_url = "pizzatower.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Pizza_Tower_Wiki"
+[[en.origin]]
+name = "Pizza Tower Fandom Wiki"
+url = "pizzatower.fandom.com"
+mainpage = "Pizza_Tower_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Pizza Tower Wiki"
+host = "Miraheze"
+url = "pizzatower.wiki"
+platform = "mediawiki"
+icon = "pizzatowerwiki.png"
+mainpage = "Pizza_Tower_Wiki:Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"

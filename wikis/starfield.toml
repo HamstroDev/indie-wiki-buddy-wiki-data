@@ -1,22 +1,24 @@
 [en]
-origins_label = "Starfield Fandom & Fextra Wikis"
-destination = "Starfield Wiki"
-destination_base_url = "starfieldwiki.net"
-destination_content_prefix = "Starfield:"
-destination_platform = "mediawiki"
-destination_icon = "starfieldwiki.png"
-destination_main_page = "Home"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
+name = "Starfield"
+icon = "starfieldwiki.png"
 
-[[en.origins]]
-origin = "Starfield Fandom Wiki"
-origin_base_url = "starfield.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Starfield_Wiki"
+[[en.origin]]
+name = "Starfield Fandom Wiki"
+url = "starfield.fandom.com"
+mainpage = "Starfield_Wiki"
+content-path = "/wiki/"
 
-[[en.origins]]
-origin = "Starfield Fextralife Wiki"
-origin_base_url = "starfield.wiki.fextralife.com"
-origin_content_path = "/"
-origin_main_page = "Starfield Wiki"
+[[en.origin]]
+name = "Starfield Fextralife Wiki"
+url = "starfield.wiki.fextralife.com"
+mainpage = "Starfield Wiki"
+content-path = "/"
+
+[[en.destination]]
+name = "Starfield Wiki"
+url = "starfieldwiki.net"
+platform = "mediawiki"
+icon = "starfieldwiki.png"
+mainpage = "Home"
+search-path = "/w/index.php"
+content-path = "/wiki/"

@@ -1,15 +1,18 @@
 [en]
-origins_label = "Salem MMO Fandom Wiki"
-destination = "Salem Wiki"
-destination_base_url = "salemthegame.wiki"
-destination_platform = "mediawiki"
-destination_icon = "salemwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/page/"
+name = "Salem MMO"
+icon = "salemwiki.png"
 
-[[en.origins]]
-origin = "Salem MMO Fandom Wiki"
-origin_base_url = "salemcraftingmmo.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Salem_-_The_Crafting_MMO_Wiki"
+[[en.origin]]
+name = "Salem MMO Fandom Wiki"
+url = "salemcraftingmmo.fandom.com"
+mainpage = "Salem_-_The_Crafting_MMO_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Salem Wiki"
+url = "salemthegame.wiki"
+platform = "mediawiki"
+icon = "salemwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/page/"

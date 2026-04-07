@@ -1,16 +1,19 @@
 [en]
-origins_label = "fromARGONAVIS Fandom Wiki"
-destination = "from ARGONAVIS Wiki"
-destination_base_url = "argobdp.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "fromargonaviswiki.png"
-destination_main_page = "from_ARGONAVIS_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "fromARGONAVIS"
+icon = "fromargonaviswiki.png"
 
-[[en.origins]]
-origin = "fromARGONAVIS Fandom Wiki"
-origin_base_url = "argo-bdp.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "ARGONAVIS_from_BanG_Dream!_Wiki"
+[[en.origin]]
+name = "fromARGONAVIS Fandom Wiki"
+url = "argo-bdp.fandom.com"
+mainpage = "ARGONAVIS_from_BanG_Dream!_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "from ARGONAVIS Wiki"
+host = "Miraheze"
+url = "argobdp.miraheze.org"
+platform = "mediawiki"
+icon = "fromargonaviswiki.png"
+mainpage = "from_ARGONAVIS_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"

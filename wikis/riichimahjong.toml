@@ -1,15 +1,18 @@
 [en]
-origins_label = "Mahjong Fandom Wiki"
-destination = "Japanese Mahjong Wiki"
-destination_base_url = "riichi.wiki"
-destination_platform = "mediawiki"
-destination_icon = "japanesemahjongwiki.png"
-destination_main_page = "Main_Page"
-destination_search_path = "/index.php"
-destination_content_path = "/"
+name = "Mahjong"
+icon = "japanesemahjongwiki.png"
 
-[[en.origins]]
-origin = "Mahjong Fandom Wiki"
-origin_base_url = "mahjong.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Mahjong_Wiki"
+[[en.origin]]
+name = "Mahjong Fandom Wiki"
+url = "mahjong.fandom.com"
+mainpage = "Mahjong_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Japanese Mahjong Wiki"
+url = "riichi.wiki"
+platform = "mediawiki"
+icon = "japanesemahjongwiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"

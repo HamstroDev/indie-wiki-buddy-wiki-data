@@ -1,16 +1,19 @@
 [en]
-origins_label = "Utaite Fandom Wiki"
-destination = "Utaite Wiki"
-destination_base_url = "utaite.miraheze.org"
-destination_platform = "mediawiki"
-destination_icon = "utaite.png"
-destination_main_page = "Utaite_Wiki"
-destination_search_path = "/w/index.php"
-destination_content_path = "/wiki/"
-destination_host = "Miraheze"
+name = "Utaite"
+icon = "utaite.png"
 
-[[en.origins]]
-origin = "Utaite Fandom Wiki"
-origin_base_url = "utaite.fandom.com"
-origin_content_path = "/wiki/"
-origin_main_page = "Utaite_Wiki"
+[[en.origin]]
+name = "Utaite Fandom Wiki"
+url = "utaite.fandom.com"
+mainpage = "Utaite_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Utaite Wiki"
+host = "Miraheze"
+url = "utaite.miraheze.org"
+platform = "mediawiki"
+icon = "utaite.png"
+mainpage = "Utaite_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
