@@ -31,7 +31,7 @@ data = {
 Path("generated").mkdir(exist_ok=True)
 
 def compact_json_dump(obj, file):
-    json.dump(obj, file, separators=(',', ':'))
+    json.dump(obj, file, separators=(',', ':'), sort_keys=True)
 
 with open('generated/data.json', 'w+') as data_json:
     compact_json_dump(data, data_json)
