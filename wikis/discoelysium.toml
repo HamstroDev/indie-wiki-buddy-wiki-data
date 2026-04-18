@@ -1,0 +1,22 @@
+[en]
+name = "Disco Elysium"
+icon = "discoelysium.png"
+
+[[en.origin]]
+name = "Disco Elysium Fandom Wiki"
+url = "discoelysium.fandom.com"
+mainpage = "Disco_Elysium_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Disco Elysium Wiki"
+host = "wiki.gg"
+url = "discoelysium.wiki.gg"
+platform = "mediawiki"
+icon = "discoelysium.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/"
+tags = [
+    "recommended",
+]

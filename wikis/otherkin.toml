@@ -10,7 +10,7 @@ content-path = "/wiki/"
 
 [[en.destination]]
 name = "Otherkin Wiki"
-host = "miraheze"
+host = "Miraheze"
 url = "otherkin.wiki"
 platform = "mediawiki"
 icon = "otherkinwiki.png"

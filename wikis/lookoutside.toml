@@ -1,0 +1,22 @@
+[en]
+name = "Look Outside"
+icon = "lookoutsidewiki.png"
+
+[[en.origin]]
+name = "Look Outside Fandom Wiki"
+url = "look-outside.fandom.com"
+mainpage = "Look_Outside_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Look Outside Wiki"
+host = "Miraheze"
+url = "lookoutside.miraheze.org"
+platform = "mediawiki"
+icon = "lookoutsidewiki.png"
+mainpage = "Main_Page"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

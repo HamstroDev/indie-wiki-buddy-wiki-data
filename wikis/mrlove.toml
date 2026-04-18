@@ -1,0 +1,22 @@
+[en]
+name = "Mr Love: Queen's Choice"
+icon = "mrlovewiki.png"
+
+[[en.origin]]
+name = "Mr Love: Queen's Choice Fandom Wiki"
+url = "mr-love-queens-choice.fandom.com"
+mainpage = "Mr_Love_Queen's_Choice"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Mr. Love Queen's Choice Wiki"
+host = "wiki.gg"
+url = "mrlove.wiki.gg"
+platform = "mediawiki"
+icon = "mrlovewiki.png"
+mainpage = "Mr_Love_Queen's_Choice_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

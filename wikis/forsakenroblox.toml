@@ -1,0 +1,23 @@
+[en]
+name = "FORSAKEN"
+icon = "forsaken.png"
+
+[[en.origin]]
+name = "FORSAKEN Fandom Wiki"
+url = "forsaken2024.fandom.com"
+mainpage = "FORSAKEN_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Forsaken Wiki"
+host = "Miraheze"
+url = "forsaken.wiki"
+platform = "mediawiki"
+icon = "forsaken.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/"
+tags = [
+    "official",
+    "recommended",
+]

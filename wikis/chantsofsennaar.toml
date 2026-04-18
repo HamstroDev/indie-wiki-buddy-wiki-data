@@ -1,6 +1,6 @@
 [en]
 name = "Chants of Sennaar"
-icon = "miraheze.png"
+icon = "chantsofsennaar.png"
 
 [[en.origin]]
 name = "Chants of Sennaar Fandom Wiki"
@@ -13,7 +13,7 @@ name = "Chants of Sennaar Wiki"
 host = "Miraheze"
 url = "chantsofsennaar.miraheze.org"
 platform = "mediawiki"
-icon = "miraheze.png"
+icon = "chantsofsennaar.png"
 mainpage = "Main_Page"
 search-path = "/w/index.php"
 content-path = "/wiki/"

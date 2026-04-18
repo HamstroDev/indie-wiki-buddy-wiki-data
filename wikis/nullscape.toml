@@ -1,0 +1,22 @@
+[en]
+name = "NULLSCAPE"
+icon = "nullscape.png"
+
+[[en.origin]]
+name = "NULLSCAPE Fandom Wiki"
+url = "nullscape.fandom.com"
+mainpage = "NULLSCAPE_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "NULLSCAPE Wiki"
+url = "nullscape.wiki"
+platform = "mediawiki"
+icon = "nullscape.png"
+mainpage = "Main_Page"
+search-path = "/w/index.php"
+content-path = "/wiki/"
+tags = [
+    "official",
+    "recommended",
+]

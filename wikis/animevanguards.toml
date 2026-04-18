@@ -1,0 +1,22 @@
+[en]
+name = "Anime Vanguards"
+icon = "animevanguards.png"
+
+[[en.origin]]
+name = "Anime Vanguards Fandom Wiki"
+url = "animevanguards.fandom.com"
+mainpage = "Anime_Vanguards_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Anime Vanguards Wiki"
+url = "wiki.vanguards.gg"
+platform = "mediawiki"
+icon = "animevanguards.png"
+mainpage = "Anime_Vanguards_Wiki"
+search-path = "/w/index.php"
+content-path = "/"
+tags = [
+    "official",
+    "recommended",
+]

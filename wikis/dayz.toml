@@ -1,0 +1,22 @@
+[en]
+name = "DayZ"
+icon = "dayz.png"
+
+[[en.origin]]
+name = "DayZ Fandom Wiki"
+url = "dayz.fandom.com"
+mainpage = "DayZ_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "DayZ Wiki"
+host = "wiki.gg"
+url = "dayz.wiki.gg"
+platform = "mediawiki"
+icon = "dayz.png"
+mainpage = "DayZ_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -1,0 +1,22 @@
+[en]
+name = "Saintess Summons Skeletons"
+icon = "saintesssummonsskeletonswiki.png"
+
+[[en.origin]]
+name = "Saintess Summons Skeletons Fandom Wiki"
+url = "saintess-summons-skeletons.fandom.com"
+mainpage = "Saintess_Summons_Skeletons_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Saintess Summons Skeletons Wiki"
+host = "wiki.gg"
+url = "saintomancer.wiki.gg"
+platform = "mediawiki"
+icon = "saintesssummonsskeletonswiki.png"
+mainpage = "Saintess_Summons_Skeletons_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

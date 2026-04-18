@@ -1,0 +1,21 @@
+[en]
+name = "Scribblenauts"
+icon = "scribblepedia.png"
+
+[[en.origin]]
+name = "Scribblenauts Fandom Wiki"
+url = "scribblenauts.fandom.com"
+mainpage = "Scribblenauts_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Scribblepedia"
+url = "scribblepedia.ink"
+platform = "mediawiki"
+icon = "scribblepedia.png"
+mainpage = "Scribblepedia"
+search-path = "/w/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -1,0 +1,22 @@
+[en]
+name = "PVZ: Fusion"
+icon = "pvzfusionwiki.png"
+
+[[en.origin]]
+name = "PVZ: Fusion Fandom Wiki"
+url = "pvz-fusion.fandom.com"
+mainpage = "PvZ:_Fusion_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "PvZ: Fusion Wiki"
+host = "wiki.gg"
+url = "pvzfusion.wiki.gg"
+platform = "mediawiki"
+icon = "pvzfusionwiki.png"
+mainpage = "PvZ:_Fusion_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

@@ -1,0 +1,22 @@
+[en]
+name = "Cyber Knights: Flashpoint"
+icon = "cyberknightswiki.png"
+
+[[en.origin]]
+name = "Cyber Knights: Flashpoint Fandom Wiki"
+url = "cyberknightsflashpoint.fandom.com"
+mainpage = "Cyber_Knights_Flashpoint_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Cyber Knights: Flashpoint Wiki"
+url = "cyberknightswiki.tresebrothers.com"
+platform = "mediawiki"
+icon = "cyberknightswiki.png"
+mainpage = "Cyber_Knights:_Flashpoint_Wiki"
+search-path = "/index.php"
+content-path = "/"
+tags = [
+    "official",
+    "recommended",
+]

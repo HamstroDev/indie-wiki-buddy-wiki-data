@@ -123,18 +123,10 @@ tags = [
 [zh]
 name = "Pokémon"
 icon = "52pokewiki.png"
-
-[[zh.origin]]
-name = "Pokémon Fandom Wiki"
-url = "pokemon.fandom.com/zh"
-mainpage = "Pokemon"
-content-path = "/wiki/"
-
-[[zh.origin]]
-name = "Pokémon Fandom Wiki (Zh-Hk)"
-url = "pokemon.fandom.com/zh-hk"
-mainpage = "寵物小精靈百科"
-content-path = "/wiki/"
+origin = [
+    { url = "pokemon.fandom.com/zh", mainpage = "Pokemon", content-path = "/wiki/" },
+    { url = "pokemon.fandom.com/zh-hk", mainpage = "寵物小精靈百科", content-path = "/wiki/" },
+]
 
 [[zh.destination]]
 name = "52Poké Wiki"

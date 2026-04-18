@@ -1,0 +1,22 @@
+[en]
+name = "Metal: Hellsinger"
+icon = "metalhellsingerwiki.png"
+
+[[en.origin]]
+name = "Metal: Hellsinger Fandom Wiki"
+url = "metal-hellsinger.fandom.com"
+mainpage = "Metal:_Hellsinger_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Metal: Hellsinger Wiki"
+host = "wiki.gg"
+url = "metalhellsinger.wiki.gg"
+platform = "mediawiki"
+icon = "metalhellsingerwiki.png"
+mainpage = "Metal:_Hellsinger_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]

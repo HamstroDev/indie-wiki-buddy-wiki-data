@@ -1,0 +1,23 @@
+[en]
+name = "FIGHT KNIGHT"
+icon = "fightknightwiki.png"
+
+[[en.origin]]
+name = "FIGHT KNIGHT Fandom Wiki"
+url = "fight-knight.fandom.com"
+mainpage = "FIGHT_KNIGHT_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "FIGHT KNIGHT Wiki"
+host = "wiki.gg"
+url = "fightknight.wiki.gg"
+platform = "mediawiki"
+icon = "fightknightwiki.png"
+mainpage = "FIGHT_KNIGHT_Wiki"
+search-path = "/index.php"
+content-path = "/wiki/"
+tags = [
+    "official",
+    "recommended",
+]

@@ -31,3 +31,25 @@ content-path = "/w/"
 tags = [
     "recommended",
 ]
+
+[fr]
+name = "Hollow Knight"
+icon = "hollowknight.png"
+
+[[fr.origin]]
+name = "Hollow Knight Fandom Wiki"
+url = "hollowknight.fandom.com/fr"
+mainpage = "Accueil"
+content-path = "/wiki/"
+
+[[fr.destination]]
+name = "Hollow Knight Wiki"
+url = "fr.hollowknight.wiki"
+platform = "mediawiki"
+icon = "hollowknight.png"
+mainpage = "Accueil"
+search-path = "/mw/index.php"
+content-path = "/w/"
+tags = [
+    "recommended",
+]

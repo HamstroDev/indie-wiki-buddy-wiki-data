@@ -1,0 +1,22 @@
+[en]
+name = "Fancade"
+icon = "fancadewiki.png"
+
+[[en.origin]]
+name = "Fancade Fandom Wiki"
+url = "fancade.fandom.com"
+mainpage = "Fancade_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "Fancade Wiki"
+url = "www.fancade.com"
+platform = "mediawiki"
+icon = "fancadewiki.png"
+mainpage = "Main_Page"
+search-path = "/wikiw/index.php"
+content-path = "/wiki/"
+tags = [
+    "official",
+    "recommended",
+]

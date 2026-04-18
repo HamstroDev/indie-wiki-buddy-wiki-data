@@ -1,0 +1,45 @@
+[es]
+name = "DanMachi"
+icon = "danmachi.png"
+
+[[es.origin]]
+name = "DanMachi Fandom Wiki"
+url = "danmachi.fandom.com/es"
+mainpage = "DanMachi_Wiki"
+content-path = "/wiki/"
+
+[[es.destination]]
+name = "DanMachi Wiki"
+host = "Miraheze"
+url = "danmachi.miraheze.org"
+platform = "mediawiki"
+icon = "danmachi.png"
+mainpage = "DanMachi_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]
+
+[en]
+name = "DanMachi"
+icon = "danmachi.png"
+
+[[en.origin]]
+name = "DanMachi Fandom Wiki"
+url = "danmachi.fandom.com"
+mainpage = "DanMachi_Wiki"
+content-path = "/wiki/"
+
+[[en.destination]]
+name = "DanMachi Wiki"
+host = "Miraheze"
+url = "danmachien.miraheze.org"
+platform = "mediawiki"
+icon = "danmachi.png"
+mainpage = "DanMachi_Wiki"
+search-path = "/w/index.php"
+content-path = "/wiki/"
+tags = [
+    "recommended",
+]
