@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: Create data bundle
         run: python3 bundle.py
       - name: Commit data bundle to static branch
