@@ -1,0 +1,3 @@
+[submodule "breezewiki-instances"]
+	path = breezewiki-instances
+	url = https://github.com/KevinPayravi/breezewiki-instances
